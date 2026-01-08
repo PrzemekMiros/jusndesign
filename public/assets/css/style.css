@@ -4120,7 +4120,7 @@
   --color-accent-1: #53535f;
   --color-accent-2: #6c7074;
   --color-dark-1: #060708;
-  --color-dark-2: #131227;
+  --color-dark-2: #1b1b1f;
   --color-dark-3: #000e23;
   --color-light-1: #fdfdfd;
   --color-light-2: #f5f5f5;
@@ -4463,14 +4463,25 @@ html.is-rendering .transition-fade {
 }
 @font-face {
   font-display: swap;
-  font-family: "Inter";
+  font-family: "Poppins";
   font-style: normal;
-  src: url("/assets/fonts/Inter/Inter-VariableFont_opsz,wght.ttf") format("woff2");
+  src: url("/assets/fonts/poppins-v20-latin_latin-ext-regular.woff2") format("woff2");
+}
+@font-face {
+  font-display: swap;
+  font-family: "Poppins";
+  font-style: 500;
+  src: url("/assets/fonts/poppins-v20-latin_latin-ext-500.woff2") format("woff2");
+}
+@font-face {
+  font-display: swap;
+  font-family: "Poppins";
+  font-style: 600;
+  src: url("/assets/fonts/poppins-v20-latin_latin-ext-600.woff2") format("woff2");
 }
 :root {
-  --font-primary: "Inter";
-  --font-secondary: "Libre Franklin";
-  --font-handwrite: "Squarepeg";
+  --font-primary: "Poppins";
+  --font-secondary: "Poppins";
   --fs-sm: clamp(12.8px, 0.8vw, 13.8px);
   --fs-base: clamp(16px, 1.1vw, 17px);
   --fs-md: clamp(18.4px, 1.5vw, 22.7px);
@@ -4487,7 +4498,7 @@ h1,
 h2,
 .h2 {
   font-family: var(--font-secondary);
-  font-weight: 600;
+  font-weight: 500;
   color: var(--color-heading);
 }
 
@@ -4500,7 +4511,7 @@ h5,
 h6,
 .h6 {
   font-family: var(--font-secondary);
-  font-weight: 600;
+  font-weight: 500;
   color: var(--color-heading);
 }
 
@@ -5089,11 +5100,11 @@ html.lenis, html.lenis body {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #15359e;
-  background: linear-gradient(360deg, rgba(21, 53, 158, 0) 0%, rgb(3, 9, 36) 100%);
-  opacity: 0.3;
+  background: #000000;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgb(13, 3, 3) 100%);
+  opacity: 0.5;
   pointer-events: none;
-  transition: 0.3s ease-in-out;
+  transition: 0.9s cubic-bezier(0.83, 0, 0.17, 1);
   z-index: 1;
 }
 
@@ -5108,8 +5119,8 @@ html.lenis, html.lenis body {
 .offer-card-image img {
   aspect-ratio: 9/10;
   object-fit: cover;
-  transform: scale(1.06);
-  transition: 0.3s ease-in-out;
+  transform: scale(1);
+  transition: 0.9s cubic-bezier(0.83, 0, 0.17, 1);
 }
 
 .offer-card-arrow {
@@ -5130,26 +5141,21 @@ html.lenis, html.lenis body {
     bottom: 1em;
     right: 2em;
     transform: scale(0);
-    transition: 0.3s ease-in-out;
+    transition: 0.9s cubic-bezier(0.83, 0, 0.17, 1);
     z-index: 9;
   }
   .offer-card:hover .offer-card-arrow {
     transform: scale(1);
   }
   .offer-card:hover .offer-card-image img {
-    transform: scale(1);
+    transform: scale(1.1);
   }
   .offer-card:hover::before {
-    opacity: 0.5;
+    opacity: 0.8;
   }
 }
-.value-card {
-  display: flex;
-}
-
 .value-card-icon {
-  margin-right: 3em;
-  margin-top: 0.45em;
+  margin-bottom: 0.45em;
   opacity: 0.5;
 }
 

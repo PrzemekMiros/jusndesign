@@ -1,17 +1,30 @@
 
 @font-face {
   font-display: swap;
-  font-family: "Inter";
+  font-family: "Poppins"; 
   font-style: normal;
-  src: url("/assets/fonts/Inter/Inter-VariableFont_opsz,wght.ttf")
+  src: url("/assets/fonts/poppins-v20-latin_latin-ext-regular.woff2")
+    format("woff2");
+}
+@font-face {
+  font-display: swap;
+  font-family: "Poppins"; 
+  font-style: 500;
+  src: url("/assets/fonts/poppins-v20-latin_latin-ext-500.woff2")
+    format("woff2");
+}
+@font-face {
+  font-display: swap;
+  font-family: "Poppins"; 
+  font-style: 600;
+  src: url("/assets/fonts/poppins-v20-latin_latin-ext-600.woff2")
     format("woff2");
 }
 
 
 :root {
-  --font-primary: "Inter";
-  --font-secondary: "Libre Franklin";
-  --font-handwrite: "Squarepeg";
+  --font-primary: "Poppins";
+  --font-secondary: "Poppins";
   --fs-sm: clamp(12.8px, 0.8vw, 13.8px);
   --fs-base: clamp(16px, 1.1vw, 17px);
   --fs-md: clamp(18.4px, 1.5vw, 22.7px);
@@ -28,7 +41,7 @@ h1,
 h2,
 .h2 {
   font-family: var(--font-secondary);
-  font-weight: 600;
+  font-weight: 500;
   color: var(--color-heading);
 }
 
@@ -41,7 +54,7 @@ h5,
 h6,
 .h6 {
   font-family: var(--font-secondary);
-  font-weight: 600;
+  font-weight: 500;
   color: var(--color-heading);
 }
 
