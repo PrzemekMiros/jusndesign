@@ -4117,8 +4117,8 @@
   }
 }
 :root, .light {
-  --color-accent-1: #6969ff;
-  --color-accent-2: #0a6ddf;
+  --color-accent-1: #53535f;
+  --color-accent-2: #6c7074;
   --color-dark-1: #060708;
   --color-dark-2: #131227;
   --color-dark-3: #000e23;
@@ -4703,13 +4703,13 @@ html.lenis, html.lenis body {
 }
 
 .logo img {
-  max-width: 136px;
+  max-width: 236px;
   height: auto;
   transition: 0.3s ease-in-out;
 }
 
 .site-header.scrolled .logo img {
-  max-width: 96px;
+  max-width: 216px;
 }
 
 .site-logo.light {

@@ -1,5 +1,5 @@
 
 User-agent: * 
 Allow: / 
-Sitemap: https://explore4x4.pl/sitemap.xml
+Sitemap: https://jusndesign.com.pl/sitemap.xml
 
