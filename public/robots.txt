@@ -1,5 +1,5 @@
 
 User-agent: * 
 Allow: / 
-Sitemap: https://jusndesign.com.pl/sitemap.xml
+Sitemap: https://jusndesignpoland.com/sitemap.xml
 
