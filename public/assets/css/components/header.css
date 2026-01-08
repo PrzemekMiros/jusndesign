@@ -22,7 +22,7 @@
   right: 0;
   bottom: 0;
   border-radius: 15px;
-  background-color: var(--color-light-1);
+  background-color: var(--color-dark-1);
   box-shadow: 0 5px 15px rgba(17, 17, 17, 0.0666666667);
   transition: all 0.6s ease-in-out 0.3s;
   pointer-events: none;
@@ -59,10 +59,6 @@
 
 .site-logo.light {
   display: none;
-}
-
-.site-header.scrolled .desktop-nav li a {
-  color: var(--color-heading);
 }
 
 @media (prefers-color-scheme: dark) {

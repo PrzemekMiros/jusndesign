@@ -434,7 +434,7 @@ button.swiper-pagination-bullet {
   height: 100%;
   width: 100%;
   position: relative;
-  background: var(--color-dark-2);
+  background: var(--color-accent-1);
   border-radius: 10px;
   left: 0;
   top: 0;

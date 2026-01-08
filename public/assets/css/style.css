@@ -36,7 +36,7 @@
   .container-md,
   .container-sm,
   .container-xl {
-    max-width: 1160px;
+    max-width: 1260px;
   }
 }
 @media (min-width: 1400px) {
@@ -46,7 +46,7 @@
   .container-sm,
   .container-xl,
   .container-xxl {
-    max-width: 1380px;
+    max-width: 1480px;
   }
 }
 .row {
@@ -4233,11 +4233,11 @@ body {
   font-family: var(--font-primary);
   line-height: 1.4;
   color: var(--color-text);
-  background: var(--color-light-2);
+  background: var(--color-dark-1);
 }
 
 .scrollContainer {
-  background-color: var(--color-light-1);
+  background-color: var(--color-dark-1);
 }
 
 img,
@@ -4487,7 +4487,7 @@ h1,
 h2,
 .h2 {
   font-family: var(--font-secondary);
-  font-weight: 500;
+  font-weight: 600;
   color: var(--color-heading);
 }
 
@@ -4500,7 +4500,7 @@ h5,
 h6,
 .h6 {
   font-family: var(--font-secondary);
-  font-weight: 500;
+  font-weight: 600;
   color: var(--color-heading);
 }
 
@@ -4677,7 +4677,7 @@ html.lenis, html.lenis body {
   right: 0;
   bottom: 0;
   border-radius: 15px;
-  background-color: var(--color-light-1);
+  background-color: var(--color-dark-1);
   box-shadow: 0 5px 15px rgba(17, 17, 17, 0.0666666667);
   transition: all 0.6s ease-in-out 0.3s;
   pointer-events: none;
@@ -4714,10 +4714,6 @@ html.lenis, html.lenis body {
 
 .site-logo.light {
   display: none;
-}
-
-.site-header.scrolled .desktop-nav li a {
-  color: var(--color-heading);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -5103,14 +5099,14 @@ html.lenis, html.lenis body {
 
 .offer-card-content {
   position: absolute;
-  top: 0;
+  bottom: 0;
   left: 0;
   padding: 0em 1em 1em 1em;
   z-index: 9;
 }
 
 .offer-card-image img {
-  aspect-ratio: 16/10;
+  aspect-ratio: 9/10;
   object-fit: cover;
   transform: scale(1.06);
   transition: 0.3s ease-in-out;
@@ -5118,7 +5114,7 @@ html.lenis, html.lenis body {
 
 .offer-card-arrow {
   position: absolute;
-  top: 2em;
+  bottom: 2em;
   right: 2em;
 }
 
@@ -5128,10 +5124,10 @@ html.lenis, html.lenis body {
 
 @media (min-width: 767px) {
   .offer-card-content {
-    padding: 1em 8em 2em 3em;
+    padding: 1em 6em 0em 2em;
   }
   .offer-card-arrow {
-    top: 3em;
+    bottom: 1em;
     right: 2em;
     transform: scale(0);
     transition: 0.3s ease-in-out;
@@ -5843,7 +5839,7 @@ button.swiper-pagination-bullet {
   height: 100%;
   width: 100%;
   position: relative;
-  background: var(--color-dark-2);
+  background: var(--color-accent-1);
   border-radius: 10px;
   left: 0;
   top: 0;
@@ -6355,7 +6351,7 @@ button.swiper-pagination-bullet {
 }
   */
 .footer-logo {
-  width: 145px;
+  width: 265px;
 }
 
 .footer-bottom {
@@ -6413,7 +6409,7 @@ button.swiper-pagination-bullet {
   }
 }
 .work-image-wrap img {
-  aspect-ratio: 9/6;
+  aspect-ratio: 5/6;
   object-fit: cover;
   object-position: center;
 }

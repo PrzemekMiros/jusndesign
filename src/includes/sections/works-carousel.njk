@@ -19,19 +19,7 @@
 </svg>
     {% workImage "src/" + post.data.thumbnail, post.data.title %}
                         </a>
-                        <div class="work-text-wrap p-4">
-                            <p class="mt-0 mb-1 small">
-                                {{ post.data.client }}
-                            </p>
-                            <h3 class="mt-0 mb-3">
-                                {{ post.data.title }}
-                            </h3>
-                        </div>
-                        
-                        <!-- Ukryty opis dla lightboxa -->
-                        <div class="glightbox-desc custom-desc-{{ loop.index }}" style="display: none;">
-                            <p class="mt-0 mb-2 small"><strong>Klient:</strong> {{ post.data.client }}</p>
-                        </div>
+
                     </div>
                 </div>
                 {% endfor %}
