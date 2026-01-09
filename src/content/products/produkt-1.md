@@ -6,6 +6,7 @@ categories:
   - zderzaki
   - organizery-skrzyn
   - zabudowy-do-pickupow
+  - skrzynki-narzedziowe
 price: 3499
 order: 1
 ---
