@@ -96,6 +96,42 @@
   color: var(--color-accent-1)
 }
 
+.has-dropdown {
+  position: relative;
+}
+
+.has-dropdown .dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 220px;
+  background-color: var(--color-dark-1);
+  box-shadow: 0 5px 15px #1111;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 10px 0;
+  list-style: none;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(0px);
+  transition: all .25s ease;
+  opacity: 0;
+  z-index: 1000;
+}
+
+.has-dropdown:hover .dropdown {
+  opacity: .85;
+  visibility: visible;
+  transform: translateY(25px);
+}
+
+.dropdown li a {
+  display: block;
+  padding: 8px 16px;
+  white-space: nowrap;
+}
+
+
 .menu-toggle {
   width: 44px;
   height: 44px;

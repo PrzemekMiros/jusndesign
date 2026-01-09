@@ -1,0 +1,177 @@
+@charset "UTF-8";
+.contact-list {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.contact-list li {
+  list-style: none;
+  margin-bottom: 0.5em;
+}
+
+.contact-list li a {
+  display: flex;
+  align-items: center;
+}
+
+.contact-list svg {
+  margin-right: 1em;
+  width: 44px;
+  height: 44px;
+  background: #fff;
+  border-radius: 50%;
+}
+
+.floating-label {
+  position: relative;
+}
+
+.floating-label label,
+.highlight {
+  pointer-events: none;
+  position: absolute;
+}
+
+.floating-input,
+.floating-select {
+  max-width: 100%;
+  width: -moz-available;
+  width: -webkit-fill-available;
+  background-color: var(--color-light-1);
+  color: var(--color-text);
+  border: 1px solid rgba(130, 130, 130, 0.48);
+  border-radius: 8px;
+  padding: 1em 1.3em 1.2em;
+  font-size: 14px;
+  display: block;
+}
+
+.floating-input:focus,
+.floating-select:focus {
+  border: 1px solid var(--color-accent-1);
+  outline: 0;
+}
+
+.floating-label label {
+  color: var(--color-text);
+  font-size: 14px;
+  font-weight: 400;
+  transition: all 0.2s;
+  top: 1.8em;
+  left: 1.3em;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.floating-input:focus ~ label,
+.floating-input:not(:placeholder-shown) ~ label,
+.floating-select:focus ~ label,
+.floating-select:not([value=""]):valid ~ label {
+  color: var(--color-heading);
+  background: var(--color-light-2);
+  font-size: 75%;
+  top: 0;
+}
+
+.floating-input:focus ~ .bar:after,
+.floating-input:focus ~ .bar:before,
+.floating-select:focus ~ .bar:after,
+.floating-select:focus ~ .bar:before {
+  width: 50%;
+}
+
+.floating-textarea {
+  margin-bottom: 0.3em;
+  overflow: hidden;
+}
+
+.highlight {
+  height: 50%;
+  width: 100%;
+  opacity: 0.5;
+  top: 15%;
+  left: 0;
+}
+
+@media (min-width: 767px) {
+  .contact-list li a svg {
+    width: 52px;
+    height: 52px;
+    min-width: 52px;
+    margin-right: 1em;
+  }
+  .floating-input,
+  .floating-select {
+    padding: 1.3em;
+  }
+  .floating-label label {
+    top: 2em;
+  }
+}
+input[type=checkbox] + label {
+  cursor: pointer;
+  display: block;
+}
+
+input[type=checkbox] {
+  display: none;
+}
+
+input[type=checkbox] + label:before {
+  content: "✔";
+  border: 0.1em solid var(--color-dark-2);
+  vertical-align: bottom;
+  background-color: var(--color-light-1);
+  color: transparent;
+  border-radius: 8px;
+  margin-right: 0.5em;
+  padding: 0.13em 0.5em;
+  line-height: 1.5;
+  transition: all 0.2s;
+  display: inline-block;
+  position: relative;
+  -webkit-transform: translateY(0.25em);
+  transform: translateY(0.25em);
+}
+
+input[type=checkbox]:checked + label:before {
+  background-color: var(--color-accent-1);
+  border-color: var(--color-accent-1);
+  color: #fff;
+}
+
+:root {
+  --errorColor:red;
+  --stepNumber:5 ;
+}
+
+.form-outer {
+  overflow: hidden;
+}
+
+.form-outer form {
+  width: calc(100% * var(--stepNumber));
+  display: flex;
+  overflow: hidden;
+}
+
+.form-outer form .page {
+  width: calc(100% / var(--stepNumber));
+  transition: margin-left 0.3s ease-in-out;
+}
+
+.form-outer form .page .title {
+  text-align: left;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+form .page .label {
+  font-weight: 500;
+  position: absolute;
+  top: -30px;
+}
+
+form .page .invalid-input {
+  border-color: var(--errorColor);
+}

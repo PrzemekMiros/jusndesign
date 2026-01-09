@@ -1,0 +1,60 @@
+@charset "UTF-8";
+.hero-wrap {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  transform: translateY(-50%);
+  z-index: 9;
+}
+
+.hero-title,
+.hero-top-text,
+.hero-bottom-text {
+  color: #fff;
+  max-width: 680px;
+}
+
+.parallax-container {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.parallax-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  will-change: transform;
+}
+
+.layer-front {
+  top: -20%;
+  height: 120%;
+}
+
+/* Placeholder images - zamień na swoje zdjęcia */
+.layer-back {
+  background-image: url("/assets/img/hero/par-layer-1.webp");
+  z-index: 1;
+}
+
+.layer-middle {
+  background-image: url("/assets/img/hero/par-layer-2.png");
+  z-index: 2;
+  /* Przykład: możesz ustawić opacity jeśli chcesz blend */
+}
+
+.layer-front {
+  background-image: url("/assets/img/hero/par-layer-3.webp");
+  z-index: 3;
+}
+
+.layer-main {
+  background-image: url("/assets/img/hero/baner16.png");
+  z-index: 3;
+}

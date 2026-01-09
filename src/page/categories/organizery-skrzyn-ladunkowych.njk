@@ -5,17 +5,23 @@ category: organizery-skrzyn
 
 <section class="pt-xlarge products-category">
 <div class="container"> 
-  <h1 class="xl split-lines color-light-3 mb-4">{{ title }}</h1>
+  <h1 class="xl split-lines color-light-1 mb-5">{{ title }}</h1>
 
   {% set products = collections.productCategories[category] %}
 
   {% if products and products.length %}
-    <div class="products-grid">
+    <div class="products-grid row">
       {% for product in products %}
-        <article class="product-card">
-          <h3 class="h2 split-lines color-light-1">{{ product.data.title }}</h3>
-          {{ product.templateContent | safe }}
+      <div class="col-md-3">
+        <a href="#">
+        <article class="product-card rounded-md">
+          <img src="{{product.data.productImage}}">
+          <div class="product-card-content p-4 bg-light-1">
+          <h3 class="h4 mt-0">{{ product.data.title }}</h3>
+          </div>
         </article>
+        </a>
+      </div>
       {% endfor %}
     </div>
   {% else %}

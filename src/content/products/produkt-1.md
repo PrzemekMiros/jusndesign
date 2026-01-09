@@ -1,9 +1,11 @@
 ---
 title: "Zderzak stalowy do pickupów"
 description:
+productImage: /content/products/img/img2.png
 categories:
   - zderzaki
   - organizery-skrzyn
+  - zabudowy-do-pickupow
 price: 3499
 order: 1
 ---
