@@ -153,7 +153,7 @@
   position: fixed;
   left: 16px;
   right: 16px;
-  top: 22px;
+  top: 93px;
   bottom: 16px;
   background: var(--color-light-1);
   box-shadow: 0 0 10px rgba(17, 17, 17, 0.0666666667);
@@ -174,8 +174,8 @@
 }
 
 .main-menu li {
-  margin-top: 1.6em;
-  margin-bottom: 1.4em;
+  margin-top: 1.4em;
+  margin-bottom: 1em;
   width: 100%;
   overflow: hidden;
   transition: transform 0.3s ease-in-out 0s;

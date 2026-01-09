@@ -1,49 +1,52 @@
-<section class="bg-dark-3" id="opinie">
-<div class="pt-medium pb-medium pt-md-medium pb-md-large rounded-xl bg-light-1">
+<section class="pt-medium pb-medium bg-light-2" id="opinie">
     <div class="container">
-        <div class="col-md-6 mx-auto text-center mb-5">
-            <h2 class="xl mt-0 split-lines">
-                Opinie klientów
-            </h2>
-            <p class="split-lines">
-                Opinie są wiarygodne, wystawili je klienci, którzy skorzystali z naszych usług. 
-            </p>
-        </div>
-        <div class="row g-4">
-            {% for post in collections.reviews.slice(0, 12)%}
-                <div class="col-md-6 col-xl-4 fade-in">
-                    <div class="rounded-md shadow-1 p-3 p-md-5 bg-light-2">
-                    <div class="review-card d-md-flex flex-column justify-content-between h-100">
-                        <div class="opinion-content">
-<svg class="rating-stars" viewBox="0 0 524 96" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M57.72 40L48 8L38.28 40H8L32.72 57.64L23.32 88L48 69.24L72.72 88L63.32 57.64L88 40H57.72Z" fill="#D29A02"/>
-<path d="M164.72 40L155 8L145.28 40H115L139.72 57.64L130.32 88L155 69.24L179.72 88L170.32 57.64L195 40H164.72Z" fill="#D29A02"/>
-<path d="M271.72 40L262 8L252.28 40H222L246.72 57.64L237.32 88L262 69.24L286.72 88L277.32 57.64L302 40H271.72Z" fill="#D29A02"/>
-<path d="M378.72 40L369 8L359.28 40H329L353.72 57.64L344.32 88L369 69.24L393.72 88L384.32 57.64L409 40H378.72Z" fill="#D29A02"/>
-<path d="M485.72 40L476 8L466.28 40H436L460.72 57.64L451.32 88L476 69.24L500.72 88L491.32 57.64L516 40H485.72Z" fill="#D29A02"/>
-</svg>
 
-                            <p class="mt-3 mb-4">
-                                {{ post.data.review }}
-                            </p>
-                        </div>
-                        <div class="row g-3">
-                            <div class="col-12 py-3">
-                                <div class="line-x"></div>
-                            </div>
+      <div class="swiper swiper-reviews">
+        <div class="swiper-wrapper">
 
-                            <div class="col-auto">
-                                <p class="small my-0">
-                                    <b>{{ post.data.title }}</b>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    </div>
+          {% for post in collections.reviews.slice(0, 12) %}
+          <div class="swiper-slide">
+            <div class="mx-auto" style="max-width: 820px;">
+              <div class="review-card d-flex flex-column justify-content-between h-100">
+
+                <div class="text-center pt-3">
+                  <h3 class="h2 my-0">
+                    {{ post.data.title }}
+                  </h3>
                 </div>
-            {% endfor %}
-        </div>
-    </div>
-</div>
-</section>
 
+                <div class="opinion-content text-center">
+
+                  <p class="mt-3 mb-4">
+                    {{ post.data.review }}
+                  </p>
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+
+        </div>
+
+         <div class="text-center">
+        <button class="magnetic swiper-rev swiper-button-prev" aria-label="Previous slide">
+          <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
+            <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"/>
+            <path d="M34.5 24L27 31.5L34.5 39" stroke-width="2" stroke="var(--color-dark-2)"/>
+          </svg>
+        </button>
+
+        <button class="magnetic swiper-rev swiper-button-next" aria-label="Next slide">
+          <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
+            <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"/>
+            <path d="M28 24L35.5 31.5L28 39" stroke-width="2" stroke="var(--color-dark-2)"/>
+          </svg>
+        </button>
+         </div>
+
+      </div>
+
+    </div>
+</section>

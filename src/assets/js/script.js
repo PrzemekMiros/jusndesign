@@ -104,8 +104,8 @@ function appMain() {
 			el: '.swiper-scrollbar',
 		},
 		navigation: {
-			nextEl: '.swiper-button-next',
-			prevEl: '.swiper-button-prev',
+			nextEl: '.swiper-gal',
+			prevEl: '.swiper-gal',
 		},
 		autoplay: {
 			delay: 4000,
@@ -130,6 +130,36 @@ function appMain() {
 };
 
 
+	if (document.querySelector('.swiper-reviews')) {
+	var swiper = new Swiper(".swiper-reviews", {
+		grabCursor: true,
+		slidesPerView: 1,
+		spaceBetween: 15,
+		centeredSlides: false,
+		loop: true,
+		lazy: {
+			loadPrevNext: true,
+			loadPrevNextAmount: 2
+		},
+		pagination: {
+			el: ".swiper-pagination",
+			clickable: true
+		},
+		navigation: {
+			nextEl: '.swiper-rev',
+			prevEl: '.swiper-rev',
+		},
+		autoplay: {
+			delay: 4000,
+		},
+		keyboard: {
+			enabled: true
+		},
+		mousewheel: false,
+
+
+	});
+};
 
 
 	// Acordion

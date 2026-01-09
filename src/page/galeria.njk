@@ -1,12 +1,17 @@
-<section class="pt-small pt-md-medium pb-medium pb-md-large bg-light-2" id="realizacje">
-  <div class="container">
-    <h2 class="xl split-lines mt-0 mb-4 mb-md-5">Galeria</h2>
+---
+layout: "layouts/base-hero.njk"
+title: Galeria
+description: 
+---
 
-    <div class="swiper swiper-works">
-      <div class="swiper-wrapper">
+<section class="pt-xlarge pb-large">
+  <div class="container">
+    <h2 class="xl split-lines color-light-3 mb-4">Galeria</h2>
+
+      <div class="row g-3">
 
         {% for post in collections.works %}
-        <div class="swiper-slide">
+        <div class="col-md-4">
           <div class="work-card bg-light-1 rounded-md">
 
             <a
@@ -38,7 +43,6 @@
         </div>
         {% endfor %}
 
-      </div>
     </div>
 
     <button class="magnetic swiper-gal swiper-button-prev fade-in" data-strength="60" tabindex="0" aria-label="Previous slide">

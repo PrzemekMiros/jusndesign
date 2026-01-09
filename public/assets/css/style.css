@@ -4124,7 +4124,7 @@
   --color-dark-3: #000e23;
   --color-light-1: #fdfdfd;
   --color-light-2: #f5f5f5;
-  --color-light-3: #ffffff;
+  --color-light-3: #979797;
   --color-heading: #11233e;
   --color-text: #47586b;
   --color-border: #74787b87;
@@ -4465,18 +4465,21 @@ html.is-rendering .transition-fade {
   font-display: swap;
   font-family: "Poppins";
   font-style: normal;
+  font-weight: 400;
   src: url("/assets/fonts/poppins-v20-latin_latin-ext-regular.woff2") format("woff2");
 }
 @font-face {
   font-display: swap;
   font-family: "Poppins";
-  font-style: 500;
+  font-style: normal;
+  font-weight: 500;
   src: url("/assets/fonts/poppins-v20-latin_latin-ext-500.woff2") format("woff2");
 }
 @font-face {
   font-display: swap;
   font-family: "Poppins";
-  font-style: 600;
+  font-style: normal;
+  font-weight: 600;
   src: url("/assets/fonts/poppins-v20-latin_latin-ext-600.woff2") format("woff2");
 }
 :root {
@@ -4819,7 +4822,7 @@ html.lenis, html.lenis body {
   position: fixed;
   left: 16px;
   right: 16px;
-  top: 22px;
+  top: 93px;
   bottom: 16px;
   background: var(--color-light-1);
   box-shadow: 0 0 10px rgba(17, 17, 17, 0.0666666667);
@@ -4840,8 +4843,8 @@ html.lenis, html.lenis body {
 }
 
 .main-menu li {
-  margin-top: 1.6em;
-  margin-bottom: 1.4em;
+  margin-top: 1.4em;
+  margin-bottom: 1em;
   width: 100%;
   overflow: hidden;
   transition: transform 0.3s ease-in-out 0s;
@@ -5166,7 +5169,7 @@ html.lenis, html.lenis body {
 
 .contact-list li {
   list-style: none;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 
 .contact-list li a {
