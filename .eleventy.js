@@ -41,6 +41,34 @@ module.exports = function(eleventyConfig) {
       return headers.map(header => header.innerText);
     });
 
+    // Collection products
+eleventyConfig.addCollection('products', (collection) => {
+  return collection.getFilteredByGlob("src/content/products/**/*.md")
+    .sort((a, b) => {
+      const orderA = a.data.order || 0;
+      const orderB = b.data.order || 0;
+      return orderA - orderB;
+    });
+});
+
+eleventyConfig.addCollection("productCategories", (collection) => {
+  const products = collection.getFilteredByGlob("src/content/products/**/*.md");
+  const categories = {};
+
+  products.forEach(product => {
+    const cats = product.data.categories || [];
+    cats.forEach(cat => {
+      if (!categories[cat]) {
+        categories[cat] = [];
+      }
+      categories[cat].push(product);
+    });
+  });
+
+  return categories;
+});
+
+
         // Collections portfolio
         eleventyConfig.addCollection('works', (collection) => {
           const works = collection.getFilteredByGlob('src/content/works/**/*.md').reverse();
