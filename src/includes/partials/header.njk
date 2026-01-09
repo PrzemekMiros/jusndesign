@@ -2,13 +2,11 @@
 <html lang="pl">
   <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <meta name="generator" content="Eleventy"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content="Eleventy" />
     <title>{{ title }} - JUSN●DESIGN</title>
-    <meta name="description" content="{{ description }}">
-    {% set robots = robots | default('index') %}
+    <meta name="description" content="{{ description }}"> {% set robots = robots | default('index') %}
     <meta name="robots" content="{{ robots }}">
-
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="https://jusndesignpoland.com/">
     <meta property="og:type" content="website">
@@ -28,16 +26,12 @@
     <link rel="mask-icon" href="/assets/img/favicon/favicon.png" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
-
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Syne:wght@400..800&display=swap" rel="stylesheet">
-
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Syne:wght@400..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
     <link rel="stylesheet" href="/static/cookieconsent.css" media="print" onload="this.media='all'">
-
     <style>
       .preloader {
         display: block;
@@ -55,6 +49,7 @@
         pointer-events: none;
         z-index: 10000000;
       }
+
       .preloader_inner {
         position: absolute;
         top: 48%;
@@ -62,6 +57,7 @@
         transform: translateY(-50%) translateX(-50%);
         z-index: 10000000;
       }
+
       .scrollContainer {
         opacity: 0;
         transition: opacity 0.15s ease-out;
@@ -87,42 +83,49 @@
         top: -25px;
         left: 0;
       }
+
       .circle-loader div:nth-child(2) {
         top: -17px;
         left: 17px;
         -webkit-animation-delay: 0.1s;
         animation-delay: 0.1s;
       }
+
       .circle-loader div:nth-child(3) {
         top: 0;
         left: 25px;
         -webkit-animation-delay: 0.2s;
         animation-delay: 0.2s;
       }
+
       .circle-loader div:nth-child(4) {
         top: 17px;
         left: 17px;
         -webkit-animation-delay: 0.3s;
         animation-delay: 0.3s;
       }
+
       .circle-loader div:nth-child(5) {
         top: 25px;
         left: 0;
         -webkit-animation-delay: 0.4s;
         animation-delay: 0.4s;
       }
+
       .circle-loader div:nth-child(6) {
         top: 17px;
         left: -17px;
         -webkit-animation-delay: 0.5s;
         animation-delay: 0.5s;
       }
+
       .circle-loader div:nth-child(7) {
         top: 0;
         left: -23px;
         -webkit-animation-delay: 0.6s;
         animation-delay: 0.6s;
       }
+
       .circle-loader div:nth-child(8) {
         top: -17px;
         left: -17px;
@@ -134,39 +137,41 @@
         0% {
           opacity: 0.1;
         }
+
         40% {
           opacity: 1;
         }
+
         80% {
           opacity: 0.1;
         }
+
         100% {
           opacity: 0.1;
         }
       }
     </style>
   </head>
-<body class="">
-      <div class="preloader">
-        <div class="preloader_inner">
-          <div class="circle-loader">
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-          </div>
+  <body class="">
+    <div class="preloader">
+      <div class="preloader_inner">
+        <div class="circle-loader">
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
         </div>
       </div>
+    </div>
     <div class="scrollContainer" id="pinSection">
       <script>
         var obj = document.querySelector('.preloader'),
           page = document.querySelector('.scrollContainer');
-
-        window.addEventListener("load", function () {
+        window.addEventListener("load", function() {
           obj.style.opacity = "0";
           page.style.opacity = "1";
         });
@@ -175,51 +180,50 @@
         <div class="container">
           <div class="site-header-wrap">
             <div class="row align-items-center">
-            <div class="col-8 col-md-3 d-flex">
-              <a href="/" class="logo" title="Logo">
-                <img src="/assets/img/logo/logo.webp" class="site-logo dark" alt="Explore 4x4">
-                <img src="/assets/img/logo/logo.webp" class="site-logo light" alt="Explore 4x4">
-              </a>
+              <div class="col-8 col-md-3 d-flex">
+                <a href="/" class="logo" title="Logo">
+                  <img src="/assets/img/logo/logo.webp" class="site-logo dark" alt="Explore 4x4">
+                  <img src="/assets/img/logo/logo.webp" class="site-logo light" alt="Explore 4x4">
+                </a>
+              </div>
+              <div class="col-md-6 d-none d-md-block">
+                <nav class="desktop-nav">
+                  <ul class="menu d-flex justify-content-center">
+                    <li>
+                      <a href="/oferta/" class="link-hover" title="Oferta"> Oferta </a>
+                    </li>
+                    <li>
+                      <a href="/galeria/" class="link-hover" title="Galeria"> Galeria </a>
+                    </li>
+                    <li>
+                      <a href="/kontakt/" class="link-hover" title="Kontakt"> Kontakt </a>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+              <div class="col-4 col-md-3 d-flex justify-content-end">
+                <a href="https://ore4x4.pl/pl/" target="_blank" title="Przejdź do sklepu" class="button-anim btn-write d-none d-lg-flex">
+                  <div class="button-anim-text">
+                    <span>Przejdź do sklepu</span>
+                    <span>Przejdź do sklepu</span>
+                  </div>
+                  <div class="button-anim-icon">
+                    <svg height="18" viewBox="0 0 100 100" width="18" xmlns="http://www.w3.org/2000/svg" class="icon-link" style="enable-background:new 0 0 100 100" version="1.1" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+                      <g>
+                        <path d="M83.3,79.7c0,2-1.6,3.6-3.6,3.6H20.3c-2,0-3.6-1.6-3.6-3.6V20.3c0-2,1.6-3.6,3.6-3.6h23.4V9.5H20.3   c-6,0-10.8,4.8-10.8,10.8v59.4c0,6,4.8,10.8,10.8,10.8h59.4c6,0,10.8-4.8,10.8-10.8V56.3h-7.2V79.7z" fill="var(--color-accent-1)"></path>
+                        <polygon fill="var(--color-accent-1)" points="56.3,9.5 56.3,16.7 78.2,16.7 49.9,45 55,50.1 83.3,21.8 83.3,43.7 90.5,43.7 90.5,9.5  "></polygon>
+                      </g>
+                    </svg>
+                  </div>
+                </a>
+                <button class="menu-toggle d-md-none" id="menuToggle" aria-label="Otwórz menu">
+                  <span class="hamburger">
+                    <span class="burger-line bl-1"></span>
+                    <span class="burger-line bl-2"></span>
+                  </span>
+                </button>
+              </div>
             </div>
-            <div class="col-md-6 d-none d-md-block">
-              <nav class="desktop-nav">
-                <ul class="menu d-flex justify-content-center">
-                  <li>
-                    <a href="/oferta/" class="link-hover" title="Oferta">
-                      Oferta
-                    </a>
-                  </li>
-                  <li>
-                    <a href="/galeria/" class="link-hover" title="Galeria">
-                      Galeria
-                    </a>
-                  </li>
-                  <li>
-                    <a href="/kontakt/" class="link-hover" title="Kontakt">
-                      Kontakt
-                    </a>
-                  </li>
-                </ul>
-              </nav>
-            </div>
-            <div class="col-4 col-md-3 d-flex justify-content-end">
-              <a href="https://ore4x4.pl/pl/" target="_blank" title="Przejdź do sklepu" class="button-anim btn-write d-none d-lg-flex">
-                <div class="button-anim-text">
-                  <span>Przejdź do sklepu</span>
-                  <span>Przejdź do sklepu</span>
-                </div>
-                <div class="button-anim-icon">
-                    <svg height="18" viewBox="0 0 100 100" width="18" xmlns="http://www.w3.org/2000/svg" class="icon-link" style="enable-background:new 0 0 100 100" version="1.1" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M83.3,79.7c0,2-1.6,3.6-3.6,3.6H20.3c-2,0-3.6-1.6-3.6-3.6V20.3c0-2,1.6-3.6,3.6-3.6h23.4V9.5H20.3   c-6,0-10.8,4.8-10.8,10.8v59.4c0,6,4.8,10.8,10.8,10.8h59.4c6,0,10.8-4.8,10.8-10.8V56.3h-7.2V79.7z" fill="var(--color-accent-1)"></path><polygon fill="var(--color-accent-1)" points="56.3,9.5 56.3,16.7 78.2,16.7 49.9,45 55,50.1 83.3,21.8 83.3,43.7 90.5,43.7 90.5,9.5  "></polygon></g></svg>
-                </div>
-              </a>
-              <button class="menu-toggle d-md-none" id="menuToggle" aria-label="Otwórz menu">
-                <span class="hamburger">
-                  <span class="burger-line bl-1"></span>
-                  <span class="burger-line bl-2"></span>
-                </span>
-              </button>
-            </div>
-          </div>
           </div>
         </div>
       </header>
@@ -227,29 +231,32 @@
         <div class="scrollprogress-wrap">
           <div class="scrollprogress"></div>
         </div>
-          <section class="fullpage-menu">
-              <div class="menu-bg"></div>
-              <div class="container h-100">
-                <div class="d-flex h-100 align-items-center">
-                  <nav class="main-menu w-100 px-3">
-                  <ul class="menu main-menu-list">
-                    <li>
-                      <a href="/oferta/" title="Oferta">Oferta</a>
-                    </li>
-                    <div class="line-xh"></div>
-                    <li>
-                      <a href="/galeria/" title="Glaeria">Galeria</a>
-                    </li>
-                    <div class="line-xh"></div>
-                    <li>
-                      <a href="/kontakt/" title="Kontakt">Kontakt</a>
-                    </li>
-                    <div class="line-xh"></div>
-                  </ul>
-                </nav>
-                </div>
-              </div>
-          </section>
+        <section class="fullpage-menu">
+          <div class="menu-bg"></div>
+          <div class="container h-100">
+            <div class="d-flex flex-wrap h-100 align-items-center">
+              <nav class="main-menu w-100 px-3">
+                <ul class="menu main-menu-list">
+                  <li>
+                    <a href="/oferta/" title="Oferta">Oferta</a>
+                  </li>
+                  <div class="line-xh"></div>
+                  <li>
+                    <a href="/galeria/" title="Glaeria">Galeria</a>
+                  </li>
+                  <div class="line-xh"></div>
+                  <li>
+                    <a href="/kontakt/" title="Kontakt">Kontakt</a>
+                  </li>
+                  <div class="line-xh"></div>
+                </ul>
+              </nav>
+              <!--
+                <div class="nav-social"><ul class="nav-social"><li><a href="#" title="Oferta" target="_blank"><svg width="38" height="38" viewBox="0 0 38 38" fill="none"
+																																		xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_713_2)"><path d="M34.8307 18.9993C34.8307 10.2593 27.7374 3.16602 18.9974 3.16602C10.2574 3.16602 3.16406 10.2593 3.16406 18.9993C3.16406 26.6627 8.61073 33.0435 15.8307 34.516V23.7493H12.6641V18.9993H15.8307V15.041C15.8307 11.9852 18.3166 9.49935 21.3724 9.49935H25.3307V14.2493H22.1641C21.2932 14.2493 20.5807 14.9618 20.5807 15.8327V18.9993H25.3307V23.7493H20.5807V34.7535C28.5766 33.9619 34.8307 27.2168 34.8307 18.9993Z" fill="black"/></g><defs><clipPath id="clip0_713_2"><rect width="38" height="38" fill="white"/></clipPath></defs></svg></a></li><li><a href="#" title="Glaeria" target="_blank"><svg width="38" height="38" viewBox="0 0 38 38" fill="none"
+																																		xmlns="http://www.w3.org/2000/svg"><path d="M19.1211 4.74805H19.3325C21.2848 4.75517 31.1766 4.82642 33.8438 5.54367C34.65 5.76257 35.3848 6.18925 35.9745 6.78107C36.5642 7.37288 36.9883 8.10911 37.2044 8.91617C37.4442 9.81867 37.6129 11.0133 37.7269 12.2459L37.7506 12.4929L37.8029 13.1104L37.8219 13.3574C37.9763 15.5282 37.9952 17.5612 37.9976 18.0053V18.1834C37.9952 18.6442 37.9739 20.8149 37.8029 23.0759L37.7839 23.3253L37.7625 23.5723C37.6437 24.9308 37.468 26.2798 37.2044 27.2725C36.9883 28.0796 36.5642 28.8158 35.9745 29.4077C35.3848 29.9995 34.65 30.4261 33.8438 30.645C31.0888 31.386 20.6174 31.4383 19.1662 31.4407H18.829C18.0951 31.4407 15.0599 31.4264 11.8774 31.3172L11.4736 31.3029L11.267 31.2934L10.8609 31.2768L10.4547 31.2602C7.8185 31.1438 5.30813 30.9562 4.1515 30.6427C3.34549 30.424 2.61095 29.9977 2.02125 29.4063C1.43154 28.8149 1.00729 28.0792 0.790875 27.2725C0.52725 26.2822 0.3515 24.9308 0.23275 23.5723L0.21375 23.3229L0.19475 23.0759C0.0768631 21.4667 0.0119114 19.854 0 18.2404L0 17.9483C0.00475 17.4377 0.02375 15.673 0.152 13.7255L0.168625 13.4809L0.17575 13.3574L0.19475 13.1104L0.247 12.4929L0.27075 12.2459C0.38475 11.0133 0.553375 9.8163 0.79325 8.91617C1.0093 8.10911 1.43339 7.37288 2.02312 6.78107C2.61285 6.18925 3.34758 5.76257 4.15387 5.54367C5.3105 5.23492 7.82087 5.04492 10.4571 4.92617L10.8609 4.90955L11.2694 4.8953L11.4736 4.88817L11.8797 4.87155C14.1401 4.79888 16.4013 4.7585 18.6627 4.75042L19.1211 4.74805ZM15.2 12.3718V23.8145L25.0729 18.0955L15.2 12.3718Z" fill="black"/></svg></a></li></ul></div>
+                -->
+            </div>
+          </div>
+        </section>
         <main class="main">
-
-

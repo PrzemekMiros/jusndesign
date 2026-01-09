@@ -213,6 +213,11 @@
   opacity: 0.8;
 }
 
+.nav-social {
+  position: relative;
+  z-index: 999;
+}
+
 @media (min-width: 1200px) {
   .desktop-nav ul li a {
     padding: 1em 2.2em;
