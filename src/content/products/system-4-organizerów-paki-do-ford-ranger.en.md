@@ -1,55 +1,56 @@
----
+﻿---
 lang: en
-title: System organizerów paki z oświetleniem dla Ford Ranger / F150 Raptor
-description: Profesjonalny system cargo JUSN dla modeli Ford. Aluminiowa konstrukcja, 4 skrzynie transportowe po 25L i zintegrowane oświetlenie paki.
+layout: "layouts/product-en.njk"
+permalink: /products/ford-f150-bed-organizer/
+title: Truck Bed Organizer Rack W/Light for Ford Ranger F150 Raptor Storage Boxes Bin Carrier Cargo System
+description: Professional JUSN cargo system for Ford models. Aluminum construction, 4 transport boxes (25L each) and integrated bed lighting.
 productImage: /content/products/img/bed-box-ford-ranger.jpg
 categories:
-  - organizery-skrzyn
+  - Pick up Truck Bed Organizer
 price: 3499
 order: 1
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061), stal węglowa (Q235)
-process: Grawerowanie CNC, anodowanie i malowanie proszkowe
+material: Aluminum Alloy (6061), Carbon Steel (Q235)
+process: CNC Engraving, Anodizing and Spraying Coating
 weight: 106
-shippingInfo: Czas realizacji wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
+shippingInfo: The lead time is 15 days, and the Sea shipping plus land shipping time is about 40 days.
 installation:
   difficulty: 4
   professional_required: true
-  method: Dopasowanie OE (Plug & Play)
+  method: OE Matching Data - Install and Play
 ---
 
-**Uwaga:** Prosimy o kontakt i przesłanie numeru VIN pojazdu oraz zdjęcia miejsca montażu w celu weryfikacji kompatybilności dla Twojego Forda (Ranger, F150 lub Raptor).
+**Important:** Please contact us with your car VIN and a photo of installation position for compatible check for your Ford (Ranger, F150, or Raptor).
 
-Spełnij wszystkie swoje marzenia o idealnej organizacji paki. System JUSN to zaawansowana zabudowa cargo, która zmieni sposób, w jaki wykorzystujesz przestrzeń ładunkową swojego Forda.
+Satisfy all your imaginations about pickup truck trunk storage. The JUSN system is an advanced cargo solution that will change how you use your Ford's load space.
 
-### Dlaczego warto wybrać JUSN?
-Zrealizuj marzenie o profesjonalnym porządku na pace dzięki systemowi JUSN!
+### WHY CHOOSE JUSN?
+Unlock Your Truck Bed Organization Dreams with JUSN!
 
-### Szczegóły techniczne:
-* **MATERIAŁ:** Wysokiej jakości stop aluminium (6061) oraz wzmocniona stal węglowa (Q235).
-* **PROCES:** Precyzyjna obróbka CNC, proces anodowania oraz trwałe malowanie proszkowe (natryskowe).
+### Technical Details:
+* **MATERIAL:** Aluminum Alloy (6061), Carbon Steel (Q235).
+* **PROCESS:** CNC Engraving, Anodizing and Spraying Coating.
 
-### Główne cechy:
-* **Unikalny styl:** Zintegrowane tłoczenie i precyzyjna obróbka CNC nadają Twojemu Fordowi techniczny, agresywny wygląd, który wyróżnia się na każdej drodze i bezdrożach.
-* **Odporność na warunki atmosferyczne:** Specjalne wykończenie anodowane i proszkowe chroni przed promieniami UV, kwaśnym deszczem i korozją, zapewniając trwałość systemu na lata użytkowania w terenie.
-* **Wygodny dostęp boczny:** Górne siłowniki hydrauliczne pozwalają na otwarcie stelaża na boki, co umożliwia szybki załadunek i rozładunek bagażu bezpośrednio z boku pojazdu.
-* **Zorganizowane przechowywanie:** Po każdej stronie znajdują się cztery przestronne skrzynie o pojemności 25 litrów (łącznie 100L), idealne do segregacji narzędzi, szpeju i akcesoriów wyprawowych.
-* **Praktyczny design:** Zewnętrzna strona skrzyń posiada ażurową konstrukcję, co pozwala na wygodne troczenie mniejszych przedmiotów, które musisz mieć pod ręką.
-* **Bezpieczeństwo przede wszystkim:** Zwiększ widoczność swojego pojazdu w nocy. System posiada zintegrowane oświetlenie, które można połączyć ze światłami hamowania, obrysywymi oraz do jazdy dziennej.
-* **Multifunkcyjny bagażnik górny:** Platforma dachowa idealnie nadaje się do przewożenia wielkogabarytowych przedmiotów, takich jak namioty dachowe, walizki transportowe czy koło zapasowe.
-* **Wewnętrzna rozbudowa:** Dodatkowe panele (expansion boards) wewnątrz skrzyń pozwalają na montaż uchwytów i mniejszego osprzętu zgodnie z Twoimi wymaganiami.
+### FEATURES:
+* **Distinctive Style:** Integral Stamping and CNC Processing Give Your Pickup a Unique and Eye Catching Look That Stands out on the Road.
+* **Weather Resistant:** Special Anodized and Powder Coated Finish Against UV Rays, Acid Rain, and Rust, Ensuring Your Storage Racks System Lasts for Years.
+* **Convenient Side Access:** The Top Hydraulic Rods Allow the Rack to Open Sideways, Making it Easy to Load and Unload Your Luggage Directly from the Top.
+* **Organized Storage Solutions:** On Each Side, You'll Find Four Spacious 25-Liter Storage Boxes, Perfect for Keeping Your Items Neatly Categorized and Easy to Find.
+* **Practical Design:** The Exterior of the Storage Box is Thoughtfully Hollowed Out, Providing Convenient Hanging Space for Small Items, So You Can Keep Essentials Within Reach.
+* **Safety First:** Enhance Your Visibility at Night by Connecting External Lights to the Truck Brake, Side, and Daytime Running Lights, Ensuring Others See You on the Road.
+* **Multifunction Storage Options:** The Top Luggage Rack is Perfect for Carrying Large Items like Camping Tents and Suitcases, Making it Ideal for Travel.
+* **Extra Storage Solutions:** The Expansion Board Inside the Box Meets Most of Your Storage Needs, Accommodating Small Devices You May Require.
 
-### Informacje o montażu:
-* **Dopasowanie:** Opracowane na podstawie danych fabrycznych pojazdu (OE) – system typu "Plug & Play".
-* **Poziom trudności:** 4/5 (wymagane doświadczenie techniczne).
-* **Wymagany profesjonalny montaż:** TAK.
+### INSTALLATION:
+* **Matching:** OE Matching Data – Install and Play.
+* **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
+* **Professional Installation Needed?** YES.
 
-### Zawartość zestawu:
-* 1 kompletny zestaw systemu stelaży z organizerami i oświetleniem.
+### PACKAGE:
+* Storage Rack System - 1 Set.
 
 ---
-**Informacja o wysyłce (Waga paczki 106 kg):**
-Ze względu na gabaryty i wagę, produkt wysyłany jest transportem Sea + Land. Czas realizacji zamówienia wynosi ok. 15 dni, a całkowity czas dostawy to ok. 40 dni roboczych.
-
+**About Shipping for This Item (Package Weight 106 KGs):**
+The lead time is 15 days, and the Sea shipping plus land shipping time is about 40 days.

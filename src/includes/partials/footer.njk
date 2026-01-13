@@ -1,4 +1,16 @@
 </main>
+{% set isEn = lang == "en" %}
+{% set shopCtaText = "Przejdź do sklepu" %}
+{% set policyPrivacy = "Polityka prywatności" %}
+{% set policyTerms = "Regulamin" %}
+{% set policyGdpr = "RODO" %}
+{% set copyText = "&copy; JUSN DESIGN" %}
+{% if isEn %}
+  {% set shopCtaText = "Visit shop" %}
+  {% set policyPrivacy = "Privacy Policy" %}
+  {% set policyTerms = "Terms" %}
+  {% set policyGdpr = "GDPR" %}
+{% endif %}
 <footer class="site-footer pt-large pb-xsmall">
   <div class="foot-bg-wrap container"></div>
   <div class="footer-parallax">
@@ -9,10 +21,10 @@
               <img src="/assets/img/logo/logo.webp" class="footer-logo" alt="Explore 4x4">
           </div>
           <div class="col-md-6 d-md-flex align-items-center justify-content-end">
-            <a href="https://ore4x4.pl/pl/" title="Przejdź do sklepu" class="button-anim btn-write magnetic mt-2 fade-in" data-strength="40">
+            <a href="https://ore4x4.pl/pl/" title="{{ shopCtaText }}" class="button-anim btn-write magnetic mt-2 fade-in" data-strength="40">
               <div class="button-anim-text">
-                <span>Przejdź do sklepu</span>
-                <span>Przejdź do sklepu</span>
+                <span>{{ shopCtaText }}</span>
+                <span>{{ shopCtaText }}</span>
               </div>
               <div class="button-anim-icon">
                 <svg height="18" viewBox="0 0 100 100" width="18" xmlns="http://www.w3.org/2000/svg" class="icon-link" style="enable-background:new 0 0 100 100" version="1.1" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
@@ -75,18 +87,18 @@
           <div class="col-md-6">
             <ul class="policy-list">
               <li>
-                <a href="{{ langPrefix }}/polityka-prywatnosci/">Polityka prywatności </a>
+                <a href="{{ langPrefix }}/polityka-prywatnosci/">{{ policyPrivacy }}</a>
               </li>
               <li>
-                <a href="{{ langPrefix }}/regulamin-strony/">Regulamin </a>
+                <a href="{{ langPrefix }}/regulamin-strony/">{{ policyTerms }}</a>
               </li>
               <li>
-                <a href="{{ langPrefix }}/rodo/">RODO </a>
+                <a href="{{ langPrefix }}/rodo/">{{ policyGdpr }}</a>
               </li>
             </ul>
           </div>
           <div class="col-md-6">
-            <p class="copy-text"> © JUSN DESIGN</p>
+            <p class="copy-text">{{ copyText | safe }}</p>
           </div>
         </div>
       </div>

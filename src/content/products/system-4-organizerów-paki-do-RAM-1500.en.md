@@ -1,56 +1,56 @@
----
+﻿---
 lang: en
-title: System 4 organizerów paki do RAM 1500 - bagażnik z oświetleniem
-description: Zrealizuj swoje marzenia o organizacji paki dzięki systemowi JUSN. Aluminiowa konstrukcja, 4 skrzynie po 25L i zintegrowane oświetlenie.
+layout: "layouts/product-en.njk"
+permalink: /products/ram-1500-bed-organizer/
+title: Truck Bed 4 Boxes Organizers System for RAM 1500 Pickup Back Racks Storage with Lights
+description: Professional JUSN cargo system for RAM 1500. Aluminum construction, 4 transport boxes (25L each) and integrated bed lighting.
 productImage: /content/products/img/bed-box.jpg
 categories:
-  - organizery-skrzyn
+  - Pick up Truck Bed Organizer
 price: 3499
 order: 1
 
-# Parametry techniczne
+# Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061), stal węglowa (Q235)
-process: Grawerowanie CNC, anodowanie i malowanie proszkowe
-capacity: 4 x 25L (łącznie 100 litrów)
+material: Aluminum Alloy (6061), Carbon Steel (Q235)
+process: CNC Engraving, Anodizing and Spraying Coating
 weight: 106
-shippingInfo: Czas realizacji wynosi 15 dni. Wysyłka morska i lądowa zajmuje około 40 dni.
+shippingInfo: The lead time is 15 days, and the Sea shipping plus land shipping time is about 40 days.
 installation:
   difficulty: 4
   professional_required: true
-  method: Dopasowanie OE (Plug & Play)
+  method: OE Matching Data - Install and Play
 ---
 
-**Uwaga:** Prosimy o kontakt i przesłanie numeru VIN pojazdu oraz zdjęcia miejsca montażu w celu weryfikacji kompatybilności.
+**Important:** Please contact us with your car VIN and a photo of installation position for compatible check for your RAM 1500.
 
-Spełnij wszystkie swoje oczekiwania dotyczące przechowywania na pace pickupa.
+Satisfy all your imaginations about pickup truck trunk storage. The JUSN system is an advanced cargo solution that will change how you use your RAM's load space.
 
-### Dlaczego warto wybrać JUSN?
-Zrealizuj swoje marzenia o idealnej organizacji paki z systemem JUSN!
+### WHY CHOOSE JUSN?
+Unlock Your Truck Bed Organization Dreams with JUSN!
 
-### Szczegóły techniczne:
-* **MATERIAŁ:** Stop aluminium (6061), stal węglowa (Q235)
-* **PROCES:** Grawerowanie CNC, anodowanie i malowanie natryskowe
+### Technical Details:
+* **MATERIAL:** Aluminum Alloy (6061), Carbon Steel (Q235).
+* **PROCESS:** CNC Engraving, Anodizing and Spraying Coating.
 
-### Główne cechy:
-* **Unikalny styl:** Zintegrowane tłoczenie i obróbka CNC nadają Twojemu pickupowi wyjątkowy, przyciągający wzrok wygląd, który wyróżnia się na drodze.
-* **Odporność na warunki atmosferyczne:** Specjalne wykończenie anodowane i malowane proszkowo chroni przed promieniami UV, kwaśnym deszczem i rdzą, zapewniając trwałość systemu na lata.
-* **Wygodny dostęp boczny:** Górne siłowniki hydrauliczne umożliwiają otwieranie stelaża na boki, co ułatwia załadunek i rozładunek bagażu bezpośrednio z góry.
-* **Zorganizowane przechowywanie:** Po każdej stronie znajdziesz cztery przestronne skrzynie o pojemności 25 litrów każda, idealne do segregowania przedmiotów.
-* **Praktyczny design:** Zewnętrzna część skrzyń jest przemyślanie ażurowa, co zapewnia wygodne miejsce do zawieszenia mniejszych akcesoriów, które warto mieć pod ręką.
-* **Bezpieczeństwo przede wszystkim:** Zwiększ swoją widoczność w nocy dzięki możliwości podłączenia zewnętrznych świateł do świateł hamowania, bocznych oraz do jazdy dziennej.
-* **Wielofunkcyjność:** Górny bagażnik jest idealny do przewożenia dużych przedmiotów, takich jak namioty dachowe czy walizki, co czyni go idealnym wyborem na wyprawy wyprawowe.
-* **Dodatkowe rozwiązania:** Wewnętrzna tablica rozdzielcza (expansion board) wewnątrz skrzyni pozwala na montaż mniejszych urządzeń i narzędzi według Twoich potrzeb.
+### FEATURES:
+* **Distinctive Style:** Integral Stamping and CNC Processing Give Your Pickup a Unique and Eye Catching Look That Stands out on the Road.
+* **Weather Resistant:** Special Anodized and Powder Coated Finish Against UV Rays, Acid Rain, and Rust, Ensuring Your Storage Racks System Lasts for Years.
+* **Convenient Side Access:** The Top Hydraulic Rods Allow the Rack to Open Sideways, Making it Easy to Load and Unload Your Luggage Directly from the Top.
+* **Organized Storage Solutions:** On Each Side, You'll Find Four Spacious 25-Liter Storage Boxes, Perfect for Keeping Your Items Neatly Categorized and Easy to Find.
+* **Practical Design:** The Exterior of the Storage Box is Thoughtfully Hollowed Out, Providing Convenient Hanging Space for Small Items, So You Can Keep Essentials Within Reach.
+* **Safety First:** Enhance Your Visibility at Night by Connecting External Lights to the Truck Brake, Side, and Daytime Running Lights, Ensuring Others See You on the Road.
+* **Multifunction Storage Options:** The Top Luggage Rack is Perfect for Carrying Large Items like Camping Tents and Suitcases, Making it Ideal for Travel.
+* **Extra Storage Solutions:** The Expansion Board Inside the Box Meets Most of Your Storage Needs, Accommodating Small Devices You May Require.
 
-### Montaż:
-* **Dopasowanie:** Dane zgodne z oryginałem (OE) - zamontuj i używaj.
-* **Poziom trudności:** 4 gwiazdki (w skali do 5).
-* **Wymagany profesjonalny montaż:** TAK.
+### INSTALLATION:
+* **Matching:** OE Matching Data – Install and Play.
+* **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
+* **Professional Installation Needed?** YES.
 
-### Zawartość zestawu:
-* System stelaży z organizerami - 1 komplet.
+### PACKAGE:
+* Storage Rack System - 1 Set.
 
 ---
-**Informacja o wysyłce (Waga paczki 106 kg):**
-Czas realizacji zamówienia wynosi 15 dni. Całkowity czas transportu (morski + lądowy) wynosi około 40 dni.
-
+**About Shipping for This Item (Package Weight 106 KGs):**
+The lead time is 15 days, and the Sea shipping plus land shipping time is about 40 days.

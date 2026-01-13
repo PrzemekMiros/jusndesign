@@ -1,10 +1,12 @@
----
+﻿---
 lang: en
+layout: "layouts/product-en.njk"
+permalink: /products/prowadnica-wyciagarki/
 title: Ślizg wyciągarki (Hawse Fairlead) z hakiem holowniczym - Aluminium
 description: Aluminiowy ślizg wyciągarki JUSN zintegrowany z hakiem. Wykonany z aluminium lotniczego 7075, chroni linę syntetyczną przed zużyciem.
 productImage: /content/products/img/prowadnica-wyciagarki.jpg
 categories:
-  - Prowadnice lin wyciągarek
+  - Winch Hawse Fairlead
 price: 450
 order: 1
 

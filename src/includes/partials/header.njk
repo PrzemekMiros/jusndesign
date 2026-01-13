@@ -152,6 +152,62 @@
     </style>
   </head>
   <body class="">
+    {% set isEn = lang == "en" %}
+    {% set navOffer = "Oferta" %}
+    {% set navGallery = "Galeria" %}
+    {% set navContact = "Kontakt" %}
+    {% set urlOffer = "/pl/oferta/" %}
+    {% set urlGallery = "/pl/galeria/" %}
+    {% set urlContact = "/pl/kontakt/" %}
+    {% set dropdownBedOrganizers = "Organizery skrzyń" %}
+    {% set dropdownSideSteps = "Stopnie boczne i schody" %}
+    {% set productsBase = "/produkty/" %}
+    {% set urlBedOrganizers = productsBase ~ "organizery-skrzyn/" %}
+    {% set urlSideSteps = productsBase ~ "stopnie-boczne-i-schody/" %}
+    {% set urlPickupBuilds = productsBase ~ "zabudowy-do-pickupow/" %}
+    {% set urlWinchGuides = productsBase ~ "prowadnice-lin-wyciagarek/" %}
+    {% set urlToolboxes = productsBase ~ "skrzynki-narzedziowe/" %}
+    {% set urlTailgateHandles = productsBase ~ "uchwyty-na-tylna-klape/" %}
+    {% set urlRoofHandles = productsBase ~ "uchwyty-na-dach/" %}
+    {% set urlCupHolders = productsBase ~ "uchwyty-na-kubki/" %}
+    {% set urlOther = productsBase ~ "inne-akcesoria/" %}
+    {% set dropdownPickupBuilds = "Zabudowy do pickupów" %}
+    {% set dropdownWinchGuides = "Prowadnice lin do wyciągarek" %}
+    {% set dropdownToolboxes = "Skrzynki narzędziowe" %}
+    {% set dropdownTailgateHandles = "Uchwyty na tylna klapę" %}
+    {% set dropdownRoofHandles = "Uchwyty na dach" %}
+    {% set dropdownCupHolders = "Uchwyty na kubki" %}
+    {% set dropdownOther = "Inne akcesoria" %}
+    {% set shopCtaText = "Przejdź do sklepu" %}
+    {% set menuToggleLabel = "Otwórz menu" %}
+    {% if isEn %}
+      {% set navOffer = "Offer" %}
+      {% set navGallery = "Gallery" %}
+      {% set navContact = "Contact" %}
+      {% set urlOffer = "/offer/" %}
+      {% set urlGallery = "/gallery/" %}
+      {% set urlContact = "/contact/" %}
+      {% set dropdownBedOrganizers = "Bed organizers" %}
+      {% set dropdownSideSteps = "Side steps and running boards" %}
+      {% set urlBedOrganizers = "/offer/pick-up-truck-bed-organizer/" %}
+      {% set urlSideSteps = "/offer/side-steps-running-boards/" %}
+      {% set urlPickupBuilds = "/offer/truck-canopy-hard-top/" %}
+      {% set urlWinchGuides = "/offer/winch-hawse-fairlead/" %}
+      {% set urlToolboxes = "/offer/tailgate-toolbox" %}
+      {% set urlTailgateHandles = "/offer/tailgate-bracket/" %}
+      {% set urlRoofHandles = "/products/uchwyty-na-dach/" %}
+      {% set urlCupHolders = "/products/uchwyty-na-kubki/" %}
+      {% set urlOther = "/products/other-off-road-accessories/" %}
+      {% set dropdownPickupBuilds = "Pick up Canopy" %}
+      {% set dropdownWinchGuides = "Winch fairleads" %}
+      {% set dropdownToolboxes = "Toolboxes" %}
+      {% set dropdownTailgateHandles = "Tailgate handles" %}
+      {% set dropdownRoofHandles = "Roof handles" %}
+      {% set dropdownCupHolders = "Cup holders" %}
+      {% set dropdownOther = "Other accessories" %}
+      {% set shopCtaText = "Visit shop" %}
+      {% set menuToggleLabel = "Open menu" %}
+    {% endif %}
     <div class="preloader">
       <div class="preloader_inner">
         <div class="circle-loader">
@@ -189,40 +245,55 @@
                 <nav class="desktop-nav">
                   <ul class="menu d-flex justify-content-center">
                     <li class="has-dropdown">
-                      <a href="{{ langPrefix }}/oferta/" class="link-hover" title="Oferta"> Oferta </a>
+                      <a href="{{ urlOffer }}" class="link-hover" title="{{ navOffer }}"> {{ navOffer }} </a>
                         <ul class="dropdown">
-                          <li><a href="{{ langPrefix }}/produkty/organizery-skrzyn/">Organizery skrzyń</a></li>
-                          <li><a href="{{ langPrefix }}/produkty/stopnie-boczne-i-schody/">Stopnie boczne i schody</a></li>
-                          <li><a href="{{ langPrefix }}/produkty/zabudowy-do-pickupow/">Zabudowy do pickupów</a></li>
-                           <li><a href="{{ langPrefix }}/produkty/prowadnice-lin-wyciagarek/">Prowadnice lin do wyciągarek</a></li>
-                          <li><a href="{{ langPrefix }}/produkty/skrzynki-narzedziowe/">Skrzynki narzędziowe</a></li>
-                          <li><a href="{{ langPrefix }}/produkty/uchwyty-na-tylna-klape/">Uchwyty na tylna klapę</a></li>
-                          <li><a href="{{ langPrefix }}/produkty/uchwyty-na-dach/">Uchwyty na dach</a></li>
-                          <li><a href="{{ langPrefix }}/produkty/uchwyty-na-kubki/">Uchwyty na kubki</a></li>
-                          <li><a href="{{ langPrefix }}/produkty/inne-akcesoria/">Inne akcesoria</a></li>
+                          <li><a href="{{ langPrefix }}{{ urlBedOrganizers }}">{{ dropdownBedOrganizers }}</a></li>
+                          <li><a href="{{ langPrefix }}{{ urlSideSteps }}">{{ dropdownSideSteps }}</a></li>
+                          <li><a href="{{ langPrefix }}{{ urlPickupBuilds }}">{{ dropdownPickupBuilds }}</a></li>
+                           <li><a href="{{ langPrefix }}{{ urlWinchGuides }}">{{ dropdownWinchGuides }}</a></li>
+                          <li><a href="{{ langPrefix }}{{ urlToolboxes }}">{{ dropdownToolboxes }}</a></li>
+                          <li><a href="{{ langPrefix }}{{ urlTailgateHandles }}">{{ dropdownTailgateHandles }}</a></li>
+                          <li><a href="{{ langPrefix }}{{ urlRoofHandles }}">{{ dropdownRoofHandles }}</a></li>
+                          <li><a href="{{ langPrefix }}{{ urlCupHolders }}">{{ dropdownCupHolders }}</a></li>
+                          <li><a href="{{ langPrefix }}{{ urlOther }}">{{ dropdownOther }}</a></li>
                         </ul>
                     </li>
                     <li>
-                      <a href="{{ langPrefix }}/galeria/" class="link-hover" title="Galeria"> Galeria </a>
+                      <a href="{{ urlGallery }}" class="link-hover" title="{{ navGallery }}"> {{ navGallery }} </a>
                     </li>
                     <li>
-                      <a href="{{ langPrefix }}/kontakt/" class="link-hover" title="Kontakt"> Kontakt </a>
+                      <a href="{{ urlContact }}" class="link-hover" title="{{ navContact }}"> {{ navContact }} </a>
                     </li>
                   </ul>
                 </nav>
               </div>
               <div class="col-4 col-md-3 d-flex justify-content-end">
-                {% set urlEn = page.url | toEnUrl %}
-                {% set urlPl = page.url | toPlUrl %}
+                {% set urlEn = (langSwitch and langSwitch.en) or (page.url | toEnUrl) %}
+                {% set urlPl = (langSwitch and langSwitch.pl) or (page.url | toPlUrl) %}
                 <div class="lang-switch d-none d-lg-flex align-items-center me-3">
-                  <a href="{{ urlEn | url }}" class="link-hover">EN</a>
-                  <span class="mx-2">/</span>
-                  <a href="{{ urlPl | url }}" class="link-hover">PL</a>
+                  {% if isEn %}
+                    <a href="{{ urlPl | url }}" class="link-hover" aria-label="Polski">
+                      <svg width="26" height="18" viewBox="0 0 26 18" role="img" aria-hidden="true">
+                        <rect width="26" height="9" fill="#FFFFFF"></rect>
+                        <rect y="9" width="26" height="9" fill="#DC143C"></rect>
+                      </svg>
+                    </a>
+                  {% else %}
+                    <a href="{{ urlEn | url }}" class="link-hover" aria-label="English">
+                      <svg width="26" height="18" viewBox="0 0 26 18" role="img" aria-hidden="true">
+                        <rect width="26" height="18" fill="#012169"></rect>
+                        <rect x="0" y="7" width="26" height="4" fill="#FFFFFF"></rect>
+                        <rect x="11" y="0" width="4" height="18" fill="#FFFFFF"></rect>
+                        <rect x="0" y="8" width="26" height="2" fill="#C8102E"></rect>
+                        <rect x="12" y="0" width="2" height="18" fill="#C8102E"></rect>
+                      </svg>
+                    </a>
+                  {% endif %}
                 </div>
-                <a href="https://ore4x4.pl/pl/" target="_blank" title="Przejdź do sklepu" class="button-anim btn-write d-none d-lg-flex">
+                <a href="https://ore4x4.pl/pl/" target="_blank" title="{{ shopCtaText }}" class="button-anim btn-write d-none d-lg-flex">
                   <div class="button-anim-text">
-                    <span>Przejdź do sklepu</span>
-                    <span>Przejdź do sklepu</span>
+                    <span>{{ shopCtaText }}</span>
+                    <span>{{ shopCtaText }}</span>
                   </div>
                   <div class="button-anim-icon">
                     <svg height="18" viewBox="0 0 100 100" width="18" xmlns="http://www.w3.org/2000/svg" class="icon-link" style="enable-background:new 0 0 100 100" version="1.1" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
@@ -233,7 +304,7 @@
                     </svg>
                   </div>
                 </a>
-                <button class="menu-toggle d-md-none" id="menuToggle" aria-label="Otwórz menu">
+                <button class="menu-toggle d-md-none" id="menuToggle" aria-label="{{ menuToggleLabel }}">
                   <span class="hamburger">
                     <span class="burger-line bl-1"></span>
                     <span class="burger-line bl-2"></span>
@@ -255,15 +326,15 @@
               <nav class="main-menu w-100 px-3">
                 <ul class="menu main-menu-list">
                   <li>
-                    <a href="{{ langPrefix }}/oferta/" title="Oferta">Oferta</a>
+                    <a href="{{ urlOffer }}" title="{{ navOffer }}">{{ navOffer }}</a>
                   </li>
                   <div class="line-xh"></div>
                   <li>
-                    <a href="{{ langPrefix }}/galeria/" title="Glaeria">Galeria</a>
+                    <a href="{{ urlGallery }}" title="{{ navGallery }}">{{ navGallery }}</a>
                   </li>
                   <div class="line-xh"></div>
                   <li>
-                    <a href="{{ langPrefix }}/kontakt/" title="Kontakt">Kontakt</a>
+                    <a href="{{ urlContact }}" title="{{ navContact }}">{{ navContact }}</a>
                   </li>
                   <div class="line-xh"></div>
                 </ul>

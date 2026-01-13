@@ -1,55 +1,58 @@
----
+﻿---
 lang: en
-title: System organizerów paki dla Jeep Wrangler JT (Gladiator) - Bagażnik i skrzynie Cargo
-description: Profesjonalny system zabudowy JUSN dla Jeepa Wranglera JT. Aluminiowa konstrukcja, 4 skrzynie transportowe i zintegrowane oświetlenie.
+layout: "layouts/product-en.njk"
+permalink: /products/jeep-wrangler-bed-organizer/
+title: Truck Bed Organizers and Storage System for Jeep Wrangler JT Pickup Back Tool Box Bin Rack Basket
+description: Zaawansowany system organizacji paki JUSN do Jeepa Wranglera JT. Konstrukcja z aluminium i stali, 4 skrzynie o pojemności 25L każda i dostęp hydrauliczny.
 productImage: /content/products/img/bed-box-wrangler.jpg
 categories:
-  - organizery-skrzyn
-price: 3499
-order: 1
+  - Pick up Truck Bed Organizer
+price: 8999
+order: 2
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061), stal węglowa (Q235)
-process: Grawerowanie CNC, anodowanie i malowanie proszkowe
+material: Aluminum Alloy (6061), Carbon Steel (Q235)
+process: CNC Engraving, Anodizing and Spraying Coating
 weight: 106
-shippingInfo: Czas realizacji wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
+shippingInfo: Czas realizacji zamówienia wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
 installation:
   difficulty: 4
   professional_required: true
-  method: Dopasowanie OE (Plug & Play)
+  method: OE Matching Data - Install and Play
 ---
 
-**Uwaga:** Prosimy o kontakt i przesłanie numeru VIN pojazdu oraz zdjęcia miejsca montażu w celu weryfikacji kompatybilności dla modelu Jeep Wrangler JT.
+**Ważne:** Prosimy o kontakt i przesłanie numeru **VIN** oraz zdjęcia paki Twojego pojazdu w celu weryfikacji kompatybilności zestawu przed zakupem.
 
-Zrealizuj swoje marzenia o idealnej organizacji paki w swoim Jeepie. System JUSN to najbardziej zaawansowane rozwiązanie cargo dedykowane dla modelu Gladiator.
+Zrealizuj marzenia o idealnej organizacji paki swojego pickupa dzięki zaawansowanemu systemowi JUSN.
 
 ### Dlaczego warto wybrać JUSN?
-Odblokuj pełny potencjał swojego Jeepa i uporządkuj swój sprzęt wyprawowy dzięki systemowi JUSN!
+* **Unlock Your Dreams:** System, który zaspokoi każdą potrzebę przechowywania w pickupie.
+* **Materiały Premium:** Połączenie stopu aluminium 6061 oraz wzmocnionej stali węglowej Q235 dla maksymalnej wytrzymałości.
 
 ### Szczegóły techniczne:
-* **MATERIAŁ:** Wysokiej jakości stop aluminium (6061) oraz wzmocniona stal węglowa (Q235).
-* **PROCES:** Precyzyjne grawerowanie CNC, proces anodowania oraz wytrzymałe malowanie proszkowe.
+* **MATERIAŁ:** Aluminum Alloy (6061), Carbon Steel (Q235).
+* **PROCES:** Precyzyjne grawerowanie CNC, anodowanie oraz malowanie proszkowe (Spraying Coating).
 
 ### Główne cechy:
-* **Unikalny styl:** Integralne tłoczenie i precyzyjna obróbka CNC nadają Twojemu Jeepowi techniczny, surowy wygląd, który idealnie komponuje się z linią Wranglera.
-* **Odporność na trudne warunki:** Wykończenie anodowane i proszkowe skutecznie chroni konstrukcję przed promieniami UV, kwaśnym deszczem i korozją, co jest kluczowe przy częstym użytkowaniu w terenie.
-* **Wygodny dostęp boczny:** Górne siłowniki hydrauliczne umożliwiają otwarcie stelaża na boki, zapewniając błyskawiczny dostęp do bagażu bez konieczności rozładowywania całej paki.
-* **Zorganizowane przechowywanie:** Po obu stronach znajdziesz łącznie cztery przestronne skrzynie o pojemności 25 litrów każda. Pozwala to na idealną segregację szpeju i narzędzi.
-* **Praktyczny design:** Ażurowa konstrukcja zewnętrzna skrzyń pozwala na łatwe troczenie dodatkowego osprzętu, szekli czy uchwytów wyprawowych.
-* **Bezpieczeństwo po zmroku:** Zwiększ swoją widoczność. System posiada oświetlenie zewnętrzne, które można zsynchronizować ze światłami hamowania oraz do jazdy dziennej.
-* **Multifunkcyjny bagażnik górny:** Platforma dachowa jest przystosowana do przewożenia ciężkich przedmiotów, takich jak namioty dachowe, walizki ekspedycyjne czy kanistry.
-* **Wewnętrzna rozbudowa:** Specjalne panele (expansion boards) wewnątrz skrzyń ułatwiają montaż dodatkowych uchwytów na sprzęt elektroniczny lub narzędzia.
+* **Distinctive Style:** Integralne tłoczenie i obróbka CNC nadają Twojemu Jeepowi unikalny, przyciągający wzrok wygląd.
+* **Weather Resistant:** Specjalne wykończenie odporne na promienie UV, kwaśne deszcze i rdzę zapewnia trwałość na lata.
+* **Convenient Side Access:** Górne siłowniki hydrauliczne umożliwiają otwieranie stelaża na boki, ułatwiając załadunek bagażu bezpośrednio z góry.
+* **Organized Storage Solutions:** Po każdej stronie znajdują się cztery przestronne skrzynie o pojemności 25 litrów (łącznie 8 skrzyń), idealne do kategoryzacji ekwipunku.
+* **Practical Design:** Ażurowa konstrukcja zewnętrzna skrzyń pozwala na zawieszanie mniejszych akcesoriów, które chcesz mieć pod ręką.
+* **Safety First:** Możliwość podłączenia zewnętrznego oświetlenia do świateł hamowania oraz świateł do jazdy dziennej, zwiększając widoczność w nocy.
+* **Multifunction Storage:** Górny bagażnik idealnie nadaje się do przewożenia dużych przedmiotów, takich jak namioty dachowe czy walizki.
+* **Extra Solutions:** Wewnętrzne panele rozszerzeń (Expansion Board) pozwalają na montaż mniejszych urządzeń i narzędzi wewnątrz skrzyń.
 
 ### Informacje o montażu:
-* **Kompatybilność:** Projekt oparty na danych fabrycznych Jeepa (OE) - montaż typu "instaluj i używaj".
-* **Poziom trudności:** 4/5 (wymagana wiedza techniczna).
-* **Wymagany profesjonalny montaż:** TAK.
+* **Dopasowanie:** OE Matching Data – precyzyjne dopasowanie do fabrycznej paki Jeepa JT.
+* **Poziom trudności:** 4 Stars (wymagający).
+* **Instalacja bezinwazyjna:** Tak (Plug & Play na podstawie danych fabrycznych).
+* **Zalecany montaż profesjonalny:** TAK – ze względu na złożoność systemu i wagę elementów.
 
 ### Zawartość zestawu:
-* 1 kompletny zestaw systemu stelaży z organizerami i oświetleniem.
+* Storage Rack System – 1 kompletny zestaw (stelaż, siłowniki, skrzynie).
 
 ---
-**Informacja o wysyłce (Waga paczki 106 kg):**
-Ze względu na gabaryty, produkt wysyłany jest transportem Sea + Land. Czas realizacji zamówienia to ok. 15 dni, a całkowity czas dostawy wynosi ok. 40 dni.
-
+**Uwaga dotycząca wysyłki:**
+Ze względu na wagę paczki (**106 kg**), czas realizacji zamówienia wynosi 15 dni. Całkowity czas dostawy (transport morski i lądowy) wynosi około 40 dni.

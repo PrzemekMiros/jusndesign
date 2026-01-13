@@ -3,6 +3,7 @@
 <article class="product-page pt-xlarge">
   <div class="container">
     <div class="bg-light-1 rounded-md p-5">
+      <div class="p-md-3">
 
       <div class="product-main row">
         <div class="col-md-6 product-gallery">
@@ -13,7 +14,7 @@
             <div class="gallery-thumbs">
               {% for image in galleryImages %}
                 <a href="{{ image | url }}" class="lightbox-trigger" data-lightbox-src="{{ image | url }}">
-                  <img src="{{ image }}" alt="{{ title }} - {{ loop.index }}" class="thumb-image">
+                  <img src="{{ image }}" alt="{{ title }} - {{ loop.index }}" class="thumb-image rounded-md">
                 </a>
               {% endfor %}
             </div>
@@ -28,15 +29,14 @@
             {% endfor %}
           </nav>
 
-          <h1 class="product-title">{{ title }}</h1>
+          <h1 class="h2 product-title">{{ title }}</h1>
 
-          <div class="product-price">
+          <div class="product-price h2">
             <span class="amount">{{ price }}</span>
             <span class="currency">PLN</span>
           </div>
 
           <div class="product-status">
-            <p class="sold-count">🔥 Kupiono 14 sztuk</p>
             <div class="product-short-description">
               {{ description }}
             </div>
@@ -46,7 +46,7 @@
           </div>
 
           <div class="actions">
-            <a href="https://ore4x4.pl/pl/" title="Przejdź do sklepu" class="button-anim btn-write magnetic mt-2 fade-in" data-strength="40">
+            <a href="https://ore4x4.pl/pl/103-hardtopy-zabudowy" title="Przejdź do sklepu" class="button-anim btn-write magnetic mt-2 fade-in" data-strength="40">
               <div class="button-anim-text">
                 <span>Przejdź do sklepu</span>
                 <span>Przejdź do sklepu</span>
@@ -78,16 +78,16 @@
           </div>
 
           <div class="trust-badges">
-            <p>GWARANCJA BEZPIECZNYCH ZAKUPÓW</p>
+            <p>Gwarancja bezpiecznych zakupów</p>
           </div>
         </div>
       </div>
 
-      <div class="product-details">
+      <div class="product-details rounded-md bg-light-2 py-3 px-5 mt-5">
         <section class="details-tab">
           <h2 class="section-title">Szczegóły produktu</h2>
           
-          <div class="specs-grid bg-light-2 p-4">
+          <div class="specs-grid bg-light-1 p-4">
             <div class="spec-item small">
               <strong>Materiał:</strong> {{ material }}
             </div>
@@ -108,12 +108,9 @@
           </div>
         </section>
 
-        <section class="shipping-policy">
-          <h3 class="section-title">Informacje o wysyłce</h3>
-          <p>{{ shippingInfo }}</p>
-        </section>
       </div>
 
+      </div>
     </div>
   </div>
 </article>
@@ -139,8 +136,8 @@
   width: 100%;
   height: auto;
   object-fit: cover;
-  border-radius: var(--radius);
-  border: 1px solid var(--border-color);
+  border-radius: 15px;
+  border: 1px solid #9992;
 }
 
 .gallery-thumbs {
@@ -164,9 +161,7 @@
 /* Cena */
 .product-price {
   margin: 25px 0;
-  font-size: 2.2rem;
-  font-weight: 800;
-  color: var(--accent-color);
+  color: var(--color-accent-1);
   display: flex;
   align-items: baseline;
   gap: 10px;
@@ -251,7 +246,7 @@
 .lightbox.is-open { display: flex; }
 .lightbox-backdrop { position: absolute; inset: 0; background: rgba(0, 0, 0, 0.85); }
 .lightbox-content { position: relative; z-index: 1; max-width: 90vw; }
-.lightbox-image { max-height: 85vh; border-radius: 4px; }
+.lightbox-image { max-height: 85vh; border-radius: 15px; }
 .lightbox-close { position: absolute; top: -40px; right: 0; color: #fff; background: none; border: 0; font-size: 1rem; cursor: pointer; }
 
 @media (max-width: 768px) {
