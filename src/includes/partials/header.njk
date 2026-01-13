@@ -268,17 +268,23 @@
                 </nav>
               </div>
               <div class="col-4 col-md-3 d-flex justify-content-end">
+
                 {% set urlEn = (langSwitch and langSwitch.en) or (page.url | toEnUrl) %}
                 {% set urlPl = (langSwitch and langSwitch.pl) or (page.url | toPlUrl) %}
+        
                 <div class="lang-switch d-none d-lg-flex align-items-center me-3">
                   {% if isEn %}
+                       <!--
                     <a href="{{ urlPl | url }}" class="link-hover" aria-label="Polski">
                       <svg width="26" height="18" viewBox="0 0 26 18" role="img" aria-hidden="true">
                         <rect width="26" height="9" fill="#FFFFFF"></rect>
                         <rect y="9" width="26" height="9" fill="#DC143C"></rect>
                       </svg>
                     </a>
-                  {% else %}
+                    -->
+                    {% else %}
+<!--
+                  
                     <a href="{{ urlEn | url }}" class="link-hover" aria-label="English">
                       <svg width="26" height="18" viewBox="0 0 26 18" role="img" aria-hidden="true">
                         <rect width="26" height="18" fill="#012169"></rect>
@@ -287,8 +293,9 @@
                         <rect x="0" y="8" width="26" height="2" fill="#C8102E"></rect>
                         <rect x="12" y="0" width="2" height="18" fill="#C8102E"></rect>
                       </svg>
-                    </a>
+                    </a>            -->
                   {% endif %}
+      
                 </div>
                 <a href="https://ore4x4.pl/pl/" target="_blank" title="{{ shopCtaText }}" class="button-anim btn-write d-none d-lg-flex">
                   <div class="button-anim-text">
