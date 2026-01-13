@@ -7,11 +7,11 @@
             <div class="offset-md-2 offset-xl-3 col-md-8 col-xl-6">
                 <div class="single-post-title-wrap pb-xsmall pb-md-small">
                     <div class="breadcrumbs small mt-4 fade-in">
-                        <a href="/" title="Strona główna">
+                        <a href="{{ langPrefix }}/" title="Strona główna">
                             Główna
                         </a>
                         <span>|</span>
-                        <a href="/blog/" title="Blog">
+                        <a href="{{ langPrefix }}/blog/" title="Blog">
                             Blog
                         </a>
                         <span>|</span>
@@ -64,8 +64,9 @@
             <div class="col-md-12">
                 <div class="post-navigation pt-xxsmall pt-md-xsmall">
                     {%- if collections.posts %}
-                    {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-                    {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+                    {%- set postsByLang = collections.posts | byLang(lang) %}
+                    {%- set nextPost = postsByLang | getNextCollectionItem(page) %}
+                    {%- set previousPost = postsByLang | getPreviousCollectionItem(page) %}
                     {%- if nextPost or previousPost %}
                     <ul class="d-flex flex-wrap fade-in">
                         {%- if previousPost %}
@@ -99,3 +100,4 @@
 </section>
 
 {% include "partials/footer.njk" %}
+

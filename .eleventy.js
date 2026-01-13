@@ -42,6 +42,27 @@ module.exports = function(eleventyConfig) {
       return headers.map(header => header.innerText);
     });
 
+    eleventyConfig.addFilter("byLang", function(collection, lang) {
+      if (!collection) {
+        return [];
+      }
+      return collection.filter(item => (item.data.lang || "en") === lang);
+    });
+
+    eleventyConfig.addFilter("toPlUrl", function(url) {
+      if (!url) {
+        return "/pl/";
+      }
+      return url.startsWith("/pl/") ? url : `/pl${url}`;
+    });
+
+    eleventyConfig.addFilter("toEnUrl", function(url) {
+      if (!url) {
+        return "/";
+      }
+      return url.replace(/^\/pl\//, "/");
+    });
+
     // Collection products
 eleventyConfig.addCollection('products', (collection) => {
   return collection.getFilteredByGlob("src/content/products/**/*.md")
@@ -57,12 +78,18 @@ eleventyConfig.addCollection("productCategories", (collection) => {
   const categories = {};
 
   products.forEach(product => {
+    const lang = product.data.lang || "en";
     const cats = product.data.categories || [];
+
+    if (!categories[lang]) {
+      categories[lang] = {};
+    }
+
     cats.forEach(cat => {
-      if (!categories[cat]) {
-        categories[cat] = [];
+      if (!categories[lang][cat]) {
+        categories[lang][cat] = [];
       }
-      categories[cat].push(product);
+      categories[lang][cat].push(product);
     });
   });
 

@@ -1,4 +1,5 @@
 ---
+lang: pl
 title: Organizery skrzyń
 category: organizery-skrzyn
 ---
@@ -7,7 +8,7 @@ category: organizery-skrzyn
 <div class="container"> 
   <h1 class="xl split-lines color-light-1 mb-5">{{ title }}</h1>
 
-  {% set products = collections.productCategories[category] %}
+  {% set products = collections.productCategories[lang][category] %}
 
   {% if products and products.length %}
     <div class="products-grid row">
@@ -29,5 +30,7 @@ category: organizery-skrzyn
   {% endif %}
   </div>
 </section>
+
+
 
 

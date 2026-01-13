@@ -5,7 +5,7 @@
     <div class="swiper swiper-works">
       <div class="swiper-wrapper">
 
-        {% for post in collections.works %}
+        {% for post in collections.works | byLang(lang) %}
         <div class="swiper-slide">
           <div class="work-card bg-light-1 rounded-md">
 

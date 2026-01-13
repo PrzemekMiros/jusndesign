@@ -1,3 +1,4 @@
 {
-    "robots": "noindex"
+  "robots": "noindex",
+  "permalink": false
 }

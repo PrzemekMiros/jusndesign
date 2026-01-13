@@ -22,9 +22,9 @@
 
         <div class="col-md-6 product-info">
           <nav class="breadcrumb">
-            <a href="/">Strona główna</a> |  
+            <a href="{{ langPrefix }}/">Strona główna</a> |  
             {% for cat in categories %}
-              <a href="/produkty/{{ cat | slugify }}/">{{ cat }}</a>{% if not loop.last %} , {% endif %}
+              <a href="{{ langPrefix }}/produkty/{{ cat | slugify }}/">{{ cat }}</a>{% if not loop.last %} , {% endif %}
             {% endfor %}
           </nav>
 

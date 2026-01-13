@@ -1,0 +1,37 @@
+---
+lang: en
+title: Inne akcesoria
+category: inne-akcesoria
+---
+
+<section class="pt-xlarge products-category">
+<div class="container"> 
+  <h1 class="xl split-lines color-light-1 mb-5">{{ title }}</h1>
+
+  {% set products = collections.productCategories[lang][category] %}
+
+  {% if products and products.length %}
+    <div class="products-grid row">
+      {% for product in products %}
+      <div class="col-md-3">
+        <a href="{{ product.url | url }}">
+        <article class="product-card rounded-md">
+          <img src="{{product.data.productImage}}">
+          <div class="product-card-content p-4 bg-light-1">
+          <h3 class="h4 mt-0">{{ product.data.title }}</h3>
+          </div>
+        </article>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p>Brak produktów w tej kategorii.</p>
+  {% endif %}
+  </div>
+</section>
+
+
+
+
+

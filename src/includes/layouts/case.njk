@@ -7,13 +7,13 @@
       <div class="offset-md-2 offset-xl-3 col-md-8 col-xl-6">
         <div class="pb-xsmall pb-md-small">
                     <div class="breadcrumbs mt-4 small fade-in">
-                        <a href="/" title="Strona główna">
+                        <a href="{{ langPrefix }}/" title="Strona główna">
                             Główna
                         </a>
                         <span>
                             |
                         </span>
-                        <a href="/realizacje/" title="Realizacje">
+                        <a href="{{ langPrefix }}/realizacje/" title="Realizacje">
                             Realizacje
                         </a>
                         <span>
@@ -81,9 +81,11 @@
     </div>
 
     <div class="post-navigation pt-xxsmall pt-md-xsmall">
-      {%- if collections.works %} {%- set nextPost = collections.works |
-      getNextCollectionItem(page) %} {%- set previousPost = collections.works |
-      getPreviousCollectionItem(page) %} {%- if nextPost or previousPost %}
+      {%- if collections.works %}
+      {%- set worksByLang = collections.works | byLang(lang) %}
+      {%- set nextPost = worksByLang | getNextCollectionItem(page) %}
+      {%- set previousPost = worksByLang | getPreviousCollectionItem(page) %}
+      {%- if nextPost or previousPost %}
       <ul class="d-flex flex-wrap fade-in">
         {%- if previousPost %}
         <li class="hover-reveal-wrap col-md-6 prev d-none d-md-block">
@@ -117,3 +119,5 @@
 </section>
 
 {% include "partials/footer.njk" %}
+
+

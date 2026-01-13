@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="{{ lang }}">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -7,6 +7,7 @@
     <title>{{ title }} - JUSN Design Polska | </title>
     <meta name="description" content="{{ description }}"> {% set robots = robots | default('index') %}
     <meta name="robots" content="{{ robots }}">
+    <meta name="google-site-verification" content="KADzNsW4EgLAsiO7s2cqDAVBQYMwFAAcHDeIBsSaFJA" />
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="https://jusndesignpoland.com/">
     <meta property="og:type" content="website">
@@ -179,7 +180,7 @@
           <div class="site-header-wrap">
             <div class="row align-items-center">
               <div class="col-8 col-md-3 d-flex">
-                <a href="/" class="logo" title="Logo">
+                <a href="{{ langPrefix }}/" class="logo" title="Logo">
                   <img src="/assets/img/logo/logo.webp" class="site-logo dark" alt="Explore 4x4">
                   <img src="/assets/img/logo/logo.webp" class="site-logo light" alt="Explore 4x4">
                 </a>
@@ -188,29 +189,36 @@
                 <nav class="desktop-nav">
                   <ul class="menu d-flex justify-content-center">
                     <li class="has-dropdown">
-                      <a href="/oferta/" class="link-hover" title="Oferta"> Oferta </a>
+                      <a href="{{ langPrefix }}/oferta/" class="link-hover" title="Oferta"> Oferta </a>
                         <ul class="dropdown">
-                          <li><a href="/produkty/organizery-skrzyn/">Organizery skrzyń</a></li>
-                          <li><a href="/produkty/stopnie-boczne-i-schody/">Stopnie boczne i schody</a></li>
-                          <li><a href="/produkty/zabudowy-do-pickupow/">Zabudowy do pickupów</a></li>
-                           <li><a href="/produkty/prowadnice-lin-wyciagarek/">Prowadnice lin do wyciągarek</a></li>
-                          <li><a href="/produkty/skrzynki-narzedziowe/">Skrzynki narzędziowe</a></li>
-                          <li><a href="/produkty/uchwyty-na-tylna-klape/">Uchwyty na tylna klapę</a></li>
-                          <li><a href="/produkty/uchwyty-na-dach/">Uchwyty na dach</a></li>
-                          <li><a href="/produkty/uchwyty-na-kubki/">Uchwyty na kubki</a></li>
-                          <li><a href="/produkty/inne-akcesoria/">Inne akcesoria</a></li>
+                          <li><a href="{{ langPrefix }}/produkty/organizery-skrzyn/">Organizery skrzyń</a></li>
+                          <li><a href="{{ langPrefix }}/produkty/stopnie-boczne-i-schody/">Stopnie boczne i schody</a></li>
+                          <li><a href="{{ langPrefix }}/produkty/zabudowy-do-pickupow/">Zabudowy do pickupów</a></li>
+                           <li><a href="{{ langPrefix }}/produkty/prowadnice-lin-wyciagarek/">Prowadnice lin do wyciągarek</a></li>
+                          <li><a href="{{ langPrefix }}/produkty/skrzynki-narzedziowe/">Skrzynki narzędziowe</a></li>
+                          <li><a href="{{ langPrefix }}/produkty/uchwyty-na-tylna-klape/">Uchwyty na tylna klapę</a></li>
+                          <li><a href="{{ langPrefix }}/produkty/uchwyty-na-dach/">Uchwyty na dach</a></li>
+                          <li><a href="{{ langPrefix }}/produkty/uchwyty-na-kubki/">Uchwyty na kubki</a></li>
+                          <li><a href="{{ langPrefix }}/produkty/inne-akcesoria/">Inne akcesoria</a></li>
                         </ul>
                     </li>
                     <li>
-                      <a href="/galeria/" class="link-hover" title="Galeria"> Galeria </a>
+                      <a href="{{ langPrefix }}/galeria/" class="link-hover" title="Galeria"> Galeria </a>
                     </li>
                     <li>
-                      <a href="/kontakt/" class="link-hover" title="Kontakt"> Kontakt </a>
+                      <a href="{{ langPrefix }}/kontakt/" class="link-hover" title="Kontakt"> Kontakt </a>
                     </li>
                   </ul>
                 </nav>
               </div>
               <div class="col-4 col-md-3 d-flex justify-content-end">
+                {% set urlEn = page.url | toEnUrl %}
+                {% set urlPl = page.url | toPlUrl %}
+                <div class="lang-switch d-none d-lg-flex align-items-center me-3">
+                  <a href="{{ urlEn | url }}" class="link-hover">EN</a>
+                  <span class="mx-2">/</span>
+                  <a href="{{ urlPl | url }}" class="link-hover">PL</a>
+                </div>
                 <a href="https://ore4x4.pl/pl/" target="_blank" title="Przejdź do sklepu" class="button-anim btn-write d-none d-lg-flex">
                   <div class="button-anim-text">
                     <span>Przejdź do sklepu</span>
@@ -247,15 +255,15 @@
               <nav class="main-menu w-100 px-3">
                 <ul class="menu main-menu-list">
                   <li>
-                    <a href="/oferta/" title="Oferta">Oferta</a>
+                    <a href="{{ langPrefix }}/oferta/" title="Oferta">Oferta</a>
                   </li>
                   <div class="line-xh"></div>
                   <li>
-                    <a href="/galeria/" title="Glaeria">Galeria</a>
+                    <a href="{{ langPrefix }}/galeria/" title="Glaeria">Galeria</a>
                   </li>
                   <div class="line-xh"></div>
                   <li>
-                    <a href="/kontakt/" title="Kontakt">Kontakt</a>
+                    <a href="{{ langPrefix }}/kontakt/" title="Kontakt">Kontakt</a>
                   </li>
                   <div class="line-xh"></div>
                 </ul>
@@ -269,3 +277,4 @@
           </div>
         </section>
         <main class="main">
+

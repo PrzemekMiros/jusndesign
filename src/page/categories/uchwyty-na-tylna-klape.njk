@@ -1,4 +1,5 @@
 ---
+lang: pl
 title: Uchwyty na tylna klapę
 category: uchwyty-na-tylna-klape
 ---
@@ -7,13 +8,13 @@ category: uchwyty-na-tylna-klape
 <div class="container"> 
   <h1 class="xl split-lines color-light-1 mb-5">{{ title }}</h1>
 
-  {% set products = collections.productCategories[category] %}
+  {% set products = collections.productCategories[lang][category] %}
 
   {% if products and products.length %}
     <div class="products-grid row">
       {% for product in products %}
       <div class="col-md-3">
-        <a href="#">
+        <a href="{{ product.url | url }}">
         <article class="product-card rounded-md">
           <img src="{{product.data.productImage}}">
           <div class="product-card-content p-4 bg-light-1">
@@ -29,5 +30,7 @@ category: uchwyty-na-tylna-klape
   {% endif %}
   </div>
 </section>
+
+
 
 
