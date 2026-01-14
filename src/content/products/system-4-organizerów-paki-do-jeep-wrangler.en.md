@@ -53,6 +53,3 @@ Zrealizuj marzenia o idealnej organizacji paki swojego pickupa dzięki zaawansow
 ### Zawartość zestawu:
 * Storage Rack System – 1 kompletny zestaw (stelaż, siłowniki, skrzynie).
 
----
-**Uwaga dotycząca wysyłki:**
-Ze względu na wagę paczki (**106 kg**), czas realizacji zamówienia wynosi 15 dni. Całkowity czas dostawy (transport morski i lądowy) wynosi około 40 dni.

@@ -196,7 +196,7 @@
   display: flex;
   position: fixed;
   left: 16px;
-  right: 16px;
+  right: 25px;
   top: 93px;
   bottom: 16px;
   background: var(--color-light-1);
@@ -258,6 +258,11 @@
 }
 
 .nav-social {
+  position: relative;
+  z-index: 999;
+}
+
+.mobile-lang-switch {
   position: relative;
   z-index: 999;
 }

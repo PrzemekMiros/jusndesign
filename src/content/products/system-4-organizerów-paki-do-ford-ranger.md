@@ -20,7 +20,6 @@ installation:
   method: Dopasowanie OE (Plug & Play)
 ---
 
-**Uwaga:** Prosimy o kontakt i przesłanie numeru VIN pojazdu oraz zdjęcia miejsca montażu w celu weryfikacji kompatybilności dla Twojego Forda (Ranger, F150 lub Raptor).
 
 Spełnij wszystkie swoje marzenia o idealnej organizacji paki. System JUSN to zaawansowana zabudowa cargo, która zmieni sposób, w jaki wykorzystujesz przestrzeń ładunkową swojego Forda.
 
@@ -49,6 +48,3 @@ Zrealizuj marzenie o profesjonalnym porządku na pace dzięki systemowi JUSN!
 ### Zawartość zestawu:
 * 1 kompletny zestaw systemu stelaży z organizerami i oświetleniem.
 
----
-**Informacja o wysyłce (Waga paczki 106 kg):**
-Ze względu na gabaryty i wagę, produkt wysyłany jest transportem Sea + Land. Czas realizacji zamówienia wynosi ok. 15 dni, a całkowity czas dostawy to ok. 40 dni roboczych.

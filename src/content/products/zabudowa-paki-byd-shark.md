@@ -57,6 +57,3 @@ Odblokuj potencjał swojego BYD Shark 6 i zabezpiecz swój bagaż w profesjonaln
 * Relingi górne (Top Horizontal Bar) - 1 para
 * Zewnętrzne panele boczne (Exterior Expansion Panels) - 1 para
 
----
-**Uwaga dotycząca wysyłki:**
-Czas przygotowania zamówienia to 15 dni. Transport morski i lądowy zajmuje około 40 dni roboczych.

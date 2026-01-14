@@ -45,5 +45,4 @@ Zaprojektowany, aby chronić linę wyciągarki przed nadmiernym zużyciem. Zapob
 ### Zawartość zestawu:
 * Ślizg wyciągarki zintegrowany z hakiem holowniczym – 1 szt.
 
----
 **Wskazówka:** Pamiętaj, że ten ślizg jest przeznaczony wyłącznie do lin syntetycznych. W przypadku liny stalowej należy stosować ślizgi rolkowe.

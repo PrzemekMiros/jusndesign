@@ -52,5 +52,4 @@ Rozwiązuje problem obciążonej klapy, ułatwiając jej zamykanie, oraz eliminu
 ### Zawartość zestawu:
 * Skrzynia wyprawowa na klapę (Tailgate Toolbox) – 1 komplet.
 
----
 **Wskazówka wyprawowa:** Dzięki funkcji stolika, ten organizer jest jednym z najczęściej wybieranych akcesoriów przez osoby budujące Jeepy pod Overland.

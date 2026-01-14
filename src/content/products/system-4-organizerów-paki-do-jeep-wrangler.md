@@ -49,6 +49,3 @@ Odblokuj pełny potencjał swojego Jeepa i uporządkuj swój sprzęt wyprawowy d
 ### Zawartość zestawu:
 * 1 kompletny zestaw systemu stelaży z organizerami i oświetleniem.
 
----
-**Informacja o wysyłce (Waga paczki 106 kg):**
-Ze względu na gabaryty, produkt wysyłany jest transportem Sea + Land. Czas realizacji zamówienia to ok. 15 dni, a całkowity czas dostawy wynosi ok. 40 dni.

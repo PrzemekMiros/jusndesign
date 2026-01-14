@@ -50,6 +50,3 @@ Zrealizuj swoje marzenia o idealnej organizacji paki z systemem JUSN!
 ### Zawartość zestawu:
 * System stelaży z organizerami - 1 komplet.
 
----
-**Informacja o wysyłce (Waga paczki 106 kg):**
-Czas realizacji zamówienia wynosi 15 dni. Całkowity czas transportu (morski + lądowy) wynosi około 40 dni.

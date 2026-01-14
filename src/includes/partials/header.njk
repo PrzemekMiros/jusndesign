@@ -336,6 +336,26 @@
                   <div class="line-xh"></div>
                 </ul>
               </nav>
+              <div class="mobile-lang-switch d-flex justify-content-center mt-4">
+                {% if isEn %}
+                  <a href="{{ urlPl | url }}" class="link-hover" aria-label="Polski">
+                    <svg width="26" height="18" viewBox="0 0 26 18" role="img" aria-hidden="true">
+                      <rect width="26" height="9" fill="#FFFFFF"></rect>
+                      <rect y="9" width="26" height="9" fill="#DC143C"></rect>
+                    </svg>
+                  </a>
+                {% else %}
+                  <a href="{{ urlEn | url }}" class="link-hover" aria-label="English">
+                    <svg width="26" height="18" viewBox="0 0 26 18" role="img" aria-hidden="true">
+                      <rect width="26" height="18" fill="#012169"></rect>
+                      <rect x="0" y="7" width="26" height="4" fill="#FFFFFF"></rect>
+                      <rect x="11" y="0" width="4" height="18" fill="#FFFFFF"></rect>
+                      <rect x="0" y="8" width="26" height="2" fill="#C8102E"></rect>
+                      <rect x="12" y="0" width="2" height="18" fill="#C8102E"></rect>
+                    </svg>
+                  </a>
+                {% endif %}
+              </div>
               <!--
                 <div class="nav-social"><ul class="nav-social"><li><a href="#" title="Oferta" target="_blank"><svg width="38" height="38" viewBox="0 0 38 38" fill="none"
 																																		xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_713_2)"><path d="M34.8307 18.9993C34.8307 10.2593 27.7374 3.16602 18.9974 3.16602C10.2574 3.16602 3.16406 10.2593 3.16406 18.9993C3.16406 26.6627 8.61073 33.0435 15.8307 34.516V23.7493H12.6641V18.9993H15.8307V15.041C15.8307 11.9852 18.3166 9.49935 21.3724 9.49935H25.3307V14.2493H22.1641C21.2932 14.2493 20.5807 14.9618 20.5807 15.8327V18.9993H25.3307V23.7493H20.5807V34.7535C28.5766 33.9619 34.8307 27.2168 34.8307 18.9993Z" fill="black"/></g><defs><clipPath id="clip0_713_2"><rect width="38" height="38" fill="white"/></clipPath></defs></svg></a></li><li><a href="#" title="Glaeria" target="_blank"><svg width="38" height="38" viewBox="0 0 38 38" fill="none"

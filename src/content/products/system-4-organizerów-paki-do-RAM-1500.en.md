@@ -51,6 +51,3 @@ Unlock Your Truck Bed Organization Dreams with JUSN!
 ### PACKAGE:
 * Storage Rack System - 1 Set.
 
----
-**About Shipping for This Item (Package Weight 106 KGs):**
-The lead time is 15 days, and the Sea shipping plus land shipping time is about 40 days.

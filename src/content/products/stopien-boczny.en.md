@@ -51,6 +51,6 @@ Ułatw sobie wsiadanie i chroń boki swojego Bronco dzięki wytrzymałym stopnio
 ### Zawartość zestawu:
 * Running Boards – 1 Pair (lewy + prawy stopień).
 
----
+
 **Uwaga dotycząca kompatybilności:**
 Progi są dostosowane do modeli Ford Bronco (2021-2025). Prosimy o informację, czy auto posiada fabryczne rock railsy, abyśmy mogli dobrać odpowiedni zestaw montażowy.

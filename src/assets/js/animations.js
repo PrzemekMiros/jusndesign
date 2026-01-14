@@ -16,6 +16,17 @@ const lenis = new Lenis({
   autoResize: true
 });
 
+if ("scrollRestoration" in history) {
+  history.scrollRestoration = "manual";
+}
+
+const resetScrollPosition = () => {
+  window.scrollTo(0, 0);
+  lenis.scrollTo(0, { immediate: true });
+};
+
+resetScrollPosition();
+
 // Funkcja przewijania do sekcji
 function scrollToSection(targetPosition) {
   lenis.scrollTo(targetPosition);

@@ -51,5 +51,3 @@ Have you ever been challenged by the storage and installation of essential off-r
 ### Package Content:
 * 3-in-1 Tailgate Bracket - 1 Set
 
-**Compatibility Note:**
-To ensure a perfect fit, please contact us with your vehicle's **VIN** and a photo of the installation area before completing your purchase.
