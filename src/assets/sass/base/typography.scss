@@ -122,6 +122,10 @@ h6,
   color: var(--color-text);
 }
 
+li {
+    margin-bottom: 1em;
+}
+
 small,
 .small {
   font-size: var(--fs-sm);

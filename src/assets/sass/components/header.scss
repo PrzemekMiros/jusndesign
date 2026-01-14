@@ -38,6 +38,15 @@
   opacity: 0;
 }
 
+.menu-open {
+  overflow: hidden;
+  height: 100vh;
+}
+
+.menu-open .transition-fade {
+  transform: none;
+}
+
 .site-header.hide {
   pointer-events: none;
   opacity: 0;

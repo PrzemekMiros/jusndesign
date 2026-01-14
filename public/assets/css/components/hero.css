@@ -1,60 +1,60 @@
-@charset "UTF-8";
-.hero-wrap {
-  position: absolute;
-  top: 50%;
-  left: 0;
-  right: 0;
-  transform: translateY(-50%);
-  z-index: 9;
-}
-
-.hero-title,
-.hero-top-text,
-.hero-bottom-text {
-  color: #fff;
-  max-width: 680px;
-}
-
-.parallax-container {
+.yt-full {
   position: relative;
-  height: 100vh;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  aspect-ratio: 5/9;
   overflow: hidden;
 }
 
-.parallax-layer {
+.yt-full iframe {
   position: absolute;
+  inset: 0;
+  width: 260%;
+  height: 100%;
+  border: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.hero-video {
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-video::before {
+  position: absolute;
+  content: "";
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background-size: cover;
-  background-position: center;
-  will-change: transform;
-}
-
-.layer-front {
-  top: -20%;
-  height: 120%;
-}
-
-/* Placeholder images - zamień na swoje zdjęcia */
-.layer-back {
-  background-image: url("/assets/img/hero/par-layer-1.webp");
+  background: #000;
+  opacity: 0.5;
   z-index: 1;
 }
 
-.layer-middle {
-  background-image: url("/assets/img/hero/par-layer-2.png");
-  z-index: 2;
-  /* Przykład: możesz ustawić opacity jeśli chcesz blend */
+.hero-content {
+  position: absolute;
+  inset: 0;
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 1rem;
+  color: #fff;
+  z-index: 1;
 }
 
-.layer-front {
-  background-image: url("/assets/img/hero/par-layer-3.webp");
-  z-index: 3;
-}
-
-.layer-main {
-  background-image: url("/assets/img/hero/baner16.png");
-  z-index: 3;
+@media (min-width: 767px) {
+  .yt-full {
+    aspect-ratio: 16/9;
+  }
+  .yt-full iframe {
+    width: 100%;
+    height: 100%;
+  }
 }

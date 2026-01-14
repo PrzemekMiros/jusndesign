@@ -5,64 +5,90 @@
 {% set policyTerms = "Regulamin" %}
 {% set policyGdpr = "RODO" %}
 {% set copyText = "&copy; JUSN DESIGN" %}
+{% set footerOfferTitle = "Oferta" %}
+{% set footerNavTitle = "Nawigacja" %}
+{% set navOffer = "Oferta" %}
+{% set navGallery = "Galeria" %}
+{% set navContact = "Kontakt" %}
+{% set urlOffer = "/pl/oferta/" %}
+{% set urlGallery = "/pl/galeria/" %}
+{% set urlContact = "/pl/kontakt/" %}
+{% set productsBase = "/produkty/" %}
+{% set footerBedOrganizers = "Organizery skrzyn" %}
+{% set footerSideSteps = "Stopnie boczne i schody" %}
+{% set footerPickupBuilds = "Zabudowy do pickupow" %}
+{% set footerWinchGuides = "Prowadnice lin do wyciagarek" %}
+{% set footerOther = "Inne akcesoria" %}
+{% set urlBedOrganizers = productsBase ~ "organizery-skrzyn/" %}
+{% set urlSideSteps = productsBase ~ "stopnie-boczne-i-schody/" %}
+{% set urlPickupBuilds = productsBase ~ "zabudowy-do-pickupow/" %}
+{% set urlWinchGuides = productsBase ~ "prowadnice-lin-wyciagarek/" %}
+{% set urlOther = productsBase ~ "inne-akcesoria/" %}
 {% if isEn %}
   {% set shopCtaText = "Visit shop" %}
   {% set policyPrivacy = "Privacy Policy" %}
   {% set policyTerms = "Terms" %}
   {% set policyGdpr = "GDPR" %}
+  {% set footerOfferTitle = "Offer" %}
+  {% set footerNavTitle = "Navigation" %}
+  {% set navOffer = "Offer" %}
+  {% set navGallery = "Gallery" %}
+  {% set navContact = "Contact" %}
+  {% set urlOffer = "/offer/" %}
+  {% set urlGallery = "/gallery/" %}
+  {% set urlContact = "/contact/" %}
+  {% set footerBedOrganizers = "Bed organizers" %}
+  {% set footerSideSteps = "Side steps and running boards" %}
+  {% set footerPickupBuilds = "Pick up Canopy" %}
+  {% set footerWinchGuides = "Winch fairleads" %}
+  {% set footerOther = "Other accessories" %}
+  {% set urlBedOrganizers = "/offer/pick-up-truck-bed-organizer/" %}
+  {% set urlSideSteps = "/offer/side-steps-running-boards/" %}
+  {% set urlPickupBuilds = "/offer/truck-canopy-hard-top/" %}
+  {% set urlWinchGuides = "/offer/winch-hawse-fairlead/" %}
+  {% set urlOther = "/products/other-off-road-accessories/" %}
 {% endif %}
 <footer class="site-footer pt-large pb-xsmall">
   <div class="foot-bg-wrap container"></div>
   <div class="footer-parallax">
     <div class="container">
-      <div class="footer-top pb-small">
-        <div class="row g-3">
-          <div class="col-md-6">
-              <img src="/assets/img/logo/logo.webp" class="footer-logo" alt="Explore 4x4">
-          </div>
-          <div class="col-md-6 d-md-flex align-items-center justify-content-end">
-            <a href="https://ore4x4.pl/pl/" title="{{ shopCtaText }}" class="button-anim btn-write magnetic mt-2 fade-in" data-strength="40">
-              <div class="button-anim-text">
-                <span>{{ shopCtaText }}</span>
-                <span>{{ shopCtaText }}</span>
-              </div>
-              <div class="button-anim-icon">
-                <svg height="18" viewBox="0 0 100 100" width="18" xmlns="http://www.w3.org/2000/svg" class="icon-link" style="enable-background:new 0 0 100 100" version="1.1" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
-                  <g>
-                    <path d="M83.3,79.7c0,2-1.6,3.6-3.6,3.6H20.3c-2,0-3.6-1.6-3.6-3.6V20.3c0-2,1.6-3.6,3.6-3.6h23.4V9.5H20.3   c-6,0-10.8,4.8-10.8,10.8v59.4c0,6,4.8,10.8,10.8,10.8h59.4c6,0,10.8-4.8,10.8-10.8V56.3h-7.2V79.7z" fill="var(--color-accent-1)"></path>
-                    <polygon fill="var(--color-accent-1)" points="56.3,9.5 56.3,16.7 78.2,16.7 49.9,45 55,50.1 83.3,21.8 83.3,43.7 90.5,43.7 90.5,9.5  "></polygon>
-                  </g>
-                </svg>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-<!--
+
       <div class="line-x light"></div>
       <div class="row g-5 pt-small pb-small">
         <div class="col-md-4">
           <img src="/assets/img/logo/logo.webp" class="footer-logo dark" alt="Explore 4x4">
         </div>
         <div class="col-md-3">
-          <h3 class="color-light-1">Oferta</h3>
+          <h3 class="color-light-1">{{ footerOfferTitle }}</h3>
           <ul class="footer-list">
             <li>
-              <a href="" title="" target="_blank">Link 1</a>
+              <a href="{{ langPrefix }}{{ urlBedOrganizers }}" title="{{ footerBedOrganizers }}">{{ footerBedOrganizers }}</a>
             </li>
             <li>
-              <a href="" title="" target="_blank">Link 2</a>
+              <a href="{{ langPrefix }}{{ urlSideSteps }}" title="{{ footerSideSteps }}">{{ footerSideSteps }}</a>
+            </li>
+            <li>
+              <a href="{{ langPrefix }}{{ urlPickupBuilds }}" title="{{ footerPickupBuilds }}">{{ footerPickupBuilds }}</a>
+            </li>
+            <li>
+              <a href="{{ langPrefix }}{{ urlWinchGuides }}" title="{{ footerWinchGuides }}">{{ footerWinchGuides }}</a>
+            </li>
+            <li>
+              <a href="{{ langPrefix }}{{ urlOther }}" title="{{ footerOther }}">{{ footerOther }}</a>
             </li>
           </ul>
         </div>
         <div class="col-md-2">
-          <h3 class="color-light-1">Nawigacja</h3>
+          <h3 class="color-light-1">{{ footerNavTitle }}</h3>
           <ul class="footer-list">
             <li>
-              <a href="#oferta" title="Oferta">Oferta</a>
+              <a href="{{ urlOffer }}" title="{{ navOffer }}">{{ navOffer }}</a>
             </li>
             <li>
-              <a href="#opinie" title="Opinie">Opinie</a>
+              <a href="{{ urlGallery }}" title="{{ navGallery }}">{{ navGallery }}</a>
+            </li>
+            <li>
+              <a href="{{ urlContact }}" title="{{ navContact }}">{{ navContact }}</a>
             </li>
           </ul>
         </div>
@@ -78,7 +104,7 @@
           </ul>
         </div>
       </div>
--->
+
     </div>
     <div class="container"></div>
     <div class="footer-bottom pt-xsmall">

@@ -1,7 +1,7 @@
   <section class="hero-video">
     <div class="hero-content">
     <div class="container w-100">
-        <h1 class="xl hero-title">{{ title }}</h1>
+      <h1 class="xl split-lines color-light-1 col-md-6">{{ title }}</h1>
     </div>
     </div>
 <div class="yt-full">
@@ -14,57 +14,3 @@
 </iframe>
 </div>
     </section>
-
-<style>
-.yt-full {
-  position: relative;
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  aspect-ratio: 16 / 9;
-  overflow: hidden;
-}
-
-.yt-full iframe {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
-  pointer-events: none;
-  overflow: hidden
-}
-
-.w-100 {
-width: 100%
-}
-
-.hero-video {
-  position: relative;
-  overflow: hidden;
-}
-
-.hero-video::before {
-  position: absolute;
-  content: "";
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: #000;
-  opacity: .5;
-  z-index: 1
-}
-
-.hero-content {
-  position: absolute;
-  inset: 0;
-  height: 90vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0 1rem;
-  color: #fff;
-  z-index: 1;
-}
-
-  </style>

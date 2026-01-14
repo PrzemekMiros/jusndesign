@@ -2,7 +2,7 @@
 
 <article class="product-page pt-xlarge">
   <div class="container">
-    <div class="bg-light-1 rounded-md p-5">
+    <div class="bg-light-1 rounded-md p-3 p-md-5">
       <div class="p-md-3">
 
       <div class="product-main row">
@@ -31,10 +31,12 @@
 
           <h1 class="h2 product-title">{{ title }}</h1>
 
+<!--
           <div class="product-price h2">
             <span class="amount">{{ price }}</span>
             <span class="currency">PLN</span>
           </div>
+-->
 
           <div class="product-status">
             <div class="product-short-description">
@@ -83,7 +85,7 @@
         </div>
       </div>
 
-      <div class="product-details rounded-md bg-light-2 py-3 px-5 mt-5">
+      <div class="product-details rounded-md bg-light-2 py-3 px-3 py-md-3 px-md-5 mt-5">
         <section class="details-tab">
           <h2 class="section-title">Szczegóły produktu</h2>
           
@@ -250,9 +252,8 @@
 .lightbox-close { position: absolute; top: -40px; right: 0; color: #fff; background: none; border: 0; font-size: 1rem; cursor: pointer; }
 
 @media (max-width: 768px) {
-  .actions { flex-direction: column; }
+  .actions { flex-wrap: wrap; }
   .product-price { justify-content: center; }
-  .product-title { text-align: center; }
 }
 </style>
 
