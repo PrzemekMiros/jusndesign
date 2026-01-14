@@ -69,7 +69,7 @@ $message_body .= "\n--- UWAGA ---\n";
 $message_body .= "Kontakt został automatycznie dodany do newslettera GetResponse przez Web Connect.\n";
 
 // Wysyłanie emaila
-$email_sent = mail("kontakt@przmekmiros.pl", "Formularz współpracy ORE4x4 - $name", $message_body, $headers);
+$email_sent = mail("kontakt@przemekmiros.pl", "Formularz współpracy ORE4x4 - $name", $message_body, $headers);
 
 // Zwracanie odpowiedzi
 if ($email_sent) {
