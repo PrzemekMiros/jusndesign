@@ -1,59 +1,57 @@
 ﻿---
 lang: en
 layout: "layouts/product-en.njk"
-permalink: /products/skrzynia-wyprawowa/
-title: Skrzynia wyprawowa na klapę Jeep Wrangler JL / JK - Organizer 60L
-description: Aluminiowy organizer na tylną klapę do Jeepa Wranglera. Pojemność 60L, funkcja stolika, zintegrowane mocowanie kamery i tablicy.
+permalink: /products/jeep-wrangler-tailgate-trunk-organizer-toolbox/
+title: Jeep Wrangler JL JK Trunk Organizer Toolbox & Tailgate Storage Box
+description: Heavy-duty 60L aluminum storage box for Jeep Wrangler tailgate. Functions as a toolbox, outdoor table, and reinforced spare tire support.
 productImage: /content/products/img/skrzynka-narzedziowa.jpg
 categories:
   - Tailgate Toolbox
-price: 2850
-order: 1
+price: 2450
+order: 3
 
-# Dane techniczne dla szablonu
+# Technical data for template
 brand: JUSN
-material: Stop aluminium (6061)
-process: Piaskowanie, anodowanie i malowanie proszkowe
-weight: 18
-shippingInfo: Czas realizacji wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
+material: Aluminum Alloy (6061)
+process: Anodizing and Spraying Coating
+weight: 15
+shippingInfo: Please contact us with your car VIN and a photo of the installation position for a compatibility check.
 installation:
   difficulty: 3
   professional_required: false
-  method: Bezinwazyjny (wykorzystuje fabryczne otwory)
+  method: OE Matching (Lossless Installation)
 ---
 
-**Uwaga:** Prosimy o kontakt i przesłanie numeru VIN pojazdu oraz zdjęcia klapy w celu weryfikacji kompatybilności (zestaw pasuje do wersji JL oraz JK).
+**Specification:** Heavy-duty Tailgate Lock Storage Box for Jeep Wrangler JL/JK. Designed to allow easy tailgate operation even with heavy accessories.
 
-Innowacyjne rozwiązanie, które zamienia tylną klapę Twojego Jeepa w praktyczny schowek i stację roboczą. Zapomnij o problemach z ciężkim kołem zapasowym i denerwującym stukotem klapy.
+Upgrade your Jeep's storage and utility with the JUSN Tailgate Toolbox. It's not just a storage box; it's a versatile expedition tool.
 
-### Dlaczego warto wybrać JUSN?
-Rozwiązuje problem obciążonej klapy, ułatwiając jej zamykanie, oraz eliminuje irytujące grzechotanie i luzy, które pojawiają się w miarę starzenia się pojazdu.
+### WHY CHOOSE JUSN?
+Overcome the challenges of a heavy spare tire that makes closing the tailgate a struggle, while eliminating annoying rattles that often develop as your vehicle ages.
 
-### Szczegóły techniczne:
-* **MATERIAŁ:** Lekki i sztywny stop aluminium (6061).
-* **POJEMNOŚĆ:** 60 litrów przestrzeni bagażowej.
-* **PROCES:** Zaawansowane piaskowanie i anodowanie – odporność na UV i kwaśne deszcze.
+### Technical Details:
+* **MATERIAL:** Premium 6061 Aluminum Alloy for the perfect balance of strength and weight.
+* **PROCESS:** Advanced sandblasting, anodizing, and powder coating for maximum durability.
 
-### Główne cechy:
-* **Niezawodna jakość:** Wykonany z aluminium lotniczego, nie rdzewieje i zachowuje estetyczny wygląd przez lata, nawet w trudnych warunkach terenowych.
-* **Imponujący udźwig:** Konstrukcja jest na tyle wytrzymała, że dorosła osoba może na niej stanąć, aby sięgnąć do bagażnika dachowego. Antypoślizgowa powierzchnia zapewnia bezpieczeństwo.
-* **Lekkość:** Zoptymalizowana waga sprawia, że nawet dziecko poradzi sobie z domknięciem klapy.
-* **Wszechstronność (Stolik kawowy):** W kilka sekund zmienisz skrzynię w mini stolik lub bar. Idealne rozwiązanie na kemping, piknik lub jako mobilna stacja do gotowania.
-* **Szczelność:** Grube uszczelki skutecznie blokują kurz i deszcz, utrzymując narzędzia i sprzęt w czystości.
-* **Gotowe rozszerzenia:** Zintegrowany uchwyt na tablicę rejestracyjną, wspornik kamery cofania oraz fabryczne otwory na maszt flagowy i dodatkowe światło STOP.
-* **Bezinwazyjny montaż:** Precyzyjne dopasowanie do oryginalnych otworów w klapie Jeepa – brak konieczności wiercenia i naruszania struktury pojazdu.
-* **Organizacja 60L:** Wnętrze podzielone na 3 sekcje, idealne na kanistry z paliwem, liny kinetyczne i zestawy naprawcze.
-* **Zabezpieczenie:** Solidny zamek z osłoną przeciwpyłową chroni Twoje mienie przed kradzieżą i zabrudzeniem mechanizmu.
+### Main Features:
+* **Reliable Quality:** Crafted to resist UV rays and acid rain. The aluminum construction ensures it will never rust, standing the test of time in any environment.
+* **Impressive Load Capacity:** Strong enough for an adult to stand on. Features a non-slip surface to help you reach rooftop gear safely.
+* **Lightweight Operation:** Despite its strength, the lightweight design ensures even a child can close the tailgate easily.
+* **Versatile Use:** Transforms into a mini table or bar in seconds. Perfect for outdoor picnics, serving as your personal cooking station or leisure area.
+* **Weatherproof Sealing:** Thick sealing strips effectively block dust and rain, keeping your recovery kits and tools clean and dry.
+* **Smart Expansion:** Includes an integrated license plate holder and rear camera bracket. Pre-drilled holes for flagpoles and high-mount brake lights allow for easy customization.
+* **60L Storage Space:** Scientifically divided interior with 3 main sections to neatly store fuel cans, tow ropes, and recovery gear.
+* **Security:** Equipped with a lock featuring a dust cover to keep the mechanism clean and functional in muddy conditions.
+* **No-Damage Installation:** Precisely matches original factory holes. No drilling or cutting required, preserving your Jeep's structural integrity.
 
-### Informacje o montażu:
-* **Dopasowanie:** Dane zgodne z fabrycznymi (OE) – instalacja typu "Plug & Play".
-* **Poziom trudności:** 3/5.
-* **Bezinwazyjny montaż:** Tak (Lossless Installation).
-* **Zalecany montaż profesjonalny:** Tak, jeśli nie masz doświadczenia w pracach manualnych.
+### Installation Information:
+* **Fitting:** OE matching data – "Install and Play".
+* **Difficulty Level:** 3/5 stars.
+* **Professional Installation:** Recommended if you are not experienced with mechanical upgrades.
+* **Lossless Installation:** Yes.
 
-### Zawartość zestawu:
-* Skrzynia wyprawowa na klapę (Tailgate Toolbox) – 1 komplet.
+### Package Content:
+* Tailgate Toolbox - 1 Set
 
----
-**Wskazówka wyprawowa:** Dzięki funkcji stolika, ten organizer jest jednym z najczęściej wybieranych akcesoriów przez osoby budujące Jeepy pod Overland.
-
+**Compatibility Note:**
+Before ordering, please provide your vehicle's **VIN** and a photo of your current tailgate setup to ensure 100% compatibility.

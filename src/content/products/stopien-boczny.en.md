@@ -1,7 +1,7 @@
 ﻿---
 lang: en
 layout: "layouts/product-en.njk"
-permalink: /products/stopien-boczny/
+permalink: /products/truck-running-boards-for-ford-bronco/
 title: Truck Running Boards for Ford Bronco 2021-2025 w/ w/o Rock Rails, Side Steps Bars Sliders - 1 Pair
 description: Durable JUSN side steps for Ford Bronco (2021-2025). Made of 6061 Aluminum & Q235 Steel, featuring CNC anti-slip surface and 500 lbs capacity.
 productImage: /content/products/img/stopien-boczny.jpg
@@ -15,7 +15,7 @@ brand: JUSN
 material: Aluminum Alloy (6061), Carbon Steel (Q235)
 process: CNC Engraving, Electrophoresis, And Spraying Plastics
 weight: 25
-shippingInfo: Czas realizacji zamówienia wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
+shippingInfo: 
 installation:
   difficulty: 3
   professional_required: false

@@ -1,65 +1,60 @@
 ﻿---
 lang: en
 layout: "layouts/product-en.njk"
-permalink: /products/zabudowa-paki-byd-shark/
-title: Zabudowa paki (Hardtop) JUSN dla BYD Shark 6 z relingami górnymi
-description: Aluminiowa zabudowa paki dla BYD Shark 6. Konstrukcja z aluminium i magnezu, otwierane 3 boki, zintegrowane oświetlenie i panel przełączników AUX.
+permalink: /products/byd-shark-truck-bed-canopy/
+title: BYD Shark 6 Canopy Truck Bed with Top Horizontal Bar Aluminium Cap
+description: Aluminum magnesium alloy truck bed canopy for BYD Shark 6. Features 3-sided opening, integrated lighting, and AUX switch panel.
 productImage: /content/products/img/zabudowa.jpg
 categories:
   - Pick up Canopy
 price: 8900
 order: 1
 
-# Dane techniczne dla szablonu
+# Technical data for template
 brand: JUSN
-material: Stop aluminium i magnezu
-process: Obróbka CNC, anodowanie i malowanie proszkowe
+material: Aluminum Magnesium Alloy
+process: CNC, Anodizing and Spraying Coating
 weight: 85
-shippingInfo: Czas realizacji zamówienia wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
+shippingInfo: Order preparation takes 15 days. Sea and land shipping takes approximately 40 days.
 installation:
   difficulty: 4
   professional_required: true
-  method: Dopasowanie OE (Plug & Play)
+  method: OE Matching (Plug & Play)
 ---
 
-**Specyfikacja:** Zabudowa paki dla BYD Shark 6 (wersja z oknem wentylacyjnym). Przeznaczona dla wersji Pickup z krótką paką (Short Bed).
+**Specification:** Truck Bed Canopy for BYD Shark 6 (Canopy with a ventilation window). Designed for Pickup Trunk - Short Bed.
 
-Zrealizuj swoje marzenia o idealnej organizacji paki dzięki JUSN! Ta zabudowa to połączenie bezpieczeństwa, funkcjonalności i nowoczesnego designu.
+Unlock your pickup bed organization dreams with JUSN! This canopy combines safety, functionality, and modern design.
 
-### Dlaczego warto wybrać JUSN?
-Odblokuj potencjał swojego BYD Shark 6 i zabezpiecz swój bagaż w profesjonalny sposób.
+### WHY CHOOSE JUSN?
+Unlock your pickup bed's potential and protect your gear in a professional way.
 
-### Szczegóły techniczne:
-* **MATERIAŁ:** Lekki i wytrzymały stop aluminium i magnezu.
-* **PROCES:** Precyzyjna obróbka CNC, anodowanie oraz malowanie proszkowe.
+### Technical Details:
+* **MATERIAL:** Lightweight and durable Aluminum Magnesium Alloy.
+* **PROCESS:** Precision CNC machining, anodizing, and powder coating.
 
-### Główne cechy:
-* **Wyjątkowy styl:** Integralne tłoczenie i obróbka CNC nadają Twojemu pickupowi unikalny, techniczny wygląd, który wyróżnia się na drodze.
-* **Odporność na pogodę:** Wykończenie odporne na UV, kwaśne deszcze i rdzę zapewnia trwałość zabudowy przez lata.
-* **Łatwy dostęp:** Inteligentna konstrukcja otwierana z 3 stron sprawia, że załadunek i rozładunek bagażu jest niezwykle prosty.
-* **Bezpieczeństwo:** Zwiększ widoczność w nocy dzięki możliwości podpięcia zewnętrznego oświetlenia pod światła hamowania, obrysowe i do jazdy dziennej.
-* **Wielofunkcyjny dach:** Górne relingi są idealne do przewożenia namiotów dachowych, waliz i ciężkiego szpeju wyprawowego.
-* **Rozbudowa zasilania:** Panel AUX pozwala na podłączenie dodatkowych urządzeń, takich jak szperacze czy kompresory.
-* **Pełna widoczność:** Konstrukcja pozwala na bezproblemową obserwację paki w lusterku wstecznym – brak martwych punktów.
-* **Niezależne oświetlenie:** Zabudowa posiada własne przełączniki światła, ułatwiające pracę w nocy lub w ciemnych garażach.
-* **Pyłoszczelna konstrukcja:** Specjalne osłony zamków chronią mechanizmy przed błotem i kurzem, zapewniając ich sprawne działanie.
-* **Ochrona przed kradzieżą:** Wbudowane zamki zabezpieczają Twoje mienie przed niepowołanym dostępem.
-* **Dodatkowe miejsce:** Panele expansion board wewnątrz ułatwiają montaż uchwytów na narzędzia i akcesoria.
-* **Wygodne stopnie:** Hardtop wyposażony jest w 2 stopnie ułatwiające dostęp do bagażu na dachu.
-* **Wzmocniona konstrukcja:** Poziome belki poprzeczne zapobiegają uginaniu się dachu, nawet przy dużym obciążeniu (np. namiot dachowy z pasażerami).
-* **Sztywność i cisza:** Wysokiej wytrzymałości wsporniki montażowe minimalizują hałas i drgania podczas jazdy.
+### Main Features:
+* **Distinctive Style:** Integral stamping and CNC processing give your pickup a unique, technical look that stands out on the road.
+* **Weather Resistant:** Special finish resistant to UV rays, acid rain, and rust ensures the canopy lasts for years.
+* **Easy Access:** Smart 3-sided opening design makes loading and unloading your luggage a breeze.
+* **Safety First:** Enhance visibility at night by connecting external lights to the truck's brake, side, and daytime running lights.
+* **Multifunction Roof:** The top luggage rack is perfect for carrying large items like camping tents and suitcases.
+* **Power Expansion:** The AUX expansion switch allows you to connect devices like spotlights and air pumps.
+* **Clear Visibility:** Keep an eye on your truck bed easily through the rearview mirror – no obstructions or blind spots.
+* **Independent Lighting:** Features separate lighting switches for convenience in dark garages or outdoor areas.
+* **Dust-Proof Design:** Dust-proof buckle design ensures that dirt won’t block your locks, keeping them functional.
+* **Secure and Safe:** Built-in locks protect your belongings from theft, giving you peace of mind.
+* **Extra Storage Solutions:** Interior expansion boards accommodate small devices and tool mounts.
+* **Convenient Footrest:** Includes 2 footrests, making it easy to access the top of your truck.
+* **Durable Construction:** Reinforced horizontal bars prevent the top cover from bending, even with heavy loads like roof tents.
+* **Sturdy and Silent:** High-strength mounting brackets minimize movement and noise during driving.
 
-### Informacje o montażu:
-* **Dopasowanie:** Dane zgodne z fabrycznymi (OE) – montaż typu "instaluj i używaj".
-* **Poziom trudności:** 4/5.
-* **Wymagany profesjonalny montaż:** TAK.
+### Installation Information:
+* **Fitting:** OE matching data – "Install and Play" method.
+* **Difficulty Level:** 4/5 stars.
+* **Professional Installation Needed:** YES.
 
-### Zawartość zestawu:
-* Korpus zabudowy (Canopy Body) - 1 zestaw
-* Relingi górne (Top Horizontal Bar) - 1 para
-* Zewnętrzne panele boczne (Exterior Expansion Panels) - 1 para
-
----
-**Uwaga dotycząca wysyłki:**
-Czas przygotowania zamówienia to 15 dni. Transport morski i lądowy zajmuje około 40 dni roboczych.
-
+### Package Content:
+* Canopy Body - 1 Set
+* Top Horizontal Bar - 1 Pair
+* Exterior Expansion Panels - 1 Pair
