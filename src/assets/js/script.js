@@ -263,7 +263,8 @@ function appMain() {
 				var formData = new FormData(form);
 				var xhr = new XMLHttpRequest();
 
-				xhr.open('POST', 'https://www.futurewebstudio.pl/form/forms/' + formId + '.php');
+				var endpoint = form.getAttribute('action');
+				xhr.open('POST', endpoint ? endpoint : ('https://www.futurewebstudio.pl/form/forms/' + formId + '.php'));
 
 				xhr.onreadystatechange = function() {
 					if (xhr.readyState === XMLHttpRequest.DONE) {
