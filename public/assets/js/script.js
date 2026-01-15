@@ -1,4 +1,4 @@
-function appMain() {
+﻿function appMain() {
   
 	// Pobieramy aktualny adres URL
 	var currentUrl = window.location.pathname;
@@ -16,7 +16,7 @@ function appMain() {
 	if (document.querySelector("#greeting")) {
 		const greeting = document.getElementById("greeting");
 		const hour = new Date().getHours();
-		const welcomeTypes = ["Dzień dobry", "Dobry wieczór"];
+    const welcomeTypes = ["Dzien dobry", "Dobry wieczor"];
 		let welcomeText = "";
 		if (hour < 20) welcomeText = welcomeTypes[0];
 		else welcomeText = welcomeTypes[1];
@@ -272,7 +272,7 @@ function appMain() {
 							var res = JSON.parse(xhr.responseText);
 							if (res.status === 1) {
 								form.reset();
-								window.location.href = redirectUrl; // Przekieruj po pomyślnym wysłaniu formularza
+								window.location.href = redirectUrl; // Przekieruj po pomyĹ›lnym wysĹ‚aniu formularza
 							}
 						}
 					}
@@ -287,3 +287,4 @@ function appMain() {
 
 // End
 };
+

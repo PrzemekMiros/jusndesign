@@ -27,7 +27,7 @@ $message_body .= "Email: $email\n";
 $message_body .= "Wiadomosc: $message\n";
 $message_body .= "\nData wyslania: " . date("Y-m-d H:i:s") . "\n";
 
-$email_sent = mail("kontakt@przmekmiros.pl", "Formularz kontaktowy - $name", $message_body, $headers);
+$email_sent = mail("kontakt@przemekmiros.pl", "Formularz kontaktowy - $name", $message_body, $headers);
 
 if ($email_sent) {
     $success_message = "Dziekujemy za kontakt. Odpowiemy najszybciej jak to mozliwe.";
