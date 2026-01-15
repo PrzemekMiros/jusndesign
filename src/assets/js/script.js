@@ -253,48 +253,10 @@
 
 	}
 
-	function getFormRedirectUrl(plUrl, enUrl) {
-\tvar path = window.location.pathname || "";
-\tvar docLang = (document.documentElement.getAttribute("lang") || "").toLowerCase();
-\tif (path.indexOf("/en") === 0 || docLang === "en") {
-\t\treturn enUrl;
-\t}
-\treturn plUrl;
-}
-
-function handleSubmit(formId, redirectUrl) {
-		var form = document.getElementById(formId);
-
-		if (form) {
-			form.addEventListener('submit', function(e) {
-				e.preventDefault();
-
-				var formData = new FormData(form);
-				var xhr = new XMLHttpRequest();
-
-				var endpoint = form.getAttribute('action');
-				xhr.open('POST', endpoint ? endpoint : ('https://www.futurewebstudio.pl/form/forms/' + formId + '.php'));
-
-				xhr.onreadystatechange = function() {
-					if (xhr.readyState === XMLHttpRequest.DONE) {
-						if (xhr.status === 200) {
-							var res = JSON.parse(xhr.responseText);
-							if (res.status === 1) {
-								form.reset();
-								window.location.href = redirectUrl; // Przekieruj po pomyĹ›lnym wysĹ‚aniu formularza
-							}
-						}
-					}
-				};
-
-				xhr.send(formData);
-			});
-		}
-	}
-	handleSubmit('briefForm', getFormRedirectUrl('/pl/wyslano-formularz/', '/en/sendform/'));
-	handleSubmit('contactForm', getFormRedirectUrl('/pl/wyslano-formularz/', '/en/sendform/'));
-
 // End
 };
+
+
+
 
 
