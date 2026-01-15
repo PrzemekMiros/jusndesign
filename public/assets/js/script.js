@@ -253,7 +253,16 @@
 
 	}
 
-	function handleSubmit(formId, redirectUrl) {
+	function getFormRedirectUrl(plUrl, enUrl) {
+\tvar path = window.location.pathname || "";
+\tvar docLang = (document.documentElement.getAttribute("lang") || "").toLowerCase();
+\tif (path.indexOf("/en") === 0 || docLang === "en") {
+\t\treturn enUrl;
+\t}
+\treturn plUrl;
+}
+
+function handleSubmit(formId, redirectUrl) {
 		var form = document.getElementById(formId);
 
 		if (form) {
@@ -282,9 +291,10 @@
 			});
 		}
 	}
-	handleSubmit('briefForm', '/wyslano-formularz');
-	handleSubmit('contactForm', '/wyslano-formularz');
+	handleSubmit('briefForm', getFormRedirectUrl('/pl/wyslano-formularz/', '/en/sendform/'));
+	handleSubmit('contactForm', getFormRedirectUrl('/pl/wyslano-formularz/', '/en/sendform/'));
 
 // End
 };
+
 
