@@ -4256,18 +4256,18 @@ a {
 
 .transition-fade {
   opacity: 1;
-  transform: scale(1);
+  transform: translateY(0px);
   transition: 0.2s ease-in-out;
 }
 
 html.is-animating .transition-fade {
   opacity: 0;
-  transform: scale(0.98);
+  transform: translateY(40px);
 }
 
 html.is-rendering .transition-fade {
   opacity: 0;
-  transform: scale(0.98);
+  transform: translateY(-40px);
 }
 
 .swup-progress-bar {
