@@ -22,35 +22,36 @@ installation:
   method: No Drilling or Cutting Required - Install and Play
 ---
 
-**Ważne:** Sprawdź, czy Twój pojazd jest fabrycznie wyposażony w osłony progowe (**Rock Rails**) i wybierz odpowiednią opcję przy zamówieniu (**YES / NO**). Prosimy o kontakt i przesłanie numeru **VIN** oraz zdjęcia progu w celu weryfikacji kompatybilności.
 
-Ułatw sobie wsiadanie i chroń boki swojego Bronco dzięki wytrzymałym stopniom JUSN.
+**Important:** Please contact us and provide your **VIN** number and a photo of the door sill to verify compatibility.
 
-### Dlaczego warto wybrać JUSN?
-* **Trwałość:** No More Aging or Breaking like Plastic – zapomnij o pękającym plastiku, konstrukcja w całości metalowa.
-* **Lekkość:** Lightweight Compared to Heavy Stainless Steel – znacznie lżejsze niż stopnie ze stali nierdzewnej dzięki stopowi aluminium 6061.
+Make entering your vehicle easier and protect the sides of your Bronco with durable JUSN side steps.
 
-### Szczegóły techniczne:
-* **MATERIAŁ:** Aluminum Alloy (6061), Carbon Steel (Q235).
-* **PROCES:** CNC Engraving, Electrophoresis, And Spraying Plastics.
+### Why choose JUSN?
+* **Durability:** No More Aging or Breaking like Plastic – forget about cracking plastic; the construction is entirely metal.
+* **Lightweight:** Lightweight Compared to Heavy Stainless Steel – significantly lighter than stainless steel steps thanks to 6061 aluminum alloy.
 
-### Główne cechy:
-* **Easy Installation:** No Drilling or Cutting Required – montaż bez wiercenia i cięcia elementów konstrukcyjnych.
-* **Reliable Work:** Classic Mechanical Setup – tradycyjna konstrukcja mechaniczna (mniej awaryjna niż progi elektryczne).
-* **Anti Slip Surface:** CNC Machining Provides Excellent Grip – precyzyjnie wycinana struktura zapewnia bezpieczeństwo.
-* **Strong Capacity:** Made from Q235 Carbon Steel, Supports at Least 500 Lbs – wytrzymałość min. 225 kg na stronę.
-* **Lightweight & Easy to Clean:** Hollow Structure – ażurowa konstrukcja ułatwia mycie z błota i redukuje masę.
-* **Versatile for All Users:** Idealne dla kierowców, kobiet w ciąży, dzieci, seniorów oraz osób z trudnościami w poruszaniu się.
+### Technical Details:
+* **MATERIAL:** Aluminum Alloy (6061), Carbon Steel (Q235).
+* **PROCESS:** CNC Engraving, Electrophoresis, and Spraying Plastics.
 
-### Informacje o montażu:
-* **Dopasowanie:** OE Matching Data – oparte na fabrycznych danych Forda (Plug & Play).
-* **Poziom trudności:** 3 Stars (średniozaawansowany).
-* **Lossless Installation:** Tak (bezinwazyjny montaż wykorzystujący fabryczne otwory).
-* **Zalecany montaż profesjonalny:** Recommended if you haven't done something like this before.
+### Main Features:
+* **Easy Installation:** No Drilling or Cutting Required – installation without drilling or cutting structural components.
+* **Reliable Work:** Classic Mechanical Setup – traditional mechanical design (less prone to failure than electric steps).
+* **Anti-Slip Surface:** CNC Machining Provides Excellent Grip – precision-cut structure ensures safety.
+* **Strong Capacity:** Made from Q235 Carbon Steel, Supports at Least 500 Lbs – weight capacity of at least 225 kg per side.
+* **Lightweight & Easy to Clean:** Hollow Structure – openwork design makes it easy to wash off mud and reduces weight.
+* **Versatile for All Users:** Ideal for drivers, pregnant women, children, seniors, and people with mobility difficulties.
 
-### Zawartość zestawu:
-* Running Boards – 1 Pair (lewy + prawy stopień).
+### Installation Information:
+* **Fitment:** OE Matching Data – based on Ford factory data (Plug & Play).
+* **Difficulty Level:** 3 Stars (Intermediate).
+* **Lossless Installation:** Yes (non-invasive installation using factory holes).
+* **Professional Installation Recommended:** Recommended if you haven't done something like this before.
+
+### Kit Contents:
+* Running Boards – 1 Pair (Left + Right step).
 
 
-**Uwaga dotycząca kompatybilności:**
-Progi są dostosowane do modeli Ford Bronco (2021-2025). Prosimy o informację, czy auto posiada fabryczne rock railsy, abyśmy mogli dobrać odpowiedni zestaw montażowy.
+**Compatibility Note:**
+These side steps are designed for Ford Bronco models (2021-2025). Please let us know if your car has factory rock rails so we can provide the correct mounting kit.

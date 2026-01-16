@@ -26,14 +26,13 @@ installation:
 
 Satisfy all your imaginations about pickup truck trunk storage. The JUSN system is an advanced cargo solution that will change how you use your Ford's load space.
 
-### WHY CHOOSE JUSN?
 Unlock Your Truck Bed Organization Dreams with JUSN!
 
 ### Technical Details:
 * **MATERIAL:** Aluminum Alloy (6061), Carbon Steel (Q235).
 * **PROCESS:** CNC Engraving, Anodizing and Spraying Coating.
 
-### FEATURES:
+### Features:
 * **Distinctive Style:** Integral Stamping and CNC Processing Give Your Pickup a Unique and Eye Catching Look That Stands out on the Road.
 * **Weather Resistant:** Special Anodized and Powder Coated Finish Against UV Rays, Acid Rain, and Rust, Ensuring Your Storage Racks System Lasts for Years.
 * **Convenient Side Access:** The Top Hydraulic Rods Allow the Rack to Open Sideways, Making it Easy to Load and Unload Your Luggage Directly from the Top.
@@ -43,11 +42,11 @@ Unlock Your Truck Bed Organization Dreams with JUSN!
 * **Multifunction Storage Options:** The Top Luggage Rack is Perfect for Carrying Large Items like Camping Tents and Suitcases, Making it Ideal for Travel.
 * **Extra Storage Solutions:** The Expansion Board Inside the Box Meets Most of Your Storage Needs, Accommodating Small Devices You May Require.
 
-### INSTALLATION:
+### Installation:
 * **Matching:** OE Matching Data – Install and Play.
 * **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
 * **Professional Installation Needed?** YES.
 
-### PACKAGE:
+### Package:
 * Storage Rack System - 1 Set.
 

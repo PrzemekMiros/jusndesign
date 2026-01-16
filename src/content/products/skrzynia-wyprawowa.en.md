@@ -26,7 +26,7 @@ installation:
 
 Upgrade your Jeep's storage and utility with the JUSN Tailgate Toolbox. It's not just a storage box; it's a versatile expedition tool.
 
-### WHY CHOOSE JUSN?
+### Why choose JUSN?
 Overcome the challenges of a heavy spare tire that makes closing the tailgate a struggle, while eliminating annoying rattles that often develop as your vehicle ages.
 
 ### Technical Details:

@@ -26,8 +26,6 @@ installation:
 
 Unlock your pickup bed organization dreams with JUSN! This canopy combines safety, functionality, and modern design.
 
-### WHY CHOOSE JUSN?
-Unlock your pickup bed's potential and protect your gear in a professional way.
 
 ### Technical Details:
 * **MATERIAL:** Lightweight and durable Aluminum Magnesium Alloy.

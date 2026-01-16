@@ -25,8 +25,6 @@ installation:
 
 Spełnij wszystkie swoje oczekiwania dotyczące przechowywania na pace pickupa.
 
-### Dlaczego warto wybrać JUSN?
-Zrealizuj swoje marzenia o idealnej organizacji paki z systemem JUSN!
 
 ### Szczegóły techniczne:
 * **MATERIAŁ:** Stop aluminium (6061), stal węglowa (Q235)

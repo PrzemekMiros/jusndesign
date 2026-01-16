@@ -26,7 +26,7 @@ installation:
 
 Enhance your Ford Bronco's interior with JUSN's premium grab handles. Beyond providing a solid grip for high-clearance entry, these handles serve as a critical safety companion for any off-road expedition.
 
-### WHY CHOOSE JUSN?
+### Why choose JUSN?
 Off-roading often means navigating bumpy terrain where passenger stability is key. JUSN Grab Handles provide an extra layer of safety, ensuring everyone stays secure in their seats while adding a rugged, high-end look to your Bronco's cabin.
 
 ### Technical Details:

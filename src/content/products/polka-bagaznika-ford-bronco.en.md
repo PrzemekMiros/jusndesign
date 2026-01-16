@@ -4,7 +4,7 @@ layout: "layouts/product-en.njk"
 permalink: /products/ford-bronco-interior-cargo-storage-basket/
 title: Interior Rear Cargo Storage Basket for Ford Bronco
 description: Heavy-duty trunk luggage shelf for Ford Bronco. Features a quick-release design, all-metal structure, and tactical hanging plates for optimal organization.
-productImage: /content/products/img/wew-polka-bagaz-bronco.jpg
+productImage: /content/products/img/wew-polka-bagaz-bronco.png
 categories:
   - Other Off Road Accessories
 price: 1850

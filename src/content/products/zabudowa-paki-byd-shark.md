@@ -24,8 +24,6 @@ installation:
 
 Zrealizuj swoje marzenia o idealnej organizacji paki dzięki JUSN! Ta zabudowa to połączenie bezpieczeństwa, funkcjonalności i nowoczesnego designu.
 
-### Dlaczego warto wybrać JUSN?
-Odblokuj potencjał swojego BYD Shark 6 i zabezpiecz swój bagaż w profesjonalny sposób.
 
 ### Szczegóły techniczne:
 * **MATERIAŁ:** Lekki i wytrzymały stop aluminium i magnezu.

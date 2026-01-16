@@ -26,7 +26,7 @@ installation:
 
 Upgrade your Jeep's interior with the latest artwork from JUSN. This isn't just a cup holder – it's a cooling and heating station for your beverages, perfectly positioned for easy access during any trail ride.
 
-### WHY CHOOSE JUSN?
+### Why choose JUSN?
 Cold drinks on hot days, hot drinks on cold days – you can always find the most suitable drinking water temperature in this cup holder. By utilizing the air flow from your AC vent, your beverage stays exactly how you like it.
 
 ### Technical Details:
