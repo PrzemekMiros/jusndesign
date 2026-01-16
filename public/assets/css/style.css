@@ -4487,7 +4487,7 @@ html.is-rendering .transition-fade {
 }
 :root {
   --font-primary: "Poppins";
-  --font-secondary: "Poppins";
+  --font-secondary: "Orbitron";
   --fs-sm: clamp(12.8px, 0.8vw, 13.8px);
   --fs-base: clamp(16px, 1.1vw, 17px);
   --fs-md: clamp(18.4px, 1.5vw, 22.7px);
@@ -5099,14 +5099,23 @@ html.lenis, html.lenis body {
   overflow: hidden;
 }
 
-.yt-full iframe {
+.yt-full iframe,
+.yt-full video {
   position: absolute;
   inset: 0;
   width: 260%;
   height: 100%;
   border: 0;
-  pointer-events: none;
   overflow: hidden;
+  object-fit: cover;
+}
+
+.yt-full iframe {
+  pointer-events: none;
+}
+
+.yt-full video {
+  pointer-events: auto;
 }
 
 .w-100 {
@@ -5144,9 +5153,10 @@ html.lenis, html.lenis body {
 
 @media (min-width: 767px) {
   .yt-full {
-    aspect-ratio: 16/9;
+    aspect-ratio: 20/9;
   }
-  .yt-full iframe {
+  .yt-full iframe,
+  .yt-full video {
     width: 100%;
     height: 100%;
   }

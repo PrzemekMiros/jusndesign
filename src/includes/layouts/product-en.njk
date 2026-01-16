@@ -25,16 +25,18 @@
           <nav class="breadcrumb">
             <a href="{{ langPrefix }}/">Main</a> |  
             {% for cat in categories %}
-              <a href="{{ langPrefix }}/produkty/{{ cat | slugify }}/">{{ cat }}</a>{% if not loop.last %} , {% endif %}
+              <a href="{{ langPrefix }}/offer/{{ cat | slugify }}/">{{ cat }}</a>{% if not loop.last %} , {% endif %}
             {% endfor %}
           </nav>
 
           <h1 class="h2 product-title">{{ title }}</h1>
 
+          <!--
           <div class="product-price h2">
             <span class="amount">{{ price }}</span>
             <span class="currency">PLN</span>
           </div>
+          -->
 
           <div class="product-status">
             <div class="product-short-description">

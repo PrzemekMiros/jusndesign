@@ -21,7 +21,7 @@
 }
 :root {
   --font-primary: "Poppins";
-  --font-secondary: "Poppins";
+  --font-secondary: "Orbitron";
   --fs-sm: clamp(12.8px, 0.8vw, 13.8px);
   --fs-base: clamp(16px, 1.1vw, 17px);
   --fs-md: clamp(18.4px, 1.5vw, 22.7px);

@@ -22,6 +22,59 @@
 		else welcomeText = welcomeTypes[1];
 		greeting.innerHTML = welcomeText;
 	}
+
+	// Ensure hero video plays; show controls if autoplay is blocked.
+	const heroVideo = document.querySelector(".yt-full video");
+	if (heroVideo) {
+		heroVideo.muted = true;
+		heroVideo.playsInline = true;
+		const playPromise = heroVideo.play();
+		if (playPromise && typeof playPromise.catch === "function") {
+			playPromise.catch(() => {
+				heroVideo.setAttribute("controls", "controls");
+			});
+		}
+	}
+
+	// Submit contact form via AJAX and redirect on success.
+	if (!window.__contactFormBound) {
+		window.__contactFormBound = true;
+		document.addEventListener("submit", function (event) {
+			const form = event.target;
+			if (!form || form.id !== "contactForm") return;
+			event.preventDefault();
+
+			const statusEl = form.querySelector("#send_contact_form_status");
+			if (statusEl) statusEl.innerHTML = "";
+
+			const formData = new FormData(form);
+			const lang = (formData.get("form_lang") || "pl").toString().toLowerCase();
+			const successRedirect = lang === "en" ? "/en/sendform/" : "/pl/wyslano-formularz/";
+
+			fetch(form.action, {
+				method: "POST",
+				body: formData,
+				headers: {
+					"X-Requested-With": "XMLHttpRequest"
+				}
+			})
+				.then((response) => response.json())
+				.then((data) => {
+					if (data && data.status === 1) {
+						window.location.href = successRedirect;
+						return;
+					}
+					if (statusEl && data && data.msg) {
+						statusEl.innerHTML = data.msg;
+					}
+				})
+				.catch(() => {
+					if (statusEl) {
+						statusEl.innerHTML = "<p class='status_err'>Wystapil problem z wyslaniem formularza.</p>";
+					}
+				});
+		}, true);
+	}
   // Header scrolled
 	(function() {
 		var doc = document.documentElement;
