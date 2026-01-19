@@ -160,6 +160,8 @@
     {% set navOffer = "Oferta" %}
     {% set navGallery = "Galeria" %}
     {% set navContact = "Kontakt" %}
+    {% set megaTitleCategories = "Kategorie" %}
+    {% set megaTitleFeatured = "Polecane" %}
     {% set urlOffer = "/pl/oferta/" %}
     {% set urlGallery = "/pl/galeria/" %}
     {% set urlContact = "/pl/kontakt/" %}
@@ -188,6 +190,8 @@
       {% set navOffer = "Offer" %}
       {% set navGallery = "Gallery" %}
       {% set navContact = "Contact" %}
+      {% set megaTitleCategories = "Categories" %}
+      {% set megaTitleFeatured = "Featured" %}
       {% set urlOffer = "/offer/" %}
       {% set urlGallery = "/gallery/" %}
       {% set urlContact = "/contact/" %}
@@ -250,17 +254,45 @@
                   <ul class="menu d-flex justify-content-center">
                     <li class="has-dropdown">
                       <a href="{{ urlOffer }}" class="link-hover" title="{{ navOffer }}"> {{ navOffer }} </a>
-                        <ul class="dropdown">
-                          <li><a href="{{ langPrefix }}{{ urlBedOrganizers }}">{{ dropdownBedOrganizers }}</a></li>
-                          <li><a href="{{ langPrefix }}{{ urlSideSteps }}">{{ dropdownSideSteps }}</a></li>
-                          <li><a href="{{ langPrefix }}{{ urlPickupBuilds }}">{{ dropdownPickupBuilds }}</a></li>
-                           <li><a href="{{ langPrefix }}{{ urlWinchGuides }}">{{ dropdownWinchGuides }}</a></li>
-                          <li><a href="{{ langPrefix }}{{ urlToolboxes }}">{{ dropdownToolboxes }}</a></li>
-                          <li><a href="{{ langPrefix }}{{ urlTailgateHandles }}">{{ dropdownTailgateHandles }}</a></li>
-                          <li><a href="{{ langPrefix }}{{ urlRoofHandles }}">{{ dropdownRoofHandles }}</a></li>
-                          <li><a href="{{ langPrefix }}{{ urlCupHolders }}">{{ dropdownCupHolders }}</a></li>
-                          <li><a href="{{ langPrefix }}{{ urlOther }}">{{ dropdownOther }}</a></li>
-                        </ul>
+                      <div class="mega-menu">
+                        <div class="mega-menu-inner">
+                          <div class="mega-col">
+                            <p class="mega-title">{{ megaTitleCategories }}</p>
+                            <ul class="mega-list">
+                              <li><a href="{{ langPrefix }}{{ urlBedOrganizers }}">{{ dropdownBedOrganizers }}</a></li>
+                              <li><a href="{{ langPrefix }}{{ urlSideSteps }}">{{ dropdownSideSteps }}</a></li>
+                              <li><a href="{{ langPrefix }}{{ urlPickupBuilds }}">{{ dropdownPickupBuilds }}</a></li>
+                              <li><a href="{{ langPrefix }}{{ urlWinchGuides }}">{{ dropdownWinchGuides }}</a></li>
+                              <li><a href="{{ langPrefix }}{{ urlToolboxes }}">{{ dropdownToolboxes }}</a></li>
+                              <li><a href="{{ langPrefix }}{{ urlTailgateHandles }}">{{ dropdownTailgateHandles }}</a></li>
+                              <li><a href="{{ langPrefix }}{{ urlRoofHandles }}">{{ dropdownRoofHandles }}</a></li>
+                              <li><a href="{{ langPrefix }}{{ urlCupHolders }}">{{ dropdownCupHolders }}</a></li>
+                              <li><a href="{{ langPrefix }}{{ urlOther }}">{{ dropdownOther }}</a></li>
+                            </ul>
+                          </div>
+                          <div class="mega-col">
+                            <p class="mega-title">{{ megaTitleFeatured }}</p>
+                            <div class="mega-featured">
+                              <a href="{{ langPrefix }}{{ urlPickupBuilds }}" class="mega-card">
+                                <img src="/assets/img/offer/ranger.webp" alt="{{ dropdownPickupBuilds }}">
+                                <span>{{ dropdownPickupBuilds }}</span>
+                              </a>
+                              <a href="{{ langPrefix }}{{ urlBedOrganizers }}" class="mega-card">
+                                <img src="/assets/img/offer/category-1.webp" alt="{{ dropdownBedOrganizers }}">
+                                <span>{{ dropdownBedOrganizers }}</span>
+                              </a>
+                              <a href="{{ langPrefix }}{{ urlTailgateHandles }}" class="mega-card">
+                                <img src="/assets/img/offer/wrangler.webp" alt="{{ dropdownTailgateHandles }}">
+                                <span>{{ dropdownTailgateHandles }}</span>
+                              </a>
+                              <a href="{{ langPrefix }}{{ urlSideSteps }}" class="mega-card">
+                                <img src="/assets/img/offer/category-2.webp" alt="{{ dropdownSideSteps }}">
+                                <span>{{ dropdownSideSteps }}</span>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
                     </li>
                     <li>
                       <a href="{{ urlGallery }}" class="link-hover" title="{{ navGallery }}"> {{ navGallery }} </a>
@@ -338,9 +370,8 @@
                     <a href="{{ urlContact }}" title="{{ navContact }}">{{ navContact }}</a>
                   </li>
                   <div class="line-xh"></div>
-                </ul>
-              </nav>
-              <div class="mobile-lang-switch d-flex justify-content-center mt-4">
+                  <li>
+                     <div class="mobile-lang-switch">
                 {% if isEn %}
                   <a href="{{ urlPl | url }}" class="link-hover" aria-label="Polski">
                     <svg width="26" height="18" viewBox="0 0 26 18" role="img" aria-hidden="true">
@@ -360,6 +391,11 @@
                   </a>
                 {% endif %}
               </div>
+                  </li>
+                  <div class="line-xh"></div>
+                </ul>
+              </nav>
+             
               <!--
                 <div class="nav-social"><ul class="nav-social"><li><a href="#" title="Oferta" target="_blank"><svg width="38" height="38" viewBox="0 0 38 38" fill="none"
 																																		xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_713_2)"><path d="M34.8307 18.9993C34.8307 10.2593 27.7374 3.16602 18.9974 3.16602C10.2574 3.16602 3.16406 10.2593 3.16406 18.9993C3.16406 26.6627 8.61073 33.0435 15.8307 34.516V23.7493H12.6641V18.9993H15.8307V15.041C15.8307 11.9852 18.3166 9.49935 21.3724 9.49935H25.3307V14.2493H22.1641C21.2932 14.2493 20.5807 14.9618 20.5807 15.8327V18.9993H25.3307V23.7493H20.5807V34.7535C28.5766 33.9619 34.8307 27.2168 34.8307 18.9993Z" fill="black"/></g><defs><clipPath id="clip0_713_2"><rect width="38" height="38" fill="white"/></clipPath></defs></svg></a></li><li><a href="#" title="Glaeria" target="_blank"><svg width="38" height="38" viewBox="0 0 38 38" fill="none"
