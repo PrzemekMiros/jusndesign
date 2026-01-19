@@ -31,7 +31,7 @@ $message_body .= "Email: $email\n";
 $message_body .= "Wiadomosc: $message\n";
 $message_body .= "\nData wyslania: " . date("Y-m-d H:i:s") . "\n";
 
-$email_sent = mail("kontakt@przemekmiros.pl", "Formularz kontaktowy - $name", $message_body, $headers);
+$email_sent = mail("przemekmiros@ore4x4.pl", "Formularz kontaktowy - $name", $message_body, $headers);
 
 if ($email_sent && !$is_ajax) {
     header("Location: " . $success_redirect);
