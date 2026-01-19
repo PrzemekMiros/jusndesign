@@ -306,10 +306,87 @@
 
 	}
 
+	initProductLightbox();
+
 // End
 };
 
 
 
+function initProductLightbox() {
+	const lightbox = document.getElementById("lightbox");
+	if (!lightbox || lightbox.dataset.lightboxBound === "true") {
+		return;
+	}
+
+	const imageEl = lightbox.querySelector("#lightbox-image");
+	const triggers = document.querySelectorAll(".lightbox-trigger");
+	const closeEls = lightbox.querySelectorAll("[data-lightbox-close]");
+
+	if (!triggers.length || !imageEl) {
+		return;
+	}
+
+	const openLightbox = (src, alt) => {
+		imageEl.src = src;
+		imageEl.alt = alt || "";
+		lightbox.classList.add("is-open");
+		lightbox.setAttribute("aria-hidden", "false");
+		document.body.style.overflow = "hidden";
+	};
+
+	const closeLightbox = () => {
+		lightbox.classList.remove("is-open");
+		lightbox.setAttribute("aria-hidden", "true");
+		imageEl.src = "";
+		document.body.style.overflow = "";
+	};
+
+	triggers.forEach((trigger) => {
+		if (trigger.dataset.lightboxBound === "true") {
+			return;
+		}
+		trigger.dataset.lightboxBound = "true";
+		trigger.addEventListener("click", (event) => {
+			event.preventDefault();
+			const src =
+				trigger.getAttribute("data-lightbox-src") || trigger.getAttribute("href");
+			if (!src) {
+				return;
+			}
+			const img = trigger.querySelector("img");
+			openLightbox(src, img ? img.getAttribute("alt") : "");
+		});
+	});
+
+	closeEls.forEach((el) => {
+		if (el.dataset.lightboxCloseBound === "true") {
+			return;
+		}
+		el.dataset.lightboxCloseBound = "true";
+		el.addEventListener("click", closeLightbox);
+	});
+
+	if (!window.__productLightboxEscBound) {
+		window.__productLightboxEscBound = true;
+		document.addEventListener("keydown", (event) => {
+			if (event.key !== "Escape") {
+				return;
+			}
+			const active = document.querySelector(".lightbox.is-open");
+			if (active) {
+				const activeImg = active.querySelector("#lightbox-image");
+				active.classList.remove("is-open");
+				active.setAttribute("aria-hidden", "true");
+				if (activeImg) {
+					activeImg.src = "";
+				}
+				document.body.style.overflow = "";
+			}
+		});
+	}
+
+	lightbox.dataset.lightboxBound = "true";
+}
 
 

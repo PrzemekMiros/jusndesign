@@ -2,7 +2,7 @@
 lang: pl
 title: Zabudowa paki (Hardtop) JUSN dla BYD Shark 6 z relingami górnymi
 description: Aluminiowa zabudowa paki dla BYD Shark 6. Konstrukcja z aluminium i magnezu, otwierane 3 boki, zintegrowane oświetlenie i panel przełączników AUX.
-productImage: /content/products/img/zabudowa.jpg
+productImage: /content/products/img/zabudowa2.png
 categories:
   - Zabudowy do pickupów
 price: 8900
