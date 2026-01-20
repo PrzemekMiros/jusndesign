@@ -4271,7 +4271,8 @@ a {
   margin-bottom: 30px;
 }
 
-h1, h2 {
+.policy h1,
+.policy h2 {
   color: var(--text-dark);
   font-weight: 800;
   display: flex;
@@ -4280,27 +4281,27 @@ h1, h2 {
   margin-bottom: 20px;
 }
 
-h1::before, h2::before {
+.policy h1::before, .policy h2::before {
   content: attr(data-number);
   color: var(--accent-orange);
   margin-right: 15px;
   font-size: 1.2em;
 }
 
-h1 {
+.policy h1 {
   font-size: 2.2rem;
 }
 
-h2 {
+.policy h2 {
   font-size: 2rem;
 }
 
-p {
+.policy p {
   margin-bottom: 20px;
   font-size: 1.05rem;
 }
 
-strong {
+.policy strong {
   color: var(--text-dark);
 }
 
@@ -4326,14 +4327,14 @@ strong {
 }
 
 /* Kafelki Prawa Użytkownika */
-.rights-grid {
+.policy .rights-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 15px;
   margin-top: 30px;
 }
 
-.right-item {
+.policy .right-item {
   border: 1px solid var(--border-light);
   border-radius: 12px;
   padding: 20px;
@@ -4348,20 +4349,20 @@ strong {
   background-color: #fff9f6;
 }
 
-.contact-section {
+.policy .contact-section {
   margin-top: 60px;
   padding-top: 30px;
   border-top: 1px solid var(--border-light);
 }
 
-.contact-link {
+.policy .contact-link {
   color: var(--accent-orange);
   text-decoration: none;
   font-weight: bold;
   font-size: 1.2rem;
 }
 
-.contact-link:hover {
+.policy .contact-link:hover {
   text-decoration: underline;
 }
 
@@ -4641,28 +4642,28 @@ h6,
 .xl {
   margin-bottom: 0.5em;
   font-size: var(--fs-xxl);
-  line-height: 1.25;
+  line-height: 1.1;
 }
 
 h1,
 .h1 {
   margin-bottom: 0.5em;
   font-size: var(--fs-xl);
-  line-height: 1.3;
+  line-height: 1.2;
 }
 
 h2,
 .h2 {
   margin-bottom: 0.8em;
   font-size: var(--fs-lg);
-  line-height: 1.3;
+  line-height: 1.25;
 }
 
 h3,
 .h3 {
   margin-bottom: 0.8em;
   font-size: var(--fs-md);
-  line-height: 1.4;
+  line-height: 1.3;
 }
 
 h4,
@@ -5043,7 +5044,7 @@ html.lenis, html.lenis body {
     width: min(600px, 100vw);
   }
   .mega-featured {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
 @media (min-width: 1024px) {
@@ -5051,7 +5052,7 @@ html.lenis, html.lenis body {
     width: min(900px, 100vw);
   }
   .mega-featured {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 }
 @media (min-width: 1200px) {
@@ -5059,7 +5060,7 @@ html.lenis, html.lenis body {
     width: min(1080px, 100vw);
   }
   .mega-featured {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 }
 @media (min-width: 1400px) {
@@ -6914,6 +6915,7 @@ button.swiper-pagination-bullet {
   */
 .footer-logo {
   width: 265px;
+  margin-bottom: 8px;
 }
 
 .footer-bottom {
