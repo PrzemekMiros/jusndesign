@@ -4634,6 +4634,10 @@ blockquote {
   overflow: hidden;
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
+
 html.lenis, html.lenis body {
   height: auto;
 }
