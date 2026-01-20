@@ -7,7 +7,9 @@ layout: null
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {%- for item in collections.all %}
-        {%- if item.url and item.url != "/sitemap.xml" and item.url != "/robots.txt" and item.data.robots != "noindex" and item.data.eleventyExcludeFromCollections != true %}
+        {%- set isAdmin = item.url and item.url.startsWith("/admin/") %}
+        {%- set isSystem = item.url == "/sitemap.xml" or item.url == "/robots.txt" %}
+        {%- if item.url and not isAdmin and not isSystem and item.data.robots != "noindex" and item.data.eleventyExcludeFromCollections != true %}
         <url>
             <loc>{{ baseUrl }}{{ item.url }}</loc>
             {%- if item.date %}
