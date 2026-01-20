@@ -1,6 +1,15 @@
 <section class="pt-xlarge pb-small p-relative bg-dark-1">
     <div class="container">
         <div class="col-md-6 mx-auto text-center">
+          {% set breadcrumbHome = "Strona glowna" %}
+          {% if lang == "en" %}
+          {% set breadcrumbHome = "Home" %}
+          {% endif %}
+          <nav class="breadcrumbs uppercase small color-accent-1">
+            <a href="{{ langPrefix }}/">{{ breadcrumbHome }}</a>
+            <span>|</span>
+            <span>{{ title }}</span>
+          </nav>
           <h1 class="xl mt-0 color-light-1 split-lines">{{ title }}</h1>
           <p class="split-lines">{{ description }}</p>
         </div>

@@ -22,7 +22,7 @@
         </div>
 
         <div class="col-md-6 product-info">
-          <nav class="breadcrumb">
+          <nav class="breadcrumbs uppercase small color-accent-1">
             <a href="{{ langPrefix }}/">Main</a> |  
             {% for cat in categories %}
               <a href="{{ langPrefix }}/offer/{{ cat | slugify }}/">{{ cat }}</a>{% if not loop.last %} , {% endif %}
