@@ -142,7 +142,7 @@
   position: absolute;
   top: 100%;
   left: 50%;
-  width: min(1480px, 100vw);
+  width: min(780px, 100vw);
   background-color: var(--color-dark-1);
   box-shadow: 0 12px 30px rgba(17, 17, 17, 0.4);
   border-radius: 16px;
@@ -243,6 +243,26 @@
   transform: scale(1.04);
 }
 
+@media (min-width: 767px) {
+  .mega-menu {
+    width: min(600px, 100vw);
+  }
+}
+@media (min-width: 1024px) {
+  .mega-menu {
+    width: min(900px, 100vw);
+  }
+}
+@media (min-width: 1200px) {
+  .mega-menu {
+    width: min(1240px, 100vw);
+  }
+}
+@media (min-width: 1400px) {
+  .mega-menu {
+    width: min(1460px, 100vw);
+  }
+}
 .menu-toggle {
   width: 44px;
   height: 44px;
