@@ -230,11 +230,7 @@
 
 .mega-card:hover {
   transform: translateY(-2px);
-  border-color: rgba(255, 255, 255, 0.2509803922);
-}
-
-.mega-card:hover img {
-  transform: scale(1.04);
+  border-color: var(--color-accent-1);
 }
 
 @media (min-width: 767px) {
@@ -255,7 +251,7 @@
 }
 @media (min-width: 1200px) {
   .mega-menu {
-    width: min(1240px, 100vw);
+    width: min(1080px, 100vw);
   }
   .mega-featured {
     grid-template-columns: repeat(4, minmax(0, 1fr));
