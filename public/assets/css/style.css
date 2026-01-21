@@ -5533,6 +5533,7 @@ html.lenis, html.lenis body {
 
 .video-embed-sec-small img {
   height: 100%;
+  object-fit: cover;
 }
 
 .video-embed-sec-small iframe {

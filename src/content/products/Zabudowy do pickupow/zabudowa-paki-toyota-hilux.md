@@ -3,7 +3,7 @@ lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/toyota-hilux-zabudowa-paki-canopy-hardtop/
 title: Zabudowa Paki Hardtop JUSN dla Toyota Hilux - Aluminiowe Canopy z Akcesoriami
-description: Profesjonalne Canopy JUSN do Toyoty Hilux. Wykonane ze stopu aluminium i magnezu. System otwierania z 3 stron, panele Molle i zintegrowane oświetlenie.
+description: Profesjonalna zabudowa JUSN do Toyoty Hilux. Wykonane ze stopu aluminium i magnezu. System otwierania z 3 stron, panele Molle i zintegrowane oświetlenie.
 productImage: /content/products/img/zabudowa-toyota-hilux.png
 categories:
   - Zabudowy do pickupów
@@ -15,7 +15,7 @@ brand: JUSN
 material: Stop aluminium i magnezu
 process: Obróbka CNC, Anodowanie i Malowanie Proszkowe
 weight: 85
-shippingInfo: Czas realizacji wynosi 15 dni, transport morski i lądowy zajmuje około 40 dni.
+shippingInfo:
 installation:
   difficulty: 4
   professional_required: true
