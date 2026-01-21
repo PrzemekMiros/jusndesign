@@ -1,4 +1,4 @@
----
+﻿---
 lang: en
 permalink: /offer/other-off-road-accessories/
 title: Other Off Road Accessories
@@ -32,7 +32,7 @@ category: Other Off Road Accessories
       <div class="col-md-4 col-lg-3">
         <a href="{{ product.url | url }}">
         <article class="product-card rounded-md">
-          <img src="{{product.data.productImage}}">
+          {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0">{{ product.data.title }}</h3>
           </div>
@@ -42,10 +42,11 @@ category: Other Off Road Accessories
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produkt�w w tej kategorii.</p>
+    <p>Brak produktďż˝w w tej kategorii.</p>
   {% endif %}
   </div>
 </section>
+
 
 
 

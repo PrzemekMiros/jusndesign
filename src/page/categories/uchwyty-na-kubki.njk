@@ -1,4 +1,4 @@
----
+﻿---
 lang: pl
 title: Uchwyty na kubki
 category: Uchwyty na kubki
@@ -31,7 +31,7 @@ category: Uchwyty na kubki
         <div class="col-md-4 col-lg-3">
         <a href="{{ product.url | url }}">
         <article class="product-card rounded-md">
-          <img src="{{product.data.productImage}}">
+          {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0">{{ product.data.title }}</h3>
           </div>
@@ -41,10 +41,11 @@ category: Uchwyty na kubki
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktów w tej kategorii.</p>
+    <p>Brak produktĂłw w tej kategorii.</p>
   {% endif %}
   </div>
 </section>
+
 
 
 

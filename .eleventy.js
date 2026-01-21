@@ -11,6 +11,7 @@ const lineStatic = require('./src/shortcodes/lineStatic.js');
 const siteImage = require('./src/shortcodes/Image.js');
 const blogImage = require('./src/shortcodes/blogImage.js');
 const workImage = require('./src/shortcodes/workImage.js');
+const productImage = require('./src/shortcodes/productImage.js');
 
 module.exports = function(eleventyConfig) {
 
@@ -35,6 +36,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addNunjucksAsyncShortcode("Image", siteImage);
     eleventyConfig.addNunjucksAsyncShortcode("blogImage", blogImage);
     eleventyConfig.addNunjucksAsyncShortcode("workImage", workImage);
+    eleventyConfig.addNunjucksAsyncShortcode("productImage", productImage);
 
     eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
     

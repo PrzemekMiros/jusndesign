@@ -1,7 +1,7 @@
----
+﻿---
 lang: pl
-title: Organizery skrzyń
-category: Organizery skrzyń
+title: Organizery skrzyĹ„
+category: Organizery skrzyĹ„
 ---
 
 <section class="pt-xlarge products-category">
@@ -31,7 +31,7 @@ category: Organizery skrzyń
       <div class="col-md-4 col-lg-3">
         <a href="{{ product.url | url }}">
         <article class="product-card rounded-md">
-          <img src="{{product.data.productImage}}">
+          {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0 line-clamp-3">{{ product.data.title }}</h3>
           </div>
@@ -41,10 +41,11 @@ category: Organizery skrzyń
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktów w tej kategorii.</p>
+    <p>Brak produktĂłw w tej kategorii.</p>
   {% endif %}
   </div>
 </section>
+
 
 
 

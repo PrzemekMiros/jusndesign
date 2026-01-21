@@ -1,4 +1,4 @@
-{% include "partials/header.njk" %}
+﻿{% include "partials/header.njk" %}
 
 <section class="pt-large pt-md-xlarge pb-xxsmall pb-md-small" data-scroll-section>
     <div class="container">
@@ -6,19 +6,7 @@
         <div class="row">
             <div class="offset-md-2 offset-xl-3 col-md-8 col-xl-6">
                 <div class="single-post-title-wrap pb-xsmall pb-md-small">
-                    <div class="breadcrumbs uppercase small color-accent-1 mt-4 fade-in">
-                        <a href="{{ langPrefix }}/" title="Strona główna">
-                            Główna
-                        </a>
-                        <span>|</span>
-                        <a href="{{ langPrefix }}/blog/" title="Blog">
-                            Blog
-                        </a>
-                        <span>|</span>
-                        <span>
-                            {{ title }}
-                        </span>
-                    </div>
+                    {% include "partials/breadcrumbs.njk" %}
                     <h1 class="single-post-title split-lines my-3">
                         {{ title }}
                     </h1>
@@ -100,4 +88,5 @@
 </section>
 
 {% include "partials/footer.njk" %}
+
 

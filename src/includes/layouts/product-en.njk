@@ -1,4 +1,4 @@
-{% include "partials/header.njk" %}
+﻿{% include "partials/header.njk" %}
 
 <article class="product-page pt-xlarge">
   <div class="container">
@@ -22,12 +22,7 @@
         </div>
 
         <div class="col-md-6 product-info">
-          <nav class="breadcrumbs uppercase small color-accent-1">
-            <a href="{{ langPrefix }}/">Main</a> |  
-            {% for cat in categories %}
-              <a href="{{ langPrefix }}/offer/{{ cat | slugify }}/">{{ cat }}</a>{% if not loop.last %} , {% endif %}
-            {% endfor %}
-          </nav>
+          {% include "partials/breadcrumbs.njk" %}
 
           <h1 class="h2 product-title">{{ title }}</h1>
 
@@ -118,7 +113,7 @@
 
 <div class="lightbox" id="lightbox" aria-hidden="true">
   <div class="lightbox-backdrop" data-lightbox-close></div>
-  <div class="lightbox-content" role="dialog" aria-modal="true" aria-label="Zdjęcie produktu">
+  <div class="lightbox-content" role="dialog" aria-modal="true" aria-label="ZdjÄ™cie produktu">
     <button type="button" class="lightbox-close" data-lightbox-close>X</button>
     <img src="" alt="" class="lightbox-image" id="lightbox-image">
   </div>
@@ -126,3 +121,4 @@
 
 
 {% include "partials/footer.njk" %}
+
