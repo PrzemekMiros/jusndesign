@@ -1,0 +1,15 @@
+{% set breadcrumbHome = "Strona glowna" %}
+{% set breadcrumbOffer = "Oferta" %}
+{% set breadcrumbOfferUrl = "/oferta/" %}
+{% if lang == "en" %}
+{% set breadcrumbHome = "Home" %}
+{% set breadcrumbOffer = "Offer" %}
+{% set breadcrumbOfferUrl = "/offer/" %}
+{% endif %}
+<nav class="breadcrumbs uppercase small color-accent-1">
+  <a href="{{ langPrefix }}/">{{ breadcrumbHome }}</a>
+  <span>|</span>
+  <a href="{{ langPrefix }}{{ breadcrumbOfferUrl }}">{{ breadcrumbOffer }}</a>
+  <span>|</span>
+  <span>{{ title }}</span>
+</nav>

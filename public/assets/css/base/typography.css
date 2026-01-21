@@ -22,7 +22,7 @@
 :root {
   --font-primary: "Poppins";
   --font-secondary: "Montserrat";
-  --fs-sm: clamp(12.8px, 0.8vw, 13.8px);
+  --fs-sm: clamp(12px, 0.75vw, 13px);
   --fs-base: clamp(16px, 1.1vw, 17px);
   --fs-md: clamp(18.4px, 1.5vw, 22.7px);
   --fs-lg: clamp(21.2px, 2.1vw, 30.2px);

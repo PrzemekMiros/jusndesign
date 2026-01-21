@@ -13,15 +13,7 @@
           <div class="hero-card-content p-4 pt-5 pb-3 pb-md-5 p-md-5">
 
             <p class="h4 split-lines mb-3 mt-2 mt-md-4 color-light" id="greeting"></p>
-            {% set breadcrumbHome = "Strona glowna" %}
-            {% if lang == "en" %}
-            {% set breadcrumbHome = "Home" %}
-            {% endif %}
-            <nav class="breadcrumbs uppercase small color-accent-1">
-              <a href="{{ langPrefix }}/">{{ breadcrumbHome }}</a>
-              <span>|</span>
-              <span>{{ title }}</span>
-            </nav>
+            {% include "partials/breadcrumbs.njk" %}
             <h1 class="xxl split-lines mt-2 mb-0 uppercase color-light">
               {{ title }}
             </h1>

@@ -1,0 +1,33 @@
+.reveal-wrap {
+  visibility: hidden;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.reveal-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  transform-origin: left;
+}
+
+.reveal {
+  visibility: hidden;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.reveal.reveal--overlay {
+  background-color: var(--color-accent-1);
+}
+
+.reveal img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

@@ -4600,7 +4600,7 @@ html.is-rendering .transition-fade {
 :root {
   --font-primary: "Poppins";
   --font-secondary: "Montserrat";
-  --fs-sm: clamp(12.8px, 0.8vw, 13.8px);
+  --fs-sm: clamp(12px, 0.75vw, 13px);
   --fs-base: clamp(16px, 1.1vw, 17px);
   --fs-md: clamp(18.4px, 1.5vw, 22.7px);
   --fs-lg: clamp(21.2px, 2.1vw, 30.2px);
@@ -5800,6 +5800,40 @@ form .page .invalid-input {
     right: 3em;
   }
 }
+.reveal-wrap {
+  visibility: hidden;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.reveal-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  transform-origin: left;
+}
+
+.reveal {
+  visibility: hidden;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.reveal.reveal--overlay {
+  background-color: var(--color-accent-1);
+}
+
+.reveal img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 /* Typografia i Tekst */
 .product-short-description {
   margin-bottom: 20px;
