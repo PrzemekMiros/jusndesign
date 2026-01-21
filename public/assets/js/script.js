@@ -36,6 +36,45 @@
 		}
 	}
 
+	// Play mega menu videos only on hover/focus.
+	const megaCards = document.querySelectorAll(".mega-card");
+	if (megaCards.length) {
+		megaCards.forEach((card) => {
+			const video = card.querySelector("video");
+			if (!video || video.dataset.megaVideoBound === "true") {
+				return;
+			}
+			video.dataset.megaVideoBound = "true";
+			video.muted = true;
+			video.playsInline = true;
+			video.removeAttribute("autoplay");
+			if (!video.paused) {
+				video.pause();
+			}
+			try {
+				video.currentTime = 0;
+			} catch (e) {}
+
+			const playVideo = () => {
+				const playPromise = video.play();
+				if (playPromise && typeof playPromise.catch === "function") {
+					playPromise.catch(() => {});
+				}
+			};
+			const stopVideo = () => {
+				video.pause();
+				try {
+					video.currentTime = 0;
+				} catch (e) {}
+			};
+
+			card.addEventListener("mouseenter", playVideo);
+			card.addEventListener("mouseleave", stopVideo);
+			card.addEventListener("focus", playVideo);
+			card.addEventListener("blur", stopVideo);
+		});
+	}
+
 	// Submit contact form via AJAX and redirect on success.
 	if (!window.__contactFormBound) {
 		window.__contactFormBound = true;
