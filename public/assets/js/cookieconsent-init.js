@@ -1,6 +1,7 @@
-
-const isPlPath = /^\/pl(\/|$)/.test(window.location.pathname);
-const ccLang = isPlPath ? 'pl' : 'en';
+﻿const isEnPath = /^\/en(\/|$)/.test(window.location.pathname);
+const ccLang = isEnPath ? 'en' : 'pl';
+const contactLink = ccLang === 'pl' ? '/kontakt' : '/en/contact';
+const revisionLabel = ccLang === 'pl' ? 'Ustawienia cookies' : 'Cookie settings';
 
 document.documentElement.classList.add('cc--darkmode');
 document.documentElement.lang = ccLang;
@@ -31,7 +32,7 @@ CookieConsent.run({
       revisionButton: {
     enabled: true,
     position: "left",
-    label: "Ustawienia cookies dzTS"
+    label: revisionLabel
   },
     language: {
         default: ccLang,
@@ -39,46 +40,46 @@ CookieConsent.run({
         translations: {
             pl: {
                 consentModal: {
-                    title: "Ta strona uLLywa plikAlw cookies",
-                    description: "ULLywamy plikAlw cookies do personalizowania treL�ci i reklam, udostępniania funkcji mediAlw spoL�ecznoL�ciowych i analizowania ruchu na stronie. ",
+                    title: "Ta strona używa plików cookies",
+                    description: "Używamy plików cookies do personalizowania treści i reklam, udostępniania funkcji mediów społecznościowych i analizowania ruchu na stronie.",
                     acceptAllBtn: "Akceptuj",
                     showPreferencesBtn: "Ustawienia"
                 },
                 preferencesModal: {
-                    title: "Ustawienia plikAlw cookies",
+                    title: "Ustawienia plików cookies",
                     acceptAllBtn: "Akceptuj",
                     acceptNecessaryBtn: "Odrzuć",
                     savePreferencesBtn: "Zapisz ustawienia",
                     closeIconLabel: "Zamknij",
-                    serviceCounterLabel: "UsL�uga|UsL�ugi",
+                    serviceCounterLabel: "Usługa|Usługi",
                     sections: [
                         {
-                            title: "Wykorzystanie plikAlw cookie",
-                            description: "PoniewaLL szanujemy Twoje prawo do prywatnoL�ci, moLLesz nie zezwalać na niektAlre rodzaje plikAlw cookie. Kliknij nagL�Alwki rAlLLnych kategorii, aby dowiedzieć się więcej i zmienić domyL�lne ustawienia."
+                            title: "Wykorzystanie plików cookie",
+                            description: "Ponieważ szanujemy Twoje prawo do prywatności, możesz nie zezwalać na niektóre rodzaje plików cookie. Kliknij nagłówki różnych kategorii, aby dowiedzieć się więcej i zmienić domyślne ustawienia."
                         },
                         {
                             title: "Niezbędne pliki cookie<span class=\"pm__badge\">Zawsze aktywne</span>",
-                            description: "Te pliki cookies są niezbędne do dziaL�ania witryny i nie moLLna ich wyL�ączyć w naszych systemach. Zazwyczaj są one ustawiane wyL�ącznie w odpowiedzi na podejmowane przez Ciebie dziaL�ania, ktAlre są rAlwnoznaczne z LLądaniem usL�ug, jak np. ustawienie preferencji dotyczących prywatnoL�ci, logowanie czy wypeL�nianie formularzy. Te pliki cookie nie przechowują LLadnych danych osobowych.",
+                            description: "Te pliki cookies są niezbędne do działania witryny i nie można ich wyłączyć w naszych systemach. Zazwyczaj są one ustawiane wyłącznie w odpowiedzi na podejmowane przez Ciebie działania, które są równoznaczne z żądaniem usług, jak np. ustawienie preferencji dotyczących prywatności, logowanie czy wypełnianie formularzy. Te pliki cookie nie przechowują żadnych danych osobowych.",
                             linkedCategory: "necessary"
                         },
                         {
                             title: "Funkcjonalne pliki cookie",
-                            description: "Funkcjonalne pliki cookie pomagają realizować okreL�lone funkcje, takie jak udostępnianie zawartoL�ci witryny na platformach mediAlw spoL�ecznoL�ciowych, zbieranie opinii i inne funkcje stron trzecich.",
+                            description: "Funkcjonalne pliki cookie pomagają realizować określone funkcje, takie jak udostępnianie zawartości witryny na platformach mediów społecznościowych, zbieranie opinii i inne funkcje stron trzecich.",
                             linkedCategory: "functionality"
                         },
  						{
                             title: "Analityczne pliki cookie",
-                            description: "Te pliki cookie mogą być ustawiane za poL�rednictwem naszej witryny przez naszych partnerAlw reklamowych. Mogą być one wykorzystywane przez te firmy do tworzenia profilu Twoich zainteresowaL� i wyL�wietlania odpowiednich reklam w innych witrynach.",
+                            description: "Analityczne pliki cookie pomagają nam zrozumieć, jak użytkownicy korzystają z witryny, wykrywać błędy i poprawiać doświadczenia odwiedzających.",
                             linkedCategory: "analytics"
                         },
                         {
                             title: "Reklamowe pliki cookie",
-                            description: "Pliki cookie dotyczące wydajnoL�ci sL�uLLą do zrozumienia i analizy kluczowych wskaLsnikAlw wydajnoL�ci witryny, co pomaga zapewnić odwiedzającym lepsze doL�wiadczenia uLLytkownika.",
+                            description: "Reklamowe pliki cookie służą do dostarczania reklam, które są dla Ciebie istotne. Pomagają mierzyć skuteczność reklam, np. liczbę odwiedzin i kliknięć.",
                             linkedCategory: "marketing"
                         },
                         {
                             title: "Więcej informacji",
-                            description: "W przypadku jakichkolwiek pytaL� związanych z polityką dotyczącą plikAlw cookie, prosimy o <a class=\"cc__link\" href=\"/kontakt\">kontakt</a>."
+                            description: `W przypadku jakichkolwiek pytań związanych z polityką dotyczącą plików cookie, prosimy o <a class=\"cc__link\" href=\"${contactLink}\">kontakt</a>.`
                         }
                     ]
                 }
@@ -124,7 +125,7 @@ CookieConsent.run({
                         },
                         {
                             title: "More information",
-                            description: "If you have any questions about our cookie policy, please <a class=\"cc__link\" href=\"/kontakt\">contact us</a>."
+                            description: `If you have any questions about our cookie policy, please <a class=\"cc__link\" href=\"${contactLink}\">contact us</a>.`
                         }
                     ]
                 }

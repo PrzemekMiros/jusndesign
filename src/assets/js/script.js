@@ -23,16 +23,53 @@
 		greeting.innerHTML = welcomeText;
 	}
 
+	const loadVideoSources = (video) => {
+		if (!video || video.dataset.videoLoaded === "true") {
+			return;
+		}
+		const sources = video.querySelectorAll("source[data-src]");
+		if (!sources.length) {
+			return;
+		}
+		sources.forEach((source) => {
+			source.src = source.dataset.src;
+			source.removeAttribute("data-src");
+		});
+		video.load();
+		video.dataset.videoLoaded = "true";
+	};
+
 	// Ensure hero video plays; show controls if autoplay is blocked.
-	const heroVideo = document.querySelector(".yt-full video");
+	const heroVideo = document.querySelector("[data-hero-video]");
 	if (heroVideo) {
 		heroVideo.muted = true;
 		heroVideo.playsInline = true;
-		const playPromise = heroVideo.play();
-		if (playPromise && typeof playPromise.catch === "function") {
-			playPromise.catch(() => {
-				heroVideo.setAttribute("controls", "controls");
-			});
+		const startHeroVideo = () => {
+			loadVideoSources(heroVideo);
+			const playPromise = heroVideo.play();
+			if (playPromise && typeof playPromise.catch === "function") {
+				playPromise.catch(() => {
+					heroVideo.setAttribute("controls", "controls");
+				});
+			}
+		};
+		if ("IntersectionObserver" in window) {
+			const observer = new IntersectionObserver((entries) => {
+				entries.forEach((entry) => {
+					if (!entry.isIntersecting) {
+						return;
+					}
+					observer.disconnect();
+					if ("requestIdleCallback" in window) {
+						requestIdleCallback(startHeroVideo, { timeout: 2000 });
+					} else {
+						setTimeout(startHeroVideo, 500);
+					}
+				});
+			}, { rootMargin: "0px 0px 200px 0px" });
+			observer.observe(heroVideo);
+		} else {
+			setTimeout(startHeroVideo, 500);
 		}
 	}
 
@@ -56,6 +93,7 @@
 			} catch (e) {}
 
 			const playVideo = () => {
+				loadVideoSources(video);
 				const playPromise = video.play();
 				if (playPromise && typeof playPromise.catch === "function") {
 					playPromise.catch(() => {});
