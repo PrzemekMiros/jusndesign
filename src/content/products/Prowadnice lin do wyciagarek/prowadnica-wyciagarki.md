@@ -1,6 +1,6 @@
----
+﻿---
 lang: pl
-title: Ślizg wyciągarki (Hawse Fairlead) z hakiem holowniczym - Aluminium
+title: ślizg wyciągarki (Hawse Fairlead) z hakiem holowniczym - Aluminium
 description: Aluminiowy ślizg wyciągarki JUSN zintegrowany z hakiem. Wykonany z aluminium lotniczego 7075, chroni linę syntetyczną przed zużyciem.
 productImage: /content/products/img/prowadnica-wyciagarki.jpg
 categories:
@@ -14,7 +14,7 @@ material: Aluminium lotnicze (7075)
 process: Kucie, piaskowanie i anodowanie
 weight: 2.5
 shippingInfo: Czas realizacji wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
-installation:
+Installation:
   difficulty: 1
   professional_required: false
   method: Bezpośredni montaż (Plug & Play)
@@ -30,7 +30,7 @@ Zaprojektowany, aby chronić linę wyciągarki przed nadmiernym zużyciem. Zapob
 * **PROCES:** Kucie pod prasą, piaskowanie powierzchni oraz ochronna powłoka anodowana.
 
 ### Główne cechy:
-* **Agresywny design:** Ślizg JUSN charakteryzuje się nowoczesnym, kanciastym kształtem, który nadaje pojazdowi stylowy i bojowy wygląd.
+* **Agresywny design:** ślizg JUSN charakteryzuje się nowoczesnym, kanciastym kształtem, który nadaje pojazdowi stylowy i bojowy wygląd.
 * **Ochrona liny:** Wysokiej jakości polerowane aluminium skutecznie zapobiega przenoszeniu ciepła na linę syntetyczną, co chroni ją przed przegrzaniem i uszkodzeniem.
 * **Trwałe wykończenie:** Powierzchnia wykończona metodą anodowania proszkowego zapewnia doskonałą ochronę przed promieniowaniem UV, korozją oraz rdzewieniem.
 * **Uniwersalność:** Zestaw składający się ze ślizgu i haka holowniczego może być łatwo zamontowany w większości pojazdów terenowych i pickupów.
@@ -43,6 +43,14 @@ Zaprojektowany, aby chronić linę wyciągarki przed nadmiernym zużyciem. Zapob
 * **Wymagany profesjonalny montaż:** Nie – możesz to zrobić samodzielnie w kilka minut.
 
 ### Zawartość zestawu:
-* Ślizg wyciągarki zintegrowany z hakiem holowniczym – 1 szt.
+* ślizg wyciągarki zintegrowany z hakiem holowniczym – 1 szt.
 
 **Wskazówka:** Pamiętaj, że ten ślizg jest przeznaczony wyłącznie do lin syntetycznych. W przypadku liny stalowej należy stosować ślizgi rolkowe.
+
+
+
+
+
+
+
+

@@ -1,8 +1,8 @@
----
+﻿---
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/jeep-gladiator-jt-uchwyt-anteny-lopaty-flagi/
-title: Uchwyt 3w1 na Klapę Jeep Wrangler / Gladiator JT - Antena CB, Łopata i Flaga
+title: Uchwyt 3w1 na Klapę Jeep Wrangler / Gladiator JT - Antena CB, łopata i Flaga
 description: Wielofunkcyjny uchwyt na tylną klapę do Jeepa. Pozwala na jednoczesny montaż łopaty, anteny CB i masztu flagi. Bezinwazyjny montaż aluminium CNC.
 productImage: /content/products/img/maszta-na-klape.jpg
 categories:
@@ -16,7 +16,7 @@ material: Stop aluminium (6061)
 process: Anodowanie i Malowanie Proszkowe
 weight: 2.5
 shippingInfo: Dostępna standardowa wysyłka. Czas realizacji ok. 15 dni.
-installation:
+Installation:
   difficulty: 3
   professional_required: false
   method: Dopasowanie OE - Bezinwazyjny montaż bez wiercenia
@@ -39,10 +39,16 @@ Znasz ten problem, kiedy przed wyprawą nie wiesz, jak stabilnie zamontować ło
 * **Estetyczny design:** W przeciwieństwie do wielu topornych uchwytów na rynku, produkt JUSN wyróżnia się smukłą linią i dopracowanym wykończeniem, podkreślając styl Twojego Jeepa.
 
 ### Instalacja:
-* **Dopasowanie:** Dane zgodne ze specyfikacją OE – „Install and Play”.
+* **Dopasowanie:** Dane zgodne ze specyfikacją OE – „Install and Play.
 * **Poziom trudności:** 3 gwiazdki.
 * **Wymagany profesjonalny montaż?** Zalecany, jeśli nie masz doświadczenia w modyfikacjach, ale montaż jest intuicyjny.
 * **Bezinwazyjność (Lossless):** TAK.
 
 ### Zawartość zestawu:
 * Wielofunkcyjny uchwyt na klapę 3 w 1 - 1 komplet.
+
+
+
+
+
+

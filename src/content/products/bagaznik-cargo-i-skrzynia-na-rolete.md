@@ -1,4 +1,4 @@
----
+﻿---
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/toyota-hilux-tundra-tacoma-organizer-rolety/
@@ -16,7 +16,7 @@ material: Stop aluminium (6061), Stal węglowa (Q235)
 process: Grawerowanie CNC, Anodowanie i Malowanie Proszkowe
 weight: 30
 shippingInfo: Czas realizacji wynosi 15 dni, transport morski i lądowy zajmuje około 40 dni.
-installation:
+Installation:
   difficulty: 3
   professional_required: false
   method: Dopasowanie OE - Bezinwazyjny montaż (Lossless)
@@ -38,15 +38,20 @@ Odblokuj pełny potencjał paki z JUSN!
 * **Odporność na warunki pogodowe:** Powłoka anodowana i proszkowa chroni przed UV i korozją, zapewniając trwałość przez lata.
 * **Lekkość i wytrzymałość:** Przy wadze zaledwie 30 kg system oferuje ogromną wytrzymałość przy zachowaniu niskiej masy własnej pojazdu.
 * **Bezpieczne przechowywanie:** 2 skrzynie transportowe zapewniają pełną ochronę przed deszczem i kurzem. Idealne na kompresory, liny kinetyczne i narzędzia naprawcze.
-* **Praktyczny design:** Zewnętrzne perforacje (hollowed out) pozwalają na łatwe troczenie szpeju i mniejszych akcesoriów.
+* **Praktyczny design:** Zewnętrzne perforacje (hożowed out) pozwalają na łatwe troczenie szpeju i mniejszych akcesoriów.
 * **Elastyczna przestrzeń:** Konstrukcja pozwala na umieszczenie kanistrów z wodą lub paliwem pod stelażem, podczas gdy główny bagaż spoczywa bezpiecznie na górze.
 * **Kompatybilność z roletą:** Wiele modeli wspiera montaż bezinwazyjny, zachowując pełną funkcjonalność rolety paki.
 
 ### Instalacja:
-* **Dopasowanie:** Dane zgodne z oryginalnym wyposażeniem (OE) – „Install and Play”.
+* **Dopasowanie:** Dane zgodne z oryginalnym wyposażeniem (OE) – „Install and Play.
 * **Poziom trudności:** 3 gwiazdki (w skali do 5).
 * **Wymagany profesjonalny montaż?** Zalecany, jeśli nie masz doświadczenia w podobnych pracach.
 * **Montaż bezinwazyjny:** Tak, system zaprojektowany tak, by nie uszkodzić konstrukcji paki.
 
 ### Zawartość zestawu:
 * System bagażnika Cargo - 1 komplet.
+
+
+
+
+

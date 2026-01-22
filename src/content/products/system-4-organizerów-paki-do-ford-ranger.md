@@ -1,4 +1,4 @@
----
+﻿---
 lang: pl
 title: System organizerów paki z oświetleniem dla Ford Ranger / F150 Raptor
 description: Profesjonalny system cargo JUSN dla modeli Ford. Aluminiowa konstrukcja, 4 skrzynie transportowe po 25L i zintegrowane oświetlenie paki.
@@ -14,7 +14,7 @@ material: Stop aluminium (6061), stal węglowa (Q235)
 process: Grawerowanie CNC, anodowanie i malowanie proszkowe
 weight: 106
 shippingInfo: Czas realizacji wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
-installation:
+Installation:
   difficulty: 4
   professional_required: true
   method: Dopasowanie OE (Plug & Play)
@@ -47,4 +47,12 @@ Zrealizuj marzenie o profesjonalnym porządku na pace dzięki systemowi JUSN!
 
 ### Zawartość zestawu:
 * 1 kompletny zestaw systemu stelaży z organizerami i oświetleniem.
+
+
+
+
+
+
+
+
 

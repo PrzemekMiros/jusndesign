@@ -1,4 +1,4 @@
----
+﻿---
 lang: pl
 title: Skrzynia wyprawowa na klapę Jeep Wrangler JL / JK - Organizer 60L
 description: Aluminiowy organizer na tylną klapę do Jeepa Wranglera. Pojemność 60L, funkcja stolika, zintegrowane mocowanie kamery i tablicy.
@@ -14,7 +14,7 @@ material: Stop aluminium (6061)
 process: Piaskowanie, anodowanie i malowanie proszkowe
 weight: 18
 shippingInfo: Czas realizacji wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
-installation:
+Installation:
   difficulty: 3
   professional_required: false
   method: Bezinwazyjny (wykorzystuje fabryczne otwory)
@@ -29,7 +29,7 @@ Rozwiązuje problem obciążonej klapy, ułatwiając jej zamykanie, oraz eliminu
 
 ### Szczegóły techniczne:
 * **MATERIAŁ:** Lekki i sztywny stop aluminium (6061).
-* **POJEMNOŚĆ:** 60 litrów przestrzeni bagażowej.
+* **POJEMNOść:** 60 litrów przestrzeni bagażowej.
 * **PROCES:** Zaawansowane piaskowanie i anodowanie – odporność na UV i kwaśne deszcze.
 
 ### Główne cechy:
@@ -53,3 +53,10 @@ Rozwiązuje problem obciążonej klapy, ułatwiając jej zamykanie, oraz eliminu
 * Skrzynia wyprawowa na klapę (Tailgate Toolbox) – 1 komplet.
 
 **Wskazówka wyprawowa:** Dzięki funkcji stolika, ten organizer jest jednym z najczęściej wybieranych akcesoriów przez osoby budujące Jeepy pod Overland.
+
+
+
+
+
+
+

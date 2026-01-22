@@ -1,4 +1,4 @@
----
+﻿---
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/chwyt-na-dach-ford-bronco/
@@ -16,13 +16,13 @@ material: Stop aluminium (6061)
 process: Grawerowanie CNC, Anodowanie i Tekstura Antypoślizgowa
 weight: 0.6
 shippingInfo: Prosimy o kontakt i podanie numeru VIN pojazdu w celu weryfikacji kompatybilności.
-installation:
+Installation:
   difficulty: 2
   professional_required: false
   method: Dopasowanie OE (Bezinwazyjny montaż)
 ---
 
-**Specyfikacja:** Wytrzymały uchwyt montowany do klatki/dachu (1 szt.). Zaprojektowany specjalnie dla Ford Bronco. Łączy stabilność pasażerów z niezbędnymi narzędziami ratunkowymi.
+**Specyfikacja:** Wytrzymały uchwyt montowany do klatki/dachu (1 szt.). Zaprojektowany specjalnie dla Ford Bronco. łączy stabilność pasażerów z niezbędnymi narzędziami ratunkowymi.
 
 Ulepsz wnętrze swojego Forda Bronco dzięki segmentowym uchwytom premium od JUSN. Oprócz zapewnienia solidnego punktu podparcia przy wsiadaniu do podniesionego auta, uchwyty te służą jako kluczowe narzędzie bezpieczeństwa podczas każdej wyprawy off-road.
 
@@ -49,3 +49,9 @@ Jazda w terenie często oznacza poruszanie się po wyboistym podłożu, gdzie st
 
 ### Zawartość opakowania:
 * Uchwyt Grab Handle / Narzędzie ratunkowe - 1 szt.
+
+
+
+
+
+

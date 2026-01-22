@@ -1,4 +1,4 @@
----
+﻿---
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/jeep-gladiator-jt-system-organizacji-paki/
@@ -16,7 +16,7 @@ material: Stop aluminium (6061), Stal węglowa (Q235)
 process: Grawerowanie CNC, Anodowanie i Malowanie Proszkowe
 weight: 30
 shippingInfo: Czas realizacji wynosi 15 dni, transport morski i lądowy zajmuje około 40 dni.
-installation:
+Installation:
   difficulty: 3
   professional_required: false
   method: Dopasowanie OE - Install and Play
@@ -42,10 +42,16 @@ Odblokuj pełny potencjał swojego Jeepa z JUSN!
 * **Elastyczna przestrzeń:** Konstrukcja pozwala na umieszczenie kanistrów (np. RotopaX) pod stelażem, podczas gdy bagaż i akcesoria biwakowe spoczywają bezpiecznie na górze.
 
 ### Instalacja:
-* **Dopasowanie:** Dane zgodne z oryginalnym wyposażeniem Jeep (OE) – „Install and Play”.
+* **Dopasowanie:** Dane zgodne z oryginalnym wyposażeniem Jeep (OE) – „Install and Play.
 * **Poziom trudności:** 3 gwiazdki (w skali do 5).
 * **Wymagany profesjonalny montaż?** Zalecany, jeśli nie masz doświadczenia w modyfikacjach akcesoryjnych.
 * **Bezinwazyjność:** System wspiera montaż bez konieczności trwałej ingerencji w strukturę paki.
 
 ### Zawartość zestawu:
 * System zabudowy paki / Kosz Cargo - 1 komplet.
+
+
+
+
+
+

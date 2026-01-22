@@ -1,4 +1,4 @@
----
+﻿---
 lang: pl
 title: System organizerów paki dla Jeep Wrangler JT (Gladiator) - Bagażnik i skrzynie Cargo
 description: Profesjonalny system zabudowy JUSN dla Jeepa Wranglera JT. Aluminiowa konstrukcja, 4 skrzynie transportowe i zintegrowane oświetlenie.
@@ -14,7 +14,7 @@ material: Stop aluminium (6061), stal węglowa (Q235)
 process: Grawerowanie CNC, anodowanie i malowanie proszkowe
 weight: 106
 shippingInfo: Czas realizacji wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
-installation:
+Installation:
   difficulty: 4
   professional_required: true
   method: Dopasowanie OE (Plug & Play)
@@ -33,7 +33,7 @@ Odblokuj pełny potencjał swojego Jeepa i uporządkuj swój sprzęt wyprawowy d
 
 ### Główne cechy:
 * **Unikalny styl:** Integralne tłoczenie i precyzyjna obróbka CNC nadają Twojemu Jeepowi techniczny, surowy wygląd, który idealnie komponuje się z linią Wranglera.
-* **Odporność na trudne warunki:** Wykończenie anodowane i proszkowe skutecznie chroni konstrukcję przed promieniami UV, kwaśnym deszczem i korozją, co jest kluczowe przy częstym użytkowaniu w terenie.
+* **Odporność na trudne warunki:** wykończenie anodowane i proszkowe skutecznie chroni konstrukcję przed promieniami UV, kwaśnym deszczem i korozją, co jest kluczowe przy częstym użytkowaniu w terenie.
 * **Wygodny dostęp boczny:** Górne siłowniki hydrauliczne umożliwiają otwarcie stelaża na boki, zapewniając błyskawiczny dostęp do bagażu bez konieczności rozładowywania całej paki.
 * **Zorganizowane przechowywanie:** Po obu stronach znajdziesz łącznie cztery przestronne skrzynie o pojemności 25 litrów każda. Pozwala to na idealną segregację szpeju i narzędzi.
 * **Praktyczny design:** Ażurowa konstrukcja zewnętrzna skrzyń pozwala na łatwe troczenie dodatkowego osprzętu, szekli czy uchwytów wyprawowych.
@@ -48,4 +48,12 @@ Odblokuj pełny potencjał swojego Jeepa i uporządkuj swój sprzęt wyprawowy d
 
 ### Zawartość zestawu:
 * 1 kompletny zestaw systemu stelaży z organizerami i oświetleniem.
+
+
+
+
+
+
+
+
 

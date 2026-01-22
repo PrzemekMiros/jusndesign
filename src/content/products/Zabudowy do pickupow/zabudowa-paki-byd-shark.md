@@ -1,4 +1,4 @@
----
+﻿---
 lang: pl
 title: Zabudowa paki (Hardtop) JUSN dla BYD Shark 6 z relingami górnymi
 description: Aluminiowa zabudowa paki dla BYD Shark 6. Konstrukcja z aluminium i magnezu, otwierane 3 boki, zintegrowane oświetlenie i panel przełączników AUX.
@@ -14,7 +14,7 @@ material: Stop aluminium i magnezu
 process: Obróbka CNC, anodowanie i malowanie proszkowe
 weight: 85
 shippingInfo: Czas realizacji zamówienia wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
-installation:
+Installation:
   difficulty: 4
   professional_required: true
   method: Dopasowanie OE (Plug & Play)
@@ -31,8 +31,8 @@ Zrealizuj swoje marzenia o idealnej organizacji paki dzięki JUSN! Ta zabudowa t
 
 ### Główne cechy:
 * **Wyjątkowy styl:** Integralne tłoczenie i obróbka CNC nadają Twojemu pickupowi unikalny, techniczny wygląd, który wyróżnia się na drodze.
-* **Odporność na pogodę:** Wykończenie odporne na UV, kwaśne deszcze i rdzę zapewnia trwałość zabudowy przez lata.
-* **Łatwy dostęp:** Inteligentna konstrukcja otwierana z 3 stron sprawia, że załadunek i rozładunek bagażu jest niezwykle prosty.
+* **Odporność na pogodę:** wykończenie odporne na UV, kwaśne deszcze i rdzę zapewnia trwałość zabudowy przez lata.
+* **łatwy dostęp:** Inteligentna konstrukcja otwierana z 3 stron sprawia, że załadunek i rozładunek bagażu jest niezwykle prosty.
 * **Bezpieczeństwo:** Zwiększ widoczność w nocy dzięki możliwości podpięcia zewnętrznego oświetlenia pod światła hamowania, obrysowe i do jazdy dziennej.
 * **Wielofunkcyjny dach:** Górne relingi są idealne do przewożenia namiotów dachowych, waliz i ciężkiego szpeju wyprawowego.
 * **Rozbudowa zasilania:** Panel AUX pozwala na podłączenie dodatkowych urządzeń, takich jak szperacze czy kompresory.
@@ -54,4 +54,11 @@ Zrealizuj swoje marzenia o idealnej organizacji paki dzięki JUSN! Ta zabudowa t
 * Korpus zabudowy (Canopy Body) - 1 zestaw
 * Relingi górne (Top Horizontal Bar) - 1 para
 * Zewnętrzne panele boczne (Exterior Expansion Panels) - 1 para
+
+
+
+
+
+
+
 

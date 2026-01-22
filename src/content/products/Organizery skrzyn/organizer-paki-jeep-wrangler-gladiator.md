@@ -1,4 +1,4 @@
----
+﻿---
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/jeep-gladiator-jt-system-cargo-heavy-duty/
@@ -16,7 +16,7 @@ material: Stop aluminium (6061), Stal węglowa (Q235)
 process: Grawerowanie CNC, Anodowanie i Malowanie Proszkowe
 weight: 106
 shippingInfo: Czas realizacji wynosi 15 dni, transport morski i lądowy zajmuje około 40 dni.
-installation:
+Installation:
   difficulty: 4
   professional_required: true
   method: Dopasowanie OE - Install and Play
@@ -43,9 +43,16 @@ Odblokuj pełny potencjał swojego Jeepa ze sprzętem JUSN!
 * **Wielofunkcyjność:** Górna platforma to idealna baza pod namiot dachowy, trap wyprawowy czy koło zapasowe.
 
 ### Instalacja:
-* **Dopasowanie:** Dane zgodne z oryginalną specyfikacją Jeep (OE) – „Install and Play”.
+* **Dopasowanie:** Dane zgodne z oryginalną specyfikacją Jeep (OE) – „Install and Play.
 * **Poziom trudności:** 4 gwiazdki (w skali do 5).
 * **Wymagany profesjonalny montaż?** TAK.
 
 ### Zawartość zestawu:
 * System zabudowy paki Heavy Duty - 1 komplet.
+
+
+
+
+
+
+

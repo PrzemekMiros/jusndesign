@@ -1,4 +1,4 @@
----
+﻿---
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/toyota-tundra-hilux-tacoma-bagaznik-na-rolete/
@@ -16,7 +16,7 @@ material: Stop aluminium (6061), Stal węglowa (Q235)
 process: Grawerowanie CNC, Anodowanie i Malowanie Proszkowe
 weight: 30
 shippingInfo: Czas realizacji wynosi 15 dni, transport morski i lądowy zajmuje około 40 dni.
-installation:
+Installation:
   difficulty: 3
   professional_required: false
   method: Dopasowanie OE - Montaż bezinwazyjny
@@ -42,10 +42,15 @@ Odblokuj pełny potencjał swojego pickupa z JUSN!
 * **Elastyczna przestrzeń:** Konstrukcja pozwala na umieszczenie kanistrów z paliwem lub wodą pod stelażem, podczas gdy bagaż spoczywa bezpiecznie na górze.
 
 ### Instalacja:
-* **Dopasowanie:** Dane zgodne z oryginalnym wyposażeniem (OE) – „Install and Play”.
+* **Dopasowanie:** Dane zgodne z oryginalnym wyposażeniem (OE) – „Install and Play.
 * **Poziom trudności:** 3 gwiazdki (w skali do 5).
 * **Wymagany profesjonalny montaż?** Zalecany dla osób bez doświadczenia w podobnych modyfikacjach.
 * **Montaż bezinwazyjny (Lossless):** Tak, wiele modeli pozwala na montaż przy zachowaniu pełnej funkcjonalności rolety paki.
 
 ### Zawartość zestawu:
 * System bagażnika Cargo - 1 komplet.
+
+
+
+
+

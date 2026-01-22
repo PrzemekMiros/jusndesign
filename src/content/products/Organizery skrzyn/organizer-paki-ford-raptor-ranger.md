@@ -1,4 +1,4 @@
----
+﻿---
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/ford-raptor-f150-ranger-system-organizacji-paki-heavy-duty/
@@ -16,7 +16,7 @@ material: Stop aluminium (6061), Stal węglowa (Q235)
 process: Grawerowanie CNC, Anodowanie i Malowanie Proszkowe
 weight: 106
 shippingInfo: Czas realizacji wynosi 15 dni, transport morski i lądowy zajmuje około 40 dni.
-installation:
+Installation:
   difficulty: 4
   professional_required: true
   method: Dopasowanie OE - Install and Play
@@ -43,9 +43,17 @@ Odblokuj pełny potencjał paki ze sprzętem JUSN!
 * **Wielofunkcyjność:** Górna platforma cargo to idealne miejsce na namiot dachowy, koło zapasowe lub skrzynie typu Pelican.
 
 ### Instalacja:
-* **Dopasowanie:** Dane zgodne z oryginalnym wyposażeniem Ford (OE) – „Install and Play”.
+* **Dopasowanie:** Dane zgodne z oryginalnym wyposażeniem Ford (OE) – „Install and Play.
 * **Poziom trudności:** 4 gwiazdki (w skali do 5).
 * **Wymagany profesjonalny montaż?** TAK.
 
 ### Zawartość zestawu:
 * System zabudowy paki Heavy Duty - 1 komplet.
+
+
+
+
+
+
+
+

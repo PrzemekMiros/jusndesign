@@ -1,4 +1,4 @@
----
+﻿---
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/jeep-wrangler-jk-uchwyt-na-kubek-nawiew/
@@ -16,7 +16,7 @@ material: Stop aluminium
 process: Grawerowanie CNC, Piaskowanie i Anodowanie
 weight: 0.4
 shippingInfo: Prosimy o kontakt i podanie numeru VIN pojazdu oraz zdjęcia miejsca montażu w celu weryfikacji kompatybilności.
-installation:
+Installation:
   difficulty: 2
   professional_required: false
   method: Dopasowanie OE (Bezinwazyjny montaż)
@@ -38,7 +38,7 @@ Zimne napoje w upalne dni, gorąca kawa w mroźne poranki – dzięki temu uchwy
 * **Elegancki Metalowy Wygląd:** Wyróżnij się na tle innych właścicieli Jeepów dzięki niesamowitemu wyglądowi, który zastępuje tani plastik wysokiej klasy aluminium.
 * **Wytrzymała Metalowa Konstrukcja:** Ciesz się znacznie dłuższą żywotnością w porównaniu do kruchych, plastikowych uchwytów. Produkt jest odporny na wstrząsy podczas jazdy w terenie.
 * **Odporność na Korozję:** Specjalistyczna powierzchnia anodowana bez trudu wytrzymuje kontakt z rozlaną kawą czy napojami gazowanymi, nie pozostawiając plam ani śladów korozji.
-* **Łatwa Konserwacja:** Gładka metalowa powierzchnia jest niezwykle łatwa do utrzymania w czystości – wystarczy przetrzeć, aby wnętrze wyglądało nieskazitelnie.
+* **łatwa Konserwacja:** Gładka metalowa powierzchnia jest niezwykle łatwa do utrzymania w czystości – wystarczy przetrzeć, aby wnętrze wyglądało nieskazitelnie.
 * **Bezinwazyjny Montaż:** Precyzyjnie zaprojektowany w oparciu o dane fabryczne (OE). Instalacja typu "zamontuj i używaj", która nie narusza struktury deski rozdzielczej.
 
 ### Informacje o montażu:
@@ -49,3 +49,9 @@ Zimne napoje w upalne dni, gorąca kawa w mroźne poranki – dzięki temu uchwy
 
 ### Zawartość opakowania:
 * Uchwyt na kubek - 1 zestaw
+
+
+
+
+
+

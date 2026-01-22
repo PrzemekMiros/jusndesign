@@ -3,7 +3,7 @@ CMS.registerEditorComponent({
     id: "bannerStatic",
     label: "Banner",
     fields: [
-      { name: "headerText", label: "Tytuł", widget: "string" },
+      { name: "headerText", label: "TytuL�", widget: "string" },
       { name: "contentText", label: "Opis", widget: "string" },
       { name: "imageUrl", label: "Obrazek", widget: "image" }
     ],

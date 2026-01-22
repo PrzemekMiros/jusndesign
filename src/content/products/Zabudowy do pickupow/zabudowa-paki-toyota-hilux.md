@@ -3,7 +3,7 @@ lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/toyota-hilux-zabudowa-paki-canopy-hardtop/
 title: Zabudowa Paki Hardtop JUSN dla Toyota Hilux - Aluminiowe Canopy z Akcesoriami
-description: Profesjonalna zabudowa JUSN do Toyoty Hilux. Wykonane ze stopu aluminium i magnezu. System otwierania z 3 stron, panele Molle i zintegrowane oświetlenie.
+description: Profesjonalna zabudowa JUSN do Toyoty Hilux. Wykonane ze stopu aluminium i magnezu. System otwierania z 3 stron, panele Może i zintegrowane oswietlenie.
 productImage: /content/products/img/zabudowa-toyota-hilux.png
 categories:
   - Zabudowy do pickupów
@@ -16,37 +16,40 @@ material: Stop aluminium i magnezu
 process: Obróbka CNC, Anodowanie i Malowanie Proszkowe
 weight: 85
 shippingInfo:
-installation:
+Installation:
   difficulty: 4
   professional_required: true
   method: Dopasowanie OE - Install and Play
 ---
 
-**Informacja:** Produkt dedykowany dla Toyoty Hilux (krótka paka). Wyposażony w okno wentylacyjne.
+**Informacja:** Produkt dedykowany dla Toyoty Hilux (krótka paka). Wyposazony w okno wentylacyjne.
 
-Zrealizuj swoje marzenia o idealnej organizacji paki z JUSN! Ten profesjonalny system zabudowy (Canopy/Hardtop) to doskonały wybór dla właścicieli Hiluxa, którzy szukają bezkompromisowej jakości i funkcjonalności wyprawowej.
+Zrealizuj swoje marzenia o idealnej organizacji paki z JUSN! Ten profesjonalny system zabudowy (Canopy/Hardtop) to doskonaly wybór dla wlascicieli Hiluxa, którzy szukaja bezkompromisowej jakosci i funkcjonalnosci wyprawowej.
 
-### Szczegóły techniczne:
-* **MATERIAŁ:** Stop aluminium i magnezu.
+### Szczególy techniczne:
+* **MATERIAL:** Stop aluminium i magnezu.
 * **PROCES:** Obróbka CNC, anodowanie oraz malowanie proszkowe.
 
 ### Główne zalety:
-* **Dostęp z 3 stron:** System otwieranych klap bocznych i tylnej ułatwia szybki dostęp do ekwipunku, co jest kluczowe podczas wypraw.
-* **Odporność na czynniki zewnętrzne:** Anodowane wykończenie i malowanie proszkowe skutecznie chronią przed UV i korozją.
-* **Zintegrowane oświetlenie:** Możliwość podłączenia świateł zabudowy pod fabryczną instalację (stop, pozycyjne) oraz niezależne oświetlenie wewnętrzne z własnym włącznikiem.
-* **Panel rozszerzeń AUX:** Pozwala na wygodne podłączenie dodatkowych akcesoriów elektrycznych, jak kompresor czy oświetlenie robocze.
-* **Wzmocniony bagażnik dachowy:** Poprzeczki dachowe o wysokiej wytrzymałości pozwalają na bezpieczny montaż namiotu dachowego lub ciężkich skrzyń transportowych.
-* **Panele wyprawowe Molle:** W zestawie znajdują się panele zewnętrzne, które pozwalają na troczenie dodatkowego szpeju (kanistry, łopaty, trapy).
-* **System przeciwpyłowy:** Specjalna konstrukcja zamków (Dust-Proof Buckle) zapobiega ich zatarciu po jeździe w pyle i błocie.
-* **Bezpieczeństwo:** Solidne zamki chronią zawartość paki przed dostępem osób niepowołanych.
-* **Komfort jazdy:** Wysokiej klasy uchwyty montażowe minimalizują hałas i drgania zabudowy podczas jazdy w terenie.
+* **Dostep z 3 stron:** System otwieranych klap bocznych i tylnej ulatwia szybki dostep do ekwipunku, co jest kluczowe podczas wypraw.
+* **Odpornosc na czynniki zewnetrzne:** Anodowane wykonczenie i malowanie proszkowe skutecznie chronia przed UV i korozja.
+* **Zintegrowane oswietlenie:** Mozliwosc podlaczenia swiatel zabudowy pod fabryczna instalacje (stop, pozycyjne) oraz niezalezne oswietlenie wewnetrzne z wlasnym wlacznikiem.
+* **Panel rozszerzen AUX:** Pozwala na wygodne podlaczenie dodatkowych akcesoriów elektrycznych, jak kompresor czy oswietlenie robocze.
+* **Wzmocniony bagaznik dachowy:** Poprzeczki dachowe o wysokiej wytrzymalosci pozwalaja na bezpieczny montaz namiotu dachowego lub ciezkich skrzyn transportowych.
+* **Panele wyprawowe Może:** W zestawie znajduja sie panele zewnetrzne, które pozwalaja na troczenie dodatkowego szpeju (kanistry, lopaty, trapy).
+* **System przeciwpylowy:** Specjalna konstrukcja zamków (Dust-Proof Buckle) zapobiega ich zatarciu po jezdzie w pyle i blocie.
+* **Bezpieczenstwo:** Solidne zamki chronia zawartosc paki przed dostepem osób niepowolanych.
+* **Komfort jazdy:** Wysokiej klasy uchwyty montazowe minimalizuja halas i drgania zabudowy podczas jazdy w terenie.
 
 ### Instalacja:
-* **Dopasowanie:** Dane zgodne ze specyfikacją OE – „Install and Play”.
-* **Poziom trudności:** 4 gwiazdki.
-* **Wymagany profesjonalny montaż?** TAK.
+* **Dopasowanie:** Dane zgodne ze specyfikacja OE – „Install and Play”.
+* **Poziom trudnosci:** 4 gwiazdki.
+* **Wymagany profesjonalny montaz?** TAK.
 
-### Zawartość zestawu:
+### Zawartosc zestawu:
 * Korpus zabudowy Canopy - 1 komplet
 * Poprzeczki dachowe - 1 para
-* Zewnętrzne panele rozszerzeń (Molle) - 1 para
+* Zewnetrzne panele rozszerzen (Może) - 1 para
+
+
+

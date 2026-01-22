@@ -32,7 +32,7 @@ function scrollToSection(targetPosition) {
   lenis.scrollTo(targetPosition);
 }
 
-// Obsługa linków kotwicowych
+// ObsL�uga linkAlw kotwicowych
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   anchor.addEventListener("click", function (e) {
     e.preventDefault();
@@ -54,10 +54,10 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 
-// Zapobiegaj przewijaniu przy ładowaniu strony
+// Zapobiegaj przewijaniu przy L�adowaniu strony
 window.addEventListener("load", () => {
-  window.scrollTo(0, 0); // Ustaw przewijanie na samą górę
-  lenis.scrollTo(0, { immediate: true }); // Ustaw natychmiast Lenis na górę
+  window.scrollTo(0, 0); // Ustaw przewijanie na samą gAlrę
+  lenis.scrollTo(0, { immediate: true }); // Ustaw natychmiast Lenis na gAlrę
 });
 
 // Synchronizacja Lenis i ScrollTrigger
@@ -83,8 +83,8 @@ gsap.ticker.add((time) => {
         linesClass: "line-parent",
       });
       gsap.from(mySplitText.lines, {
-        duration: .5,
-        delay: .3,
+        duration: .6,
+        delay: .2,
         stagger: 0.05,
         yPercent: 105,
         ease: "power3",

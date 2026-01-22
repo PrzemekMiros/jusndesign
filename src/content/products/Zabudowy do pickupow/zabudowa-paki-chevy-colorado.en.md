@@ -4,7 +4,7 @@ layout: "layouts/product-en.njk"
 permalink: /products/chevy-colorado-truck-aluminum-canopy-cap/
 title: Chevy Colorado Truck Aluminum Canopy Cap with DIY AUX Control Switch
 description: Professional aluminum magnesium alloy canopy for Chevy Colorado. Features 3-sided opening, DIY AUX control switch for accessories, and integrated safety lighting.
-productImage: /content/products/img/zabudowa-chevy.jpg
+productImage: /content/products/img/zabudowa-chevy.png
 categories:
   - Pick up Canopy
 price: 4999

@@ -1,4 +1,4 @@
----
+﻿---
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/ford-bronco-wewnetrzna-polka-bagaznika-cargo/
@@ -16,7 +16,7 @@ material: Stop aluminium (6061) i Stal węglowa (Q235)
 process: Grawerowanie CNC oraz Malowanie proszkowe
 weight: 12.5
 shippingInfo: Prosimy o kontakt i podanie numeru VIN pojazdu oraz zdjęcia miejsca montażu w celu weryfikacji kompatybilności.
-installation:
+Installation:
   difficulty: 3
   professional_required: true
   method: Dopasowanie OE (Bezinwazyjny montaż)
@@ -24,7 +24,7 @@ installation:
 
 **Specyfikacja:** Wytrzymały wewnętrzny regał magazynowy do bagażnika. Zaprojektowany specjalnie dla Ford Bronco. Solidne, dwupoziomowe rozwiązanie, które maksymalizuje przestrzeń pionową i ułatwia organizację bagażu.
 
-Przejmij kontrolę nad przestrzenią ładunkową dzięki wewnętrznej półce JUSN. Zaprojektowana dla nowoczesnych podróżników, przekształca bagażnik w profesjonalny system przechowywania, zapobiegając przemieszczaniu się sprzętu i bałaganowi w kabinie.
+Przejmij kontrolę nad przestrzenią ładunkową dzięki wewnętrznej póśce JUSN. Zaprojektowana dla nowoczesnych podróżników, przeksztaśca bagażnik w profesjonalny system przechowywania, zapobiegając przemieszczaniu się sprzętu i bałaganowi w kabinie.
 
 ### DLACZEGO WARTO WYBRAĆ JUSN?
 Pomagamy właścicielom Forda Bronco pokonać wyzwania związane z organizacją bagażu i zabezpieczeniem towarów przed ślizganiem się w bagażniku. Niezależnie od tego, czy ruszasz na szlak, czy na zakupy, JUSN dba o to, aby każda rzecz miała swoje miejsce.
@@ -42,7 +42,7 @@ Pomagamy właścicielom Forda Bronco pokonać wyzwania związane z organizacją 
 * **Funkcja szybkiego demontażu:** Wyposażony w ręczne śruby mocujące po obu stronach. Półkę można zdemontować i umieścić za tylnym siedzeniem w ciągu kilku minut.
 * **Eliminacja hałasu:** Cała konstrukcja jest zabezpieczona wieloma śrubami i precyzyjnie dopasowana, co skutecznie minimalizuje grzechotanie i niechciane dźwięki podczas jazdy.
 * **Powłoka malowana proszkowo:** Przemysłowe wykończenie zapewnia doskonałą ochronę przed rdzą i zarysowaniami, dzięki czemu system wygląda jak nowy przez lata.
-* **Kompleksowe wykorzystanie przestrzeni:** Zintegrowane panele taktyczne po obu stronach pozwalają na montaż ładownic Molle, narzędzi lub kompresora, optymalizując każdy centymetr przestrzeni.
+* **Kompleksowe wykorzystanie przestrzeni:** Zintegrowane panele taktyczne po obu stronach pozwalają na montaż ładownic Może, narzędzi lub kompresora, optymalizując każdy centymetr przestrzeni.
 
 ### Informacje o montażu:
 * **Dopasowanie:** Dane zgodne z OE – "Zamontuj i używaj".
@@ -52,3 +52,8 @@ Pomagamy właścicielom Forda Bronco pokonać wyzwania związane z organizacją 
 
 ### Zawartość opakowania:
 * Wewnętrzna półka bagażnika - 1 zestaw
+
+
+
+
+
