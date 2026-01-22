@@ -19,14 +19,33 @@ const resolveLang = (data) => {
   return "en";
 };
 
+const stripEnPrefix = (url) => url.replace(/^\/en(\/|$)/, "/");
+const ensureEnPrefix = (url) => {
+  if (!url) {
+    return "/en/";
+  }
+  if (url === "/en") {
+    return "/en/";
+  }
+  if (url.startsWith("/en/")) {
+    return url;
+  }
+  if (url.startsWith("/")) {
+    return `/en${url}`;
+  }
+  return `/en/${url}`;
+};
+
+const stripPlPrefix = (url) => url.replace(/^\/pl(\/|$)/, "/");
+
 const getFallbackUrl = (url, targetLang) => {
   if (!url) {
-    return targetLang === "pl" ? "/pl/" : "/";
+    return targetLang === "pl" ? "/" : "/en/";
   }
   if (targetLang === "pl") {
-    return url.startsWith("/pl/") ? url : `/pl${url}`;
+    return stripEnPrefix(url);
   }
-  return url.replace(/^\/pl\//, "/");
+  return ensureEnPrefix(stripPlPrefix(url));
 };
 
 const findLangUrl = (data, targetLang) => {
@@ -44,7 +63,7 @@ const findLangUrl = (data, targetLang) => {
 
 module.exports = {
   lang: (data) => resolveLang(data),
-  langPrefix: (data) => (resolveLang(data) === "pl" ? "/pl" : ""),
+  langPrefix: (data) => (resolveLang(data) === "pl" ? "" : "/en"),
   langSwitch: (data) => {
     const currentUrl = data.page && data.page.url ? data.page.url : "/";
     const enUrl = findLangUrl(data, "en") || getFallbackUrl(currentUrl, "en");
@@ -63,17 +82,17 @@ module.exports = {
       return data.permalink;
     }
 
-    if (data.permalink.startsWith("/pl/")) {
+    if (data.permalink === "/robots.txt" || data.permalink === "/sitemap.xml") {
       return data.permalink;
     }
 
     const resolvedLang = resolveLang(data);
 
     if (resolvedLang === "pl") {
-      if (data.permalink.startsWith("/")) {
-        return `/pl${data.permalink}`;
+      if (data.permalink.startsWith("/pl")) {
+        return stripPlPrefix(data.permalink);
       }
-      return `/pl/${data.permalink}`;
+      return data.permalink.startsWith("/") ? data.permalink : `/${data.permalink}`;
     }
 
     if (
@@ -83,9 +102,9 @@ module.exports = {
       /[\\\/]page[\\\/]categories[\\\/]/.test(data.page.inputPath) &&
       data.permalink.startsWith("/produkty/")
     ) {
-      return data.permalink.replace("/produkty/", "/products/");
+      return ensureEnPrefix(data.permalink.replace("/produkty/", "/products/"));
     }
 
-    return data.permalink;
+    return ensureEnPrefix(data.permalink);
   },
 };

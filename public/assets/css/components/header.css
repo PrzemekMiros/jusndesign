@@ -253,7 +253,8 @@
 }
 
 .mega-vid-wrap video {
-  height: 120px;
+  height: 140px;
+  margin-top: -10px;
 }
 
 @media (min-width: 767px) {

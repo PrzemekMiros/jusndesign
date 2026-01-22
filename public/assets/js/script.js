@@ -88,7 +88,7 @@
 
 			const formData = new FormData(form);
 			const lang = (formData.get("form_lang") || "pl").toString().toLowerCase();
-			const successRedirect = lang === "en" ? "/en/sendform/" : "/pl/wyslano-formularz/";
+			const successRedirect = lang === "en" ? "/en/sendform/" : "/wyslano-formularz/";
 
 			fetch(form.action, {
 				method: "POST",

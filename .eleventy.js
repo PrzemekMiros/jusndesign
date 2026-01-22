@@ -30,6 +30,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/admin");
     eleventyConfig.addPassthroughCopy("tasks.json");
     eleventyConfig.addWatchTarget("src/assets/sass");
+    eleventyConfig.ignores.add("src/admin/**");
 
     eleventyConfig.addShortcode("bannerStatic", banner);
     eleventyConfig.addShortcode("lineStatic", lineStatic);
@@ -55,16 +56,25 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addFilter("toPlUrl", function(url) {
       if (!url) {
-        return "/pl/";
+        return "/";
       }
-      return url.startsWith("/pl/") ? url : `/pl${url}`;
+      return url.replace(/^\/en(\/|$)/, "/");
     });
 
     eleventyConfig.addFilter("toEnUrl", function(url) {
       if (!url) {
-        return "/";
+        return "/en/";
       }
-      return url.replace(/^\/pl\//, "/");
+      if (url === "/en") {
+        return "/en/";
+      }
+      if (url.startsWith("/en/")) {
+        return url;
+      }
+      if (url.startsWith("/")) {
+        return `/en${url}`;
+      }
+      return `/en/${url}`;
     });
 
     // Collection products
