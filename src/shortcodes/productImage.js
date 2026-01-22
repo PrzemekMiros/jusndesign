@@ -11,7 +11,7 @@ module.exports = async function(src, alt) {
     : src;
 
 let stats = await productImage(inputSrc, {
-    widths: [320, 640, 960, 1200],
+    widths: [200, 300, 400, 600],
     formats: ['jpeg', 'webp'],
     urlPath: '/content/products/img/',
     outputDir: './public/content/products/img/',
@@ -25,14 +25,14 @@ const srcset = Object.keys(stats).reduce(
     {}
 );
 
-const source = `<source type="image/webp" srcset="${srcset['webp']}" sizes="(min-width: 1024px) 1024px, 100vw">`;
+const source = `<source type="image/webp" srcset="${srcset['webp']}" sizes="(min-width: 1024px) 400px, 100vw">`;
 
 const img = `<img
     loading="lazy"
     decoding="async"
     alt="${alt}"
     src="${stats['jpeg'][0].url}"
-    sizes="(min-width: 1024px) 1024px, 100vw"
+    sizes="(min-width: 1024px) 400px, 100vw"
     srcset="${srcset['jpeg']}"
     width="${stats['jpeg'][0].width}"
     height="${stats['jpeg'][0].height}">`;
