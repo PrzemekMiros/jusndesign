@@ -70,7 +70,7 @@ html.has-scroll-dragging {
     top: -5px;
     left: 0;
     height: calc(100vh + 10px);
-    width: 5px;
+    width: 2px;
     z-index: 999;
   }
   .scrollprogress {
@@ -79,7 +79,7 @@ html.has-scroll-dragging {
     left: 0;
     -webkit-appearance: none;
     appearance: none;
-    width: 4px;
+    width: 2px;
     height: 0;
     border: none;
     border-radius: 2px;

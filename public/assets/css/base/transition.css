@@ -15,7 +15,7 @@ html.is-rendering .transition-fade {
 }
 
 .swup-progress-bar {
-  height: 4px;
+  height: 3px;
   background-color: var(--color-accent-1);
   z-index: 999999;
 }

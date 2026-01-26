@@ -4383,7 +4383,7 @@ html.is-rendering .transition-fade {
 }
 
 .swup-progress-bar {
-  height: 4px;
+  height: 3px;
   background-color: var(--color-accent-1);
   z-index: 999999;
 }
@@ -5956,7 +5956,7 @@ form .page .invalid-input {
 
 .description-content ul li,
 .description-content p {
-  font-size: 90%;
+  font-size: 95%;
 }
 
 .description-content ul li::before {
