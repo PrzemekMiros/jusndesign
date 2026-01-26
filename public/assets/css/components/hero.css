@@ -60,7 +60,7 @@
 
 @media (min-width: 767px) {
   .yt-full {
-    aspect-ratio: 20/9;
+    aspect-ratio: 16/9;
   }
   .yt-full iframe,
   .yt-full video {

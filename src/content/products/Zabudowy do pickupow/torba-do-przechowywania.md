@@ -2,7 +2,7 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/torba-do-przechowywania/
-title: Skrzynia Ładunkowa do Toyoty Tundra – organizery i system przechowywania z bagażnikami
+title: Organizery bocznych schowków zabudowy do Toyoty Tundry 
 description: Zaawansowany system przechowywania ładunku JUSN do Toyoty Tundra. Aluminiowa konstrukcja, 8 skrzyń po 25L każda oraz zintegrowane oświetlenie bezpieczeństwa.
 productImage: /content/products/img/torbado-przchowywania2.png
 categories:
