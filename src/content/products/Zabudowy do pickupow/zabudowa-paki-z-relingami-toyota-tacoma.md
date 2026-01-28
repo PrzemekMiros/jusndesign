@@ -2,7 +2,7 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/toyota-tacoma-zabudowa-paki-canopy-hardtop/
-title: Zabudowa Paki Hardtop JUSN dla Toyota Tacoma - Aluminiowe Canopy z Belkami
+title: Zabudowa Paki Hardtop JUSN dla Toyota Tacoma 
 description: Profesjonalna zabudowa Canopy JUSN do Toyoty Tacomy. Wykonana ze stopu aluminium i magnezu. Otwierana z 3 stron, wyposazona w belki dachowe i panele Może.
 productImage: /content/products/img/zabudowa-paki-z-relingami-toyota-tacoma.png
 categories:

@@ -2,7 +2,7 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/ford-ranger-zabudowa-paki-canopy-hardtop/
-title: Zabudowa Paki Hardtop JUSN dla Ford Ranger - Aluminiowe Canopy z Bagaznikiem
+title: Zabudowa Paki Hardtop JUSN dla Ford Ranger 
 description: Profesjonalna zabudowa Canopy JUSN do Forda Rangera. Wykonana ze stopu aluminium i magnezu. Otwierana z 3 stron, zintegrowane oswietlenie i panele wyprawowe.
 productImage: /content/products/img/zabudowa-ford-ranger.png
 categories:

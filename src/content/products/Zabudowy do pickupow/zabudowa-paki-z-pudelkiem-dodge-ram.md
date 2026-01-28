@@ -2,7 +2,7 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/ram-1500-long-bed-zabudowa-canopy-platforma/
-title: Zabudowa Paki Hardtop JUSN dla RAM 1500 - Long Bed - System z Platforma i Skrzynia
+title: Zabudowa Paki Hardtop JUSN dla RAM 1500 
 description: Profesjonalny system Canopy JUSN dla RAM 1500 (dluga paka). Zawiera wewnetrzna platforme bagazowa, skrzynie narzedziowa oraz zintegrowane oswietlenie.
 productImage: /content/products/img/zabudowa-z-pojemnikiem-doge-ram.png
 categories:

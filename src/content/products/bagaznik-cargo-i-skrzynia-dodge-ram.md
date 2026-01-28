@@ -2,7 +2,7 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/ram-1500-bagaznik-cargo-skrzynie-paki/
-title: Bagażnik Cargo i System skrzyń na Roletę - RAM 1500 - JUSN Storage System
+title: Bagażnik Cargo i System skrzyń na Roletę 
 description: Lekki system cargo JUSN (30kg) dla RAM 1500. Montaż nad roletą paki, aluminiowa konstrukcja CNC i 2 szczelne skrzynie narzędziowe.
 productImage: /content/products/img/bagaznik-cargo-i-skrzynia-jeep-gladiator.jpg
 categories:

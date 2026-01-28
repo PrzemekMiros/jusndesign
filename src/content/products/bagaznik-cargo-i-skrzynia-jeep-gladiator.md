@@ -2,7 +2,7 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/jeep-gladiator-jt-system-organizacji-paki/
-title: System Organizacji Paki i Bagażnik Cargo - Jeep Gladiator JT - Skrzynie i Kosz JUSN
+title: System Organizacji Paki i Bagażnik Cargo - Jeep Gladiator JT 
 description: Lekki system cargo JUSN (30kg) dedykowany dla Jeepa Gladiatora JT. Zawiera 2 szczelne skrzynie narzędziowe oraz półkę cargo. Idealny na wyprawy 4x4.
 productImage: /content/products/img/bagaznik-cargo-i-skrzynia-jeep-gladiator.jpg
 categories:
