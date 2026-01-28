@@ -6,7 +6,7 @@ title: Bagażnik Cargo i Skrzynie na Roletę Paki - Toyota Hilux Tundra Tacoma
 description: Lekki system transportowy JUSN (30kg) montowany nad roletą paki. Zawiera 2 szczelne skrzynie narzędziowe. Idealny do wypraw off-road.
 productImage: /content/products/img/bagaznik-cargo-i-skrzynia.jpg
 categories:
-  - Organizery skrzyń
+  - Systemy przechowywania ładunku
 price: 1999
 order: 1
 

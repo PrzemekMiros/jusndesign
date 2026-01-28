@@ -4,7 +4,7 @@ title: Skrzynia wyprawowa na klapę Jeep Wrangler JL / JK - Organizer 60L
 description: Aluminiowy organizer na tylną klapę do Jeepa Wranglera. Pojemność 60L, funkcja stolika, zintegrowane mocowanie kamery i tablicy.
 productImage: /content/products/img/skrzynka-narzedziowa.jpg
 categories:
-  - Skrzynki narzędziowe
+  - Skrzynki montowane na tylną klape
 price: 2850
 order: 1
 

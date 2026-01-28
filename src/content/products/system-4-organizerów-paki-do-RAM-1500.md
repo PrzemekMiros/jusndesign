@@ -4,7 +4,7 @@ title: System 4 organizerów paki do RAM 1500 - bagażnik z oświetleniem
 description: Zrealizuj swoje marzenia o organizacji paki dzięki systemowi JUSN. Aluminiowa konstrukcja, 4 skrzynie po 25L i zintegrowane oświetlenie.
 productImage: /content/products/img/bed-box.jpg
 categories:
-  - Organizery skrzyń
+  - Systemy przechowywania ładunku
 price: 3499
 order: 1
 

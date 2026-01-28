@@ -6,7 +6,7 @@ title: Pancerny System Organizacji Paki i Skrzynie - Toyota Tundra - JUSN Heavy 
 description: Wzmocniony system cargo JUSN dla Toyoty Tundry. 8 dużych skrzyń, zamki odporne na pył, zintegrowane oświetlenie i konstrukcja alu-stal CNC.
 productImage: /content/products/img/organizer-paki-toyota-tundra.jpg
 categories:
-  - Organizery skrzyń
+  - Systemy przechowywania ładunku
 price: 3899
 order: 1
 

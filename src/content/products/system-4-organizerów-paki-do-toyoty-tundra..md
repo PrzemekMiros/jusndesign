@@ -6,7 +6,7 @@ title: System Organizacji Paki i Bagaznik Cargo do Toyota Tundra - Skrzynie Narz
 description: Profesjonalny system cargo JUSN dla Toyoty Tundry. Aluminiowa konstrukcja, 8 skrzyn transportowych (po 25L) i zintegrowane oswietlenie paki.
 productImage: /content/products/img/organizry-toyota-tundra.jpg
 categories:
-  - Organizery skrzyn
+  - Systemy przechowywania ładunku
 price: 3499
 order: 1
 

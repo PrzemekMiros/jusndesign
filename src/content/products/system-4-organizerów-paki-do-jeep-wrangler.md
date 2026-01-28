@@ -4,7 +4,7 @@ title: System organizerów paki dla Jeep Wrangler JT (Gladiator) - Bagażnik i s
 description: Profesjonalny system zabudowy JUSN dla Jeepa Wranglera JT. Aluminiowa konstrukcja, 4 skrzynie transportowe i zintegrowane oświetlenie.
 productImage: /content/products/img/bed-box-wrangler.jpg
 categories:
-  - Organizery skrzyń
+  - Systemy przechowywania ładunku
 price: 3499
 order: 1
 

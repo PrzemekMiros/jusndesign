@@ -6,7 +6,7 @@ title: System Organizacji Paki i Bagażnik Cargo - Jeep Gladiator JT - Skrzynie 
 description: Lekki system cargo JUSN (30kg) dedykowany dla Jeepa Gladiatora JT. Zawiera 2 szczelne skrzynie narzędziowe oraz półkę cargo. Idealny na wyprawy 4x4.
 productImage: /content/products/img/bagaznik-cargo-i-skrzynia-jeep-gladiator.jpg
 categories:
-  - Organizery skrzyń
+  - Systemy przechowywania ładunku
 price: 2499
 order: 1
 
