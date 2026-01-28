@@ -8,7 +8,7 @@ productImage: /content/products/img/zabudowa-tundra.png
 categories:
   - Zabudowy do pickupów
 price: 5999
-order: 1
+order: 7
 
 # Dane techniczne dla szablonu
 brand: JUSN

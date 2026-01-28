@@ -8,7 +8,7 @@ productImage: /content/products/img/zabudowa-paki-z-relingami-ford-f50.png
 categories:
   - Zabudowy do pickupów
 price: 5999
-order: 1
+order: 2
 
 # Dane techniczne dla szablonu
 brand: JUSN

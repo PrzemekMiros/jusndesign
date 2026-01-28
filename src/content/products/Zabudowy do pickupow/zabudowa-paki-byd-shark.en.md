@@ -8,7 +8,7 @@ productImage: /content/products/img/zabudowa2.png
 categories:
   - Pick up Canopy
 price: 8900
-order: 1
+order: 5
 
 # Technical data for template
 brand: JUSN

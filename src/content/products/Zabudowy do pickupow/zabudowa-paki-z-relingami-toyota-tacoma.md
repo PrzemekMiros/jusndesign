@@ -8,7 +8,7 @@ productImage: /content/products/img/zabudowa-paki-z-relingami-toyota-tacoma.png
 categories:
   - Zabudowy do pickupów
 price: 5499
-order: 1
+order: 22
 
 # Dane techniczne dla szablonu
 brand: JUSN

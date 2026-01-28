@@ -8,7 +8,7 @@ productImage: /content/products/img/bagaznik-cargo-i-skrzynia-jeep-gladiator.jpg
 categories:
   - Systemy przechowywania ładunku
 price: 2199
-order: 1
+order: 25
 
 # Dane techniczne dla szablonu
 brand: JUSN

@@ -8,7 +8,7 @@ productImage: /content/products/img/zabudowa-ford-ranger.png
 categories:
   - Pick up Canopy
 price: 5499
-order: 1
+order: 6
 
 # Dane techniczne dla szablonu
 brand: JUSN

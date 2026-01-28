@@ -8,7 +8,7 @@ productImage: /content/products/img/zabudowa-chevy.png
 categories:
   - Zabudowy do pickupów
 price: 4999
-order: 1
+order: 11
 
 # Dane techniczne dla szablonu
 brand: JUSN

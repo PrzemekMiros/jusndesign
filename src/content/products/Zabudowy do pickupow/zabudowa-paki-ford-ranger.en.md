@@ -8,7 +8,7 @@ productImage: /content/products/img/zab-ford-ranger.png
 categories:
   - Pick up Canopy
 price: 4899
-order: 1
+order: 3
 
 # Technical data for template
 brand: JUSN

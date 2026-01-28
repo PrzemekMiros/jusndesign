@@ -8,7 +8,7 @@ productImage: /content/products/img/zabudowa-paki-z-relingami-ford-f50.png
 categories:
   - Pick up Canopy
 price: 5999
-order: 1
+order: 2
 
 # Technical data for template
 brand: JUSN

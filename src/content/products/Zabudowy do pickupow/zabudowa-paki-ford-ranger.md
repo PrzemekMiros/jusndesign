@@ -8,7 +8,7 @@ productImage: /content/products/img/zab-ford-ranger.png
 categories:
   - Zabudowy do pickupów
 price: 4899
-order: 1
+order: 3
 
 # Dane techniczne dla szablonu
 brand: JUSN

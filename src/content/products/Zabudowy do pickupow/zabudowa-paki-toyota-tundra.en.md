@@ -8,7 +8,7 @@ productImage: /content/products/img/zabudowa-toyota-tundra.jpg
 categories:
   - Pick up Canopy
 price: 5999
-order: 1
+order: 7
 
 # Dane techniczne dla szablonu
 brand: JUSN

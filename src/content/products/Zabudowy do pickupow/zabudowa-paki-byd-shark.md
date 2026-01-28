@@ -6,7 +6,7 @@ productImage: /content/products/img/zabudowa2.png
 categories:
   - Zabudowy do pickupów
 price: 8900
-order: 1
+order: 5
 
 # Dane techniczne dla szablonu
 brand: JUSN

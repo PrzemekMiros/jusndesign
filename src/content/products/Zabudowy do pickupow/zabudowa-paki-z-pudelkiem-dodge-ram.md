@@ -8,7 +8,7 @@ productImage: /content/products/img/zabudowa-z-pojemnikiem-doge-ram.png
 categories:
   - Zabudowy do pickupów
 price: 5899
-order: 1
+order: 15
 
 # Dane techniczne dla szablonu
 brand: JUSN
