@@ -107,6 +107,17 @@ eleventyConfig.addCollection("productCategories", (collection) => {
     });
   });
 
+  // Sort products within each category by frontmatter "order"
+  Object.keys(categories).forEach((lang) => {
+    Object.keys(categories[lang]).forEach((cat) => {
+      categories[lang][cat].sort((a, b) => {
+        const orderA = a.data.order || 0;
+        const orderB = b.data.order || 0;
+        return orderA - orderB;
+      });
+    });
+  });
+
   return categories;
 });
 
