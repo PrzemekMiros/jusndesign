@@ -26,42 +26,15 @@ category: Pick up Canopy
 
       <div class="cat-desc-content bg-light-1 p-3 p-md-5 rounded-md">
       <div class="row g-1 g-md-5">
-        <div class="col-md-7">
+        <div class="col-md-4">
           <div class="description-content">
-            <h2>Pickup Truck Bed Canopies / Hardtops</h2>
-            <p>Pickup bed canopies are primarily installed to increase the functionality of the cargo area and to protect it from weather conditions.</p>
-            <a href="#odescription" class="text-sm">Read more &rarr; </a>
-         
+            <h2 class="mt-3">Pickup Truck Bed Canopies / Hardtops</h2>
           </div>
         </div>
-        <div class="col-md-5">
-         <div class="sticky">
-          <div class="swiper swiper-category">
-            <div class="swiper-wrapper"> {% for post in collections.works | byLang(lang) %} <div class="swiper-slide">
-                <div class="work-card bg-light-1 rounded-md">
-                  <a href="{{ post.data.thumbnail | url }}" class="glightbox work-image-wrap rounded-md" data-gallery="portfolio" data-no-swup>
-                    <svg class="img-wrapper-icon" width="34" height="34" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
-                      <polyline points="8.25 2.75,2.75 2.75,2.75 13.25,13.25 13.25" />
-                      <path d="m13.25 2.75-5.5 5.5m3-6.5h3.5v3.5" />
-                    </svg> {% workImage "src/" + post.data.thumbnail, post.data.title %} </a>
-                </div>
-              </div> {% endfor %} </div>
-          </div>
-          <button class="magnetic swiper-gal swiper-button-prev fade-in" data-strength="60" tabindex="0" aria-label="Previous slide">
-            <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
-              <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
-              <path d="M34.5 24L27 31.5L34.5 39" stroke-width="2" stroke="var(--color-dark-2)"></path>
-            </svg>
-          </button>
-          <button class="magnetic swiper-gal swiper-button-next fade-in" data-strength="60" tabindex="0" aria-label="Next slide">
-            <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
-              <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
-              <path d="M28 24L35.5 31.5L28 39" stroke-width="2" stroke="var(--color-dark-2)"></path>
-            </svg>
-          </button>
-          <div class="fade-in">
-            <div class="swiper-scrollbar bg-light-2"></div>
-          </div>
+        <div class="col-md-8">
+         <div class="">
+            <p>Pickup bed canopies are primarily installed to increase the functionality of the cargo area and to protect it from weather conditions.</p>
+            <a href="#odescription" class="text-sm">Read more &rarr; </a>
          </div>
         </div>
       </div>
