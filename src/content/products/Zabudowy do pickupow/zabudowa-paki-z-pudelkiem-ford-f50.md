@@ -3,7 +3,7 @@ lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/ford-f150-raptor-zabudowa-paki-hard-topper-platforma/
 title: Zabudowa Ford F-150 Raptor 
-description: Profesjonalna zabudowa Canopy JUSN dla Forda F-150 Raptor (Long Bed). Zawiera wewnetrzna platforme bagazowa, skrzynie narzedziowa i belki dachowe.
+description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
 productImage: /content/products/img/zabudowa-paki-z-relingami-ford-f50.png
 categories:
   - Zabudowy do pickupów
@@ -13,8 +13,10 @@ order: 2
 # Dane techniczne dla szablonu
 brand: JUSN
 material: Stop aluminium i magnezu
+capacityStatic: 500 kg
+capacityDynamic: 300 kg
 process: Obróbka CNC, Anodowanie i Malowanie Proszkowe
-weight: 98
+weight: 62 kg
 shippingInfo: Czas realizacji wynosi 15 dni, transport morski i ladowy zajmuje okolo 40 dni.
 Installation:
   difficulty: 4
@@ -22,35 +24,34 @@ Installation:
   method: Dopasowanie OE - Install and Play
 ---
 
-**Informacja:** Produkt dedykowany dla Forda F-150 Raptor (dluga paka - Long Bed). Wyposazony w okno wentylacyjne.
 
-Zrealizuj swoje marzenia o idealnej organizacji paki z JUSN! Ten system dla Forda F-150 Raptor to rozwiazanie dla profesjonalistów, laczace pancerny Hardtop z wewnetrznym systemem platform do pietrowego ukladania ekwipunku.
+## Standardowe wyposażenie zabudowy:
 
-### Szczególy techniczne:
-* **MATERIAL:** Stop aluminium i magnezu.
-* **PROCES:** Obróbka CNC, anodowanie oraz malowanie proszkowe.
+- Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
+- Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
+- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
+- Schowek w drzwiach bocznych, 
+- Oświetlenie wewnętrzne, 
+- Światło stop, 
 
-### Główne zalety:
-* **Zintegrowany system przechowywania:** Zestaw zawiera wewnetrzna platforme oraz skrzynie narzedziowa, co pozwala na pelne wykorzystanie wysokosci paki.
-* **Dostep z 3 stron:** Trzy otwierane klapy zapewniaja blyskawiczny dostep do bagazu na calej dlugosci paki Long Bed.
-* **Bezpieczenstwo i widocznosc:** Zewnetrzne oswietlenie zabudowy integruje sie z systemem pojazdu. Design nie ogranicza widoku w lusterku wstecznym.
-* **Panel rozszerzen AUX:** Przelacznik AUX pozwala na podlaczenie urzadzen zewnetrznych, jak kompresory czy oswietlenie dodatkowe.
-* **Odpornosc na czynniki zewnetrzne:** Anodowane wykonczenie chroni przed korozja i UV, a oslony zamków Dust-Proof chronia mechanizmy przed piachem.
-* **Wzmocniony dach:** Solidne poprzeczki dachowe sa przystosowane do montazu ciezkich namiotów dachowych.
-* **Niezalezne oswietlenie LED:** Wewnetrzne swiatla z wlasnymi wlacznikami ulatwiaja prace po zmroku.
-* **Zintegrowane stopnie:** Dwa stopnie wbudowane w konstrukcje ulatwiaja bezpieczny dostep do bagaznika dachowego.
+Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
 
-### Instalacja:
-* **Dopasowanie:** Dane zgodne ze specyfikacja OE – „Install and Play”.
-* **Poziom trudnosci:** 4 gwiazdki.
-* **Wymagany profesjonalny montaz?** TAK.
-
-### Zawartosc zestawu:
-* Korpus zabudowy Canopy (Long Bed) - 1 komplet
-* Zewnetrzne poprzeczki dachowe - 2 szt. (1 para)
-* Zewnetrzne panele rozszerzen (Może) - 1 para
-* Wewnetrzna platforma transportowa - 1 szt.
-* Wewnetrzna skrzynia narzedziowa - 1 szt.
+- Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
+- Instalacje elektryczną
+- Okno wentylacyjne
+- Panel molle 
 
 
+## Opcjonalne wyposażenie: 
 
+- Schowek umieszczony w drugim boku zabudowy
+- Schowek umieszczony na przednim panelu
+- Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
+- Stolik turystyczny mocowany pod dachem zabudowy
+- Organizery dopasowane do bocznych schowków
+
+Posiadamy równie doskonałej jakości platformy wysuwane mocowane do podłogi paki - bez konieczności wiercenia otworów w podłodze.
+
+Zabudowa jest dostarczana w trzech kartonach do samodzielnego montażu. Jeżeli nie jesteś zainteresowany składaniem i montażem zabudowy umów się z naszym serwisem, zajmiemy się tym za Ciebie. 
+
+Jeżeli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie możliwych, wystarczy porozmawiać więc zapraszamy do kontaktu z naszymi doradcami.

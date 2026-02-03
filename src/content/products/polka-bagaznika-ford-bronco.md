@@ -22,38 +22,34 @@ Installation:
   method: Dopasowanie OE (Bezinwazyjny montaż)
 ---
 
-**Specyfikacja:** Wytrzymały wewnętrzny regał magazynowy do bagażnika. Zaprojektowany specjalnie dla Ford Bronco. Solidne, dwupoziomowe rozwiązanie, które maksymalizuje przestrzeń pionową i ułatwia organizację bagażu.
 
-Przejmij kontrolę nad przestrzenią ładunkową dzięki wewnętrznej póśce JUSN. Zaprojektowana dla nowoczesnych podróżników, przeksztaśca bagażnik w profesjonalny system przechowywania, zapobiegając przemieszczaniu się sprzętu i bałaganowi w kabinie.
+## Standardowe wyposażenie zabudowy:
 
-### DLACZEGO WARTO WYBRAĆ JUSN?
-Pomagamy właścicielom Forda Bronco pokonać wyzwania związane z organizacją bagażu i zabezpieczeniem towarów przed ślizganiem się w bagażniku. Niezależnie od tego, czy ruszasz na szlak, czy na zakupy, JUSN dba o to, aby każda rzecz miała swoje miejsce.
+- Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
+- Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
+- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
+- Schowek w drzwiach bocznych, 
+- Oświetlenie wewnętrzne, 
+- Światło stop, 
 
-### Szczegóły Techniczne:
-* **MATERIAŁ:** Wysokowytrzymały stop aluminium 6061 połączony ze stalą węglową Q235 dla zapewnienia maksymalnej sztywności konstrukcji.
-* **PROCES:** Precyzyjne grawerowanie CNC oraz trwała, dwuwarstwowa powłoka proszkowa odporna na długotrwałe zużycie.
+Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
 
-### Główne Cechy:
-* **Półka grawerowana CNC:** Wykwintne wykonanie, które wyróżnia Twój pojazd, dodając elegancji surowej funkcjonalności.
-* **W pełni metalowa struktura:** Zbudowana z myślą o bezpieczeństwie i niezawodności. Ten solidny organizer znacznie przewyższa plastikowe alternatywy, oferując niezrównaną trwałość w warunkach terenowych.
-* **Innowacyjna ażurowa konstrukcja:** Znacząco redukuje wagę całkowitą przy zachowaniu wyjątkowej wytrzymałości na obciążenia, pozwalając na przewożenie wszystkiego, czego potrzebujesz.
-* **Inteligentne sortowanie:** Zoptymalizuj przestrzeń, umieszczając często używany sprzęt na górze dla łatwego dostępu, podczas gdy większe i cięższe przedmioty pozostają bezpiecznie na dole.
-* **Bezinwazyjny montaż:** Zaprojektowany dla idealnego dopasowania do fabrycznych punktów montażowych Twojego Bronco. Nie wymaga wiercenia.
-* **Funkcja szybkiego demontażu:** Wyposażony w ręczne śruby mocujące po obu stronach. Półkę można zdemontować i umieścić za tylnym siedzeniem w ciągu kilku minut.
-* **Eliminacja hałasu:** Cała konstrukcja jest zabezpieczona wieloma śrubami i precyzyjnie dopasowana, co skutecznie minimalizuje grzechotanie i niechciane dźwięki podczas jazdy.
-* **Powłoka malowana proszkowo:** Przemysłowe wykończenie zapewnia doskonałą ochronę przed rdzą i zarysowaniami, dzięki czemu system wygląda jak nowy przez lata.
-* **Kompleksowe wykorzystanie przestrzeni:** Zintegrowane panele taktyczne po obu stronach pozwalają na montaż ładownic Może, narzędzi lub kompresora, optymalizując każdy centymetr przestrzeni.
-
-### Informacje o montażu:
-* **Dopasowanie:** Dane zgodne z OE – "Zamontuj i używaj".
-* **Poziom trudności:** 3/5 gwiazdek.
-* **Montaż profesjonalny:** Zalecany, jeśli nie masz doświadczenia w montażu akcesoriów wewnętrznych.
-* **Montaż bezinwazyjny:** Tak.
-
-### Zawartość opakowania:
-* Wewnętrzna półka bagażnika - 1 zestaw
+- Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
+- Instalacje elektryczną
+- Okno wentylacyjne
+- Panel molle 
 
 
+## Opcjonalne wyposażenie: 
 
+- Schowek umieszczony w drugim boku zabudowy
+- Schowek umieszczony na przednim panelu
+- Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
+- Stolik turystyczny mocowany pod dachem zabudowy
+- Organizery dopasowane do bocznych schowków
 
+Posiadamy równie doskonałej jakości platformy wysuwane mocowane do podłogi paki - bez konieczności wiercenia otworów w podłodze.
 
+Zabudowa jest dostarczana w trzech kartonach do samodzielnego montażu. Jeżeli nie jesteś zainteresowany składaniem i montażem zabudowy umów się z naszym serwisem, zajmiemy się tym za Ciebie. 
+
+Jeżeli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie możliwych, wystarczy porozmawiać więc zapraszamy do kontaktu z naszymi doradcami.

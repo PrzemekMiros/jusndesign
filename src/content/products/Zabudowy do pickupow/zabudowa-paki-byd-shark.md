@@ -1,8 +1,10 @@
 ﻿---
 lang: pl
 title: Zabudowa BYD Shark 6 z relingami górnymi
-description: Aluminiowa zabudowa paki dla BYD Shark 6. Konstrukcja z aluminium i magnezu, otwierane 3 boki, zintegrowane oświetlenie i panel przełączników AUX.
-productImage: /content/products/img/zabudowa2.png
+description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
+productImage: /content/products/img/byd-shark-1.jpg
+galleryImages:
+  - /content/products/img/byd-shark-2.jpg
 categories:
   - Zabudowy do pickupów
 price: 8900
@@ -11,8 +13,10 @@ order: 5
 # Dane techniczne dla szablonu
 brand: JUSN
 material: Stop aluminium i magnezu
+capacityStatic: 500 kg
+capacityDynamic: 300 kg
 process: Obróbka CNC, anodowanie i malowanie proszkowe
-weight: 85
+weight: 62 kg
 shippingInfo: Czas realizacji zamówienia wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
 Installation:
   difficulty: 4
@@ -20,45 +24,33 @@ Installation:
   method: Dopasowanie OE (Plug & Play)
 ---
 
-**Specyfikacja:** Zabudowa paki dla BYD Shark 6 (wersja z oknem wentylacyjnym). Przeznaczona dla wersji Pickup z krótką paką (Short Bed).
+## Standardowe wyposażenie zabudowy:
 
-Zrealizuj swoje marzenia o idealnej organizacji paki dzięki JUSN! Ta zabudowa to połączenie bezpieczeństwa, funkcjonalności i nowoczesnego designu.
+- Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
+- Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
+- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
+- Schowek w drzwiach bocznych, 
+- Oświetlenie wewnętrzne, 
+- Światło stop, 
 
+Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
 
-### Szczegóły techniczne:
-* **MATERIAŁ:** Lekki i wytrzymały stop aluminium i magnezu.
-* **PROCES:** Precyzyjna obróbka CNC, anodowanie oraz malowanie proszkowe.
-
-### Główne cechy:
-* **Wyjątkowy styl:** Integralne tłoczenie i obróbka CNC nadają Twojemu pickupowi unikalny, techniczny wygląd, który wyróżnia się na drodze.
-* **Odporność na pogodę:** wykończenie odporne na UV, kwaśne deszcze i rdzę zapewnia trwałość zabudowy przez lata.
-* **łatwy dostęp:** Inteligentna konstrukcja otwierana z 3 stron sprawia, że załadunek i rozładunek bagażu jest niezwykle prosty.
-* **Bezpieczeństwo:** Zwiększ widoczność w nocy dzięki możliwości podpięcia zewnętrznego oświetlenia pod światła hamowania, obrysowe i do jazdy dziennej.
-* **Wielofunkcyjny dach:** Górne relingi są idealne do przewożenia namiotów dachowych, waliz i ciężkiego szpeju wyprawowego.
-* **Rozbudowa zasilania:** Panel AUX pozwala na podłączenie dodatkowych urządzeń, takich jak szperacze czy kompresory.
-* **Pełna widoczność:** Konstrukcja pozwala na bezproblemową obserwację paki w lusterku wstecznym – brak martwych punktów.
-* **Niezależne oświetlenie:** Zabudowa posiada własne przełączniki światła, ułatwiające pracę w nocy lub w ciemnych garażach.
-* **Pyłoszczelna konstrukcja:** Specjalne osłony zamków chronią mechanizmy przed błotem i kurzem, zapewniając ich sprawne działanie.
-* **Ochrona przed kradzieżą:** Wbudowane zamki zabezpieczają Twoje mienie przed niepowołanym dostępem.
-* **Dodatkowe miejsce:** Panele expansion board wewnątrz ułatwiają montaż uchwytów na narzędzia i akcesoria.
-* **Wygodne stopnie:** Hardtop wyposażony jest w 2 stopnie ułatwiające dostęp do bagażu na dachu.
-* **Wzmocniona konstrukcja:** Poziome belki poprzeczne zapobiegają uginaniu się dachu, nawet przy dużym obciążeniu (np. namiot dachowy z pasażerami).
-* **Sztywność i cisza:** Wysokiej wytrzymałości wsporniki montażowe minimalizują hałas i drgania podczas jazdy.
-
-### Informacje o montażu:
-* **Dopasowanie:** Dane zgodne z fabrycznymi (OE) – montaż typu "instaluj i używaj".
-* **Poziom trudności:** 4/5.
-* **Wymagany profesjonalny montaż:** TAK.
-
-### Zawartość zestawu:
-* Korpus zabudowy (Canopy Body) - 1 zestaw
-* Relingi górne (Top Horizontal Bar) - 1 para
-* Zewnętrzne panele boczne (Exterior Expansion Panels) - 1 para
+- Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
+- Instalacje elektryczną
+- Okno wentylacyjne
+- Panel molle 
 
 
+## Opcjonalne wyposażenie: 
 
+- Schowek umieszczony w drugim boku zabudowy
+- Schowek umieszczony na przednim panelu
+- Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
+- Stolik turystyczny mocowany pod dachem zabudowy
+- Organizery dopasowane do bocznych schowków
 
+Posiadamy równie doskonałej jakości platformy wysuwane mocowane do podłogi paki - bez konieczności wiercenia otworów w podłodze.
 
+Zabudowa jest dostarczana w trzech kartonach do samodzielnego montażu. Jeżeli nie jesteś zainteresowany składaniem i montażem zabudowy umów się z naszym serwisem, zajmiemy się tym za Ciebie. 
 
-
-
+Jeżeli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie możliwych, wystarczy porozmawiać więc zapraszamy do kontaktu z naszymi doradcami.

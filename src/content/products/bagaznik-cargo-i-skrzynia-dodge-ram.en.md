@@ -5,6 +5,9 @@ permalink: /products/ram-1500-truck-bed-cargo-rack/
 title: Truck Bed Cargo Storage Rack for RAM 1500 Trunk Tool Box Tray Basket Lights on Tonneau Cover
 description: Premium JUSN cargo rack (30kg) for RAM 1500. Designed for Tonneau Covers, featuring 2 weather-resistant toolboxes and CNC-engraved aluminum construction.
 productImage: /content/products/img/bagaznik-cargo-i-skrzynia-jeep-gladiator.jpg
+galleryImages:
+  - /content/products/img/bagaznik-cargo-i-skrzynia.jpg
+  - /content/products/img/bagaznik-cargo-i-skrzynia-toyta-tundra-hilux.jpg
 categories:
   - Pick up Truck Bed Organizer
 price: 2199

@@ -34,6 +34,7 @@ category: Inne akcesoria
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0">{{ product.data.title }}</h3>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej →</a>
           </div>
         </article>
         </a>
@@ -45,6 +46,9 @@ category: Inne akcesoria
   {% endif %}
   </div>
 </section>
+
+
+
 
 
 

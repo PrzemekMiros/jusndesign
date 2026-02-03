@@ -6,16 +6,39 @@
       <div class="p-md-3">
 
       <div class="product-main row">
-        <div class="col-md-6 product-gallery">
-          <a href="{{ productImage | url }}" class="lightbox-trigger" data-no-swup data-lightbox-src="{{ productImage | url }}">
-            <img src="{{ productImage }}" alt="{{ title }}" class="main-image">
+        <div class="col-md-6 product-gallery" data-product-gallery>
+          <a
+            href="{{ productImage | url }}"
+            class="lightbox-trigger product-main-link"
+            data-no-swup
+            data-product-main-link
+            data-lightbox-src="{{ productImage | url }}"
+          >
+            <img src="{{ productImage }}" alt="{{ title }}" class="main-image" data-product-main-image>
           </a>
           {% if galleryImages and galleryImages.length %}
-            <div class="gallery-thumbs">
+            <div class="gallery-thumbs" aria-label="Product image thumbnails">
+              <button
+                type="button"
+                class="gallery-thumb is-active"
+                data-product-thumb
+                data-image-src="{{ productImage | url }}"
+                data-image-alt="{{ title }}"
+                aria-label="Show image 1"
+              >
+                <img src="{{ productImage }}" alt="{{ title }} - 1" class="thumb-image rounded-md">
+              </button>
               {% for image in galleryImages %}
-                <a href="{{ image | url }}" class="lightbox-trigger" data-lightbox-src="{{ image | url }}">
-                  <img src="{{ image }}" alt="{{ title }} - {{ loop.index }}" class="thumb-image rounded-md">
-                </a>
+                <button
+                  type="button"
+                  class="gallery-thumb"
+                  data-product-thumb
+                  data-image-src="{{ image | url }}"
+                  data-image-alt="{{ title }} - {{ loop.index + 1 }}"
+                  aria-label="Show image {{ loop.index + 1 }}"
+                >
+                  <img src="{{ image }}" alt="{{ title }} - {{ loop.index + 1 }}" class="thumb-image rounded-md">
+                </button>
               {% endfor %}
             </div>
           {% endif %}

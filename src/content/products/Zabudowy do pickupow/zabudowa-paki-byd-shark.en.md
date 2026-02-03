@@ -13,8 +13,10 @@ order: 5
 # Technical data for template
 brand: JUSN
 material: Aluminum Magnesium Alloy
+capacityStatic: 500 kg
+capacityDynamic: 300 kg
 process: CNC, Anodizing and Spraying Coating
-weight: 85
+weight: 62 kg
 shippingInfo: Order preparation takes 15 days. Sea and land shipping takes approximately 40 days.
 installation:
   difficulty: 4

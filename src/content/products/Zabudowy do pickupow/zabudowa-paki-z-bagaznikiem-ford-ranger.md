@@ -3,8 +3,8 @@ lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/ford-ranger-zabudowa-paki-canopy-hardtop/
 title: Zabudowa Ford Ranger 
-description: Profesjonalna zabudowa Canopy JUSN do Forda Rangera. Wykonana ze stopu aluminium i magnezu. Otwierana z 3 stron, zintegrowane oswietlenie i panele wyprawowe.
-productImage: /content/products/img/zabudowa-ford-ranger.png
+description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
+productImage: /content/products/img/zabudowa-paki-z-relingami-ford-f50.png
 categories:
   - Zabudowy do pickupów
 price: 5499
@@ -13,8 +13,10 @@ order: 6
 # Dane techniczne dla szablonu
 brand: JUSN
 material: Stop aluminium i magnezu
+capacityStatic: 500 kg
+capacityDynamic: 300 kg
 process: Obróbka CNC, Anodowanie i Malowanie Proszkowe
-weight: 85
+weight: 62 kg
 shippingInfo: Czas realizacji wynosi 15 dni, transport morski i ladowy zajmuje okolo 40 dni.
 Installation:
   difficulty: 4
@@ -22,35 +24,34 @@ Installation:
   method: Dopasowanie OE - Install and Play
 ---
 
-**Informacja:** Przeznaczone dla Forda Rangera (krótka paka). Zabudowa wyposazona w okno wentylacyjne.
 
-Zrealizuj swoje marzenia o idealnej organizacji paki z JUSN! Profesjonalny system Canopy (Hardtop) nie tylko nadaje Twojemu Fordowi unikalny, wyprawowy wyglad, ale oferuje niezrównana funkcjonalnosc w podrózy i pracy.
+## Standardowe wyposażenie zabudowy:
 
-### Szczególy techniczne:
-* **MATERIAL:** Stop aluminium i magnezu.
-* **PROCES:** Obróbka CNC, anodowanie oraz malowanie proszkowe.
+- Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
+- Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
+- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
+- Schowek w drzwiach bocznych, 
+- Oświetlenie wewnętrzne, 
+- Światło stop, 
 
-### Główne zalety:
-* **Otwieranie z 3 stron:** Przemyslana konstrukcja umozliwia latwy dostep do bagazu z kazdej strony, oszczedzajac czas podczas przygotowan do trasy.
-* **Odpornosc na warunki atmosferyczne:** Wykonczenie odporne na UV i korozje zapewnia estetyczny wyglad zabudowy przez lata.
-* **Bezpieczenstwo i widocznosc:** Mozliwosc podlaczenia zewnetrznych swiatel zabudowy pod instalacje hamowania i swiatel dziennych pojazdu.
-* **Niezalezne oswietlenie wewnetrzne:** Wlasne wlaczniki swiatla wewnatrz zabudowy ulatwiaja prace w ciemnych garazach lub w nocy na kempingu.
-* **Rozbudowa zasilania:** Przelacznik AUX pozwala na podlaczenie dodatkowych urzadzen, takich jak kompresory czy oswietlenie robocze.
-* **Wielofunkcyjny dach:** Wzmocnione poprzeczki dachowe zapobiegaja uginaniu sie konstrukcji nawet przy duzym obciazeniu (namioty dachowe, ciezkie kufry).
-* **Zewnetrzne panele wyprawowe:** W zestawie znajduja sie panele boczne (może), idealne do montazu dodatkowego szpeju, kanistrów czy lopat.
-* **Odpornosc na pyl i kradziez:** System uszczelnien chroni zamki przed zapiaszczeniem, a solidne rygle zabezpieczaja ekwipunek przed kradzieza.
-* **Wygodne stopnie:** Zabudowa posiada 2 zintegrowane stopnie ulatwiajace dostep do bagaznika dachowego.
-* **Pelna widocznosc:** Konstrukcja nie ogranicza widocznosci w lusterku wstecznym, co podnosi komfort jazdy.
+Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
 
-### Instalacja:
-* **Dopasowanie:** Dane zgodne ze specyfikacja OE – „Install and Play”.
-* **Poziom trudnosci:** 4 gwiazdki.
-* **Wymagany profesjonalny montaz?** TAK.
-
-### Zawartosc zestawu:
-* Korpus zabudowy Canopy - 1 komplet
-* Poprzeczki dachowe - 1 para
-* Zewnetrzne panele rozszerzen (Może) - 1 para
+- Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
+- Instalacje elektryczną
+- Okno wentylacyjne
+- Panel molle 
 
 
+## Opcjonalne wyposażenie: 
 
+- Schowek umieszczony w drugim boku zabudowy
+- Schowek umieszczony na przednim panelu
+- Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
+- Stolik turystyczny mocowany pod dachem zabudowy
+- Organizery dopasowane do bocznych schowków
+
+Posiadamy równie doskonałej jakości platformy wysuwane mocowane do podłogi paki - bez konieczności wiercenia otworów w podłodze.
+
+Zabudowa jest dostarczana w trzech kartonach do samodzielnego montażu. Jeżeli nie jesteś zainteresowany składaniem i montażem zabudowy umów się z naszym serwisem, zajmiemy się tym za Ciebie. 
+
+Jeżeli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie możliwych, wystarczy porozmawiać więc zapraszamy do kontaktu z naszymi doradcami.

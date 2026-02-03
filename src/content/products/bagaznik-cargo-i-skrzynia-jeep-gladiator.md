@@ -22,36 +22,34 @@ Installation:
   method: Dopasowanie OE - Install and Play
 ---
 
-**Ważne:** Przed zakupem prosimy o kontakt i podanie numeru VIN pojazdu oraz przesłanie zdjęcia paki w celu weryfikacji kompatybilności z Twoim Jeepem Gladiatorem JT.
 
-Zrealizuj swoje marzenia o idealnie zorganizowanej przestrzeni ładunkowej. System JUSN to lekkie i niezawodne rozwiązanie zaprojektowane specjalnie dla miłośników marki Jeep i wypraw off-road.
+## Standardowe wyposażenie zabudowy:
 
-Odblokuj pełny potencjał swojego Jeepa z JUSN!
+- Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
+- Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
+- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
+- Schowek w drzwiach bocznych, 
+- Oświetlenie wewnętrzne, 
+- Światło stop, 
 
-### Szczegóły techniczne:
-* **MATERIAŁ:** Stop aluminium (6061), Stal węglowa (Q235).
-* **PROCES:** Grawerowanie CNC, anodowanie oraz malowanie proszkowe.
-* **WAGA:** Tylko 30 kg – kluczowe przy zachowaniu właściwości terenowych Gladiatora.
+Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
 
-### Główne zalety:
-* **Wyjątkowy styl:** Formowanie integralne i obróbka CNC nadają Twojemu Jeepowi profesjonalny, wyprawowy wygląd, który wyróżnia się na szlaku.
-* **Odporność na warunki pogodowe:** Powłoka anodowana i proszkowa chroni przed UV i korozją, gwarantując niezawodność w najtrudniejszym terenie.
-* **Lekkość i wytrzymałość:** Przy wadze zaledwie 30 kg system oferuje doskonały stosunek masy do udźwigu, co jest istotne przy projektach Overland.
-* **Praktyczny design:** Zewnętrzne perforacje skrzyń pozwalają na łatwe mocowanie szpeju, np. siekiery, łopaty czy uchwytów QuickFist.
-* **Bezpieczne przechowywanie:** 2 skrzynie transportowe chronią przed wodą i pyłem kompresory, liny kinetyczne oraz narzędzia naprawcze.
-* **Elastyczna przestrzeń:** Konstrukcja pozwala na umieszczenie kanistrów (np. RotopaX) pod stelażem, podczas gdy bagaż i akcesoria biwakowe spoczywają bezpiecznie na górze.
-
-### Instalacja:
-* **Dopasowanie:** Dane zgodne z oryginalnym wyposażeniem Jeep (OE) – „Install and Play.
-* **Poziom trudności:** 3 gwiazdki (w skali do 5).
-* **Wymagany profesjonalny montaż?** Zalecany, jeśli nie masz doświadczenia w modyfikacjach akcesoryjnych.
-* **Bezinwazyjność:** System wspiera montaż bez konieczności trwałej ingerencji w strukturę paki.
-
-### Zawartość zestawu:
-* System zabudowy paki / Kosz Cargo - 1 komplet.
+- Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
+- Instalacje elektryczną
+- Okno wentylacyjne
+- Panel molle 
 
 
+## Opcjonalne wyposażenie: 
 
+- Schowek umieszczony w drugim boku zabudowy
+- Schowek umieszczony na przednim panelu
+- Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
+- Stolik turystyczny mocowany pod dachem zabudowy
+- Organizery dopasowane do bocznych schowków
 
+Posiadamy równie doskonałej jakości platformy wysuwane mocowane do podłogi paki - bez konieczności wiercenia otworów w podłodze.
 
+Zabudowa jest dostarczana w trzech kartonach do samodzielnego montażu. Jeżeli nie jesteś zainteresowany składaniem i montażem zabudowy umów się z naszym serwisem, zajmiemy się tym za Ciebie. 
 
+Jeżeli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie możliwych, wystarczy porozmawiać więc zapraszamy do kontaktu z naszymi doradcami.

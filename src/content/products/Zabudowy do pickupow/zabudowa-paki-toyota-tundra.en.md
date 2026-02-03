@@ -13,8 +13,10 @@ order: 7
 # Dane techniczne dla szablonu
 brand: JUSN
 material: Aluminum Magnesium Alloy
+capacityStatic: 500 kg
+capacityDynamic: 300 kg
 process: CNC, Anodizing and Spraying Coating
-weight: 95
+weight: 62 kg
 shippingInfo: The lead time is 15 days, and the Sea shipping plus land shipping time is about 40 days.
 installation:
   difficulty: 4

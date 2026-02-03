@@ -35,6 +35,8 @@ category: Other Off Road Accessories
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0">{{ product.data.title }}</h3>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej →</a>
+          
           </div>
         </article>
         </a>
@@ -42,10 +44,13 @@ category: Other Off Road Accessories
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktďż˝w w tej kategorii.</p>
+    <p>Brak produktów w tej kategorii.</p>
   {% endif %}
   </div>
 </section>
+
+
+
 
 
 

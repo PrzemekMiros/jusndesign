@@ -4,7 +4,7 @@ layout: "layouts/product-en.njk"
 permalink: /products/ford-ranger-truck-bed-canopy-hardtop/
 title: Ford Ranger BEST Canopy Truck Bed with Top Bar Hard Cap Topper
 description: Professional JUSN aluminum magnesium alloy canopy for Ford Ranger. Features 3-sided opening, integrated lighting, and exterior expansion panels.
-productImage: /content/products/img/zabudowa-ford-ranger.png
+productImage: /content/products/img/zabudowa-paki-z-relingami-ford-f50.png
 categories:
   - Pick up Canopy
 price: 5499
@@ -13,8 +13,10 @@ order: 6
 # Dane techniczne dla szablonu
 brand: JUSN
 material: Aluminum Magnesium Alloy
+capacityStatic: 500 kg
+capacityDynamic: 300 kg
 process: CNC, Anodizing and Spraying Coating
-weight: 85
+weight: 62 kg
 shippingInfo: The lead time is 15 days, and the Sea shipping plus land shipping time is about 40 days.
 installation:
   difficulty: 4

@@ -22,35 +22,34 @@ Installation:
   method: Dopasowanie OE - Bezinwazyjny montaż na roletę
 ---
 
-**Ważne:** Przed zakupem prosimy o kontakt i podanie numeru VIN pojazdu oraz przesłanie zdjęcia paki i rolety w celu weryfikacji kompatybilności z Twoim RAM 1500.
 
-Zrealizuj swoje marzenia o idealnie zorganizowanej przestrzeni ładunkowej. System JUSN dla RAM 1500 to lekkie i niezawodne rozwiązanie, które pozwala na pełne wykorzystanie paki przy jednoczesnym użyciu rolety.
+## Standardowe wyposażenie zabudowy:
 
-Odblokuj pełny potencjał swojego RAM-a z JUSN!
+- Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
+- Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
+- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
+- Schowek w drzwiach bocznych, 
+- Oświetlenie wewnętrzne, 
+- Światło stop, 
 
-### Szczegóły techniczne:
-* **MATERIAŁ:** Stop aluminium (6061), Stal węglowa (Q235).
-* **PROCES:** Grawerowanie CNC, anodowanie oraz malowanie proszkowe.
-* **WAGA:** Tylko 30 kg – minimalne obciążenie paki przy maksymalnej wytrzymałości.
+Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
 
-### Główne zalety:
-* **Wyjątkowy styl:** Formowanie integralne i precyzyjna obróbka CNC nadają Twojemu RAM-owi unikalny, "ciężki" wygląd off-road, zachowując elegancję.
-* **Odporność na warunki pogodowe:** Powłoka anodowana i malowana proszkowo chroni przed promieniami UV, solą i korozją, co jest kluczowe w naszych warunkach klimatycznych.
-* **Lekkość i solidność:** Przy wadze zaledwie 30 kg system nie wpływa znacząco na środek ciężkości pojazdu, co jest istotne przy jeździe terenowej.
-* **Praktyczny design:** Zewnętrzne perforacje skrzyń umożliwiają montaż dodatkowego szpeju, jak uchwyty na kanistry czy oświetlenie robocze.
-* **Przechowywanie:** 2 skrzynie transportowe zapewniają doskonałą ochronę przed deszczem i pyłem dla kompresora, pasów transportowych i narzędzi.
-* **Elastyczna przestrzeń:** Konstrukcja pozwala na wsunięcie kanistrów z paliwem lub wodą pod stelaż, podczas gdy główny bagaż jest bezpiecznie zamocowany na górze.
-
-### Instalacja:
-* **Dopasowanie:** Dane zgodne z oryginalnymi punktami montażowymi (OE) – „Install and Play.
-* **Poziom trudności:** 3 gwiazdki (w skali do 5).
-* **Wymagany profesjonalny montaż?** Zalecany, jeśli nie montowałeś wcześniej akcesoriów na pakę.
-* **Montaż bezinwazyjny:** Wiele wariantów pozwala na instalację bez wiercenia, zachowując pełną szczelność i funkcjonalność rolety.
-
-### Zawartość zestawu:
-* System bagażnika Cargo / Półka - 1 komplet.
+- Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
+- Instalacje elektryczną
+- Okno wentylacyjne
+- Panel molle 
 
 
+## Opcjonalne wyposażenie: 
 
+- Schowek umieszczony w drugim boku zabudowy
+- Schowek umieszczony na przednim panelu
+- Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
+- Stolik turystyczny mocowany pod dachem zabudowy
+- Organizery dopasowane do bocznych schowków
 
+Posiadamy równie doskonałej jakości platformy wysuwane mocowane do podłogi paki - bez konieczności wiercenia otworów w podłodze.
 
+Zabudowa jest dostarczana w trzech kartonach do samodzielnego montażu. Jeżeli nie jesteś zainteresowany składaniem i montażem zabudowy umów się z naszym serwisem, zajmiemy się tym za Ciebie. 
+
+Jeżeli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie możliwych, wystarczy porozmawiać więc zapraszamy do kontaktu z naszymi doradcami.

@@ -2,9 +2,12 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/toyota-hilux-zabudowa-paki-canopy-hardtop/
-title: Zabudowa Toyota Hilux 
-description: Profesjonalna zabudowa JUSN do Toyoty Hilux. Wykonane ze stopu aluminium i magnezu. System otwierania z 3 stron, panele Może i zintegrowane oswietlenie.
+title: Magnezowo aluminiowa zabudowa Toyota Hilux 2006-2025
+description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
+vinNotice: Przed zakupem zapraszamy do kontaktu w celu wyboru odpowiedniego produktu, czy sprawdzeniu kompatybilności.
 productImage: /content/products/img/zabudowa-toyota-hilux.png
+galleryImages:
+  - /content/products/img/zabudowa-tundra.png
 categories:
   - Zabudowy do pickupów
 price: 5499
@@ -13,8 +16,10 @@ order: 1
 # Dane techniczne dla szablonu
 brand: JUSN
 material: Stop aluminium i magnezu
+capacityStatic: 500 kg
+capacityDynamic: 300 kg
 process: Obróbka CNC, Anodowanie i Malowanie Proszkowe
-weight: 85
+weight: 62 kg
 shippingInfo:
 Installation:
   difficulty: 4
@@ -22,34 +27,33 @@ Installation:
   method: Dopasowanie OE - Install and Play
 ---
 
-**Informacja:** Produkt dedykowany dla Toyoty Hilux (krótka paka). Wyposazony w okno wentylacyjne.
+## Standardowe wyposażenie zabudowy:
 
-Zrealizuj swoje marzenia o idealnej organizacji paki z JUSN! Ten profesjonalny system zabudowy (Canopy/Hardtop) to doskonaly wybór dla wlascicieli Hiluxa, którzy szukaja bezkompromisowej jakosci i funkcjonalnosci wyprawowej.
+- Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
+- Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
+- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
+- Schowek w drzwiach bocznych, 
+- Oświetlenie wewnętrzne, 
+- Światło stop, 
 
-### Szczególy techniczne:
-* **MATERIAL:** Stop aluminium i magnezu.
-* **PROCES:** Obróbka CNC, anodowanie oraz malowanie proszkowe.
+Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
 
-### Główne zalety:
-* **Dostep z 3 stron:** System otwieranych klap bocznych i tylnej ulatwia szybki dostep do ekwipunku, co jest kluczowe podczas wypraw.
-* **Odpornosc na czynniki zewnetrzne:** Anodowane wykonczenie i malowanie proszkowe skutecznie chronia przed UV i korozja.
-* **Zintegrowane oswietlenie:** Mozliwosc podlaczenia swiatel zabudowy pod fabryczna instalacje (stop, pozycyjne) oraz niezalezne oswietlenie wewnetrzne z wlasnym wlacznikiem.
-* **Panel rozszerzen AUX:** Pozwala na wygodne podlaczenie dodatkowych akcesoriów elektrycznych, jak kompresor czy oswietlenie robocze.
-* **Wzmocniony bagaznik dachowy:** Poprzeczki dachowe o wysokiej wytrzymalosci pozwalaja na bezpieczny montaz namiotu dachowego lub ciezkich skrzyn transportowych.
-* **Panele wyprawowe Może:** W zestawie znajduja sie panele zewnetrzne, które pozwalaja na troczenie dodatkowego szpeju (kanistry, lopaty, trapy).
-* **System przeciwpylowy:** Specjalna konstrukcja zamków (Dust-Proof Buckle) zapobiega ich zatarciu po jezdzie w pyle i blocie.
-* **Bezpieczenstwo:** Solidne zamki chronia zawartosc paki przed dostepem osób niepowolanych.
-* **Komfort jazdy:** Wysokiej klasy uchwyty montazowe minimalizuja halas i drgania zabudowy podczas jazdy w terenie.
-
-### Instalacja:
-* **Dopasowanie:** Dane zgodne ze specyfikacja OE – „Install and Play”.
-* **Poziom trudnosci:** 4 gwiazdki.
-* **Wymagany profesjonalny montaz?** TAK.
-
-### Zawartosc zestawu:
-* Korpus zabudowy Canopy - 1 komplet
-* Poprzeczki dachowe - 1 para
-* Zewnetrzne panele rozszerzen (Może) - 1 para
+- Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
+- Instalacje elektryczną
+- Okno wentylacyjne
+- Panel molle 
 
 
+## Opcjonalne wyposażenie: 
 
+- Schowek umieszczony w drugim boku zabudowy
+- Schowek umieszczony na przednim panelu
+- Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
+- Stolik turystyczny mocowany pod dachem zabudowy
+- Organizery dopasowane do bocznych schowków
+
+Posiadamy równie doskonałej jakości platformy wysuwane mocowane do podłogi paki - bez konieczności wiercenia otworów w podłodze.
+
+Zabudowa jest dostarczana w trzech kartonach do samodzielnego montażu. Jeżeli nie jesteś zainteresowany składaniem i montażem zabudowy umów się z naszym serwisem, zajmiemy się tym za Ciebie. 
+
+Jeżeli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie możliwych, wystarczy porozmawiać więc zapraszamy do kontaktu z naszymi doradcami.

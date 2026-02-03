@@ -3,8 +3,10 @@ lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/toyota-tundra-long-bed-zabudowa-canopy-system/
 title: Zabudowa Toyota Tundra 
-description: Najbogatszy zestaw JUSN dla Toyoty Tundry (dluga paka). Zawiera wewnetrzna platforme, skrzynie, poprzeczki wewnetrzne i oswietlenie LED.
+description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
 productImage: /content/products/img/zabudowa-tundra.png
+galleryImages:
+  - /content/products/img/zabudowa-tundra.png
 categories:
   - Zabudowy do pickupów
 price: 5999
@@ -13,8 +15,10 @@ order: 7
 # Dane techniczne dla szablonu
 brand: JUSN
 material: Stop aluminium i magnezu
+capacityStatic: 500 kg
+capacityDynamic: 300 kg
 process: Obróbka CNC, Anodowanie i Malowanie Proszkowe
-weight: 95
+weight: 62 kg
 shippingInfo: Czas realizacji wynosi 15 dni, transport morski i ladowy zajmuje okolo 40 dni.
 Installation:
   difficulty: 4
@@ -22,37 +26,34 @@ Installation:
   method: Dopasowanie OE - Install and Play
 ---
 
-**Informacja:** Wersja dedykowana dla Toyoty Tundry (dluga paka - Long Bed). Ten zestaw zawiera pelne wyposazenie wewnetrzne do organizacji przestrzeni.
 
-Zrealizuj swoje marzenia o idealnej organizacji paki z JUSN! To cos wiecej niz zwykly Hardtop – to kompletny ekosystem transportowy dla Twojej Tundry, wyposazony w wewnetrzne platformy i relingi, które pozwalaja na pietrowe ukladanie bagazu.
+## Standardowe wyposażenie zabudowy:
 
-### Szczególy techniczne:
-* **MATERIAL:** Stop aluminium i magnezu.
-* **PROCES:** Obróbka CNC, anodowanie oraz malowanie proszkowe.
+- Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
+- Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
+- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
+- Schowek w drzwiach bocznych, 
+- Oświetlenie wewnętrzne, 
+- Światło stop, 
 
-### Główne zalety:
-* **Pelne wyposazenie wewnetrzne:** W zestawie znajdziesz wewnetrzna platforme transportowa oraz skrzynie, co pozwala na segregacje szpeju i optymalne wykorzystanie wysokosci paki.
-* **Wewnetrzne poprzeczki (Cross Bars):** Dodatkowe relingi wewnatrz zabudowy ulatwiaja troczenie bagazu lub montaz oswietlenia i akcesoriów.
-* **Dostep z 3 stron:** Wykorzystaj pelny potencjal dlugiej paki dzieki szeroko otwieranym klapom bocznym i tylnej.
-* **Bezpieczenstwo i AUX:** Zintegrowany panel AUX do zasilania urzadzen (np. lodówki) oraz oswietlenie zewnetrzne kompatybilne z fabrycznymi swiatlami auta.
-* **System przeciwpylowy:** Specjalne oslony zamków (Dust-Proof Buckle) gwarantuja sprawnosc rygli nawet w ekstremalnym zapyleniu.
-* **Maksymalna nosnosc dachu:** Wzmocnione poprzeczki zewnetrzne pozwalaja na bezpieczny montaz namiotów dachowych o duzej masie.
-* **Zintegrowane stopnie:** Dwa stopnie wbudowane w konstrukcje ulatwiaja dostep do ladunku znajdujacego sie na dachu zabudowy.
-* **Solidnosc i cisza:** Zastosowanie wzmocnionych uchwytów montazowych eliminuje nieprzyjemne dzwieki podczas jazdy po bezdrozach.
+Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
 
-### Instalacja:
-* **Dopasowanie:** Dane zgodne ze specyfikacja OE – „Install and Play”.
-* **Poziom trudnosci:** 4 gwiazdki.
-* **Wymagany profesjonalny montaz?** TAK.
-
-### Zawartosc zestawu:
-* Korpus zabudowy Canopy (Long Bed) - 1 komplet
-* Zewnetrzne poprzeczki dachowe - 1 para
-* Zewnetrzne panele rozszerzen (Może) - 1 para
-* Wewnetrzna platforma transportowa - 1 szt.
-* Wewnetrzna skrzynia narzedziowa - 1 szt.
-* Wewnetrzne poprzeczki montazowe - 1 para
+- Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
+- Instalacje elektryczną
+- Okno wentylacyjne
+- Panel molle 
 
 
+## Opcjonalne wyposażenie: 
 
+- Schowek umieszczony w drugim boku zabudowy
+- Schowek umieszczony na przednim panelu
+- Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
+- Stolik turystyczny mocowany pod dachem zabudowy
+- Organizery dopasowane do bocznych schowków
 
+Posiadamy równie doskonałej jakości platformy wysuwane mocowane do podłogi paki - bez konieczności wiercenia otworów w podłodze.
+
+Zabudowa jest dostarczana w trzech kartonach do samodzielnego montażu. Jeżeli nie jesteś zainteresowany składaniem i montażem zabudowy umów się z naszym serwisem, zajmiemy się tym za Ciebie. 
+
+Jeżeli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie możliwych, wystarczy porozmawiać więc zapraszamy do kontaktu z naszymi doradcami.

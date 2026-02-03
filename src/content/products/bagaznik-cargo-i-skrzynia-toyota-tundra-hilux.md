@@ -22,35 +22,34 @@ Installation:
   method: Dopasowanie OE - Montaż bezinwazyjny
 ---
 
-**Ważne:** Przed zakupem prosimy o kontakt i podanie numeru VIN pojazdu oraz przesłanie zdjęcia paki i rolety w celu weryfikacji kompatybilności z Twoją Toyotą (Tundra, Hilux lub Tacoma).
 
-Zrealizuj swoje marzenia o idealnie zorganizowanej przestrzeni ładunkowej. System JUSN to lekkie i niezawodne rozwiązanie zaprojektowane tak, aby umożliwić montaż bagażnika bez rezygnacji z rolety paki.
+## Standardowe wyposażenie zabudowy:
 
-Odblokuj pełny potencjał swojego pickupa z JUSN!
+- Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
+- Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
+- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
+- Schowek w drzwiach bocznych, 
+- Oświetlenie wewnętrzne, 
+- Światło stop, 
 
-### Szczegóły techniczne:
-* **MATERIAŁ:** Stop aluminium (6061), Stal węglowa (Q235).
-* **PROCES:** Grawerowanie CNC, anodowanie oraz malowanie proszkowe.
-* **WAGA:** Tylko 30 kg – doskonały wybór do off-roadu, minimalizujący dociążenie pojazdu.
+Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
 
-### Główne zalety:
-* **Wyjątkowy styl:** Formowanie integralne i obróbka CNC nadają Twojemu pickupowi unikalny, profesjonalny wygląd.
-* **Odporność na warunki pogodowe:** Powłoka anodowana i proszkowa skutecznie chroni przed UV, korozją i trudnymi warunkami atmosferycznymi.
-* **Lekkość i solidność:** Przy wadze zaledwie 30 kg, system łączy łatwość przenoszenia z wytrzymałością wymaganą w terenie.
-* **Praktyczny design:** Zewnętrzne perforacje skrzyń umożliwiają wygodne troczenie szpeju i mniejszych akcesoriów.
-* **Przechowywanie:** 2 skrzynie transportowe zapewniają ochronę przed deszczem i pyłem dla kompresorów, lin i narzędzi.
-* **Elastyczna przestrzeń:** Konstrukcja pozwala na umieszczenie kanistrów z paliwem lub wodą pod stelażem, podczas gdy bagaż spoczywa bezpiecznie na górze.
-
-### Instalacja:
-* **Dopasowanie:** Dane zgodne z oryginalnym wyposażeniem (OE) – „Install and Play.
-* **Poziom trudności:** 3 gwiazdki (w skali do 5).
-* **Wymagany profesjonalny montaż?** Zalecany dla osób bez doświadczenia w podobnych modyfikacjach.
-* **Montaż bezinwazyjny (Lossless):** Tak, wiele modeli pozwala na montaż przy zachowaniu pełnej funkcjonalności rolety paki.
-
-### Zawartość zestawu:
-* System bagażnika Cargo - 1 komplet.
+- Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
+- Instalacje elektryczną
+- Okno wentylacyjne
+- Panel molle 
 
 
+## Opcjonalne wyposażenie: 
 
+- Schowek umieszczony w drugim boku zabudowy
+- Schowek umieszczony na przednim panelu
+- Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
+- Stolik turystyczny mocowany pod dachem zabudowy
+- Organizery dopasowane do bocznych schowków
 
+Posiadamy równie doskonałej jakości platformy wysuwane mocowane do podłogi paki - bez konieczności wiercenia otworów w podłodze.
 
+Zabudowa jest dostarczana w trzech kartonach do samodzielnego montażu. Jeżeli nie jesteś zainteresowany składaniem i montażem zabudowy umów się z naszym serwisem, zajmiemy się tym za Ciebie. 
+
+Jeżeli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie możliwych, wystarczy porozmawiać więc zapraszamy do kontaktu z naszymi doradcami.

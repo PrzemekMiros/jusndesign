@@ -3,7 +3,7 @@ lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/chevy-colorado-zabudowa-paki-canopy-aux/
 title: Aluminiowa Zabudowa Chevy Colorado 
-description: Profesjonalna zabudowa JUSN do Chevroleta Colorado. Wykonane ze stopu aluminium i magnezu. Posiada panel sterowania AUX, otwieranie z 3 stron i panele Może.
+description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
 productImage: /content/products/img/zabudowa-chevy.png
 categories:
   - Zabudowy do pickupów
@@ -13,8 +13,10 @@ order: 11
 # Dane techniczne dla szablonu
 brand: JUSN
 material: Stop aluminium i magnezu
+capacityStatic: 500 kg
+capacityDynamic: 300 kg
 process: Obróbka CNC, Anodowanie i Malowanie Proszkowe
-weight: 80
+weight: 62 kg
 shippingInfo: Czas realizacji wynosi 15 dni, transport morski i ladowy zajmuje okolo 40 dni.
 Installation:
   difficulty: 4
@@ -22,33 +24,34 @@ Installation:
   method: Dopasowanie OE - Install and Play
 ---
 
-**Informacja:** Produkt dedykowany dla Chevroleta Colorado (krótka paka). Wyposazony w okno wentylacyjne.
 
-Zrealizuj swoje marzenia o idealnej organizacji paki z JUSN! Ta aluminiowa zabudowa dla Chevroleta Colorado to nie tylko ochrona bagazu, ale centrum dowodzenia Twoim sprzetem wyprawowym dzieki zintegrowanemu panelowi AUX.
+## Standardowe wyposażenie zabudowy:
 
-### Szczególy techniczne:
-* **MATERIAL:** Stop aluminium i magnezu.
-* **PROCES:** Obróbka CNC, anodowanie oraz malowanie proszkowe.
+- Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
+- Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
+- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
+- Schowek w drzwiach bocznych, 
+- Oświetlenie wewnętrzne, 
+- Światło stop, 
 
-### Główne zalety:
-* **Przelacznik sterowania AUX DIY:** Unikalna funkcja pozwalajaca na latwe podlaczenie i sterowanie dodatkowymi urzadzeniami, takimi jak kompresor czy oswietlenie robocze.
-* **Dostep z 3 stron:** Przemyslana konstrukcja klap bocznych i tylnej umozliwia blyskawiczny dostep do ladunku z dowolnej strony pojazdu.
-* **Odpornosc na warunki pogodowe:** Powloka odporna na promieniowanie UV, korozje i kwasne deszcze gwarantuje nienaganny wyglad przez lata.
-* **Widocznosc i bezpieczenstwo:** Zintegrowane swiatla zewnetrzne (stop, pozycyjne) zwiekszaja bezpieczenstwo, a konstrukcja nie ogranicza widoku w lusterku wstecznym.
-* **Niezalezne oswietlenie LED:** Wlasne wlaczniki swiatla wewnatrz zabudowy pozwalaja na wygodne korzystanie z paki w calkowitej ciemnosci.
-* **System przeciwpylowy:** Uszczelnione zamki (Dust-Proof Buckle) nie zacinaja sie pod wplywem piachu i blota.
-* **Panele wyprawowe Może:** Zewnetrzne panele boczne umozliwiaja montaz dodatkowego sprzetu, jak trapy czy siekiery.
-* **Zintegrowane stopnie:** Dwa wbudowane stopnie ulatwiaja wejscie na górna czesc zabudowy w celu obslugi ladunku.
-* **Solidnosc i cisza:** Wzmocnione uchwyty montazowe eliminuja drgania i halas podczas jazdy po nierównosciach.
+Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
 
-### Instalacja:
-* **Dopasowanie:** Dane zgodne ze specyfikacja fabryczna (OE) – „Install and Play”.
-* **Poziom trudnosci:** 4 gwiazdki.
-* **Wymagany profesjonalny montaz?** TAK.
-
-### Zawartosc zestawu:
-* Korpus zabudowy Canopy - 1 komplet
-* Zewnetrzne panele rozszerzen (Może) - 1 para
+- Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
+- Instalacje elektryczną
+- Okno wentylacyjne
+- Panel molle 
 
 
+## Opcjonalne wyposażenie: 
 
+- Schowek umieszczony w drugim boku zabudowy
+- Schowek umieszczony na przednim panelu
+- Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
+- Stolik turystyczny mocowany pod dachem zabudowy
+- Organizery dopasowane do bocznych schowków
+
+Posiadamy równie doskonałej jakości platformy wysuwane mocowane do podłogi paki - bez konieczności wiercenia otworów w podłodze.
+
+Zabudowa jest dostarczana w trzech kartonach do samodzielnego montażu. Jeżeli nie jesteś zainteresowany składaniem i montażem zabudowy umów się z naszym serwisem, zajmiemy się tym za Ciebie. 
+
+Jeżeli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie możliwych, wystarczy porozmawiać więc zapraszamy do kontaktu z naszymi doradcami.

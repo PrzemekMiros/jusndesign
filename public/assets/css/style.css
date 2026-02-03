@@ -5861,18 +5861,42 @@ form .page .invalid-input {
 
 .gallery-thumbs {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(82px, 1fr));
   gap: 10px;
   margin-top: 12px;
 }
 
+.gallery-thumb {
+  border: 1px solid rgba(153, 153, 153, 0.1333333333);
+  border-radius: 15px;
+  background: transparent;
+  padding: 0;
+  overflow: hidden;
+  cursor: pointer;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.gallery-thumb:hover {
+  border-color: var(--color-accent-1);
+  transform: translateY(-1px);
+}
+
+.gallery-thumb:focus-visible {
+  outline: 2px solid var(--color-accent-1);
+  outline-offset: 2px;
+}
+
+.gallery-thumb.is-active {
+  border-color: var(--color-accent-1);
+}
+
 .thumb-image {
   width: 100%;
-  height: 80px;
+  height: 82px;
   object-fit: cover;
-  border-radius: var(--radius);
-  cursor: pointer;
-  transition: opacity 0.2s;
+  border-radius: 0;
+  display: block;
+  transition: opacity 0.2s ease;
 }
 
 .thumb-image:hover {
@@ -6019,6 +6043,16 @@ form .page .invalid-input {
   cursor: pointer;
 }
 
+.product-page .products-grid .image-wrapper img {
+  aspect-ratio: 4/2;
+  object-fit: cover;
+}
+
+.products-category .products-grid .image-wrapper img {
+  aspect-ratio: 9/7;
+  object-fit: cover;
+}
+
 @media (max-width: 768px) {
   .actions {
     flex-wrap: wrap;
@@ -6028,8 +6062,8 @@ form .page .invalid-input {
   }
 }
 @media (min-width: 767px) {
-  .product-card-content {
-    min-height: 80px;
+  .products-category .products-grid h3 {
+    min-height: 54px;
   }
 }
 :root {
