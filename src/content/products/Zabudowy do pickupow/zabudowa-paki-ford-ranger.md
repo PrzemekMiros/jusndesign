@@ -2,7 +2,7 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/ford-ranger-zabudowa-paki-canopy-cap/
-title: Aluminiowa Zabudowa Paki JUSN dla Ford Ranger
+title: Aluminiowa zabudowa Ford Ranger
 description: Profesjonalne Canopy JUSN dla Forda Rangera (krótka paka). Wykonane ze stopu aluminium i magnezu. Otwierane z 3 stron, zintegrowane oswietlenie i panele Może.
 productImage: /content/products/img/zab-ford-ranger.png
 categories:

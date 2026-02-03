@@ -2,7 +2,7 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/toyota-tundra-long-bed-zabudowa-canopy-system/
-title: Zabudowa Paki Hardtop JUSN dla Toyota Tundra 
+title: Zabudowa Toyota Tundra 
 description: Najbogatszy zestaw JUSN dla Toyoty Tundry (dluga paka). Zawiera wewnetrzna platforme, skrzynie, poprzeczki wewnetrzne i oswietlenie LED.
 productImage: /content/products/img/zabudowa-tundra.png
 categories:

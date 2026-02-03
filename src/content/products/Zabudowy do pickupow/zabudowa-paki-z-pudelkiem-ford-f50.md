@@ -2,7 +2,7 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/ford-f150-raptor-zabudowa-paki-hard-topper-platforma/
-title: Zabudowa Paki Hardtop JUSN dla Ford F-150 Raptor 
+title: Zabudowa Ford F-150 Raptor 
 description: Profesjonalna zabudowa Canopy JUSN dla Forda F-150 Raptor (Long Bed). Zawiera wewnetrzna platforme bagazowa, skrzynie narzedziowa i belki dachowe.
 productImage: /content/products/img/zabudowa-paki-z-relingami-ford-f50.png
 categories:

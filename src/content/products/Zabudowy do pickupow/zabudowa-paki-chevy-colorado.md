@@ -2,7 +2,7 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/chevy-colorado-zabudowa-paki-canopy-aux/
-title: Aluminiowa Zabudowa JUSN dla Chevy Colorado 
+title: Aluminiowa Zabudowa Chevy Colorado 
 description: Profesjonalna zabudowa JUSN do Chevroleta Colorado. Wykonane ze stopu aluminium i magnezu. Posiada panel sterowania AUX, otwieranie z 3 stron i panele Może.
 productImage: /content/products/img/zabudowa-chevy.png
 categories:
