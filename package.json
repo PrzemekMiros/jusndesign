@@ -25,6 +25,7 @@
     "eleventy-plugin-code-style-hooks": "^2.0.2",
     "express": "^4.21.2",
     "lightningcss-cli": "^1.18.0",
+    "lite-youtube-embed": "^0.3.4",
     "luxon": "^3.2.1",
     "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^9.2.0",

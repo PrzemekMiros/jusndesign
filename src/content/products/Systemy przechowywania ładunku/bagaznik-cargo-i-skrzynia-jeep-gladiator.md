@@ -1,0 +1,55 @@
+﻿---
+lang: pl
+layout: "layouts/product.njk"
+permalink: /produkty/jeep-gladiator-jt-system-organizacji-paki/
+title: System Organizacji Paki i Bagażnik Cargo - Jeep Gladiator JT 
+description: Lekki system cargo JUSN (30kg) dedykowany dla Jeepa Gladiatora JT. Zawiera 2 szczelne skrzynie narzędziowe oraz półkę cargo. Idealny na wyprawy 4x4.
+productImage: /content/products/img/bagaznik-cargo-i-skrzynia-jeep-gladiator.jpg
+categories:
+  - Systemy przechowywania ładunku
+price: 2499
+order: 10
+
+# Dane techniczne dla szablonu
+brand: JUSN
+material: Stop aluminium (6061), Stal węglowa (Q235)
+process: Grawerowanie CNC, Anodowanie i Malowanie Proszkowe
+weight: 30
+shippingInfo: Czas realizacji wynosi 15 dni, transport morski i lądowy zajmuje około 40 dni.
+Installation:
+  difficulty: 3
+  professional_required: false
+  method: Dopasowanie OE - Install and Play
+---
+
+
+## Standardowe wyposażenie zabudowy:
+
+- Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
+- Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
+- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
+- Schowek w drzwiach bocznych, 
+- Oświetlenie wewnętrzne, 
+- Światło stop, 
+
+Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
+
+- Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
+- Instalacje elektryczną
+- Okno wentylacyjne
+- Panel molle 
+
+
+## Opcjonalne wyposażenie: 
+
+- Schowek umieszczony w drugim boku zabudowy
+- Schowek umieszczony na przednim panelu
+- Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
+- Stolik turystyczny mocowany pod dachem zabudowy
+- Organizery dopasowane do bocznych schowków
+
+Posiadamy równie doskonałej jakości platformy wysuwane mocowane do podłogi paki - bez konieczności wiercenia otworów w podłodze.
+
+Zabudowa jest dostarczana w trzech kartonach do samodzielnego montażu. Jeżeli nie jesteś zainteresowany składaniem i montażem zabudowy umów się z naszym serwisem, zajmiemy się tym za Ciebie. 
+
+Jeżeli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie możliwych, wystarczy porozmawiać więc zapraszamy do kontaktu z naszymi doradcami.

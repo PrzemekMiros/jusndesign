@@ -24,7 +24,7 @@ category: Pick up Canopy
   </nav>
   <h1 class="xl split-lines color-light-1 mb-5 mt-3">{{ title }}</h1>
 
-      <div class="cat-desc-content bg-light-1 p-3 p-md-5 rounded-md">
+      <div class="cat-desc-content bg-light-1 p-3 p-md-5 mb-4 rounded-md">
       <div class="row g-1 g-md-5">
         <div class="col-md-4">
           <div class="description-content">
@@ -34,13 +34,13 @@ category: Pick up Canopy
         <div class="col-md-8">
          <div class="">
             <p>Pickup bed canopies are primarily installed to increase the functionality of the cargo area and to protect it from weather conditions.</p>
-            <a href="#odescription" class="text-sm">Read more &rarr; </a>
+            <a href="#description" class="small color-accent-1">Read more &rarr; </a>
          </div>
         </div>
       </div>
     </div>
 
-  {% set products = collections.productCategories[lang][category] %}
+  {% set products = collections.productCategories[lang][category] | sortByOrder %}
 
   {% if products and products.length %}
     <div class="products-grid row g-4">
@@ -51,7 +51,7 @@ category: Pick up Canopy
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0 line-clamp-3">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej →</a>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej &rarr;</a>
           </div>
         </article>
         </a>
@@ -151,6 +151,8 @@ category: Pick up Canopy
     </div>
   </div>
 </section>
+
+
 
 
 

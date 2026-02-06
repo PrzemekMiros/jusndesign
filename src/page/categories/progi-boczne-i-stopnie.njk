@@ -23,7 +23,7 @@ category: Progi boczne i stopnie
   </nav>
   <h1 class="xl split-lines color-light-1 mb-5 mt-3">{{ title }}</h1>
 
-  {% set products = collections.productCategories[lang][category] %}
+  {% set products = collections.productCategories[lang][category] | sortByOrder %}
 
   {% if products and products.length %}
     <div class="products-grid row g-3">
@@ -34,7 +34,7 @@ category: Progi boczne i stopnie
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0 line-clamp-3">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej →</a>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej &rarr;</a>
           </div>
         </article>
         </a>
@@ -46,6 +46,8 @@ category: Progi boczne i stopnie
   {% endif %}
   </div>
 </section>
+
+
 
 
 

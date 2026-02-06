@@ -45,11 +45,12 @@ Koniec z problemami starzejacego sie plastiku. Lekka konstrukcja w porównaniu d
 ### Instalacja:
 * **Dopasowanie:** Dane zgodne z fabrycznym wyposazeniem (OE) – „Install and Play”.
 * **Poziom trudnosci:** 2 gwiazdki (w skali do 5).
-* **Wymagany profesjonalny montaz?** NIE.
+* **Wymagany profesjonalny montaż** NIE.
 * **Bezinwazyjny montaz:** TAK.
 
 ### Zawartosc zestawu:
 * Stopnie boczne - 4 sztuki (Komplet).
+
 
 
 

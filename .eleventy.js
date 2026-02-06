@@ -77,14 +77,33 @@ module.exports = function(eleventyConfig) {
       return `/en/${url}`;
     });
 
+    const getOrderValue = (item) => {
+      const raw = item?.data?.order;
+      const num = typeof raw === "number" ? raw : Number(raw);
+      return Number.isFinite(num) ? num : Number.MAX_SAFE_INTEGER;
+    };
+
+    const compareByOrder = (a, b) => {
+      const delta = getOrderValue(a) - getOrderValue(b);
+      if (delta !== 0) {
+        return delta;
+      }
+      const titleA = (a?.data?.title || "").toString();
+      const titleB = (b?.data?.title || "").toString();
+      return titleA.localeCompare(titleB, "pl");
+    };
+
+    eleventyConfig.addFilter("sortByOrder", function(items) {
+      if (!Array.isArray(items)) {
+        return [];
+      }
+      return items.slice().sort(compareByOrder);
+    });
+
     // Collection products
 eleventyConfig.addCollection('products', (collection) => {
   return collection.getFilteredByGlob("src/content/products/**/*.md")
-    .sort((a, b) => {
-      const orderA = a.data.order || 0;
-      const orderB = b.data.order || 0;
-      return orderA - orderB;
-    });
+    .sort(compareByOrder);
 });
 
 eleventyConfig.addCollection("productCategories", (collection) => {
@@ -110,11 +129,7 @@ eleventyConfig.addCollection("productCategories", (collection) => {
   // Sort products within each category by frontmatter "order"
   Object.keys(categories).forEach((lang) => {
     Object.keys(categories[lang]).forEach((cat) => {
-      categories[lang][cat].sort((a, b) => {
-        const orderA = a.data.order || 0;
-        const orderB = b.data.order || 0;
-        return orderA - orderB;
-      });
+      categories[lang][cat].sort(compareByOrder);
     });
   });
 

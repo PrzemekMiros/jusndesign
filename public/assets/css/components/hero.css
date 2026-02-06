@@ -7,7 +7,8 @@
 }
 
 .yt-full iframe,
-.yt-full video {
+.yt-full video,
+.yt-full lite-youtube {
   position: absolute;
   inset: 0;
   width: 260%;
@@ -15,10 +16,23 @@
   border: 0;
   overflow: hidden;
   object-fit: cover;
+  max-width: none;
 }
 
 .yt-full iframe {
   pointer-events: none;
+}
+
+.yt-full lite-youtube {
+  pointer-events: auto;
+}
+
+.yt-full lite-youtube::after {
+  display: none;
+}
+
+.yt-full lite-youtube iframe {
+  pointer-events: auto;
 }
 
 .yt-full video {
@@ -63,7 +77,8 @@
     aspect-ratio: 16/9;
   }
   .yt-full iframe,
-  .yt-full video {
+  .yt-full video,
+  .yt-full lite-youtube {
     width: 100%;
     height: 100%;
   }

@@ -1,4 +1,4 @@
-function animationMain() {
+﻿function animationMain() {
   gsap.registerPlugin(ScrollTrigger);
 
 // Inicjalizacja Lenis
@@ -32,7 +32,7 @@ function scrollToSection(targetPosition) {
   lenis.scrollTo(targetPosition);
 }
 
-// ObsL�uga linkAlw kotwicowych
+// Obsługa linków kotwicowych
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   anchor.addEventListener("click", function (e) {
     e.preventDefault();
@@ -54,10 +54,10 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 
-// Zapobiegaj przewijaniu przy L�adowaniu strony
+// Zapobiegaj przewijaniu przy ładowaniu strony
 window.addEventListener("load", () => {
-  window.scrollTo(0, 0); // Ustaw przewijanie na samą gAlrę
-  lenis.scrollTo(0, { immediate: true }); // Ustaw natychmiast Lenis na gAlrę
+  window.scrollTo(0, 0); // Ustaw przewijanie na samą górę
+  lenis.scrollTo(0, { immediate: true }); // Ustaw natychmiast Lenis na górę
 });
 
 // Synchronizacja Lenis i ScrollTrigger
@@ -425,3 +425,5 @@ addMenuClass();
 function removeMenuClass() {
   document.querySelector("body").classList.remove("menu-open");
 }
+
+

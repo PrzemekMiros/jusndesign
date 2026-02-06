@@ -1,9 +1,9 @@
-// static/admin/bannerStatic.js
+﻿// static/admin/bannerStatic.js
 CMS.registerEditorComponent({
     id: "bannerStatic",
     label: "Banner",
     fields: [
-      { name: "headerText", label: "TytuL�", widget: "string" },
+      { name: "headerText", label: "Tytuł", widget: "string" },
       { name: "contentText", label: "Opis", widget: "string" },
       { name: "imageUrl", label: "Obrazek", widget: "image" }
     ],
@@ -48,3 +48,4 @@ CMS.registerEditorComponent({
     }
   });
   
+
