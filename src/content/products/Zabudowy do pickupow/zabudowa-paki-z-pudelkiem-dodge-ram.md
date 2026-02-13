@@ -2,9 +2,18 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/ram-1500-long-bed-zabudowa-canopy-platforma/
-title: Zabudowa RAM 1500 
+title: Zabudowa JD10 Toyota Tundra 2021+
 description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
 productImage: /content/products/img/zabudowa-z-pojemnikiem-doge-ram.png
+galleryImages:
+  - /content/products/img/zabudowa-ram-1500-2019-1.jpg
+  - /content/products/img/zabudowa-ram-1500-2019-2.jpg
+  - /content/products/img/zabudowa-ram-1500-2019-3.jpg
+  - /content/products/img/zabudowa-ram-1500-2019-4.jpg
+  - /content/products/img/zabudowa-ram-1500-2019-5.jpg
+  - /content/products/img/zabudowa-ram-1500-2019-6.jpg
+  - /content/products/img/zabudowa-ram-1500-2019-7.jpg
+  - /content/products/img/zabudowa-ram-1500-2019-8.jpg
 categories:
   - Zabudowy do pickupów
 price: 5899

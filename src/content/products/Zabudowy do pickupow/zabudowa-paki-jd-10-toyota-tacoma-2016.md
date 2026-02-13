@@ -1,37 +1,35 @@
 ﻿---
 lang: pl
-layout: "layouts/product.njk"
-permalink: /produkty/toyota-tacoma-zabudowa-paki-canopy-hardtop/
-title: Zabudowa JD10 Toyota Tacoma 2024+
+title: Zabudowa JD10 Toyota Tacoma 2016 - 2024
 description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
-productImage: /content/products/img/zabudowa-paki-z-relingami-toyota-tacoma.png
+productImage: /content/products/img/byd-shark-1.jpg
 galleryImages:
-  - /content/products/img/zabudowa-jd10-tacoma-1.jpg
-  - /content/products/img/zabudowa-jd10-tacoma-2.jpg
-  - /content/products/img/zabudowa-jd10-tacoma-3.jpg
-  - /content/products/img/zabudowa-jd10-tacoma-4.jpg
-  - /content/products/img/zabudowa-jd10-tacoma-5.jpg
-  - /content/products/img/zabudowa-jd10-tacoma-6.jpg
-  - /content/products/img/zabudowa-jd10-tacoma-7.jpg
+  - /content/products/img/zabudowa-jd-10-tacoma-2016-1.jpg
+  - /content/products/img/zabudowa-jd-10-tacoma-2016-2.jpg
+  - /content/products/img/zabudowa-jd-10-tacoma-2016-3.jpg
+  - /content/products/img/zabudowa-jd-10-tacoma-2016-4.jpg
+  - /content/products/img/zabudowa-jd-10-tacoma-2016-5.jpg
+  - /content/products/img/zabudowa-jd-10-tacoma-2016-6.jpg
+  - /content/products/img/zabudowa-jd-10-tacoma-2016-7.jpg
+
 categories:
   - Zabudowy do pickupów
-price: 5499
-order: 22
+price: 8900
+order: 5
 
 # Dane techniczne dla szablonu
 brand: JUSN
 material: Stop aluminium i magnezu
 capacityStatic: 500 kg
 capacityDynamic: 300 kg
-process: Obróbka CNC, Anodowanie i Malowanie Proszkowe
+process: Obróbka CNC, anodowanie i malowanie proszkowe
 weight: 62 kg
-shippingInfo: Czas realizacji wynosi 15 dni, transport morski i ladowy zajmuje okolo 40 dni.
+shippingInfo: Czas realizacji zamówienia wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
 Installation:
   difficulty: 4
   professional_required: true
-  method: Dopasowanie OE - Install and Play
+  method: Dopasowanie OE (Plug & Play)
 ---
-
 
 ## Standardowe wyposażenie zabudowy:
 

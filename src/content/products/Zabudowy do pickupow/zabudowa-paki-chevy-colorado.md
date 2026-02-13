@@ -2,9 +2,15 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/chevy-colorado-zabudowa-paki-canopy-aux/
-title: Aluminiowa Zabudowa Chevy Colorado 
+title: Zabudowa Chevrolet Colorado 2023 +
 description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
 productImage: /content/products/img/zabudowa-chevy.png
+galleryImages:
+  - /content/products/img/zabudowa-chevrolet-color-1.jpg
+  - /content/products/img/zabudowa-chevrolet-color-2.jpg
+  - /content/products/img/zabudowa-chevrolet-color-3.jpg
+  - /content/products/img/zabudowa-chevrolet-color-4.jpg
+  - /content/products/img/zabudowa-chevrolet-color-5.jpg
 categories:
   - Zabudowy do pickupów
 price: 4999

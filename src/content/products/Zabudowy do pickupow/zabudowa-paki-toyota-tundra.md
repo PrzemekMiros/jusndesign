@@ -2,11 +2,14 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/toyota-tundra-long-bed-zabudowa-canopy-system/
-title: Zabudowa Toyota Tundra 
+title: Zabudowa JD10 Toyota Tundra 2021+
 description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
 productImage: /content/products/img/zabudowa-tundra.png
 galleryImages:
-  - /content/products/img/zabudowa-tundra.png
+  - /content/products/img/zabudowa-toyota-tundra-jd10-1.jpg
+  - /content/products/img/zabudowa-toyota-tundra-jd10-2.jpg
+  - /content/products/img/zabudowa-toyota-tundra-jd10-3.jpg
+  - /content/products/img/zabudowa-toyota-tundra-jd10-4.jpg
 categories:
   - Zabudowy do pickupów
 price: 5999
