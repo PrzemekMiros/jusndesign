@@ -1,10 +1,10 @@
 ---
 lang: pl
-title: Skrzynia wyprawowa na klapê Jeep Wrangler JL / JK - Organizer 60L
-description: Aluminiowy organizer na tyln¹ klapê do Jeepa Wranglera. Pojemnoœæ 60L, funkcja stolika, zintegrowane mocowanie kamery i tablicy.
+title: Skrzynia wyprawowa na klapÄ™ Jeep Wrangler JL / JK - Organizer 60L
+description: Aluminiowy organizer na tylnÄ… klapÄ™ do Jeepa Wranglera. PojemnoÅ›Ä‡ 60L, funkcja stolika, zintegrowane mocowanie kamery i tablicy.
 productImage: /content/products/img/skrzynka-narzedziowa.jpg
 categories:
-  - Skrzynki montowane na tyln¹ klape
+  - Skrzynki montowane na tylnÄ… klape
 price: 2850
 order: 1
 
@@ -13,46 +13,46 @@ brand: JUSN
 material: Stop aluminium (6061)
 process: Piaskowanie, anodowanie i malowanie proszkowe
 weight: 18
-shippingInfo: Czas realizacji wynosi 15 dni. Wysy³ka morska i l¹dowa zajmuje ³¹cznie oko³o 40 dni.
+shippingInfo: Czas realizacji wynosi 15 dni. WysyÅ‚ka morska i lÄ…dowa zajmuje Å‚Ä…cznie okoÅ‚o 40 dni.
 Installation:
   difficulty: 3
   professional_required: false
   method: Bezinwazyjny (wykorzystuje fabryczne otwory)
 ---
 
-**Uwaga:** Prosimy o kontakt i przes³anie numeru VIN pojazdu oraz zdjêcia klapy w celu weryfikacji kompatybilnoœci (zestaw pasuje do wersji JL oraz JK).
+**Uwaga:** Prosimy o kontakt i przesÅ‚anie numeru VIN pojazdu oraz zdjÄ™cia klapy w celu weryfikacji kompatybilnoÅ›ci (zestaw pasuje do wersji JL oraz JK).
 
-Innowacyjne rozwi¹zanie, które zamienia tyln¹ klapê Twojego Jeepa w praktyczny schowek i stacjê robocz¹. Zapomnij o problemach z ciê¿kim ko³em zapasowym i denerwuj¹cym stukotem klapy.
+Innowacyjne rozwiÄ…zanie, ktÃ³re zamienia tylnÄ… klapÄ™ Twojego Jeepa w praktyczny schowek i stacjÄ™ roboczÄ…. Zapomnij o problemach z ciÄ™Å¼kim koÅ‚em zapasowym i denerwujÄ…cym stukotem klapy.
 
-### Dlaczego warto wybraæ JUSN?
-Rozwi¹zuje problem obci¹¿onej klapy, u³atwiaj¹c jej zamykanie, oraz eliminuje irytuj¹ce grzechotanie i luzy, które pojawiaj¹ siê w miarê starzenia siê pojazdu.
+### Dlaczego warto wybraÄ‡ JUSN?
+RozwiÄ…zuje problem obciÄ…Å¼onej klapy, uÅ‚atwiajÄ…c jej zamykanie, oraz eliminuje irytujÄ…ce grzechotanie i luzy, ktÃ³re pojawiajÄ… siÄ™ w miarÄ™ starzenia siÄ™ pojazdu.
 
-### Szczegó³y techniczne:
-* **MATERIA£:** Lekki i sztywny stop aluminium (6061).
-* **POJEMNOœæ:** 60 litrów przestrzeni baga¿owej.
-* **PROCES:** Zaawansowane piaskowanie i anodowanie – odpornoœæ na UV i kwaœne deszcze.
+### SzczegÃ³Å‚y techniczne:
+* **MATERIAÅ:** Lekki i sztywny stop aluminium (6061).
+* **POJEMNOÅ›Ä‡:** 60 litrÃ³w przestrzeni bagaÅ¼owej.
+* **PROCES:** Zaawansowane piaskowanie i anodowanie â€“ odpornoÅ›Ä‡ na UV i kwaÅ›ne deszcze.
 
-### G³ówne cechy:
-* **Niezawodna jakoœæ:** Wykonany z aluminium lotniczego, nie rdzewieje i zachowuje estetyczny wygl¹d przez lata, nawet w trudnych warunkach terenowych.
-* **Imponuj¹cy udŸwig:** Konstrukcja jest na tyle wytrzyma³a, ¿e doros³a osoba mo¿e na niej stan¹æ, aby siêgn¹æ do baga¿nika dachowego. Antypoœlizgowa powierzchnia zapewnia bezpieczeñstwo.
-* **Lekkoœæ:** Zoptymalizowana waga sprawia, ¿e nawet dziecko poradzi sobie z domkniêciem klapy.
-* **Wszechstronnoœæ (Stolik kawowy):** W kilka sekund zmienisz skrzyniê w mini stolik lub bar. Idealne rozwi¹zanie na kemping, piknik lub jako mobilna stacja do gotowania.
-* **Szczelnoœæ:** Grube uszczelki skutecznie blokuj¹ kurz i deszcz, utrzymuj¹c narzêdzia i sprzêt w czystoœci.
-* **Gotowe rozszerzenia:** Zintegrowany uchwyt na tablicê rejestracyjn¹, wspornik kamery cofania oraz fabryczne otwory na maszt flagowy i dodatkowe œwiat³o STOP.
-* **Bezinwazyjny monta¿:** Precyzyjne dopasowanie do oryginalnych otworów w klapie Jeepa – brak koniecznoœci wiercenia i naruszania struktury pojazdu.
-* **Organizacja 60L:** Wnêtrze podzielone na 3 sekcje, idealne na kanistry z paliwem, liny kinetyczne i zestawy naprawcze.
-* **Zabezpieczenie:** Solidny zamek z os³on¹ przeciwpy³ow¹ chroni Twoje mienie przed kradzie¿¹ i zabrudzeniem mechanizmu.
+### GÅ‚Ã³wne cechy:
+* **Niezawodna jakoÅ›Ä‡:** Wykonany z aluminium lotniczego, nie rdzewieje i zachowuje estetyczny wyglÄ…d przez lata, nawet w trudnych warunkach terenowych.
+* **ImponujÄ…cy udÅºwig:** Konstrukcja jest na tyle wytrzymaÅ‚a, Å¼e dorosÅ‚a osoba moÅ¼e na niej stanÄ…Ä‡, aby siÄ™gnÄ…Ä‡ do bagaÅ¼nika dachowego. AntypoÅ›lizgowa powierzchnia zapewnia bezpieczeÅ„stwo.
+* **LekkoÅ›Ä‡:** Zoptymalizowana waga sprawia, Å¼e nawet dziecko poradzi sobie z domkniÄ™ciem klapy.
+* **WszechstronnoÅ›Ä‡ (Stolik kawowy):** W kilka sekund zmienisz skrzyniÄ™ w mini stolik lub bar. Idealne rozwiÄ…zanie na kemping, piknik lub jako mobilna stacja do gotowania.
+* **SzczelnoÅ›Ä‡:** Grube uszczelki skutecznie blokujÄ… kurz i deszcz, utrzymujÄ…c narzÄ™dzia i sprzÄ™t w czystoÅ›ci.
+* **Gotowe rozszerzenia:** Zintegrowany uchwyt na tablicÄ™ rejestracyjnÄ…, wspornik kamery cofania oraz fabryczne otwory na maszt flagowy i dodatkowe Å›wiatÅ‚o STOP.
+* **Bezinwazyjny montaÅ¼:** Precyzyjne dopasowanie do oryginalnych otworÃ³w w klapie Jeepa â€“ brak koniecznoÅ›ci wiercenia i naruszania struktury pojazdu.
+* **Organizacja 60L:** WnÄ™trze podzielone na 3 sekcje, idealne na kanistry z paliwem, liny kinetyczne i zestawy naprawcze.
+* **Zabezpieczenie:** Solidny zamek z osÅ‚onÄ… przeciwpyÅ‚owÄ… chroni Twoje mienie przed kradzieÅ¼Ä… i zabrudzeniem mechanizmu.
 
-### Informacje o monta¿u:
-* **Dopasowanie:** Dane zgodne z fabrycznymi (OE) – instalacja typu "Plug & Play".
-* **Poziom trudnoœci:** 3/5.
-* **Bezinwazyjny monta¿:** Tak (Lossless Installation).
-* **Zalecany monta¿ profesjonalny:** Tak, jeœli nie masz doœwiadczenia w pracach manualnych.
+### Informacje o montaÅ¼u:
+* **Dopasowanie:** Dane zgodne z fabrycznymi (OE) â€“ instalacja typu "Plug & Play".
+* **Poziom trudnoÅ›ci:** 3/5.
+* **Bezinwazyjny montaÅ¼:** Tak (Lossless Installation).
+* **Zalecany montaÅ¼ profesjonalny:** Tak, jeÅ›li nie masz doÅ›wiadczenia w pracach manualnych.
 
-### Zawartoœæ zestawu:
-* Skrzynia wyprawowa na klapê (Tailgate Toolbox) – 1 komplet.
+### ZawartoÅ›Ä‡ zestawu:
+* Skrzynia wyprawowa na klapÄ™ (Tailgate Toolbox) â€“ 1 komplet.
 
-**Wskazówka wyprawowa:** Dziêki funkcji stolika, ten organizer jest jednym z najczêœciej wybieranych akcesoriów przez osoby buduj¹ce Jeepy pod Overland.
+**WskazÃ³wka wyprawowa:** DziÄ™ki funkcji stolika, ten organizer jest jednym z najczÄ™Å›ciej wybieranych akcesoriÃ³w przez osoby budujÄ…ce Jeepy pod Overland.
 
 
 

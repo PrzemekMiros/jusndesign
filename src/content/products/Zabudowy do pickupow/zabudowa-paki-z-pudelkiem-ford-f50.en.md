@@ -26,7 +26,7 @@ installation:
 
 **Note:** Designed specifically for Ford F-150 Raptor (Long Bed). Features a built-in ventilation window.
 
-Unlock your pickup bed organization dreams with JUSN! This premium canopy system for the F-150 Raptor is more than just a cover; it’s a complete expedition ecosystem with integrated storage platforms.
+Unlock your pickup bed organization dreams with JUSN! This premium canopy system for the F-150 Raptor is more than just a cover; itâ€™s a complete expedition ecosystem with integrated storage platforms.
 
 ### Technical Details:
 * **MATERIAL:** Aluminum Magnesium Alloy.
@@ -43,7 +43,7 @@ Unlock your pickup bed organization dreams with JUSN! This premium canopy system
 * **Built-in Footrests:** Includes 2 integrated footrests for easy roof access.
 
 ### Installation:
-* **Matching:** OE Matching Data – Install and Play.
+* **Matching:** OE Matching Data â€“ Install and Play.
 * **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
 * **Professional Installation Needed?** YES.
 

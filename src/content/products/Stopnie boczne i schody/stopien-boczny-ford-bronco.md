@@ -13,7 +13,7 @@ order: 1
 # Dane techniczne dla szablonu
 brand: JUSN
 material: Stop aluminium (6061), Stal weglowa (Q235)
-process: ObrÛbka CNC, pow≥oka elektroforetyczna oraz lakierowanie natryskowe
+process: Obr√≥bka CNC, pow≈Çoka elektroforetyczna oraz lakierowanie natryskowe
 weight: 15
 shippingInfo: Czas realizacji wynosi 15 dni, transport morski i ladowy zajmuje okolo 40 dni.
 Installation:
@@ -23,29 +23,29 @@ Installation:
 ---
 
 
-Wyposaø swojego Forda Bronco w profesjonalne stopnie boczne JUSN. Zapomnij o pekajacym plastiku czy ciezkiej stali nierdzewnej ñ wybierz lekka i wytrzymala konstrukcje alu-stal.
+Wyposa≈º swojego Forda Bronco w profesjonalne stopnie boczne JUSN. Zapomnij o pekajacym plastiku czy ciezkiej stali nierdzewnej ‚Äì wybierz lekka i wytrzymala konstrukcje alu-stal.
 
-Koniec z problemami starzejacego sie plastiku. Lekka konstrukcja w porÛwnaniu do ciezkiej stali nierdzewnej.
+Koniec z problemami starzejacego sie plastiku. Lekka konstrukcja w por√≥wnaniu do ciezkiej stali nierdzewnej.
 
-### SzczegÛly techniczne:
+### Szczeg√≥ly techniczne:
 * **MATERIAL:** Stop aluminium (6061), Stal weglowa (Q235).
-* **PROCES:** ObrÛbka CNC, elektroforeza oraz malowanie proszkowe.
+* **PROCES:** Obr√≥bka CNC, elektroforeza oraz malowanie proszkowe.
 * **UDZWIG:** Minimum 160 kg (350 Lbs).
 
 ### Cechy:
-* **£atwy montaz:** Bez wiercenia i bez ciÍcia.
-* **NiezawodnoúÊ dzia≥ania:** Klasyczna, mechaniczna konstrukcja oznacza mniej awarii w porÛwnaniu do elektrycznych progÛw wysuwanych.
-* **Szybki montaø i demontaø:** MoøliwoúÊ ≥atwego prze≥πczania miÍdzy uøytkowaniem miejskim a off-roadowym.
-* **Powierzchnia antypoúlizgowa:** ObrÛbka CNC zapewnia doskona≥π przyczepnoúÊ i bezpieczeÒstwo.
-* **Wysoka wytrzyma≥oúÊ:** Wykonane ze stali wÍglowej Q235, o noúnoúci minimum 350 lbs (ok. 160 kg).
-* **Regulacja po≥oøenia:** MoøliwoúÊ zmiany pozycji montaøu wed≥ug potrzeb, bez obniøania przeúwitu pojazdu.
-* **Lekka konstrukcja i ≥atwe czyszczenie:** Pusta (aøurowa) struktura redukuje wagÍ i u≥atwia mycie.
-* **Dla kaødego uøytkownika:** Odpowiednie dla kierowcÛw, kobiet w ciπøy, dzieci, seniorÛw oraz osÛb z ograniczonπ mobilnoúciπ.
+* **≈Åatwy montaz:** Bez wiercenia i bez ciƒôcia.
+* **Niezawodno≈õƒá dzia≈Çania:** Klasyczna, mechaniczna konstrukcja oznacza mniej awarii w por√≥wnaniu do elektrycznych prog√≥w wysuwanych.
+* **Szybki monta≈º i demonta≈º:** Mo≈ºliwo≈õƒá ≈Çatwego prze≈ÇƒÖczania miƒôdzy u≈ºytkowaniem miejskim a off-roadowym.
+* **Powierzchnia antypo≈õlizgowa:** Obr√≥bka CNC zapewnia doskona≈ÇƒÖ przyczepno≈õƒá i bezpiecze≈Ñstwo.
+* **Wysoka wytrzyma≈Ço≈õƒá:** Wykonane ze stali wƒôglowej Q235, o no≈õno≈õci minimum 350 lbs (ok. 160 kg).
+* **Regulacja po≈Ço≈ºenia:** Mo≈ºliwo≈õƒá zmiany pozycji monta≈ºu wed≈Çug potrzeb, bez obni≈ºania prze≈õwitu pojazdu.
+* **Lekka konstrukcja i ≈Çatwe czyszczenie:** Pusta (a≈ºurowa) struktura redukuje wagƒô i u≈Çatwia mycie.
+* **Dla ka≈ºdego u≈ºytkownika:** Odpowiednie dla kierowc√≥w, kobiet w ciƒÖ≈ºy, dzieci, senior√≥w oraz os√≥b z ograniczonƒÖ mobilno≈õciƒÖ.
 
 ### Instalacja:
-* **Dopasowanie:** Dane zgodne z fabrycznym wyposazeniem (OE) ñ ÑInstall and Playî.
+* **Dopasowanie:** Dane zgodne z fabrycznym wyposazeniem (OE) ‚Äì ‚ÄûInstall and Play‚Äù.
 * **Poziom trudnosci:** 2 gwiazdki (w skali do 5).
-* **Wymagany profesjonalny montaø** NIE.
+* **Wymagany profesjonalny monta≈º** NIE.
 * **Bezinwazyjny montaz:** TAK.
 
 ### Zawartosc zestawu:

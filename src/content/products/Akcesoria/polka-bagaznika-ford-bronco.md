@@ -2,8 +2,8 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/ford-bronco-wewnetrzna-polka-bagaznika-cargo/
-title: Wewnêtrzna Pó³ka Baga¿nika i Organizer Cargo do Ford Bronco
-description: Wytrzyma³a pó³ka baga¿owa do Ford Bronco. Posiada system szybkiego demonta¿u, w pe³ni metalow¹ konstrukcjê oraz panele taktyczne dla optymalnej organizacji.
+title: WewnÄ™trzna PÃ³Å‚ka BagaÅ¼nika i Organizer Cargo do Ford Bronco
+description: WytrzymaÅ‚a pÃ³Å‚ka bagaÅ¼owa do Ford Bronco. Posiada system szybkiego demontaÅ¼u, w peÅ‚ni metalowÄ… konstrukcjÄ™ oraz panele taktyczne dla optymalnej organizacji.
 productImage: /content/products/img/wew-polka-bagaz-bronco.png
 categories:
   - Inne akcesoria
@@ -12,44 +12,44 @@ order: 7
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061) i Stal wêglowa (Q235)
+material: Stop aluminium (6061) i Stal wÄ™glowa (Q235)
 process: Grawerowanie CNC oraz Malowanie proszkowe
 weight: 12.5
-shippingInfo: Prosimy o kontakt i podanie numeru VIN pojazdu oraz zdjêcia miejsca monta¿u w celu weryfikacji kompatybilnoœci.
+shippingInfo: Prosimy o kontakt i podanie numeru VIN pojazdu oraz zdjÄ™cia miejsca montaÅ¼u w celu weryfikacji kompatybilnoÅ›ci.
 Installation:
   difficulty: 3
   professional_required: true
-  method: Dopasowanie OE (Bezinwazyjny monta¿)
+  method: Dopasowanie OE (Bezinwazyjny montaÅ¼)
 ---
 
 
-## Standardowe wyposa¿enie zabudowy:
+## Standardowe wyposaÅ¼enie zabudowy:
 
 - Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
-- Zamki drzwi posiadaj¹ zabezpieczenie gumowe zapobiegaj¹ce przed dostawaniem siê wilgoci, brudu, czy zamarzaniem.
-- Dwie belki dachowe do monta¿u namiotu dachowego lub innych przedmiotów
+- Zamki drzwi posiadajÄ… zabezpieczenie gumowe zapobiegajÄ…ce przed dostawaniem siÄ™ wilgoci, brudu, czy zamarzaniem.
+- Dwie belki dachowe do montaÅ¼u namiotu dachowego lub innych przedmiotÃ³w
 - Schowek w drzwiach bocznych, 
-- Oœwietlenie wewnêtrzne, 
-- Œwiat³o stop, 
+- OÅ›wietlenie wewnÄ™trzne, 
+- ÅšwiatÅ‚o stop, 
 
-Uchwyty umo¿liwiaj¹ce podnoszenie zabudowy do góry s¹ bardzo przydatne gdy planujemy czêsty demonta¿ zabudowy i chcemy umieszczaæ zabudowê na aucie za pomoc¹ systemu podnosz¹cego np. do sufitu gara¿u. 
+Uchwyty umoÅ¼liwiajÄ…ce podnoszenie zabudowy do gÃ³ry sÄ… bardzo przydatne gdy planujemy czÄ™sty demontaÅ¼ zabudowy i chcemy umieszczaÄ‡ zabudowÄ™ na aucie za pomocÄ… systemu podnoszÄ…cego np. do sufitu garaÅ¼u. 
 
-- Otwierane stopnie, które umo¿liwiaj¹ wejœcie na dach zabudowy. 
-- Instalacje elektryczn¹
+- Otwierane stopnie, ktÃ³re umoÅ¼liwiajÄ… wejÅ›cie na dach zabudowy. 
+- Instalacje elektrycznÄ…
 - Okno wentylacyjne
 - Panel molle 
 
 
-## Opcjonalne wyposa¿enie: 
+## Opcjonalne wyposaÅ¼enie: 
 
 - Schowek umieszczony w drugim boku zabudowy
 - Schowek umieszczony na przednim panelu
-- Uchwyt na flage - przydatny przy poruszaniu siê w warunkach pustynnych
+- Uchwyt na flage - przydatny przy poruszaniu siÄ™ w warunkach pustynnych
 - Stolik turystyczny mocowany pod dachem zabudowy
-- Organizery dopasowane do bocznych schowków
+- Organizery dopasowane do bocznych schowkÃ³w
 
-Posiadamy równie doskona³ej jakoœci platformy wysuwane mocowane do pod³ogi paki - bez koniecznoœci wiercenia otworów w pod³odze.
+Posiadamy rÃ³wnie doskonaÅ‚ej jakoÅ›ci platformy wysuwane mocowane do podÅ‚ogi paki - bez koniecznoÅ›ci wiercenia otworÃ³w w podÅ‚odze.
 
-Zabudowa jest dostarczana w trzech kartonach do samodzielnego monta¿u. Je¿eli nie jesteœ zainteresowany sk³adaniem i monta¿em zabudowy umów siê z naszym serwisem, zajmiemy siê tym za Ciebie. 
+Zabudowa jest dostarczana w trzech kartonach do samodzielnego montaÅ¼u. JeÅ¼eli nie jesteÅ› zainteresowany skÅ‚adaniem i montaÅ¼em zabudowy umÃ³w siÄ™ z naszym serwisem, zajmiemy siÄ™ tym za Ciebie. 
 
-Je¿eli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie mo¿liwych, wystarczy porozmawiaæ wiêc zapraszamy do kontaktu z naszymi doradcami.
+JeÅ¼eli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochÃ³d z pod Twojego domu a po zamontowaniu zabudowy wrÃ³ci na to samo miejsce. Nie ma rzeczy nie moÅ¼liwych, wystarczy porozmawiaÄ‡ wiÄ™c zapraszamy do kontaktu z naszymi doradcami.

@@ -43,7 +43,7 @@ Unlock Your Truck Bed Organization Dreams with JUSN!
 * **Extra Storage Solutions:** The Expansion Board Inside the Box Meets Most of Your Storage Needs, Accommodating Small Devices You May Require.
 
 ### Installation:
-* **Matching:** OE Matching Data – Install and Play.
+* **Matching:** OE Matching Data â€“ Install and Play.
 * **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
 * **Professional Installation Needed?** YES.
 

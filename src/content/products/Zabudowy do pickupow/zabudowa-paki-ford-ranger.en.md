@@ -38,13 +38,13 @@ Unlock your pickup bed organization dreams with JUSN! This professional canopy c
 * **Safety & Visibility:** Integrated external lights connect to brake, side, and daytime running lights. Clear visibility is maintained through the rearview mirror.
 * **Power Expansion:** Features an AUX expansion switch for connecting devices like air pumps or extra spotlights.
 * **Independent Lighting:** Internal canopy lights with separate switches for convenience at night or in dark environments.
-* **Dust-Proof Design:** Our dust-proof buckle design ensures that dirt won’t block your locks, keeping everything clean and functional.
+* **Dust-Proof Design:** Our dust-proof buckle design ensures that dirt wonâ€™t block your locks, keeping everything clean and functional.
 * **Exterior Expansion:** Comes with a pair of exterior expansion panels for mounting additional equipment.
 * **Sturdy and Silent:** High-strength mounting brackets minimize movement and noise during driving, ensuring a smooth ride.
 * **Integrated Access:** Includes 2 built-in footrests for easy access to the top of your truck.
 
 ### Installation:
-* **Matching:** OE Matching Data – Install and Play.
+* **Matching:** OE Matching Data â€“ Install and Play.
 * **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
 * **Professional Installation Needed?** YES.
 

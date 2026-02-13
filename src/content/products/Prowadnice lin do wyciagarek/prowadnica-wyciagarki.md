@@ -1,10 +1,10 @@
 ---
 lang: pl
-title: œlizg wyci¹garki (Hawse Fairlead) z hakiem holowniczym - Aluminium
-description: Aluminiowy œlizg wyci¹garki JUSN zintegrowany z hakiem. Wykonany z aluminium lotniczego 7075, chroni linê syntetyczn¹ przed zu¿yciem.
+title: Å›lizg wyciÄ…garki (Hawse Fairlead) z hakiem holowniczym - Aluminium
+description: Aluminiowy Å›lizg wyciÄ…garki JUSN zintegrowany z hakiem. Wykonany z aluminium lotniczego 7075, chroni linÄ™ syntetycznÄ… przed zuÅ¼yciem.
 productImage: /content/products/img/prowadnica-wyciagarki.jpg
 categories:
-  - Prowadnice lin wyci¹garek
+  - Prowadnice lin wyciÄ…garek
 price: 450
 order: 1
 
@@ -13,39 +13,39 @@ brand: JUSN
 material: Aluminium lotnicze (7075)
 process: Kucie, piaskowanie i anodowanie
 weight: 2.5
-shippingInfo: Czas realizacji wynosi 15 dni. Wysy³ka morska i l¹dowa zajmuje ³¹cznie oko³o 40 dni.
+shippingInfo: Czas realizacji wynosi 15 dni. WysyÅ‚ka morska i lÄ…dowa zajmuje Å‚Ä…cznie okoÅ‚o 40 dni.
 Installation:
   difficulty: 1
   professional_required: false
-  method: Bezpoœredni monta¿ (Plug & Play)
+  method: BezpoÅ›redni montaÅ¼ (Plug & Play)
 ---
 
-Uniwersalny œlizg wyci¹garki zintegrowany z hakiem holowniczym, zaprojektowany do wspó³pracy ze wszystkimi rodzajami lin syntetycznych. Idealny dla w³aœcicieli Jeep, GMC, Nissan, Mazda, Chevy, Toyota, Ford czy RAM.
+Uniwersalny Å›lizg wyciÄ…garki zintegrowany z hakiem holowniczym, zaprojektowany do wspÃ³Å‚pracy ze wszystkimi rodzajami lin syntetycznych. Idealny dla wÅ‚aÅ›cicieli Jeep, GMC, Nissan, Mazda, Chevy, Toyota, Ford czy RAM.
 
-### Dlaczego warto wybraæ JUSN?
-Zaprojektowany, aby chroniæ linê wyci¹garki przed nadmiernym zu¿yciem. Zapobiega strzêpieniu siê i pl¹taniu liny syntetycznej, wyd³u¿aj¹c jej ¿ywotnoœæ.
+### Dlaczego warto wybraÄ‡ JUSN?
+Zaprojektowany, aby chroniÄ‡ linÄ™ wyciÄ…garki przed nadmiernym zuÅ¼yciem. Zapobiega strzÄ™pieniu siÄ™ i plÄ…taniu liny syntetycznej, wydÅ‚uÅ¼ajÄ…c jej Å¼ywotnoÅ›Ä‡.
 
-### Szczegó³y techniczne:
-* **MATERIA£:** Wysokiej jakoœci aluminium lotnicze (7075).
-* **PROCES:** Kucie pod pras¹, piaskowanie powierzchni oraz ochronna pow³oka anodowana.
+### SzczegÃ³Å‚y techniczne:
+* **MATERIAÅ:** Wysokiej jakoÅ›ci aluminium lotnicze (7075).
+* **PROCES:** Kucie pod prasÄ…, piaskowanie powierzchni oraz ochronna powÅ‚oka anodowana.
 
-### G³ówne cechy:
-* **Agresywny design:** œlizg JUSN charakteryzuje siê nowoczesnym, kanciastym kszta³tem, który nadaje pojazdowi stylowy i bojowy wygl¹d.
-* **Ochrona liny:** Wysokiej jakoœci polerowane aluminium skutecznie zapobiega przenoszeniu ciep³a na linê syntetyczn¹, co chroni j¹ przed przegrzaniem i uszkodzeniem.
-* **Trwa³e wykoñczenie:** Powierzchnia wykoñczona metod¹ anodowania proszkowego zapewnia doskona³¹ ochronê przed promieniowaniem UV, korozj¹ oraz rdzewieniem.
-* **Uniwersalnoœæ:** Zestaw sk³adaj¹cy siê ze œlizgu i haka holowniczego mo¿e byæ ³atwo zamontowany w wiêkszoœci pojazdów terenowych i pickupów.
-* **B³yskawiczny monta¿:** Instalacja nie wymaga wiercenia ani ciêcia elementów konstrukcyjnych zderzaka.
+### GÅ‚Ã³wne cechy:
+* **Agresywny design:** Å›lizg JUSN charakteryzuje siÄ™ nowoczesnym, kanciastym ksztaÅ‚tem, ktÃ³ry nadaje pojazdowi stylowy i bojowy wyglÄ…d.
+* **Ochrona liny:** Wysokiej jakoÅ›ci polerowane aluminium skutecznie zapobiega przenoszeniu ciepÅ‚a na linÄ™ syntetycznÄ…, co chroni jÄ… przed przegrzaniem i uszkodzeniem.
+* **TrwaÅ‚e wykoÅ„czenie:** Powierzchnia wykoÅ„czona metodÄ… anodowania proszkowego zapewnia doskonaÅ‚Ä… ochronÄ™ przed promieniowaniem UV, korozjÄ… oraz rdzewieniem.
+* **UniwersalnoÅ›Ä‡:** Zestaw skÅ‚adajÄ…cy siÄ™ ze Å›lizgu i haka holowniczego moÅ¼e byÄ‡ Å‚atwo zamontowany w wiÄ™kszoÅ›ci pojazdÃ³w terenowych i pickupÃ³w.
+* **BÅ‚yskawiczny montaÅ¼:** Instalacja nie wymaga wiercenia ani ciÄ™cia elementÃ³w konstrukcyjnych zderzaka.
 
-### Informacje o monta¿u:
-* **Dopasowanie:** Zgodne ze standardami rynkowymi (OE Matching) – instalacja typu "zamontuj i u¿ywaj".
-* **Poziom trudnoœci:** 1/5 (bardzo ³atwy).
-* **Bezinwazyjny monta¿:** Tak.
-* **Wymagany profesjonalny monta¿:** Nie – mo¿esz to zrobiæ samodzielnie w kilka minut.
+### Informacje o montaÅ¼u:
+* **Dopasowanie:** Zgodne ze standardami rynkowymi (OE Matching) â€“ instalacja typu "zamontuj i uÅ¼ywaj".
+* **Poziom trudnoÅ›ci:** 1/5 (bardzo Å‚atwy).
+* **Bezinwazyjny montaÅ¼:** Tak.
+* **Wymagany profesjonalny montaÅ¼:** Nie â€“ moÅ¼esz to zrobiÄ‡ samodzielnie w kilka minut.
 
-### Zawartoœæ zestawu:
-* œlizg wyci¹garki zintegrowany z hakiem holowniczym – 1 szt.
+### ZawartoÅ›Ä‡ zestawu:
+* Å›lizg wyciÄ…garki zintegrowany z hakiem holowniczym â€“ 1 szt.
 
-**Wskazówka:** Pamiêtaj, ¿e ten œlizg jest przeznaczony wy³¹cznie do lin syntetycznych. W przypadku liny stalowej nale¿y stosowaæ œlizgi rolkowe.
+**WskazÃ³wka:** PamiÄ™taj, Å¼e ten Å›lizg jest przeznaczony wyÅ‚Ä…cznie do lin syntetycznych. W przypadku liny stalowej naleÅ¼y stosowaÄ‡ Å›lizgi rolkowe.
 
 
 

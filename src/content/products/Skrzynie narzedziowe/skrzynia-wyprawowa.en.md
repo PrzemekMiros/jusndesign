@@ -45,7 +45,7 @@ Overcome the challenges of a heavy spare tire that makes closing the tailgate a 
 * **No-Damage Installation:** Precisely matches original factory holes. No drilling or cutting required, preserving your Jeep's structural integrity.
 
 ### Installation Information:
-* **Fitting:** OE matching data – "Install and Play".
+* **Fitting:** OE matching data â€“ "Install and Play".
 * **Difficulty Level:** 3/5 stars.
 * **Professional Installation:** Recommended if you are not experienced with mechanical upgrades.
 * **Lossless Installation:** Yes.

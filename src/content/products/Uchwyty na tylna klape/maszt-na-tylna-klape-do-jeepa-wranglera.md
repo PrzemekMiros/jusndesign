@@ -2,11 +2,11 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/jeep-gladiator-jt-uchwyt-anteny-lopaty-flagi/
-title: Uchwyt 3w1 na Klapê Jeep Wrangler / Gladiator JT - Antena CB, ³opata i Flaga
-description: Wielofunkcyjny uchwyt na tyln¹ klapê do Jeepa. Pozwala na jednoczesny monta¿ ³opaty, anteny CB i masztu flagi. Bezinwazyjny monta¿ aluminium CNC.
+title: Uchwyt 3w1 na KlapÄ™ Jeep Wrangler / Gladiator JT - Antena CB, Å‚opata i Flaga
+description: Wielofunkcyjny uchwyt na tylnÄ… klapÄ™ do Jeepa. Pozwala na jednoczesny montaÅ¼ Å‚opaty, anteny CB i masztu flagi. Bezinwazyjny montaÅ¼ aluminium CNC.
 productImage: /content/products/img/maszta-na-klape.jpg
 categories:
-  - Uchwyty na tyln¹ klapê
+  - Uchwyty na tylnÄ… klapÄ™
 price: 149
 order: 1
 
@@ -15,37 +15,37 @@ brand: JUSN
 material: Stop aluminium (6061)
 process: Anodowanie i Malowanie Proszkowe
 weight: 2.5
-shippingInfo: Dostêpna standardowa wysy³ka. Czas realizacji ok. 15 dni.
+shippingInfo: DostÄ™pna standardowa wysyÅ‚ka. Czas realizacji ok. 15 dni.
 Installation:
   difficulty: 3
   professional_required: false
-  method: Dopasowanie OE - Bezinwazyjny monta¿ bez wiercenia
+  method: Dopasowanie OE - Bezinwazyjny montaÅ¼ bez wiercenia
 ---
 
-**Wa¿ne:** Przed zakupem prosimy o kontakt i podanie numeru VIN oraz przes³anie zdjêcia miejsca monta¿u w celu weryfikacji kompatybilnoœci z Twoim modelem Jeepa.
+**WaÅ¼ne:** Przed zakupem prosimy o kontakt i podanie numeru VIN oraz przesÅ‚anie zdjÄ™cia miejsca montaÅ¼u w celu weryfikacji kompatybilnoÅ›ci z Twoim modelem Jeepa.
 
-Znasz ten problem, kiedy przed wypraw¹ nie wiesz, jak stabilnie zamontowaæ ³opatê, antenê CB i flagê? JUSN rozwi¹zuje ten problem za pomoc¹ jednego, innowacyjnego uchwytu montowanego na klapie.
+Znasz ten problem, kiedy przed wyprawÄ… nie wiesz, jak stabilnie zamontowaÄ‡ Å‚opatÄ™, antenÄ™ CB i flagÄ™? JUSN rozwiÄ…zuje ten problem za pomocÄ… jednego, innowacyjnego uchwytu montowanego na klapie.
 
-### Szczegó³y techniczne:
-* **MATERIA£:** Wysokiej jakoœci stop aluminium (6061).
-* **PROCES:** Piaskowanie, anodowanie i malowanie proszkowe dla maksymalnej odpornoœci.
+### SzczegÃ³Å‚y techniczne:
+* **MATERIAÅ:** Wysokiej jakoÅ›ci stop aluminium (6061).
+* **PROCES:** Piaskowanie, anodowanie i malowanie proszkowe dla maksymalnej odpornoÅ›ci.
 
-### G³ówne zalety:
-* **Integracja 3-w-1:** Idealne rozwi¹zanie do uporz¹dkowania akcesoriów. Jeden uchwyt mieœci ³opatê, antenê oraz maszt flagi, eliminuj¹c chaos na pace czy w kabinie.
-* **Trwa³oœæ klasy Premium:** Odpornoœæ na promieniowanie UV i korozjê gwarantuje, ¿e uchwyt wytrzyma lata w najtrudniejszym terenie.
-* **Bezinwazyjny monta¿:** Precyzyjne dopasowanie do fabrycznych otworów monta¿owych pojazdu. **Nie wymaga wiercenia ani ciêcia.**
-* **Precyzyjne trzymanie:** Zaprojektowany dla ³opat o œrednicy trzonka do 28 mm (1.1 cala). Gwarantuje, ¿e ³opata pozostanie na miejscu nawet podczas szybkich przejazdów po wybojach.
-* **Profesjonalne wsparcie:** Stabilna baza dla anteny CB zapewnia niezak³ócon¹ transmisjê sygna³u, a solidny monta¿ flagi pozwala jej dumnie powiewaæ podczas off-roadu.
-* **Estetyczny design:** W przeciwieñstwie do wielu topornych uchwytów na rynku, produkt JUSN wyró¿nia siê smuk³¹ lini¹ i dopracowanym wykoñczeniem, podkreœlaj¹c styl Twojego Jeepa.
+### GÅ‚Ã³wne zalety:
+* **Integracja 3-w-1:** Idealne rozwiÄ…zanie do uporzÄ…dkowania akcesoriÃ³w. Jeden uchwyt mieÅ›ci Å‚opatÄ™, antenÄ™ oraz maszt flagi, eliminujÄ…c chaos na pace czy w kabinie.
+* **TrwaÅ‚oÅ›Ä‡ klasy Premium:** OdpornoÅ›Ä‡ na promieniowanie UV i korozjÄ™ gwarantuje, Å¼e uchwyt wytrzyma lata w najtrudniejszym terenie.
+* **Bezinwazyjny montaÅ¼:** Precyzyjne dopasowanie do fabrycznych otworÃ³w montaÅ¼owych pojazdu. **Nie wymaga wiercenia ani ciÄ™cia.**
+* **Precyzyjne trzymanie:** Zaprojektowany dla Å‚opat o Å›rednicy trzonka do 28 mm (1.1 cala). Gwarantuje, Å¼e Å‚opata pozostanie na miejscu nawet podczas szybkich przejazdÃ³w po wybojach.
+* **Profesjonalne wsparcie:** Stabilna baza dla anteny CB zapewnia niezakÅ‚Ã³conÄ… transmisjÄ™ sygnaÅ‚u, a solidny montaÅ¼ flagi pozwala jej dumnie powiewaÄ‡ podczas off-roadu.
+* **Estetyczny design:** W przeciwieÅ„stwie do wielu topornych uchwytÃ³w na rynku, produkt JUSN wyrÃ³Å¼nia siÄ™ smukÅ‚Ä… liniÄ… i dopracowanym wykoÅ„czeniem, podkreÅ›lajÄ…c styl Twojego Jeepa.
 
 ### Instalacja:
-* **Dopasowanie:** Dane zgodne ze specyfikacj¹ OE – „Install and Play.
-* **Poziom trudnoœci:** 3 gwiazdki.
-* **Wymagany profesjonalny monta¿?** Zalecany, jeœli nie masz doœwiadczenia w modyfikacjach, ale monta¿ jest intuicyjny.
-* **Bezinwazyjnoœæ (Lossless):** TAK.
+* **Dopasowanie:** Dane zgodne ze specyfikacjÄ… OE â€“ â€Install and Play.
+* **Poziom trudnoÅ›ci:** 3 gwiazdki.
+* **Wymagany profesjonalny montaÅ¼?** Zalecany, jeÅ›li nie masz doÅ›wiadczenia w modyfikacjach, ale montaÅ¼ jest intuicyjny.
+* **BezinwazyjnoÅ›Ä‡ (Lossless):** TAK.
 
-### Zawartoœæ zestawu:
-* Wielofunkcyjny uchwyt na klapê 3 w 1 - 1 komplet.
+### ZawartoÅ›Ä‡ zestawu:
+* Wielofunkcyjny uchwyt na klapÄ™ 3 w 1 - 1 komplet.
 
 
 

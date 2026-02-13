@@ -43,7 +43,7 @@ Unlock your pickup bed organization dreams with JUSN! This isn't just a canopy; 
 * **Convenient Access:** Includes 2 integrated footrests for easy reaching of the roof rack system.
 
 ### Installation:
-* **Matching:** OE Matching Data – Install and Play.
+* **Matching:** OE Matching Data â€“ Install and Play.
 * **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
 * **Professional Installation Needed?** YES.
 

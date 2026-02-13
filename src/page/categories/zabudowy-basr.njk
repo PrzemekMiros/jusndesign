@@ -6,7 +6,7 @@ category: Zabudowy BASR
 
 <section class="pt-xlarge products-category">
 <div class="container">
-  {% set breadcrumbHome = "Strona g³ówna" %}
+  {% set breadcrumbHome = "Strona gÅ‚Ã³wna" %}
   {% set breadcrumbOffer = "Oferta" %}
   {% set breadcrumbOfferUrl = "/oferta/" %}
   {% if lang == "en" %}
@@ -32,9 +32,9 @@ category: Zabudowy BASR
         </div>
         <div class="col-md-8">
              <p class="mb-2">             
-              BASR to marka firmy Jusn, która poszerza ofertê o dodatkowe niestandardowe systemy przewo¿enia ³adunku. Zabudowy z tej kategorii i ich organizery posiadaj¹ wiele wariantów i mo¿liwoœci rozbudowy.  Monta¿ nie wymaga usuniêcia rolety zamontowanej w Twoim pick upie
+              BASR to marka firmy Jusn, ktÃ³ra poszerza ofertÄ™ o dodatkowe niestandardowe systemy przewoÅ¼enia Å‚adunku. Zabudowy z tej kategorii i ich organizery posiadajÄ… wiele wariantÃ³w i moÅ¼liwoÅ›ci rozbudowy.  MontaÅ¼ nie wymaga usuniÄ™cia rolety zamontowanej w Twoim pick upie
               </p>
-             <a href="#opis" class="small color-accent-1">Czytaj wiêcej &rarr; </a>
+             <a href="#opis" class="small color-accent-1">Czytaj wiÄ™cej &rarr; </a>
 
         </div>
       </div>
@@ -51,7 +51,7 @@ category: Zabudowy BASR
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz wiêcej &rarr;</a>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz wiÄ™cej &rarr;</a>
           </div>
         </article>
         </a>
@@ -59,12 +59,12 @@ category: Zabudowy BASR
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktów w tej kategorii.</p>
+    <p>Brak produktÃ³w w tej kategorii.</p>
   {% endif %}
   </div>
 </section>
 
-<section class="cat-description pt-medium" id="opis">
+<section class="cat-description pt-medium mb-5" id="opis">
   <div class="container">
     <div class="cat-desc-content bg-light-1 p-3 p-md-5 rounded-md">
       <div class="row g-5">
@@ -77,8 +77,18 @@ category: Zabudowy BASR
         </div>
         <div class="col-md-5">
          <div class="sticky">
-          <div class="swiper swiper-category">
-            <div class="swiper-wrapper"> 
+
+         </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+          <div class="">
+            <div class="row g-3"> 
               {% set basrGallery = [
                 "basr-1.jpeg",
                 "basr-2.jpeg",
@@ -131,7 +141,7 @@ category: Zabudowy BASR
                 "cat-basr-acc-10.jpeg"
               ] %}
               {% for image in basrGallery %} 
-              <div class="swiper-slide">
+              <div class="col-md-4">
                 <div class="work-card bg-light-1 rounded-md">
                   <a href="{{ ("/assets/img/category/basr/" + image) | url }}" class="glightbox work-image-wrap rounded-md" data-gallery="portfolio" data-no-swup>
                     <svg class="img-wrapper-icon" width="34" height="34" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
@@ -159,11 +169,7 @@ category: Zabudowy BASR
           <div class="fade-in">
             <div class="swiper-scrollbar bg-light-2"></div>
           </div>
-         </div>
-        </div>
       </div>
-    </div>
-  </div>
 </section>
 
 

@@ -44,7 +44,7 @@ Unlock your pickup bed organization dreams with JUSN! This professional canopy c
 * **Sturdy Construction:** High-strength mounting brackets minimize movement and noise, ensuring a silent and smooth ride.
 
 ### Installation:
-* **Matching:** OE Matching Data – Install and Play.
+* **Matching:** OE Matching Data â€“ Install and Play.
 * **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
 * **Professional Installation Needed?** YES.
 

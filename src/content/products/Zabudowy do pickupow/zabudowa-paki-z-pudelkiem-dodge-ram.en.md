@@ -42,7 +42,7 @@ Unlock your pickup bed organization dreams with JUSN! This canopy system for RAM
 * **Clear Rear View:** The design maintains a clear line of sight through your rearview mirror.
 
 ### Installation:
-* **Matching:** OE Matching Data – Install and Play.
+* **Matching:** OE Matching Data â€“ Install and Play.
 * **Difficulty Level:** 4 Stars.
 * **Professional Installation Needed?** YES.
 
