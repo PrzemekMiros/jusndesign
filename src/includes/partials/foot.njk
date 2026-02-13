@@ -13,8 +13,25 @@
 <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script>
+  let siteLightbox = null;
+
+  function initSiteLightbox() {
+    if (typeof GLightbox === "undefined") {
+      return;
+    }
+    if (siteLightbox && typeof siteLightbox.destroy === "function") {
+      siteLightbox.destroy();
+    }
+    siteLightbox = GLightbox({
+      selector: '.glightbox',
+      touchNavigation: true,
+      loop: true,
+      autoplayVideos: true
+    });
+  }
+
   window.addEventListener('load', function() {
-  appMain(); animationMain()
+  appMain(); animationMain(); initSiteLightbox();
   });
   const swup = new Swup({
     animateHistoryBrowsing: true, 
@@ -24,19 +41,9 @@
     ]
   });
   swup.hooks.on('page:view', () => {
-       appMain(); animationMain()
+       appMain(); animationMain(); initSiteLightbox();
   }, { before: true });
 </script> 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const lightbox = GLightbox({
-        selector: '.glightbox',
-        touchNavigation: true,
-        loop: true,
-        autoplayVideos: true
-    });
-});
-</script>
 <script src="/assets/js/cookieconsent.js" defer></script>
 <script src="/assets/js/cookieconsent-init.js" defer></script>
 <script type="application/ld+json">

@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: System organizerów paki z oświetleniem dla Ford Ranger / F150 Raptor
+title: Zabudowa bed rack JD3
 description: Profesjonalny system cargo JUSN dla modeli Ford. Aluminiowa konstrukcja, 4 skrzynie transportowe po 25L i zintegrowane oświetlenie paki.
 productImage: /content/products/img/bed-box-ford-ranger.jpg
 categories:
