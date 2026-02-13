@@ -1,10 +1,14 @@
 ﻿---
 lang: pl
-title: Zabudowa BYD Shark 6 z relingami górnymi
+title: Zabudowa JD10 BYD Shark 
 description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
 productImage: /content/products/img/byd-shark-1.jpg
 galleryImages:
-  - /content/products/img/byd-shark-2.jpg
+  - /content/products/img/zabudowa-jd-10-byd-shark-1.jpg
+  - /content/products/img/zabudowa-jd-10-byd-shark-2.jpg
+  - /content/products/img/zabudowa-jd-10-byd-shark-3.jpg
+  - /content/products/img/zabudowa-jd-10-byd-shark-4.jpg
+  - /content/products/img/zabudowa-jd-10-byd-shark-5.jpg
 categories:
   - Zabudowy do pickupów
 price: 8900
