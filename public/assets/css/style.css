@@ -7244,7 +7244,7 @@ button.swiper-pagination-bullet {
   }
 }
 .work-image-wrap img {
-  aspect-ratio: 9/6;
+  aspect-ratio: 7/6;
   object-fit: cover;
   object-position: center;
 }

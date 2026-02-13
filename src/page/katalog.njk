@@ -7,25 +7,36 @@ description:
 ---
 
 <section class="pt-xlarge">
-  <div class="container">
-    {% include "partials/breadcrumbs.njk" %}
-    <h1 class="xl split-lines color-light-3 mb-4 mt-3">Katalogi produktów</h1>
+  <div class="container"> {% include "partials/breadcrumbs.njk" %} <h1 class="xl split-lines color-light-3 mb-4 mt-3 mb-4">Katalogi produktów</h1>
+    <div class="row g-4">
+      <div class="col-md-4">
+        <div class="catalog-wrap rounded-md">
 
-      <div class="row g-3">
-        <div class="col-md-4">
-
-<section class="catalog-viewer">
-  <h2>Katalog online</h2>
-  <iframe
-    src="/assets/pdf/JusnDesignProductList.pdf"
-    width="100%"
-    height="600px"
-    title="Katalog produktów JUSN Design">
-  </iframe>
-</section>
+        <a href="/assets/pdf/JusnDesignProductList.pdf" class="btn-catalog" target="_blank">
+          <div class="catalog-preview">
+            <img src="/assets/pdf/pdf-2.png" alt="Okładka katalogu">
+          </div>
+        </a>
 
         </div>
       </div>
+      <div class="col-md-4">
+        <div class="catalog-wrap rounded-md">
 
+         <a href="/assets/pdf/JusnDesignBasr.pdf" class="btn-catalog" target="_blank">
+          <div class="catalog-preview">
+            <img src="/assets/pdf/pdf-1.png" alt="Okładka katalogu">
+          </div>
+         </a>
+
+        </div>
+      </div>
+    </div>
   </div>
 </section>
+
+<style>
+.catalog-wrap {
+   
+}
+</style>

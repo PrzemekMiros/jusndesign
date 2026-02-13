@@ -2,7 +2,7 @@
 lang: pl
 title: Zabudowa JD10 BYD Shark 
 description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
-productImage: /content/products/img/zabudowa-jd-10-byd-shark-1.jpg
+productImage: /content/products/img/zabudowa-eu.png
 galleryImages:
   - /content/products/img/zabudowa-jd-10-byd-shark-1.jpg
   - /content/products/img/zabudowa-jd-10-byd-shark-2.jpg

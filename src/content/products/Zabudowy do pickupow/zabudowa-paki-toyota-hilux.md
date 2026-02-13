@@ -5,7 +5,7 @@ permalink: /produkty/toyota-hilux-zabudowa-paki-canopy-hardtop/
 title: Zabudowa JD10 Toyota Hilux 2026+
 description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
 vinNotice: Przed zakupem zapraszamy do kontaktu w celu wyboru odpowiedniego produktu, czy sprawdzeniu kompatybilności.
-productImage: /content/products/img/zabudowa-hilux-2026-1.jpg
+productImage: /content/products/img/zabudowa-eu.png
 galleryImages:
   - /content/products/img/zabudowa-hilux-2026-1.jpg
   - /content/products/img/zabudowa-hilux-2026-2.jpg
