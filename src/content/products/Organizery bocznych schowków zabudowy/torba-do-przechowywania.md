@@ -2,7 +2,7 @@
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/torba-do-przechowywania/
-title: Organizery bocznych schowków zabudowy 
+title: Organizery bocznych schowków zabudowy JD10
 description: Zaawansowany system przechowywania ładunku JUSN do Toyoty Tundra. Aluminiowa konstrukcja, 8 skrzyń po 25L każda oraz zintegrowane oświetlenie bezpieczeństwa.
 productImage: /content/products/img/torbado-przchowywania2.png
 categories:

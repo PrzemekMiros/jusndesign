@@ -141,7 +141,7 @@
 .mega-menu {
   position: absolute;
   top: 100%;
-  left: 50%;
+  left: 100%;
   width: min(780px, 100vw);
   background-color: var(--color-dark-1);
   box-shadow: 0 12px 30px rgba(17, 17, 17, 0.4);
