@@ -1,12 +1,12 @@
-Ôªø---
+---
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/torba-do-przechowywania/
-title: Organizery bocznych schowk√≥w zabudowy 
-description: Zaawansowany system przechowywania ≈Çadunku JUSN do Toyoty Tundra. Aluminiowa konstrukcja, 8 skrzy≈Ñ po 25L ka≈ºda oraz zintegrowane o≈õwietlenie bezpiecze≈Ñstwa.
+title: Organizery bocznych schowkÛw zabudowy 
+description: Zaawansowany system przechowywania ≥adunku JUSN do Toyoty Tundra. Aluminiowa konstrukcja, 8 skrzyÒ po 25L kaøda oraz zintegrowane oúwietlenie bezpieczeÒstwa.
 productImage: /content/products/img/torbado-przchowywania2.png
 categories:
-  - Organizery bocznych schowk√≥w zabudow
+  - Organizery bocznych schowkÛw zabudow
 price: 3499
 order: 11
 

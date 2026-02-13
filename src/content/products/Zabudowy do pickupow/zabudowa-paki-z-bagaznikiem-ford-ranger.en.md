@@ -1,4 +1,4 @@
-﻿---
+---
 lang: en
 layout: "layouts/product-en.njk"
 permalink: /products/ford-ranger-truck-bed-canopy-hardtop/
@@ -45,7 +45,7 @@ Unlock your pickup bed organization dreams with JUSN! This professional canopy s
 * **Clear Visibility:** Design ensures an unobstructed view through the rearview mirror.
 
 ### Installation:
-* **Matching:** OE Matching Data – Install and Play.
+* **Matching:** OE Matching Data � Install and Play.
 * **Difficulty Level:** 4 Stars.
 * **Professional Installation Needed?** YES.
 

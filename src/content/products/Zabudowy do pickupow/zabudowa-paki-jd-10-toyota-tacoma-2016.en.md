@@ -1,9 +1,9 @@
-ï»¿---
+---
 lang: en
 permalink: /products/toyota-tacoma-pickup-truck-canopy/
 title: Zabudowa JD10 Toyota Tacoma 2016 - 2024
-description: Lekka i bardzo wytrzymaÅ‚a zabudowa ktÃ³rÄ… cechuje wyjÄ…tkowa precyzja wykonania, dbaÅ‚oÅ›Ä‡ o szczegÃ³Å‚y oraz bardzo praktyczne rozwiÄ…zania uÅ‚atwiajÄ…ce komfortowe uÅ¼ytkowanie. SpÃ³jna estetyka dopasowana do pojazdÃ³w pick dopeÅ‚nienia caÅ‚oÅ›Ä‡ czyniÄ…c zabudowÄ™ niepowtarzalnÄ…. Produkt speÅ‚ni oczekiwania najbardziej wymagajÄ…cych uÅ¼ytkownikÃ³w zarÃ³wno w codziennej eksploatacji jak i wyprawach na koniec Å›wiata. 
-productImage: /content/products/img/byd-shark-1.jpg
+description: Lekka i bardzo wytrzyma³a zabudowa któr¹ cechuje wyj¹tkowa precyzja wykonania, dba³oœæ o szczegó³y oraz bardzo praktyczne rozwi¹zania u³atwiaj¹ce komfortowe u¿ytkowanie. Spójna estetyka dopasowana do pojazdów pick dope³nienia ca³oœæ czyni¹c zabudowê niepowtarzaln¹. Produkt spe³ni oczekiwania najbardziej wymagaj¹cych u¿ytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec œwiata. 
+productImage: /content/products/img/zabudowa-paki-z-relingami-ford-f50.png
 galleryImages:
   - /content/products/img/zabudowa-jd-10-tacoma-2016-1.jpg
   - /content/products/img/zabudowa-jd-10-tacoma-2016-2.jpg
@@ -11,10 +11,10 @@ galleryImages:
   - /content/products/img/zabudowa-jd-10-tacoma-2016-4.jpg
   - /content/products/img/zabudowa-jd-10-tacoma-2016-5.jpg
   - /content/products/img/zabudowa-jd-10-tacoma-2016-6.jpg
-  - /content/products/img/zabudowa-jd-10-tacoma-2016-7.jpg
+  - /content/products/img/zabudowa-jd-10-tacoma-2016-7.jpeg
 
 categories:
-  - Zabudowy do pickupÃ³w
+  - Zabudowy do pickupów
 price: 8900
 order: 5
 
@@ -23,42 +23,42 @@ brand: JUSN
 material: Stop aluminium i magnezu
 capacityStatic: 500 kg
 capacityDynamic: 300 kg
-process: ObrÃ³bka CNC, anodowanie i malowanie proszkowe
+process: Obróbka CNC, anodowanie i malowanie proszkowe
 weight: 62 kg
-shippingInfo: Czas realizacji zamÃ³wienia wynosi 15 dni. WysyÅ‚ka morska i lÄ…dowa zajmuje Å‚Ä…cznie okoÅ‚o 40 dni.
+shippingInfo: Czas realizacji zamówienia wynosi 15 dni. Wysy³ka morska i l¹dowa zajmuje ³¹cznie oko³o 40 dni.
 Installation:
   difficulty: 4
   professional_required: true
   method: Dopasowanie OE (Plug & Play)
 ---
 
-## Standardowe wyposaÅ¼enie zabudowy:
+## Standardowe wyposa¿enie zabudowy:
 
 - Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
-- Zamki drzwi posiadajÄ… zabezpieczenie gumowe zapobiegajÄ…ce przed dostawaniem siÄ™ wilgoci, brudu, czy zamarzaniem.
-- Dwie belki dachowe do montaÅ¼u namiotu dachowego lub innych przedmiotÃ³w
+- Zamki drzwi posiadaj¹ zabezpieczenie gumowe zapobiegaj¹ce przed dostawaniem siê wilgoci, brudu, czy zamarzaniem.
+- Dwie belki dachowe do monta¿u namiotu dachowego lub innych przedmiotów
 - Schowek w drzwiach bocznych, 
-- OÅ›wietlenie wewnÄ™trzne, 
-- ÅšwiatÅ‚o stop, 
+- Oœwietlenie wewnêtrzne, 
+- Œwiat³o stop, 
 
-Uchwyty umoÅ¼liwiajÄ…ce podnoszenie zabudowy do gÃ³ry sÄ… bardzo przydatne gdy planujemy czÄ™sty demontaÅ¼ zabudowy i chcemy umieszczaÄ‡ zabudowÄ™ na aucie za pomocÄ… systemu podnoszÄ…cego np. do sufitu garaÅ¼u. 
+Uchwyty umo¿liwiaj¹ce podnoszenie zabudowy do góry s¹ bardzo przydatne gdy planujemy czêsty demonta¿ zabudowy i chcemy umieszczaæ zabudowê na aucie za pomoc¹ systemu podnosz¹cego np. do sufitu gara¿u. 
 
-- Otwierane stopnie, ktÃ³re umoÅ¼liwiajÄ… wejÅ›cie na dach zabudowy. 
-- Instalacje elektrycznÄ…
+- Otwierane stopnie, które umo¿liwiaj¹ wejœcie na dach zabudowy. 
+- Instalacje elektryczn¹
 - Okno wentylacyjne
 - Panel molle 
 
 
-## Opcjonalne wyposaÅ¼enie: 
+## Opcjonalne wyposa¿enie: 
 
 - Schowek umieszczony w drugim boku zabudowy
 - Schowek umieszczony na przednim panelu
-- Uchwyt na flage - przydatny przy poruszaniu siÄ™ w warunkach pustynnych
+- Uchwyt na flage - przydatny przy poruszaniu siê w warunkach pustynnych
 - Stolik turystyczny mocowany pod dachem zabudowy
-- Organizery dopasowane do bocznych schowkÃ³w
+- Organizery dopasowane do bocznych schowków
 
-Posiadamy rÃ³wnie doskonaÅ‚ej jakoÅ›ci platformy wysuwane mocowane do podÅ‚ogi paki - bez koniecznoÅ›ci wiercenia otworÃ³w w podÅ‚odze.
+Posiadamy równie doskona³ej jakoœci platformy wysuwane mocowane do pod³ogi paki - bez koniecznoœci wiercenia otworów w pod³odze.
 
-Zabudowa jest dostarczana w trzech kartonach do samodzielnego montaÅ¼u. JeÅ¼eli nie jesteÅ› zainteresowany skÅ‚adaniem i montaÅ¼em zabudowy umÃ³w siÄ™ z naszym serwisem, zajmiemy siÄ™ tym za Ciebie. 
+Zabudowa jest dostarczana w trzech kartonach do samodzielnego monta¿u. Je¿eli nie jesteœ zainteresowany sk³adaniem i monta¿em zabudowy umów siê z naszym serwisem, zajmiemy siê tym za Ciebie. 
 
-JeÅ¼eli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochÃ³d z pod Twojego domu a po zamontowaniu zabudowy wrÃ³ci na to samo miejsce. Nie ma rzeczy nie moÅ¼liwych, wystarczy porozmawiaÄ‡ wiÄ™c zapraszamy do kontaktu z naszymi doradcami.
+Je¿eli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie mo¿liwych, wystarczy porozmawiaæ wiêc zapraszamy do kontaktu z naszymi doradcami.

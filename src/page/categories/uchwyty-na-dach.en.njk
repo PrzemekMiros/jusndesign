@@ -1,4 +1,4 @@
-ï»¿---
+---
 lang: en
 permalink: /offer/grab-handles/
 title: Grab Handles
@@ -7,7 +7,7 @@ category: Grab Handles
 
 <section class="pt-xlarge products-category">
 <div class="container">
-  {% set breadcrumbHome = "Strona glowna" %}
+  {% set breadcrumbHome = "Strona g³ówna" %}
   {% set breadcrumbOffer = "Oferta" %}
   {% set breadcrumbOfferUrl = "/oferta/" %}
   {% if lang == "en" %}
@@ -35,7 +35,7 @@ category: Grab Handles
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0 line-clamp-3">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz wiÄ™cej &rarr;</a>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz wiêcej &rarr;</a>
           </div>
         </article>
         </a>
@@ -43,7 +43,7 @@ category: Grab Handles
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktÃ³w w tej kategorii.</p>
+    <p>Brak produktów w tej kategorii.</p>
   {% endif %}
   </div>
 </section>

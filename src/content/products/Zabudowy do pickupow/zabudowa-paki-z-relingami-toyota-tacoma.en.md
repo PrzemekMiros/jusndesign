@@ -1,4 +1,4 @@
-﻿---
+---
 lang: en
 layout: "layouts/product-en.njk"
 permalink: /products/toyota-tacoma-truck-topper-canopy-cap/
@@ -44,7 +44,7 @@ Unlock your pickup bed organization dreams with JUSN! This professional canopy s
 * **Exterior Expansion:** Comes with exterior panels for mounting additional tools and gear.
 
 ### Installation:
-* **Matching:** OE Matching Data – Install and Play.
+* **Matching:** OE Matching Data � Install and Play.
 * **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
 * **Professional Installation Needed?** YES.
 

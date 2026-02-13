@@ -1,4 +1,4 @@
-ï»¿---
+---
 lang: pl
 title: Zabudowy BASR
 category: Zabudowy BASR
@@ -6,7 +6,7 @@ category: Zabudowy BASR
 
 <section class="pt-xlarge products-category">
 <div class="container">
-  {% set breadcrumbHome = "Strona glowna" %}
+  {% set breadcrumbHome = "Strona g³ówna" %}
   {% set breadcrumbOffer = "Oferta" %}
   {% set breadcrumbOfferUrl = "/oferta/" %}
   {% if lang == "en" %}
@@ -32,11 +32,9 @@ category: Zabudowy BASR
         </div>
         <div class="col-md-8">
              <p class="mb-2">             
-              BASR to marka firmy Jusn, ktÃ³ra poszerza ofertÄ™ o dodatkowe niestandardowe systemy przewoÅ¼enia Å‚adunku
-
-Zabudowy z tej kategorii i ich organizery posiadajÄ… wiele wariantÃ³w i moÅ¼liwoÅ›ci rozbudowy.  MontaÅ¼ nie wymaga usuniÄ™cia rolety zamontowanej w Twoim pick upie
+              BASR to marka firmy Jusn, która poszerza ofertê o dodatkowe niestandardowe systemy przewo¿enia ³adunku. Zabudowy z tej kategorii i ich organizery posiadaj¹ wiele wariantów i mo¿liwoœci rozbudowy.  Monta¿ nie wymaga usuniêcia rolety zamontowanej w Twoim pick upie
               </p>
-             <a href="#opis" class="small color-accent-1">Czytaj wiÄ™cej &rarr; </a>
+             <a href="#opis" class="small color-accent-1">Czytaj wiêcej &rarr; </a>
 
         </div>
       </div>
@@ -53,7 +51,7 @@ Zabudowy z tej kategorii i ich organizery posiadajÄ… wiele wariantÃ³w i moÅ¼liwo
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz wiÄ™cej &rarr;</a>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz wiêcej &rarr;</a>
           </div>
         </article>
         </a>
@@ -61,8 +59,110 @@ Zabudowy z tej kategorii i ich organizery posiadajÄ… wiele wariantÃ³w i moÅ¼liwo
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktÄ‚Å‚w w tej kategorii.</p>
+    <p>Brak produktów w tej kategorii.</p>
   {% endif %}
+  </div>
+</section>
+
+<section class="cat-description pt-medium" id="opis">
+  <div class="container">
+    <div class="cat-desc-content bg-light-1 p-3 p-md-5 rounded-md">
+      <div class="row g-5">
+        <div class="col-md-7">
+          <div class="description-content">
+
+
+
+          </div>
+        </div>
+        <div class="col-md-5">
+         <div class="sticky">
+          <div class="swiper swiper-category">
+            <div class="swiper-wrapper"> 
+              {% set basrGallery = [
+                "basr-1.jpeg",
+                "basr-2.jpeg",
+                "basr-3.jpeg",
+                "basr-4.jpeg",
+                "basr-5.jpeg",
+                "cat-basr-1.jpeg",
+                "cat-basr-2.jpeg",
+                "cat-basr-3.jpeg",
+                "cat-basr-4.jpeg",
+                "cat-basr-5.jpeg",
+                "cat-basr-6.jpeg",
+                "cat-basr-7.jpeg",
+                "cat-basr-8.jpeg",
+                "cat-basr-9.jpeg",
+                "cat-basr-10.jpeg",
+                "cat-basr-11.jpeg",
+                "cat-basr-12.jpeg",
+                "cat-basr-13.jpeg",
+                "cat-basr-14.jpeg",
+                "cat-basr-15.jpeg",
+                "cat-basr-16.jpeg",
+                "cat-basr-17.jpeg",
+                "cat-basr-18.jpeg",
+                "cat-basr-19.jpeg",
+                "cat-basr-20.jpeg",
+                "cat-basr-21.jpeg",
+                "cat-basr-22.jpeg",
+                "cat-basr-23.jpeg",
+                "cat-basr-24.jpeg",
+                "cat-basr-25.jpeg",
+                "cat-basr-27.jpeg",
+                "cat-basr-28.jpeg",
+                "cat-basr-29.jpeg",
+                "cat-basr-30.jpeg",
+                "cat-basr-31.jpeg",
+                "cat-basr-32.jpeg",
+                "cat-basr-33.jpeg",
+                "cat-basr-34.jpeg",
+                "cat-basr-acc-0.jpeg",
+                "cat-basr-acc-1.jpeg",
+                "cat-basr-acc-2.jpeg",
+                "cat-basr-acc-3.jpeg",
+                "cat-basr-acc-4.jpeg",
+                "cat-basr-acc-5.jpeg",
+                "cat-basr-acc-6.jpeg",
+                "cat-basr-acc-7.jpeg",
+                "cat-basr-acc-8.jpeg",
+                "cat-basr-acc-9.jpeg",
+                "cat-basr-acc-10.jpeg"
+              ] %}
+              {% for image in basrGallery %} 
+              <div class="swiper-slide">
+                <div class="work-card bg-light-1 rounded-md">
+                  <a href="{{ ("/assets/img/category/basr/" + image) | url }}" class="glightbox work-image-wrap rounded-md" data-gallery="portfolio" data-no-swup>
+                    <svg class="img-wrapper-icon" width="34" height="34" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                      <polyline points="8.25 2.75,2.75 2.75,2.75 13.25,13.25 13.25" />
+                      <path d="m13.25 2.75-5.5 5.5m3-6.5h3.5v3.5" />
+                    </svg> 
+                    {% workImage "src/assets/img/category/basr/" + image, "BASR " + loop.index %} </a>
+                </div>
+              </div> 
+              {% endfor %} 
+            </div>
+          </div>
+          <button class="magnetic swiper-gal swiper-button-prev fade-in" data-strength="60" tabindex="0" aria-label="Previous slide">
+            <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
+              <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
+              <path d="M34.5 24L27 31.5L34.5 39" stroke-width="2" stroke="var(--color-dark-2)"></path>
+            </svg>
+          </button>
+          <button class="magnetic swiper-gal swiper-button-next fade-in" data-strength="60" tabindex="0" aria-label="Next slide">
+            <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
+              <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
+              <path d="M28 24L35.5 31.5L28 39" stroke-width="2" stroke="var(--color-dark-2)"></path>
+            </svg>
+          </button>
+          <div class="fade-in">
+            <div class="swiper-scrollbar bg-light-2"></div>
+          </div>
+         </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 

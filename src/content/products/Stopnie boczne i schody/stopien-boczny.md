@@ -1,7 +1,7 @@
-Ôªø---
+---
 lang: pl
 title: Progi boczne (Stopnie) do Ford Bronco 2021-2025 - Side Steps Bars
-description: Solidne progi boczne JUSN do Forda Bronco. Konstrukcja z aluminium i stali Q235, antypo≈õlizgowa powierzchnia CNC i ud≈∫wig ponad 220 kg.
+description: Solidne progi boczne JUSN do Forda Bronco. Konstrukcja z aluminium i stali Q235, antypoúlizgowa powierzchnia CNC i udüwig ponad 220 kg.
 productImage: /content/products/img/stopien-boczny.jpg
 categories:
   - Progi boczne i stopnie
@@ -11,45 +11,45 @@ order: 1
 # Dane techniczne dla szablonu
 brand: JUSN
 material: Stop aluminium (6061), Stal weglowa (Q235)
-process: Obr√≥bka CNC, pow≈Çoka elektroforetyczna oraz lakierowanie natryskowe
+process: ObrÛbka CNC, pow≥oka elektroforetyczna oraz lakierowanie natryskowe
 weight: 25
-shippingInfo: Czas realizacji zam√≥wienia wynosi 15 dni. Wysy≈Çka morska i lƒÖdowa zajmuje ≈ÇƒÖcznie oko≈Ço 40 dni.
+shippingInfo: Czas realizacji zamÛwienia wynosi 15 dni. Wysy≥ka morska i lπdowa zajmuje ≥πcznie oko≥o 40 dni.
 Installation:
   difficulty: 3
   professional_required: false
-  method: Bez wiercenia (No Dri≈ºing) - Plug & Play
+  method: Bez wiercenia (No Driøing) - Plug & Play
 ---
 
 
 ### Cechy:
-* **≈Åatwy montaz:** Bez wiercenia i bez ciƒôcia.
-* **Niezawodno≈õƒá dzia≈Çania:** Klasyczna, mechaniczna konstrukcja oznacza mniej awarii w por√≥wnaniu do elektrycznych prog√≥w wysuwanych.
-* **Szybki monta≈º i demonta≈º:** Mo≈ºliwo≈õƒá ≈Çatwego prze≈ÇƒÖczania miƒôdzy u≈ºytkowaniem miejskim a off-roadowym.
-* **Powierzchnia antypo≈õlizgowa:** Obr√≥bka CNC zapewnia doskona≈ÇƒÖ przyczepno≈õƒá i bezpiecze≈Ñstwo.
-* **Wysoka wytrzyma≈Ço≈õƒá:** Wykonane ze stali wƒôglowej Q235, o no≈õno≈õci minimum 350 lbs (ok. 160 kg).
-* **Regulacja po≈Ço≈ºenia:** Mo≈ºliwo≈õƒá zmiany pozycji monta≈ºu wed≈Çug potrzeb, bez obni≈ºania prze≈õwitu pojazdu.
-* **Lekka konstrukcja i ≈Çatwe czyszczenie:** Pusta (a≈ºurowa) struktura redukuje wagƒô i u≈Çatwia mycie.
-* **Dla ka≈ºdego u≈ºytkownika:** Odpowiednie dla kierowc√≥w, kobiet w ciƒÖ≈ºy, dzieci, senior√≥w oraz os√≥b z ograniczonƒÖ mobilno≈õciƒÖ.
+* **£atwy montaz:** Bez wiercenia i bez ciÍcia.
+* **NiezawodnoúÊ dzia≥ania:** Klasyczna, mechaniczna konstrukcja oznacza mniej awarii w porÛwnaniu do elektrycznych progÛw wysuwanych.
+* **Szybki montaø i demontaø:** MoøliwoúÊ ≥atwego prze≥πczania miÍdzy uøytkowaniem miejskim a off-roadowym.
+* **Powierzchnia antypoúlizgowa:** ObrÛbka CNC zapewnia doskona≥π przyczepnoúÊ i bezpieczeÒstwo.
+* **Wysoka wytrzyma≥oúÊ:** Wykonane ze stali wÍglowej Q235, o noúnoúci minimum 350 lbs (ok. 160 kg).
+* **Regulacja po≥oøenia:** MoøliwoúÊ zmiany pozycji montaøu wed≥ug potrzeb, bez obniøania przeúwitu pojazdu.
+* **Lekka konstrukcja i ≥atwe czyszczenie:** Pusta (aøurowa) struktura redukuje wagÍ i u≥atwia mycie.
+* **Dla kaødego uøytkownika:** Odpowiednie dla kierowcÛw, kobiet w ciπøy, dzieci, seniorÛw oraz osÛb z ograniczonπ mobilnoúciπ.
 
 ### Instalacja:
-* **Dopasowanie:** Dane zgodne z fabrycznym wyposazeniem (OE) ‚Äì ‚ÄûInstall and Play‚Äù.
+* **Dopasowanie:** Dane zgodne z fabrycznym wyposazeniem (OE) ñ ÑInstall and Playî.
 * **Poziom trudnosci:** 2 gwiazdki (w skali do 5).
-* **Wymagany profesjonalny monta≈º** NIE.
+* **Wymagany profesjonalny montaø** NIE.
 * **Bezinwazyjny montaz:** TAK.
 
 
-### Informacje o monta≈ºu:
-* **Dopasowanie:** Oparte na fabrycznych danych Forda (OE) ‚Äì monta≈º typu "zamontuj i u≈ºywaj".
-* **Poziom trudno≈õci:** 3/5 (≈õredniozaawansowany).
-* **Bezinwazyjny monta≈º:** Tak (wykorzystuje fabryczne otwory).
-* **Zalecany monta≈º profesjonalny:** Tak, je≈õli nie masz do≈õwiadczenia w pracach warsztatowych.
+### Informacje o montaøu:
+* **Dopasowanie:** Oparte na fabrycznych danych Forda (OE) ñ montaø typu "zamontuj i uøywaj".
+* **Poziom trudnoúci:** 3/5 (úredniozaawansowany).
+* **Bezinwazyjny montaø:** Tak (wykorzystuje fabryczne otwory).
+* **Zalecany montaø profesjonalny:** Tak, jeúli nie masz doúwiadczenia w pracach warsztatowych.
 
-### Zawarto≈õƒá zestawu:
-* Progi boczne (Running Boards) ‚Äì 1 para (lewy + prawy).
+### ZawartoúÊ zestawu:
+* Progi boczne (Running Boards) ñ 1 para (lewy + prawy).
 
 
-**Uwaga dotyczƒÖca kompatybilno≈õci:**
-Progi sƒÖ dostosowane do modeli Ford Bronco (2021-2025). Prosimy o informacjƒô, czy auto posiada fabryczne rock railsy, aby≈õmy mogli dobraƒá odpowiedni zestaw monta≈ºowy.
+**Uwaga dotyczπca kompatybilnoúci:**
+Progi sπ dostosowane do modeli Ford Bronco (2021-2025). Prosimy o informacjÍ, czy auto posiada fabryczne rock railsy, abyúmy mogli dobraÊ odpowiedni zestaw montaøowy.
 
 
 

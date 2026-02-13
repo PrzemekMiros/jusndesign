@@ -1,4 +1,4 @@
-ï»¿---
+---
 lang: en
 layout: "layouts/product-en.njk"
 permalink: /products/byd-shark-truck-bed-canopy/
@@ -40,9 +40,9 @@ Unlock your pickup bed organization dreams with JUSN! This canopy combines safet
 * **Safety First:** Enhance visibility at night by connecting external lights to the truck's brake, side, and daytime running lights.
 * **Multifunction Roof:** The top luggage rack is perfect for carrying large items like camping tents and suitcases.
 * **Power Expansion:** The AUX expansion switch allows you to connect devices like spotlights and air pumps.
-* **Clear Visibility:** Keep an eye on your truck bed easily through the rearview mirror â€“ no obstructions or blind spots.
+* **Clear Visibility:** Keep an eye on your truck bed easily through the rearview mirror – no obstructions or blind spots.
 * **Independent Lighting:** Features separate lighting switches for convenience in dark garages or outdoor areas.
-* **Dust-Proof Design:** Dust-proof buckle design ensures that dirt wonâ€™t block your locks, keeping them functional.
+* **Dust-Proof Design:** Dust-proof buckle design ensures that dirt won’t block your locks, keeping them functional.
 * **Secure and Safe:** Built-in locks protect your belongings from theft, giving you peace of mind.
 * **Extra Storage Solutions:** Interior expansion boards accommodate small devices and tool mounts.
 * **Convenient Footrest:** Includes 2 footrests, making it easy to access the top of your truck.
@@ -50,7 +50,7 @@ Unlock your pickup bed organization dreams with JUSN! This canopy combines safet
 * **Sturdy and Silent:** High-strength mounting brackets minimize movement and noise during driving.
 
 ### Installation Information:
-* **Fitting:** OE matching data â€“ "Install and Play" method.
+* **Fitting:** OE matching data – "Install and Play" method.
 * **Difficulty Level:** 4/5 stars.
 * **Professional Installation Needed:** YES.
 

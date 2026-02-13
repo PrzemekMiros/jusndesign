@@ -1,4 +1,4 @@
-﻿---
+---
 lang: en
 layout: "layouts/product-en.njk"
 permalink: /products/toyota-hilux-truck-bed-canopy-hardtop/
@@ -45,7 +45,7 @@ Unlock your pickup bed organization dreams with JUSN! This professional canopy s
 * **Clear Visibility:** Strategic design maintains a clear view through the rearview mirror.
 
 ### Installation:
-* **Matching:** OE Matching Data – Install and Play.
+* **Matching:** OE Matching Data � Install and Play.
 * **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
 * **Professional Installation Needed?** YES.
 

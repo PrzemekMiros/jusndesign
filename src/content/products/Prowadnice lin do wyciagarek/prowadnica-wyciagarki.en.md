@@ -1,4 +1,4 @@
-﻿---
+---
 lang: en
 layout: "layouts/product-en.njk"
 permalink: /products/winch-hawse-fairlead-towing-hook/
@@ -42,7 +42,7 @@ Designed specifically to protect winch ropes from excessive wear, preventing fra
 * **Integrated Hook:** Combines the fairlead and towing hook into one sturdy unit for streamlined recovery operations.
 
 ### Installation Information:
-* **Fitting:** OE matching data – Lossless installation.
+* **Fitting:** OE matching data � Lossless installation.
 * **Difficulty Level:** 1/5 stars.
 * **Professional Installation Needed:** NO.
 

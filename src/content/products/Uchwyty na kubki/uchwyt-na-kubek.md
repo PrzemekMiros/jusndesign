@@ -1,9 +1,9 @@
-ï»¿---
+---
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/jeep-wrangler-jk-uchwyt-na-kubek-nawiew/
 title: Uchwyt na Kubek na Nawiew AC do Jeep Wrangler JK
-description: Aluminiowy uchwyt na kubek do Jeepa Wranglera JK. Montowany na nawiew klimatyzacji, pomaga utrzymaÄ‡ temperaturÄ™ napoju. Konstrukcja z aluminium 6061.
+description: Aluminiowy uchwyt na kubek do Jeepa Wranglera JK. Montowany na nawiew klimatyzacji, pomaga utrzymaæ temperaturê napoju. Konstrukcja z aluminium 6061.
 productImage: /content/products/img/uchwyt-na-kubek.jpg
 categories:
   - Uchwyty na kubki
@@ -15,39 +15,39 @@ brand: JUSN
 material: Stop aluminium
 process: Grawerowanie CNC, Piaskowanie i Anodowanie
 weight: 0.4
-shippingInfo: Prosimy o kontakt i podanie numeru VIN pojazdu oraz zdjÄ™cia miejsca montaÅ¼u w celu weryfikacji kompatybilnoÅ›ci.
+shippingInfo: Prosimy o kontakt i podanie numeru VIN pojazdu oraz zdjêcia miejsca monta¿u w celu weryfikacji kompatybilnoœci.
 Installation:
   difficulty: 2
   professional_required: false
-  method: Dopasowanie OE (Bezinwazyjny montaÅ¼)
+  method: Dopasowanie OE (Bezinwazyjny monta¿)
 ---
 
-**Specyfikacja:** Uchwyt na kubek montowany na nawiew klimatyzacji. Zaprojektowany specjalnie dla Jeepa Wranglera JK. Funkcjonalne rozwiÄ…zanie, ktÃ³re integruje miejsce na napÃ³j z systemem klimatyzacji pojazdu.
+**Specyfikacja:** Uchwyt na kubek montowany na nawiew klimatyzacji. Zaprojektowany specjalnie dla Jeepa Wranglera JK. Funkcjonalne rozwi¹zanie, które integruje miejsce na napój z systemem klimatyzacji pojazdu.
 
-OdÅ›wieÅ¼ wnÄ™trze swojego Jeepa dziÄ™ki najnowszemu projektowi od JUSN. To nie jest zwykÅ‚y uchwyt â€“ to stacja chÅ‚odzÄ…ca i grzewcza dla Twoich napojÃ³w, idealnie umiejscowiona, aby zapewniÄ‡ Å‚atwy dostÄ™p podczas kaÅ¼dej wyprawy.
+Odœwie¿ wnêtrze swojego Jeepa dziêki najnowszemu projektowi od JUSN. To nie jest zwyk³y uchwyt – to stacja ch³odz¹ca i grzewcza dla Twoich napojów, idealnie umiejscowiona, aby zapewniæ ³atwy dostêp podczas ka¿dej wyprawy.
 
-### Dlaczego warto wybraÄ‡ JUSN?
-Zimne napoje w upalne dni, gorÄ…ca kawa w mroÅºne poranki â€“ dziÄ™ki temu uchwytowi TwÃ³j napÃ³j zawsze bÄ™dzie miaÅ‚ odpowiedniÄ… temperaturÄ™. WykorzystujÄ…c przepÅ‚yw powietrza z nawiewu AC, produkt utrzymuje ciepÅ‚o lub chÅ‚Ã³d Twojego picia tak, jak lubisz.
+### Dlaczego warto wybraæ JUSN?
+Zimne napoje w upalne dni, gor¹ca kawa w mroŸne poranki – dziêki temu uchwytowi Twój napój zawsze bêdzie mia³ odpowiedni¹ temperaturê. Wykorzystuj¹c przep³yw powietrza z nawiewu AC, produkt utrzymuje ciep³o lub ch³ód Twojego picia tak, jak lubisz.
 
-### SzczegÃ³Å‚y Techniczne:
-* **MATERIAÅ:** Wysokiej jakoÅ›ci stop aluminium.
-* **PROCES:** Precyzyjne grawerowanie CNC, profesjonalne piaskowanie oraz powÅ‚oka anodowana dla uzyskania wykoÅ„czenia premium.
+### Szczegó³y Techniczne:
+* **MATERIA£:** Wysokiej jakoœci stop aluminium.
+* **PROCES:** Precyzyjne grawerowanie CNC, profesjonalne piaskowanie oraz pow³oka anodowana dla uzyskania wykoñczenia premium.
 
-### GÅ‚Ã³wne cechy:
-* **Nowoczesny Design:** Unikalna konstrukcja Å‚Ä…czÄ…ca estetykÄ™ osÅ‚ony nawiewu z solidnym uchwytem na kubek.
-* **Elegancki Metalowy WyglÄ…d:** WyrÃ³Å¼nij siÄ™ na tle innych wÅ‚aÅ›cicieli JeepÃ³w dziÄ™ki niesamowitemu wyglÄ…dowi, ktÃ³ry zastÄ™puje tani plastik wysokiej klasy aluminium.
-* **WytrzymaÅ‚a Metalowa Konstrukcja:** Ciesz siÄ™ znacznie dÅ‚uÅ¼szÄ… Å¼ywotnoÅ›ciÄ… w porÃ³wnaniu do kruchych, plastikowych uchwytÃ³w. Produkt jest odporny na wstrzÄ…sy podczas jazdy w terenie.
-* **OdpornoÅ›Ä‡ na KorozjÄ™:** Specjalistyczna powierzchnia anodowana bez trudu wytrzymuje kontakt z rozlanÄ… kawÄ… czy napojami gazowanymi, nie pozostawiajÄ…c plam ani Å›ladÃ³w korozji.
-* **Å‚atwa Konserwacja:** GÅ‚adka metalowa powierzchnia jest niezwykle Å‚atwa do utrzymania w czystoÅ›ci â€“ wystarczy przetrzeÄ‡, aby wnÄ™trze wyglÄ…daÅ‚o nieskazitelnie.
-* **Bezinwazyjny MontaÅ¼:** Precyzyjnie zaprojektowany w oparciu o dane fabryczne (OE). Instalacja typu "zamontuj i uÅ¼ywaj", ktÃ³ra nie narusza struktury deski rozdzielczej.
+### G³ówne cechy:
+* **Nowoczesny Design:** Unikalna konstrukcja ³¹cz¹ca estetykê os³ony nawiewu z solidnym uchwytem na kubek.
+* **Elegancki Metalowy Wygl¹d:** Wyró¿nij siê na tle innych w³aœcicieli Jeepów dziêki niesamowitemu wygl¹dowi, który zastêpuje tani plastik wysokiej klasy aluminium.
+* **Wytrzyma³a Metalowa Konstrukcja:** Ciesz siê znacznie d³u¿sz¹ ¿ywotnoœci¹ w porównaniu do kruchych, plastikowych uchwytów. Produkt jest odporny na wstrz¹sy podczas jazdy w terenie.
+* **Odpornoœæ na Korozjê:** Specjalistyczna powierzchnia anodowana bez trudu wytrzymuje kontakt z rozlan¹ kaw¹ czy napojami gazowanymi, nie pozostawiaj¹c plam ani œladów korozji.
+* **³atwa Konserwacja:** G³adka metalowa powierzchnia jest niezwykle ³atwa do utrzymania w czystoœci – wystarczy przetrzeæ, aby wnêtrze wygl¹da³o nieskazitelnie.
+* **Bezinwazyjny Monta¿:** Precyzyjnie zaprojektowany w oparciu o dane fabryczne (OE). Instalacja typu "zamontuj i u¿ywaj", która nie narusza struktury deski rozdzielczej.
 
-### Informacje o montaÅ¼u:
-* **Dopasowanie:** Dane zgodne z OE â€“ "Install and Play".
-* **Poziom trudnoÅ›ci:** 2/5 gwiazdek.
-* **MontaÅ¼ profesjonalny:** Nie jest wymagany.
-* **MontaÅ¼ bezinwazyjny:** Tak.
+### Informacje o monta¿u:
+* **Dopasowanie:** Dane zgodne z OE – "Install and Play".
+* **Poziom trudnoœci:** 2/5 gwiazdek.
+* **Monta¿ profesjonalny:** Nie jest wymagany.
+* **Monta¿ bezinwazyjny:** Tak.
 
-### ZawartoÅ›Ä‡ opakowania:
+### Zawartoœæ opakowania:
 * Uchwyt na kubek - 1 zestaw
 
 

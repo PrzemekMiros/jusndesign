@@ -1,4 +1,4 @@
-ï»¿---
+---
 lang: en
 layout: "layouts/product-en.njk"
 permalink: /products/ford-bronco-2021-2025-side-steps-running-boards/
@@ -35,7 +35,7 @@ No More Aging or Breaking like Plastic. Lightweight Compared to Heavy Stainless 
 
 ### Features:
 * **Easy Installation:** No drilling or cutting required. Installs directly onto rock rails for a perfect fit.
-* **Reliable Work:** Classic mechanical setup means fewer malfunctions than electric running boardsâ€”ready for any environment.
+* **Reliable Work:** Classic mechanical setup means fewer malfunctions than electric running boards—ready for any environment.
 * **Quick Installation & Release:** Easily switch between city setup and off-road use thanks to the modular design.
 * **Anti-Slip Surface:** CNC machining provides an excellent grip, ensuring safety in rain, mud, or snow.
 * **Adjustable:** The position can be changed based on your needs without lowering the vehicle's ground clearance.
@@ -43,7 +43,7 @@ No More Aging or Breaking like Plastic. Lightweight Compared to Heavy Stainless 
 * **Versatile:** Suitable for everyone: drivers, pregnant women, children, seniors, and those with mobility issues.
 
 ### Installation:
-* **Matching:** OE Matching Data â€“ Install and Play.
+* **Matching:** OE Matching Data – Install and Play.
 * **Difficulty Level:** 2 Stars (Highest Rating: 5 Stars).
 * **Professional Installation Needed?** NO.
 * **Lossless Installation:** YES.

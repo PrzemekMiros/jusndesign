@@ -1,4 +1,4 @@
-ï»¿---
+---
 lang: pl
 title: Uchwyty na dach
 category: Uchwyty na dach
@@ -6,7 +6,7 @@ category: Uchwyty na dach
 
 <section class="pt-xlarge products-category">
 <div class="container">
-  {% set breadcrumbHome = "Strona glowna" %}
+  {% set breadcrumbHome = "Strona g³ówna" %}
   {% set breadcrumbOffer = "Oferta" %}
   {% set breadcrumbOfferUrl = "/oferta/" %}
   {% if lang == "en" %}
@@ -34,7 +34,7 @@ category: Uchwyty na dach
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0 line-clamp-3">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz wiÄ™cej &rarr;</a>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz wiêcej &rarr;</a>
           </div>
         </article>
         </a>
@@ -42,7 +42,7 @@ category: Uchwyty na dach
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktÄ‚Å‚w w tej kategorii.</p>
+    <p>Brak produktÃ³w w tej kategorii.</p>
   {% endif %}
   </div>
 </section>

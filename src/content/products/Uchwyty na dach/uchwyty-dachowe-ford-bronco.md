@@ -1,9 +1,9 @@
-ï»¿---
+---
 lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/chwyt-na-dach-ford-bronco/
-title: Uchwyt Grab Handle i NarzÄ™dzie Ratunkowe do Ford Bronco
-description: WytrzymaÅ‚y uchwyt z aluminium 6061 do Ford Bronco. WyposaÅ¼ony w zbijak do szyb i przecinak do pasÃ³w. Grawerowanie CNC z antypoÅ›lizgowÄ… teksturÄ….
+title: Uchwyt Grab Handle i Narzêdzie Ratunkowe do Ford Bronco
+description: Wytrzyma³y uchwyt z aluminium 6061 do Ford Bronco. Wyposa¿ony w zbijak do szyb i przecinak do pasów. Grawerowanie CNC z antypoœlizgow¹ tekstur¹.
 productImage: /content/products/img/grab-handle.jpg
 categories:
   - Uchwyty na dach
@@ -13,42 +13,42 @@ order: 5
 # Dane techniczne dla szablonu
 brand: JUSN
 material: Stop aluminium (6061)
-process: Grawerowanie CNC, Anodowanie i Tekstura AntypoÅ›lizgowa
+process: Grawerowanie CNC, Anodowanie i Tekstura Antypoœlizgowa
 weight: 0.6
-shippingInfo: Prosimy o kontakt i podanie numeru VIN pojazdu w celu weryfikacji kompatybilnoÅ›ci.
+shippingInfo: Prosimy o kontakt i podanie numeru VIN pojazdu w celu weryfikacji kompatybilnoœci.
 Installation:
   difficulty: 2
   professional_required: false
-  method: Dopasowanie OE (Bezinwazyjny montaÅ¼)
+  method: Dopasowanie OE (Bezinwazyjny monta¿)
 ---
 
-**Specyfikacja:** WytrzymaÅ‚y uchwyt montowany do klatki/dachu (1 szt.). Zaprojektowany specjalnie dla Ford Bronco. Å‚Ä…czy stabilnoÅ›Ä‡ pasaÅ¼erÃ³w z niezbÄ™dnymi narzÄ™dziami ratunkowymi.
+**Specyfikacja:** Wytrzyma³y uchwyt montowany do klatki/dachu (1 szt.). Zaprojektowany specjalnie dla Ford Bronco. ³¹czy stabilnoœæ pasa¿erów z niezbêdnymi narzêdziami ratunkowymi.
 
-Ulepsz wnÄ™trze swojego Forda Bronco dziÄ™ki segmentowym uchwytom premium od JUSN. OprÃ³cz zapewnienia solidnego punktu podparcia przy wsiadaniu do podniesionego auta, uchwyty te sÅ‚uÅ¼Ä… jako kluczowe narzÄ™dzie bezpieczeÅ„stwa podczas kaÅ¼dej wyprawy off-road.
+Ulepsz wnêtrze swojego Forda Bronco dziêki segmentowym uchwytom premium od JUSN. Oprócz zapewnienia solidnego punktu podparcia przy wsiadaniu do podniesionego auta, uchwyty te s³u¿¹ jako kluczowe narzêdzie bezpieczeñstwa podczas ka¿dej wyprawy off-road.
 
-### Dlaczego warto wybraÄ‡ JUSN?
-Jazda w terenie czÄ™sto oznacza poruszanie siÄ™ po wyboistym podÅ‚oÅ¼u, gdzie stabilnoÅ›Ä‡ pasaÅ¼erÃ³w jest kluczowa. Uchwyty JUSN zapewniajÄ… dodatkowÄ… warstwÄ™ bezpieczeÅ„stwa, dbajÄ…c o to, aby kaÅ¼dy czuÅ‚ siÄ™ pewnie w fotelu, jednoczeÅ›nie dodajÄ…c surowy, luksusowy wyglÄ…d kabinie Twojego Bronco.
+### Dlaczego warto wybraæ JUSN?
+Jazda w terenie czêsto oznacza poruszanie siê po wyboistym pod³o¿u, gdzie stabilnoœæ pasa¿erów jest kluczowa. Uchwyty JUSN zapewniaj¹ dodatkow¹ warstwê bezpieczeñstwa, dbaj¹c o to, aby ka¿dy czu³ siê pewnie w fotelu, jednoczeœnie dodaj¹c surowy, luksusowy wygl¹d kabinie Twojego Bronco.
 
-### SzczegÃ³Å‚y Techniczne:
-* **MATERIAÅ:** Lotniczy stop aluminium 6061.
-* **PROCES:** Precyzyjne grawerowanie CNC, a nastÄ™pnie anodowanie i naniesienie specjalnej struktury antypoÅ›lizgowej dla maksymalnej pewnoÅ›ci chwytu.
+### Szczegó³y Techniczne:
+* **MATERIA£:** Lotniczy stop aluminium 6061.
+* **PROCES:** Precyzyjne grawerowanie CNC, a nastêpnie anodowanie i naniesienie specjalnej struktury antypoœlizgowej dla maksymalnej pewnoœci chwytu.
 
-### GÅ‚Ã³wne Cechy:
-* **NarzÄ™dzie ratunkowe 3-w-1:** To nie tylko uchwyt. To wielofunkcyjne narzÄ™dzie posiada zintegrowany zbijak do szyb oraz przecinak do pasÃ³w bezpieczeÅ„stwa, niezbÄ™dne w sytuacjach awaryjnych.
-* **Wzornictwo CNC:** WyrÃ³Å¼nij siÄ™ z tÅ‚umu. Precyzyjne grawerowanie oferuje unikalnÄ… estetykÄ™ premium, ktÃ³ra znacznie przewyÅ¼sza standardowe, plastikowe zamienniki.
-* **Metalowa konstrukcja o wysokiej wytrzymaÅ‚oÅ›ci:** Stworzone, by trwaÄ‡. DoÅ›wiadcz znacznie dÅ‚uÅ¼szej Å¼ywotnoÅ›ci i wiÄ™kszego udÅºwigu w porÃ³wnaniu do tanich, fabrycznych uchwytÃ³w z tworzywa.
-* **Uniwersalny montaÅ¼:** Wszechstronna konstrukcja pozwala na montaÅ¼ 1 sztuki w dowolnej pozycji: przÃ³d lewy, przÃ³d prawy, tyÅ‚ lewy lub tyÅ‚ prawy.
-* **AntypoÅ›lizgowa powierzchnia:** Specjalna tekstura zabezpiecza chwyt podczas intensywnych manewrÃ³w w terenie, zapewniajÄ…c dodatkowe bezpieczeÅ„stwo i komfort pasaÅ¼erom.
-* **Bezinwazyjny montaÅ¼:** Zaprojektowany w oparciu o dane fabryczne (OE) dla idealnego dopasowania typu "Install and Play". Nie wymaga wiercenia ani trwaÅ‚ych modyfikacji pojazdu.
+### G³ówne Cechy:
+* **Narzêdzie ratunkowe 3-w-1:** To nie tylko uchwyt. To wielofunkcyjne narzêdzie posiada zintegrowany zbijak do szyb oraz przecinak do pasów bezpieczeñstwa, niezbêdne w sytuacjach awaryjnych.
+* **Wzornictwo CNC:** Wyró¿nij siê z t³umu. Precyzyjne grawerowanie oferuje unikaln¹ estetykê premium, która znacznie przewy¿sza standardowe, plastikowe zamienniki.
+* **Metalowa konstrukcja o wysokiej wytrzyma³oœci:** Stworzone, by trwaæ. Doœwiadcz znacznie d³u¿szej ¿ywotnoœci i wiêkszego udŸwigu w porównaniu do tanich, fabrycznych uchwytów z tworzywa.
+* **Uniwersalny monta¿:** Wszechstronna konstrukcja pozwala na monta¿ 1 sztuki w dowolnej pozycji: przód lewy, przód prawy, ty³ lewy lub ty³ prawy.
+* **Antypoœlizgowa powierzchnia:** Specjalna tekstura zabezpiecza chwyt podczas intensywnych manewrów w terenie, zapewniaj¹c dodatkowe bezpieczeñstwo i komfort pasa¿erom.
+* **Bezinwazyjny monta¿:** Zaprojektowany w oparciu o dane fabryczne (OE) dla idealnego dopasowania typu "Install and Play". Nie wymaga wiercenia ani trwa³ych modyfikacji pojazdu.
 
-### Informacje o montaÅ¼u:
-* **Dopasowanie:** Dane zgodne z OE â€“ "Zamontuj i uÅ¼ywaj".
-* **Poziom trudnoÅ›ci:** 2/5 gwiazdek.
-* **MontaÅ¼ profesjonalny:** Nie jest wymagany; Å‚atwa instalacja przy uÅ¼yciu podstawowych narzÄ™dzi.
-* **MontaÅ¼ bezinwazyjny:** Tak.
+### Informacje o monta¿u:
+* **Dopasowanie:** Dane zgodne z OE – "Zamontuj i u¿ywaj".
+* **Poziom trudnoœci:** 2/5 gwiazdek.
+* **Monta¿ profesjonalny:** Nie jest wymagany; ³atwa instalacja przy u¿yciu podstawowych narzêdzi.
+* **Monta¿ bezinwazyjny:** Tak.
 
-### ZawartoÅ›Ä‡ opakowania:
-* Uchwyt Grab Handle / NarzÄ™dzie ratunkowe - 1 szt.
+### Zawartoœæ opakowania:
+* Uchwyt Grab Handle / Narzêdzie ratunkowe - 1 szt.
 
 
 

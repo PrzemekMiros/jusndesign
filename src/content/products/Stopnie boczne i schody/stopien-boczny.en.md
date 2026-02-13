@@ -1,4 +1,4 @@
-ï»¿---
+---
 lang: en
 layout: "layouts/product-en.njk"
 permalink: /products/truck-running-boards-for-ford-bronco/
@@ -28,29 +28,29 @@ installation:
 Make entering your vehicle easier and protect the sides of your Bronco with durable JUSN side steps.
 
 ### Why choose JUSN?
-* **Durability:** No More Aging or Breaking like Plastic â€“ forget about cracking plastic; the construction is entirely metal.
-* **Lightweight:** Lightweight Compared to Heavy Stainless Steel â€“ significantly lighter than stainless steel steps thanks to 6061 aluminum alloy.
+* **Durability:** No More Aging or Breaking like Plastic – forget about cracking plastic; the construction is entirely metal.
+* **Lightweight:** Lightweight Compared to Heavy Stainless Steel – significantly lighter than stainless steel steps thanks to 6061 aluminum alloy.
 
 ### Technical Details:
 * **MATERIAL:** Aluminum Alloy (6061), Carbon Steel (Q235).
 * **PROCESS:** CNC Engraving, Electrophoresis, and Spraying Plastics.
 
 ### Main Features:
-* **Easy Installation:** No Drilling or Cutting Required â€“ installation without drilling or cutting structural components.
-* **Reliable Work:** Classic Mechanical Setup â€“ traditional mechanical design (less prone to failure than electric steps).
-* **Anti-Slip Surface:** CNC Machining Provides Excellent Grip â€“ precision-cut structure ensures safety.
-* **Strong Capacity:** Made from Q235 Carbon Steel, Supports at Least 500 Lbs â€“ weight capacity of at least 225 kg per side.
-* **Lightweight & Easy to Clean:** Hollow Structure â€“ openwork design makes it easy to wash off mud and reduces weight.
+* **Easy Installation:** No Drilling or Cutting Required – installation without drilling or cutting structural components.
+* **Reliable Work:** Classic Mechanical Setup – traditional mechanical design (less prone to failure than electric steps).
+* **Anti-Slip Surface:** CNC Machining Provides Excellent Grip – precision-cut structure ensures safety.
+* **Strong Capacity:** Made from Q235 Carbon Steel, Supports at Least 500 Lbs – weight capacity of at least 225 kg per side.
+* **Lightweight & Easy to Clean:** Hollow Structure – openwork design makes it easy to wash off mud and reduces weight.
 * **Versatile for All Users:** Ideal for drivers, pregnant women, children, seniors, and people with mobility difficulties.
 
 ### Installation Information:
-* **Fitment:** OE Matching Data â€“ based on Ford factory data (Plug & Play).
+* **Fitment:** OE Matching Data – based on Ford factory data (Plug & Play).
 * **Difficulty Level:** 3 Stars (Intermediate).
 * **Lossless Installation:** Yes (non-invasive installation using factory holes).
 * **Professional Installation Recommended:** Recommended if you haven't done something like this before.
 
 ### Kit Contents:
-* Running Boards â€“ 1 Pair (Left + Right step).
+* Running Boards – 1 Pair (Left + Right step).
 
 
 **Compatibility Note:**
