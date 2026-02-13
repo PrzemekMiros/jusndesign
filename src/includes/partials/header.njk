@@ -156,10 +156,12 @@
     {% set navOffer = "Oferta" %}
     {% set navGallery = "Galeria" %}
     {% set navContact = "Kontakt" %}
+    {% set navCatalog = "Katalog" %}
     {% set megaTitleCategories = "Kategorie" %}
     {% set megaTitleFeatured = "Polecane" %}
     {% set urlOffer = "/oferta/" %}
     {% set urlGallery = "/galeria/" %}
+    {% set urlCatalog = "/katalog/" %}
     {% set urlContact = "/kontakt/" %}
     {% set dropdownBedOrganizers = "Zabudowy JD2, JD3, JD8, JD13, JD16" %}
     {% set dropdownSideSteps = "Progi boczne i stopnie" %}
@@ -189,11 +191,13 @@
     {% if isEn %}
       {% set navOffer = "Offer" %}
       {% set navGallery = "Gallery" %}
+      {% set navContact = "Catalog" %}
       {% set navContact = "Contact" %}
       {% set megaTitleCategories = "Categories" %}
       {% set megaTitleFeatured = "Featured" %}
       {% set urlOffer = "/offer/" %}
       {% set urlGallery = "/gallery/" %}
+      {% set urlCatalog = "/catalog/" %}
       {% set urlContact = "/contact/" %}
       {% set dropdownBedOrganizers = "Pick up Truck Bed organizers" %}
       {% set dropdownSideSteps = "Side steps and running boards" %}
@@ -390,6 +394,9 @@
                     </li>
                     <li>
                       <a href="{{ langPrefix }}{{ urlGallery }}" class="link-hover" title="{{ navGallery }}"> {{ navGallery }} </a>
+                    </li>
+                    <li>
+                      <a href="{{ langPrefix }}{{ urlCatalog }}" class="link-hover" title="{{ navCatalog }}"> {{ navCatalog }} </a>
                     </li>
                     <li>
                       <a href="{{ langPrefix }}{{ urlContact }}" class="link-hover" title="{{ navContact }}"> {{ navContact }} </a>

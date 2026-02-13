@@ -4366,6 +4366,11 @@ a {
   text-decoration: underline;
 }
 
+#mainContainer,
+.toolbar {
+  background: #111 !important;
+}
+
 .transition-fade {
   opacity: 1;
   transform: translateY(0px);
