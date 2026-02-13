@@ -12,8 +12,8 @@ order: 1
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061), Stal węglowa (Q235)
-process: Grawerowanie CNC, Anodowanie i Malowanie Proszkowe
+material: Stop aluminium (6061), stal węglowa (Q235)
+process: Obróbka CNC, anodowanie oraz malowanie natryskowe
 weight: 106
 shippingInfo: Czas realizacji wynosi 15 dni, transport morski i lądowy zajmuje około 40 dni.
 Installation:
@@ -22,33 +22,27 @@ Installation:
   method: Dopasowanie OE - Install and Play
 ---
 
-**Ważne:** Przed zakupem prosimy o kontakt i podanie numeru VIN pojazdu oraz przesłanie zdjęcia paki w celu weryfikacji kompatybilności z Twoim Jeepem Gladiatorem JT.
-
 Zrealizuj swoje marzenia o idealnie zorganizowanej przestrzeni ładunkowej. System JUSN Heavy Duty dla Jeepa Gladiatora to rozwiązanie stworzone dla najbardziej wymagających użytkowników off-road i overland.
 
 Odblokuj pełny potencjał swojego Jeepa ze sprzętem JUSN!
 
-### Szczegóły techniczne:
-* **MATERIAŁ:** Stop aluminium (6061), Stal węglowa (Q235).
-* **PROCES:** Grawerowanie CNC, anodowanie oraz malowanie proszkowe.
-
 ### Główne zalety:
-* **Wyjątkowy styl:** Formowanie integralne i precyzyjna obróbka CNC nadają Twojemu Jeepowi unikalny, "pancerny" wygląd, który idealnie komponuje się z linią Gladiatora.
-* **Odporność na warunki pogodowe:** Specjalna powłoka anodowana i proszkowa chroni przed UV i korozją, co jest niezbędne podczas wypraw 4x4.
-* **Wzmocniona konstrukcja (Heavy Duty):** Zaprojektowany, by sprostać drganiom i przeciążeniom w terenie. Pozwala zmaksymalizować ładowność paki.
-* **System pyłoszczelny:** Specjalne osłony zamków (Dust Proof Buckle) gwarantują, że mechanizmy nie zablokują się po jeździe w błocie czy piachu.
-* **Bezpieczeństwo mienia:** Zintegrowane zamki chronią Twój ekwipunek wyprawowy przed kradzieżą podczas postojów.
-* **Kompletna organizacja:** Po każdej stronie paki znajdziesz 4 pojemne skrzynie (łącznie 8), co pozwala na idealne posegregowanie sprzętu.
-* **Widoczność (Safety First):** Zwiększ bezpieczeństwo w nocy dzięki zewnętrznemu oświetleniu zintegrowanemu ze światłami stop i dziennymi pojazdu.
-* **Wielofunkcyjność:** Górna platforma to idealna baza pod namiot dachowy, trap wyprawowy czy koło zapasowe.
 
-### Instalacja:
-* **Dopasowanie:** Dane zgodne z oryginalną specyfikacją Jeep (OE) – „Install and Play.
-* **Poziom trudności:** 4 gwiazdki (w skali do 5).
-* **Wymagany profesjonalny montaż?** TAK.
+* **Wyjątkowy styl:** Zintegrowane tłoczenie oraz precyzyjna obróbka CNC nadają Twojemu pick-upowi niepowtarzalny, przyciągający wzrok wygląd, który wyróżnia się na drodze.
+* **Odporność na warunki atmosferyczne** Specjalna powłoka anodowana i malowanie proszkowe chronią przed promieniowaniem UV, kwaśnym deszczem oraz korozją, zapewniając wieloletnią trwałość systemu.
+* **Wygodny dostęp boczny** Górne siłowniki hydrauliczne umożliwiają boczne otwieranie konstrukcji, co pozwala na łatwy załadunek i rozładunek bagażu bezpośrednio od góry.
+* **Uporządkowana przestrzeń** Po każdej stronie znajdują się cztery pojemne skrzynie o pojemności 25 litrów, idealne do segregowania i przechowywania wyposażenia.
+* **Praktyczna konstrukcja** Zewnętrzna część skrzyń posiada przemyślane otwory umożliwiające zawieszanie drobnych przedmiotów, dzięki czemu najpotrzebniejsze rzeczy są zawsze pod ręką.
+* **Bezpieczeństwo przede wszystkim** Możliwość podłączenia dodatkowego oświetlenia do świateł STOP, pozycyjnych i dziennych pojazdu zwiększa widoczność na drodze po zmroku.
+* **Wielofunkcyjna przestrzeń transportowa** Górny bagażnik doskonale nadaje się do przewozu większych przedmiotów, takich jak namioty campingowe czy walizki – idealne rozwiązanie na wyprawy.
+* **Dodatkowe możliwości przechowywania** Wewnętrzna płyta rozszerzająca w skrzyni pozwala na organizację mniejszych urządzeń i akcesoriów, dopasowując przestrzeń do Twoich potrzeb.
+
+### Montaż:
+* **Dopasowanie do specyfikacji OE** Plug & Play
+
 
 ### Zawartość zestawu:
-* System zabudowy paki Heavy Duty - 1 komplet.
+* System zabudowy bagażowej – 1 komplet
 
 
 

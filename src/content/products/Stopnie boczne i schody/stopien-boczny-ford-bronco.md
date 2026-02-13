@@ -13,7 +13,7 @@ order: 1
 # Dane techniczne dla szablonu
 brand: JUSN
 material: Stop aluminium (6061), Stal weglowa (Q235)
-process: Grawerowanie CNC, Elektroforeza i Malowanie Proszkowe
+process: Obróbka CNC, powłoka elektroforetyczna oraz lakierowanie natryskowe
 weight: 15
 shippingInfo: Czas realizacji wynosi 15 dni, transport morski i ladowy zajmuje okolo 40 dni.
 Installation:
@@ -22,9 +22,8 @@ Installation:
   method: Dopasowanie OE - Bez wiercenia i ciecia
 ---
 
-**Wazne:** Przed zakupem prosimy o kontakt i podanie numeru VIN pojazdu oraz przeslanie zdjecia punktów montazowych w celu weryfikacji kompatybilnosci z Twoim Fordem Bronco (2021-2025).
 
-Wyposaz swojego Forda Bronco w profesjonalne stopnie boczne JUSN. Zapomnij o pekajacym plastiku czy ciezkiej stali nierdzewnej – wybierz lekka i wytrzymala konstrukcje alu-stal.
+Wyposaż swojego Forda Bronco w profesjonalne stopnie boczne JUSN. Zapomnij o pekajacym plastiku czy ciezkiej stali nierdzewnej – wybierz lekka i wytrzymala konstrukcje alu-stal.
 
 Koniec z problemami starzejacego sie plastiku. Lekka konstrukcja w porównaniu do ciezkiej stali nierdzewnej.
 
@@ -33,14 +32,15 @@ Koniec z problemami starzejacego sie plastiku. Lekka konstrukcja w porównaniu d
 * **PROCES:** Obróbka CNC, elektroforeza oraz malowanie proszkowe.
 * **UDZWIG:** Minimum 160 kg (350 Lbs).
 
-### Główne zalety:
-* **Latwy montaz:** Nie wymaga wiercenia ani ciecia. Stopnie montuje sie bezposrednio do fabrycznych Rock Rails.
-* **Niezawodnosc:** Klasyczna mechaniczna konstrukcja oznacza brak awarii, które czesto zdarzaja sie w stopniach elektrycznych.
-* **Szybki montaz/demontaz:** Funkcja Quick Release pozwala na szybka zmiane konfiguracji miedzy miejska a terenowa.
-* **Antyposlizgowa powierzchnia:** Precyzyjne naciecia CNC zapewniaja doskonala przyczepnosc w kazdych warunkach pogodowych.
-* **Regulacja:** Mozliwosc dostosowania pozycji stopnia do wlasnych potrzeb bez ograniczania przeswitu pojazdu.
-* **Lekkosc i latwosc czyszczenia:** Azurowa struktura redukuje wage i ulatwia wyplukiwanie blota po jezdzie w terenie.
-* **Dla kazdego:** Ulatwia wsiadanie kazdemu – kierowcy, dzieciom, seniorom oraz osobom o ograniczonej mobilnosci.
+### Cechy:
+* **Łatwy montaz:** Bez wiercenia i bez cięcia.
+* **Niezawodność działania:** Klasyczna, mechaniczna konstrukcja oznacza mniej awarii w porównaniu do elektrycznych progów wysuwanych.
+* **Szybki montaż i demontaż:** Możliwość łatwego przełączania między użytkowaniem miejskim a off-roadowym.
+* **Powierzchnia antypoślizgowa:** Obróbka CNC zapewnia doskonałą przyczepność i bezpieczeństwo.
+* **Wysoka wytrzymałość:** Wykonane ze stali węglowej Q235, o nośności minimum 350 lbs (ok. 160 kg).
+* **Regulacja położenia:** Możliwość zmiany pozycji montażu według potrzeb, bez obniżania prześwitu pojazdu.
+* **Lekka konstrukcja i łatwe czyszczenie:** Pusta (ażurowa) struktura redukuje wagę i ułatwia mycie.
+* **Dla każdego użytkownika:** Odpowiednie dla kierowców, kobiet w ciąży, dzieci, seniorów oraz osób z ograniczoną mobilnością.
 
 ### Instalacja:
 * **Dopasowanie:** Dane zgodne z fabrycznym wyposazeniem (OE) – „Install and Play”.

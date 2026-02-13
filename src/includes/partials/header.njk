@@ -161,11 +161,12 @@
     {% set urlOffer = "/oferta/" %}
     {% set urlGallery = "/galeria/" %}
     {% set urlContact = "/kontakt/" %}
-    {% set dropdownBedOrganizers = "Systemy przechowywania ładunku" %}
+    {% set dropdownBedOrganizers = "Zabudowy JD2, JD3, JD8, JD13, JD16" %}
     {% set dropdownSideSteps = "Progi boczne i stopnie" %}
     {% set productsBase = "/produkty/" %}
     {% set urlBedOrganizers = productsBase ~ "systemy-przechowywania-ladunku/" %}
     {% set urlSideSteps = productsBase ~ "progi-boczne-i-stopnie/" %}
+    {% set urlSlidingPlatform = productsBase ~ "platformy-wysuwane-jd12/" %}
     {% set urlPickupBuilds = productsBase ~ "zabudowy-do-pickupow/" %}
     {% set urlWinchGuides = productsBase ~ "prowadnice-lin-wyciagarek/" %}
     {% set urlToolboxes = productsBase ~ "skrzynki-montowane-na-tylna-klape/" %}
@@ -174,7 +175,7 @@
     {% set urlCupHolders = productsBase ~ "uchwyty-na-kubki/" %}
     {% set urlOther = productsBase ~ "inne-akcesoria/" %}
     {% set urlTsStorage = productsBase ~ "organizery-bocznych-schowkow-zabudow/" %}
-    {% set dropdownPickupBuilds = "Zabudowy do pickupów" %}
+    {% set dropdownPickupBuilds = "Zabudowy JD10" %}
     {% set dropdownWinchGuides = "Prowadnice lin do wyciagarek" %}
     {% set dropdownToolboxes = "Skrzynki montowane na tylną klape" %}
     {% set dropdownTailgateHandles = "Uchwyty na tylną klapę" %}
@@ -182,6 +183,7 @@
     {% set dropdownCupHolders = "Uchwyty na kubki" %}
     {% set dropdownOther = "Poszerzenia błotników" %}
     {% set dropdownTsStorage = "Organizery bocznych schowków zabudowy" %}
+    {% set dropdownSlidingPlatform = "Platformy wysuwane JD12" %}
     {% set shopCtaText = "Przejdź do sklepu" %}
     {% set menuToggleLabel = "Otwórz menu" %}
     {% if isEn %}
@@ -195,8 +197,10 @@
       {% set urlContact = "/contact/" %}
       {% set dropdownBedOrganizers = "Pick up Truck Bed organizers" %}
       {% set dropdownSideSteps = "Side steps and running boards" %}
+      {% set dropdownSlidingPlatform = "Sliding Platforms JD12" %}
       {% set urlBedOrganizers = "/offer/pick-up-truck-bed-organizer/" %}
       {% set urlSideSteps = "/offer/side-steps-running-boards/" %}
+      {% set urlSlidingPlatform = "/offer/sliding-platforms-jd12/" %}
       {% set urlPickupBuilds = "/offer/truck-canopy-hard-top/" %}
       {% set urlWinchGuides = "/offer/winch-hawse-fairlead/" %}
       {% set urlToolboxes = "/offer/tailgate-toolbox" %}
@@ -279,6 +283,50 @@
                                   </div>
                                 <span>{{ dropdownBedOrganizers }}</span>
                               </a>
+                              <a href="{{ langPrefix }}{{ urlSlidingPlatform }}" class="mega-card">
+                                <img src="/assets/img/mega/platformy.png" alt="{{ dropdownSlidingPlatform }}">
+                                  <div class="mega-vid-wrap">
+                                    <video muted loop playsinline preload="none" poster="">
+                                        <source data-src="/assets/img/mega/vid/platformy.mp4" type="video/mp4">
+                                        Your browser does not support the video tag.
+                                   </video>
+                                  </div>
+                                <span>{{ dropdownSlidingPlatform }}</span>
+                              </a>
+
+                              <a href="{{ langPrefix }}{{ urlTsStorage }}" class="mega-card">
+                                <img src="/assets/img/mega/organizery-boczne.png" alt="{{ dropdownTsStorage }}">
+                                  <div class="mega-vid-wrap">
+                                    <video muted loop playsinline preload="none" poster="">
+                                        <source data-src="/assets/img/mega/vid/organizery-boczne.mp4" type="video/mp4">
+                                        Your browser does not support the video tag.
+                                   </video>
+                                  </div>
+                                <span>{{ dropdownTsStorage }}</span>
+                              </a>
+
+                             <a href="{{ langPrefix }}{{ urlToolboxes }}" class="mega-card">
+                                <img src="/assets/img/mega/skrzynki-narzedziowe.png" alt="{{ dropdownToolboxes }}">
+                                   <div class="mega-vid-wrap">
+                                    <video muted loop playsinline preload="none" poster="">
+                                        <source data-src="/assets/img/mega/vid/skrzynki.mp4" type="video/mp4">
+                                        Your browser does not support the video tag.
+                                   </video>
+                                  </div>
+                                <span>{{ dropdownToolboxes }}</span>
+                              </a>
+
+                              <a href="{{ langPrefix }}{{ urlCupHolders }}" class="mega-card">
+                                <img src="/assets/img/mega/uchwyty-na-kubki.png" alt="{{ dropdownCupHolders }}">
+                                    <div class="mega-vid-wrap">
+                                    <video muted loop playsinline preload="none" poster="">
+                                        <source data-src="/assets/img/mega/vid/kubki.mp4" type="video/mp4">
+                                        Your browser does not support the video tag.
+                                   </video>
+                                  </div>
+                                <span>{{ dropdownCupHolders }}</span>
+                              </a>
+
                               <a href="{{ langPrefix }}{{ urlSideSteps }}" class="mega-card">
                                 <img src="/assets/img/mega/schody.png" alt="{{ dropdownSideSteps }}">
                                   <div class="mega-vid-wrap">
@@ -288,6 +336,17 @@
                                    </video>
                                   </div>
                                 <span>{{ dropdownSideSteps }}</span>
+                              </a>
+
+                              <a href="{{ langPrefix }}{{ urlTailgateHandles }}" class="mega-card">
+                                <img src="/assets/img/mega/uchwyty-na-klape.png" alt="{{ dropdownTailgateHandles }}">
+                                  <div class="mega-vid-wrap">
+                                    <video muted loop playsinline preload="none" poster="">
+                                        <source data-src="/assets/img/mega/vid/uchwyty-na-klapy.mp4" type="video/mp4">
+                                        Your browser does not support the video tag.
+                                   </video>
+                                  </div>
+                                <span>{{ dropdownTailgateHandles }}</span>
                               </a>
 
                               <a href="{{ langPrefix }}{{ urlWinchGuides }}" class="mega-card">
@@ -300,46 +359,7 @@
                                   </div>
                                 <span>{{ dropdownWinchGuides }}</span>
                               </a>
-                              <a href="{{ langPrefix }}{{ urlToolboxes }}" class="mega-card">
-                                <img src="/assets/img/mega/skrzynki-narzedziowe.png" alt="{{ dropdownToolboxes }}">
-                                   <div class="mega-vid-wrap">
-                                    <video muted loop playsinline preload="none" poster="">
-                                        <source data-src="/assets/img/mega/vid/skrzynki.mp4" type="video/mp4">
-                                        Your browser does not support the video tag.
-                                   </video>
-                                  </div>
-                                <span>{{ dropdownToolboxes }}</span>
-                              </a>
-                              <a href="{{ langPrefix }}{{ urlTailgateHandles }}" class="mega-card">
-                                <img src="/assets/img/mega/uchwyty-na-klape.png" alt="{{ dropdownTailgateHandles }}">
-                                  <div class="mega-vid-wrap">
-                                    <video muted loop playsinline preload="none" poster="">
-                                        <source data-src="/assets/img/mega/vid/uchwyty-na-klapy.mp4" type="video/mp4">
-                                        Your browser does not support the video tag.
-                                   </video>
-                                  </div>
-                                <span>{{ dropdownTailgateHandles }}</span>
-                              </a>
-                              <a href="{{ langPrefix }}{{ urlRoofHandles }}" class="mega-card">
-                                <img src="/assets/img/mega/uchwyty-na-dach.png" alt="{{ dropdownRoofHandles }}">
-                                <div class="mega-vid-wrap">
-                                  <video muted loop playsinline preload="none" poster="">
-                                        <source data-src="/assets/img/mega/vid/uchwyty-na-dach.mp4" type="video/mp4">
-                                        Your browser does not support the video tag.
-                                   </video>
-                                  </div>
-                                <span>{{ dropdownRoofHandles }}</span>
-                              </a>
-                              <a href="{{ langPrefix }}{{ urlCupHolders }}" class="mega-card">
-                                <img src="/assets/img/mega/uchwyty-na-kubki.png" alt="{{ dropdownCupHolders }}">
-                                    <div class="mega-vid-wrap">
-                                    <video muted loop playsinline preload="none" poster="">
-                                        <source data-src="/assets/img/mega/vid/kubki.mp4" type="video/mp4">
-                                        Your browser does not support the video tag.
-                                   </video>
-                                  </div>
-                                <span>{{ dropdownCupHolders }}</span>
-                              </a>
+
                               <a href="{{ langPrefix }}{{ urlOther }}" class="mega-card">
                                 <img src="/assets/img/mega/akcesoria.png" alt="{{ dropdownOther }}">
                                   <div class="mega-vid-wrap">
@@ -350,17 +370,18 @@
                                   </div>
                                 <span>{{ dropdownOther }}</span>
                               </a>
-                              
-                              <a href="{{ langPrefix }}{{ urlTsStorage }}" class="mega-card">
-                                <img src="/assets/img/mega/organizery-boczne.png" alt="{{ dropdownTsStorage }}">
-                                  <div class="mega-vid-wrap">
-                                    <video muted loop playsinline preload="none" poster="">
-                                        <source data-src="/assets/img/mega/vid/organizery-boczne.mp4" type="video/mp4">
+
+                              <a href="{{ langPrefix }}{{ urlRoofHandles }}" class="mega-card">
+                                <img src="/assets/img/mega/uchwyty-na-dach.png" alt="{{ dropdownRoofHandles }}">
+                                <div class="mega-vid-wrap">
+                                  <video muted loop playsinline preload="none" poster="">
+                                        <source data-src="/assets/img/mega/vid/uchwyty-na-dach.mp4" type="video/mp4">
                                         Your browser does not support the video tag.
                                    </video>
                                   </div>
-                                <span>{{ dropdownTsStorage }}</span>
+                                <span>{{ dropdownRoofHandles }}</span>
                               </a>
+
                             </div>
                           </div>
                           {# featured column removed #}

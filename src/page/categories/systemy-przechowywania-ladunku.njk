@@ -1,12 +1,12 @@
 ﻿---
 lang: pl
-title: Systemy przechowywania ładunku
+title: Zabudowy JD2, JD3, JD8, JD13, JD16
 category: Systemy przechowywania ładunku
 ---
 
 <section class="pt-xlarge products-category">
 <div class="container">
-  {% set breadcrumbHome = "Strona glowna" %}
+  {% set breadcrumbHome = "Strona glówna" %}
   {% set breadcrumbOffer = "Oferta" %}
   {% set breadcrumbOfferUrl = "/oferta/" %}
   {% if lang == "en" %}
@@ -22,6 +22,22 @@ category: Systemy przechowywania ładunku
     <span>{{ title }}</span>
   </nav>
   <h1 class="xl split-lines color-light-1 mb-5 mt-3">{{ title }}</h1>
+
+    <div class="cat-desc-content bg-light-1 p-3 p-md-5 mb-4 rounded-md">
+      <div class="row g-1 g-md-5">
+        <div class="col-md-4">
+          <div class="description-content">
+            <h2 class="mt-3">Systemy bagażowe / organizery paki </h2>
+          </div>
+        </div>
+        <div class="col-md-8">
+             <p class="mb-2">W przypadku, gdy pełna zabudowa nie może być zamontowana na Twoim pickupie chociażby ze względu na zbyt dużą wysokość po zamontowaniu namiotu dachowego i ograniczenia wysokości w garażach podziemnych, ograniczenia wagowe lub inne przeciwwskazania, mamy na to kilka rozwiązań. </p>
+             <a href="#opis" class="small color-accent-1">Czytaj więcej &rarr; </a>
+
+        </div>
+      </div>
+    </div>
+
 
   {% set products = collections.productCategories[lang][category] | sortByOrder %}
 
@@ -42,10 +58,37 @@ category: Systemy przechowywania ładunku
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktĂłw w tej kategorii.</p>
+    <p>Brak produktów w tej kategorii.</p>
   {% endif %}
   </div>
 </section>
+
+<section class="cat-description pt-medium" id="opis">
+  <div class="container">
+    <div class="cat-desc-content bg-light-1 p-3 p-md-5 rounded-md">
+      <div class="row g-5">
+        <div class="col-md-7">
+          <div class="description-content">
+            <p>
+Zabudowy o niższej wysokości lub organizery przestrzeni ładunkowej, które mają mniejszy wymiar i wagę, ale pozwalają na wybrnie odpowiedniej opcji dopasowanej do potrzeb, przewożenie ładunków takich jak koło zapasowe, namiot, platforma startowa dla drona, czy inny drobny ekwipunek. 
+            </p>
+            <div class="line-x"></div>
+            <p>
+Produkty z tej kategorii możemy zamontować bez konieczności demontażu oryginalnej rolety na pace wiec jeżeli zależy nam aby roleta pozostała na samochodzie jest to odpowiednia dla Ciebie kategoria
+            </p>
+        
+          </div>
+        </div>
+        <div class="col-md-5">
+         <div class="sticky">
+
+         </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
 
 

@@ -4757,6 +4757,25 @@ blockquote {
   text-transform: uppercase;
 }
 
+.jn-list li {
+  position: relative;
+  padding-left: 1.5em;
+  margin-bottom: 0.3em;
+  line-height: 1.6;
+}
+
+.jn-list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.6em;
+  width: 6px;
+  height: 6px;
+  background-color: var(--accent-color, #d32f2f);
+  border-radius: 50%;
+  display: inline-block;
+}
+
 html.lenis, html.lenis body {
   height: auto;
 }

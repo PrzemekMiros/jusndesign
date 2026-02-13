@@ -6,7 +6,7 @@ productImage: /content/products/img/bed-box-ford-ranger.jpg
 categories:
   - Systemy przechowywania ładunku
 price: 3499
-order: 18
+order: 3
 
 # Dane techniczne dla szablonu
 brand: JUSN
