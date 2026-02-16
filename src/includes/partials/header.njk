@@ -1,15 +1,19 @@
 ﻿<!DOCTYPE html>
 <html lang="{{ lang }}">
   <head>
+    {% set baseUrl = "https://jusndesigneurope.com" %}
+    {% set canonicalPath = page.url | default("/") %}
+    {% set canonicalUrl = baseUrl ~ canonicalPath %}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content="Eleventy" />
     <title>{{ title }} - JUSN Design Europe</title>
     <meta name="description" content="{{ description }}"> {% set robots = robots | default('index') %}
     <meta name="robots" content="{{ robots }}">
+    <link rel="canonical" href="{{ canonicalUrl }}">
     <meta name="google-site-verification" content="M_GMzgmJepFLC7PBEJwPXraxLCvaownWgwbeOFa6YaY" />
     <!-- Facebook Meta Tags -->
-    <meta property="og:url" content="contact@jusndesign.eu/">
+    <meta property="og:url" content="{{ canonicalUrl }}">
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ title }}">
     <meta property="og:description" content="{{ description }}">
@@ -17,8 +21,8 @@
     <meta property="og:site_name" content="JUSN DESIGN" />
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta property="twitter:domain" content="contact@jusndesign.eu">
-    <meta property="twitter:url" content="contact@jusndesign.eu/">
+    <meta property="twitter:domain" content="jusndesigneurope.com">
+    <meta property="twitter:url" content="{{ canonicalUrl }}">
     <meta name="twitter:title" content="{{ title }}">
     <meta name="twitter:description" content="{{ description }}">
     <meta name="twitter:image" content="https://jusndesigneurope.com/assets/img/opengraph.png">
