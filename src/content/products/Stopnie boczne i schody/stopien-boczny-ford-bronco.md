@@ -22,37 +22,36 @@ Installation:
   method: Dopasowanie OE - Bez wiercenia i ciecia
 ---
 
+## Progi boczne Jusn – Ford Bronco 2021–2025
 
-Wyposaż swojego Forda Bronco w profesjonalne stopnie boczne JUSN. Zapomnij o pekajacym plastiku czy ciezkiej stali nierdzewnej – wybierz lekka i wytrzymala konstrukcje alu-stal.
+Wytrzymałe progi boczne Jusn to rozwiązanie stworzone z myślą o pojazdach terenowych użytkowanych w ciężkich warunkach. Ułatwiają wsiadanie do auta z liftem zawieszenia, zapewniają wygodny dostęp do bagażnika dachowego oraz zwiększają komfort codziennego użytkowania.
 
-Koniec z problemami starzejacego sie plastiku. Lekka konstrukcja w porównaniu do ciezkiej stali nierdzewnej.
+Konstrukcja oparta na aluminium 6061 oraz stali węglowej Q235 łączy niską masę z wysoką odpornością mechaniczną, co ma kluczowe znaczenie w pojazdach wyprawowych i użytkowych.
 
-### Szczególy techniczne:
-* **MATERIAL:** Stop aluminium (6061), Stal weglowa (Q235).
-* **PROCES:** Obróbka CNC, elektroforeza oraz malowanie proszkowe.
-* **UDZWIG:** Minimum 160 kg (350 Lbs).
+### Najważniejsze cechy
 
-### Cechy:
-* **Łatwy montaz:** Bez wiercenia i bez cięcia.
-* **Niezawodność działania:** Klasyczna, mechaniczna konstrukcja oznacza mniej awarii w porównaniu do elektrycznych progów wysuwanych.
-* **Szybki montaż i demontaż:** Możliwość łatwego przełączania między użytkowaniem miejskim a off-roadowym.
-* **Powierzchnia antypoślizgowa:** Obróbka CNC zapewnia doskonałą przyczepność i bezpieczeństwo.
-* **Wysoka wytrzymałość:** Wykonane ze stali węglowej Q235, o nośności minimum 350 lbs (ok. 160 kg).
-* **Regulacja położenia:** Możliwość zmiany pozycji montażu według potrzeb, bez obniżania prześwitu pojazdu.
-* **Lekka konstrukcja i łatwe czyszczenie:** Pusta (ażurowa) struktura redukuje wagę i ułatwia mycie.
-* **Dla każdego użytkownika:** Odpowiednie dla kierowców, kobiet w ciąży, dzieci, seniorów oraz osób z ograniczoną mobilnością.
+- Solidna konstrukcja z aluminium 6061 i stali Q235
+- Wysoka nośność – do ok. 160 kg (350 lbs)
+- Antypoślizgowa powierzchnia CNC zapewniająca pewny stopień w każdych warunkach
+- Lekka, a jednocześnie bardzo trwała konstrukcja
+- Regulowana pozycja montażu bez obniżania prześwitu pojazdu
+- Nowoczesny design dopasowany do stylistyki pojazdów 4x4
 
-### Instalacja:
-* **Dopasowanie:** Dane zgodne z fabrycznym wyposazeniem (OE) – „Install and Play”.
-* **Poziom trudnosci:** 2 gwiazdki (w skali do 5).
-* **Wymagany profesjonalny montaż** NIE.
-* **Bezinwazyjny montaz:** TAK.
+Ażurowa konstrukcja redukuje masę, ułatwia czyszczenie z błota i śniegu oraz zapobiega gromadzeniu się zanieczyszczeń podczas jazdy off-road.
 
-### Zawartosc zestawu:
-* Stopnie boczne - 4 sztuki (Komplet).
+### Technologia i wykonanie
 
+Produkt powstaje w procesie precyzyjnej obróbki CNC, elektropowlekania oraz malowania proszkowego. Zapewnia to wysoką odporność na korozję, uszkodzenia mechaniczne oraz trudne warunki atmosferyczne.
 
+Konstrukcja mechaniczna (bez elektryki) gwarantuje większą niezawodność w porównaniu do progów elektrycznych, szczególnie w zastosowaniach terenowych i ekspedycyjnych.
 
+### Montaż
 
+- Montaż typu plug & play (bez wiercenia i cięcia)
+- Dopasowanie do fabrycznych punktów montażowych
+- Szybka instalacja i możliwość demontażu
+- Niski poziom trudności montażu
 
+### Zastosowanie
 
+- Ford Bronco 2021–2025
