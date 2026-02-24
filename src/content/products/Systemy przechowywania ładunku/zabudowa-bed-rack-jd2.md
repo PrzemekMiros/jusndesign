@@ -1,7 +1,7 @@
 ---
 lang: pl
 layout: "layouts/product.njk"
-permalink: /produkty/tylny-bagaznik-cargo-toyota-tundra-hilux-tacoma/
+permalink: /produkty/zabudowa-bed-rack-jd2/
 title: Zabudowa bed rack JD2
 description: W przypadku gdy nie możemy zamontować zabudowy ponieważ wykorzystujemy powierzchnie ładunkową przewożąc na co dzień np motocykl lub inne ładunki, ale potrzebujemy dodatkowego miejsca do transportu mniejszych przedmiotów polecamy użycie bagażnika. 
 productImage: /content/products/img/tylny-bagaznik-cargo.jpg

@@ -1,7 +1,7 @@
 ---
 lang: pl
 layout: "layouts/product.njk"
-permalink: /produkty/jd-12-wysuwana-platforma-skrzyni-pickupa/
+permalink: /produkty/platforma-wysuwana-skrzyni-pickupa-jd-12/
 title: Platforma wysuwana JD12
 description: JD-12 to ciężka, wysuwana platforma do skrzyni pick-upa. Przeznaczona do pojazdów wszystkich rozmiarów, z montażem bezinwazyjnym i kilkoma wariantami wymiarowymi.
 productImage: /content/products/img/platforma-wysuwana.png

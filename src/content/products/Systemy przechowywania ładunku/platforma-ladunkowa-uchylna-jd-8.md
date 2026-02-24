@@ -1,7 +1,7 @@
 ---
 lang: pl
 layout: "layouts/product.njk"
-permalink: /produkty/jd-8-super-platform-pro/
+permalink: /produkty/platforma-ladunkowa-uchylna-jd-8/
 title: Platforma ładunkowa uchylna JD8
 description: Uniwersalna platforma JD-8 Super Platform Pro do pick-upów wszystkich rozmiarów. Montaż bezinwazyjny i kompatybilność z wieloma popularnymi modelami.
 productImage: /content/products/img/platformana-pake.jpg

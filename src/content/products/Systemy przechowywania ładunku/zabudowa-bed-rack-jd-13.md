@@ -1,7 +1,7 @@
 ---
 lang: pl
 layout: "layouts/product.njk"
-permalink: /produkty/jd-13-modular-bed-rack/
+permalink: /produkty/zabudowa-bed-rack-jd-13/
 title: Zabudowa bed rack JD13
 description: Zabudowa posiada różne konfiguracje, schowki boczne, wewnętrzne wysuwane panele molle, platformy wysuwane, organizery schowków i inne opcjonalne rozwiązania. Zabudowa nie wymaga demontażu rolety Twojego pickupa
 productImage: /content/products/img/modulowy-bagznik.png
