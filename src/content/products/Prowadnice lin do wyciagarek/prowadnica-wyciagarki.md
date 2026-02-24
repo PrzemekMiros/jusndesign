@@ -1,7 +1,7 @@
 ---
 lang: pl
 title: Ślizg wyciągarki z hakiem holowniczym 
-permalink: /produkty/prowadnica-wyciagarki/
+permalink: /produkty/slizg-wyciagarki-z-hakiem-holowniczym/
 description: Profesjonalny ślizg wyciągarki JUSN zintegrowany z hakiem holowniczym to wysokiej klasy komponent off-road zaprojektowany do użytku z linami syntetycznymi w pojazdach terenowych i wyprawowych. Wykonany z aluminium lotniczego 7075, zapewnia maksymalną wytrzymałość, niską wagę oraz skuteczną ochronę liny podczas pracy wyciągarki w najtrudniejszych warunkach.
 productImage: /content/products/img/prowadnica-wyciagarki.jpg
 categories:

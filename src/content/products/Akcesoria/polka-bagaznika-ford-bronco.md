@@ -1,7 +1,7 @@
 ---
 lang: pl
 layout: "layouts/product.njk"
-permalink: /produkty/polka-bagaznika-ford-bronco/
+permalink: /produkty/organizer-polka-bagaznika-ford-bronco/
 title: Organizer pólka bagaznika Ford Bronco
 description: Wytrzymała półka bagażowa do Ford Bronco. Posiada system szybkiego demontażu, w pełni metalową konstrukcję oraz panele taktyczne dla optymalnej organizacji.
 productImage: /content/products/img/wew-polka-bagaz-bronco.png

@@ -1,6 +1,7 @@
 ---
 lang: pl
-title: Zabudowa bed rack JD3
+permalink: /produkty/zabudowa-bed-rack-jd-3-ford-ranger/
+title: Zabudowa bed rack JD3 Ford Ranger
 description: Profesjonalny system cargo JUSN dla modeli Ford. Aluminiowa konstrukcja, 4 skrzynie transportowe po 25L i zintegrowane oświetlenie paki.
 productImage: /content/products/img/bed-box-ford-ranger.jpg
 categories:

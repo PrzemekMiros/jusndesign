@@ -1,7 +1,7 @@
 ---
 lang: pl
 layout: "layouts/product.njk"
-permalink: /produkty/jeep-wrangler-jk-uchwyt-na-kubek-nawiew/
+permalink: /produkty/uchwyt-na-kubek-nawiew-ac-jeep-wrangler-jk/
 title: Uchwyt na kubek na nawiew AC do Jeepa Wranglera JK
 description: Aluminiowy uchwyt na kubek do Jeepa Wranglera JK. Montowany na nawiew klimatyzacji, pomaga utrzymać temperaturę napoju. Konstrukcja z aluminium 6061.
 productImage: /content/products/img/uchwyt-na-kubek.jpg

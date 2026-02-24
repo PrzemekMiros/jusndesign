@@ -1,7 +1,7 @@
 ---
 lang: pl
 layout: "layouts/product.njk"
-permalink: /produkty/chwyt-na-dach-ford-bronco/
+permalink: /produkty/uchwyt-plus-narzedzie-ratunkowe-na-dach-ford-bronco/
 title: Uchwyt + Narzędzie Ratunkowe 3w1 do Ford Bronco
 description: Wytrzymały uchwyt JUSN do Ford Bronco to profesjonalny element wyposażenia wnętrza, łączący funkcję stabilnego uchwytu dla pasażerów z praktycznym narzędziem ratunkowym 3w1. Zaprojektowany specjalnie do montażu na klatce / dachu pojazdu, znacząco poprawia bezpieczeństwo i komfort podczas jazdy w terenie, szczególnie w samochodach z podniesionym zawieszeniem.
 productImage: /content/products/img/grab-handle.jpg

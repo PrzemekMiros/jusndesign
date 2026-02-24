@@ -1,7 +1,7 @@
 ---
 lang: pl
 layout: "layouts/product.njk"
-permalink: /produkty/jeep-gladiator-jt-system-cargo-heavy-duty/
+permalink: /produkty/zabudowa-bed-rack-jeep-gladiator-jt/
 title: Zabudowa bed rack JD13
 description: Zabudowa posiada różne konfiguracje, schowki boczne, wewnętrzne wysuwane panele molle, platformy wysuwane, organizery schowków i inne opcjonalne rozwiązania. Zabudowa nie wymaga demontażu rolety twojego pickupa
 productImage: /content/products/img/organizer-paki-toyota-tundra.jpg
