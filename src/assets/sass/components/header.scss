@@ -153,7 +153,7 @@
   visibility: hidden;
   pointer-events: none;
   transform: translateX(-43%) translateY(40px);
-  transition: all .25s ease;
+  transition: opacity .25s ease, transform .25s ease, visibility 0s linear .25s;
   z-index: 1000;
 }
 
@@ -162,6 +162,16 @@
   visibility: visible;
   pointer-events: auto;
   transform: translateX(-43%) translateY(0px);
+  transition-delay: 0s;
+}
+
+.has-dropdown.is-closing:hover .mega-menu,
+.has-dropdown.is-closing .mega-menu {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transform: translateX(-43%) translateY(16px);
+  transition: opacity .22s ease, transform .22s ease, visibility 0s linear .22s;
 }
 
 .mega-menu-inner ul li a {

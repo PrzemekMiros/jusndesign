@@ -110,6 +110,38 @@
 			card.addEventListener("mouseleave", stopVideo);
 			card.addEventListener("focus", playVideo);
 			card.addEventListener("blur", stopVideo);
+
+			if (card.dataset.megaFadeBound !== "true") {
+				card.dataset.megaFadeBound = "true";
+				card.addEventListener("click", (event) => {
+					if (
+						event.defaultPrevented ||
+						event.button !== 0 ||
+						event.metaKey ||
+						event.ctrlKey ||
+						event.shiftKey ||
+						event.altKey ||
+						card.getAttribute("target") === "_blank"
+					) {
+						return;
+					}
+
+					const href = card.getAttribute("href");
+					if (!href) {
+						return;
+					}
+
+					event.preventDefault();
+					const dropdown = card.closest(".has-dropdown");
+					if (dropdown) {
+						dropdown.classList.add("is-closing");
+					}
+
+					window.setTimeout(() => {
+						window.location.href = href;
+					}, 220);
+				});
+			}
 		});
 	}
 
