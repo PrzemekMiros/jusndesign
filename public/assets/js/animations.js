@@ -257,13 +257,12 @@ function imageReveal() {
       clipPath = "inset(100% 0 0 0)";
     }
 
-    const image = container.querySelector("img");
+    const image = container.matches("img") ? container : container.querySelector("img");
 
     // Animation trigger
     const tl = gsap.timeline({
       scrollTrigger: {
         trigger: container,
-        scroller: ".scrollContainer",
         start: "top bottom",
         end: "bottom top",
       }
@@ -277,15 +276,17 @@ function imageReveal() {
       delay: 0.2,
       ease: Power4.easeInOut
     });
-    if (container.classList.contains("reveal--overlay")) {
+    if (container.classList.contains("reveal--overlay") && image) {
       tl.from(image, { clipPath, duration: 0.6, ease: Power4.easeOut });
     }
-    tl.from(image, {
-      scale: 1.3,
-      duration: 1.2,
-      delay: -1,
-      ease: Power2.easeOut
-    });
+    if (image) {
+      tl.from(image, {
+        scale: 1.3,
+        duration: 1.2,
+        delay: -1,
+        ease: Power2.easeOut
+      });
+    }
   });
 
   ScrollTrigger.refresh();

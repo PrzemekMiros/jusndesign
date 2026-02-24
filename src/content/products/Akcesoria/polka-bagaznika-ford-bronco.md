@@ -1,8 +1,8 @@
 ---
 lang: pl
 layout: "layouts/product.njk"
-permalink: /produkty/ford-bronco-wewnetrzna-polka-bagaznika-cargo/
-title: Wewnętrzna Półka Bagażnika i Organizer Cargo do Ford Bronco
+permalink: /produkty/polka-bagaznika-ford-bronco/
+title: Organizer pólka bagaznika Ford Bronco
 description: Wytrzymała półka bagażowa do Ford Bronco. Posiada system szybkiego demontażu, w pełni metalową konstrukcję oraz panele taktyczne dla optymalnej organizacji.
 productImage: /content/products/img/wew-polka-bagaz-bronco.png
 categories:

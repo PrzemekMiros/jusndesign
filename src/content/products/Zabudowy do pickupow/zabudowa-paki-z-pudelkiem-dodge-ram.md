@@ -1,8 +1,8 @@
 ---
 lang: pl
 layout: "layouts/product.njk"
-permalink: /produkty/ram-1500-long-bed-zabudowa-canopy-platforma/
-title: Zabudowa JD10 Toyota Tundra 2021+
+permalink: /produkty/zabudowa-paki-jd-10-ram-1500/
+title: Zabudowa JD10 RAM 1500
 description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
 productImage: /content/products/img/zabudowa-us.jpg
 galleryImages:

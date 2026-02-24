@@ -1,9 +1,9 @@
 ---
 lang: pl
 layout: "layouts/product.njk"
-permalink: /produkty/skladany-stolik-jd8-jd13/
-title: Składany stolik do JD-8 i JD-13
-description: Składany stolik przeznaczony do platform JD-8 Super Platform Pro oraz JD-13 Modular Bed Rack. Praktyczny, kompaktowy i łatwy do przechowywania.
+permalink: /produkty/stolik-turystyczny-do-zabudowy-jd10-jd13/
+title: Stolik turystyczny do zabudowy JD10 i JD13
+description: Składany stolik przeznaczony do platform JD-10 oraz JD-13. Praktyczny, kompaktowy i łatwy do przechowywania.
 productImage: /content/products/img/skladany-stolik.jpg
 categories:
   - Inne akcesoria

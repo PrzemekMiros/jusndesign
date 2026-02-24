@@ -532,8 +532,10 @@ function initProductLightbox() {
 	const closeEls = lightbox.querySelectorAll("[data-lightbox-close]");
 	const prevBtn = lightbox.querySelector("[data-lightbox-prev]");
 	const nextBtn = lightbox.querySelector("[data-lightbox-next]");
+	const contentEl = lightbox.querySelector(".lightbox-content");
 	let lightboxItems = [];
 	let currentIndex = 0;
+	let closeAnimationTimer = null;
 
 	if (!triggers.length || !imageEl) {
 		return;
@@ -600,6 +602,12 @@ function initProductLightbox() {
 	};
 
 	const openLightbox = (trigger, src, alt) => {
+		if (closeAnimationTimer) {
+			window.clearTimeout(closeAnimationTimer);
+			closeAnimationTimer = null;
+		}
+		lightbox.classList.remove("is-closing");
+
 		lightboxItems = collectItems(trigger);
 		const normalizedTarget = normalizeUrl(src);
 		const foundIndex = lightboxItems.findIndex(
@@ -612,18 +620,48 @@ function initProductLightbox() {
 			imageEl.alt = alt || "";
 		}
 		updateNavState();
-		lightbox.classList.add("is-open");
 		lightbox.setAttribute("aria-hidden", "false");
+		window.requestAnimationFrame(() => {
+			lightbox.classList.add("is-open");
+		});
 		document.body.style.overflow = "hidden";
 	};
 
-	const closeLightbox = () => {
-		lightbox.classList.remove("is-open");
+	const finalizeClose = () => {
+		if (closeAnimationTimer) {
+			window.clearTimeout(closeAnimationTimer);
+			closeAnimationTimer = null;
+		}
+		lightbox.classList.remove("is-closing");
 		lightbox.setAttribute("aria-hidden", "true");
 		imageEl.src = "";
 		lightboxItems = [];
 		currentIndex = 0;
 		document.body.style.overflow = "";
+	};
+
+	const closeLightbox = () => {
+		if (lightbox.classList.contains("is-closing") || !lightbox.classList.contains("is-open")) {
+			return;
+		}
+
+		lightbox.classList.remove("is-open");
+		lightbox.classList.add("is-closing");
+
+		const onTransitionEnd = (event) => {
+			if (contentEl && event.target !== contentEl) {
+				return;
+			}
+			finalizeClose();
+		};
+
+		if (contentEl) {
+			contentEl.addEventListener("transitionend", onTransitionEnd, { once: true });
+		}
+
+		closeAnimationTimer = window.setTimeout(() => {
+			finalizeClose();
+		}, 320);
 	};
 
 	const showPrev = () => {

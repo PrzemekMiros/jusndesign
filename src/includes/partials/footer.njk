@@ -13,6 +13,8 @@
 {% set urlOffer = "/oferta/" %}
 {% set urlGallery = "/galeria/" %}
 {% set urlContact = "/kontakt/" %}
+{% set urlPrivacy = "/polityka-prywatnosci/" %}
+{% set urlTerms = "/regulamin-strony/" %}
 {% set productsBase = "/produkty/" %}
 {% set footerBedOrganizers = "Systemy przechowywania ładunku" %}
 {% set footerSideSteps = "Progi boczne i stopnie" %}
@@ -37,6 +39,8 @@
   {% set urlOffer = "/offer/" %}
   {% set urlGallery = "/gallery/" %}
   {% set urlContact = "/contact/" %}
+  {% set urlPrivacy = "/privacy-policy/" %}
+  {% set urlTerms = "/terms-and-conditions/" %}
   {% set footerBedOrganizers = "Bed organizers" %}
   {% set footerSideSteps = "Side steps and running boards" %}
   {% set footerPickupBuilds = "Pick up Canopy" %}
@@ -113,10 +117,10 @@
           <div class="col-6">
             <ul class="policy-list">
               <li>
-                <a href="{{ langPrefix }}/polityka-prywatnosci/">{{ policyPrivacy }}</a>
+                <a href="{{ langPrefix }}{{ urlPrivacy }}">{{ policyPrivacy }}</a>
               </li>
               <li>
-                <a href="{{ langPrefix }}/regulamin-strony/">{{ policyTerms }}</a>
+                <a href="{{ langPrefix }}{{ urlTerms }}">{{ policyTerms }}</a>
               </li>
             </ul>
           </div>
