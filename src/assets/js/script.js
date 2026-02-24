@@ -1,5 +1,9 @@
 ﻿function appMain() {
   
+	if (document.body && document.body.dataset.megaNavLock === "true") {
+		delete document.body.dataset.megaNavLock;
+	}
+
 	// Pobieramy aktualny adres URL
 	var currentUrl = window.location.pathname;
 	var menuLinks = document.querySelectorAll('.menu a');
@@ -39,6 +43,30 @@
 		video.dataset.videoLoaded = "true";
 	};
 
+	const navigateWithTransition = (href) => {
+		if (!href) {
+			return;
+		}
+
+		let swupInstance = null;
+		if (typeof window !== "undefined" && window.swup) {
+			swupInstance = window.swup;
+		} else {
+			try {
+				if (typeof swup !== "undefined") {
+					swupInstance = swup;
+				}
+			} catch (e) {}
+		}
+
+		if (swupInstance && typeof swupInstance.navigate === "function") {
+			swupInstance.navigate(href);
+			return;
+		}
+
+		window.location.href = href;
+	};
+
 	// Ensure hero video plays; show controls if autoplay is blocked.
 	const heroVideo = document.querySelector("[data-hero-video]");
 	if (heroVideo) {
@@ -74,6 +102,21 @@
 	}
 
 	// Play mega menu videos only on hover/focus.
+	const megaDropdowns = document.querySelectorAll(".has-dropdown");
+	if (megaDropdowns.length) {
+		megaDropdowns.forEach((dropdown) => {
+			dropdown.classList.remove("is-closing");
+			if (dropdown.dataset.megaCloseResetBound !== "true") {
+				dropdown.dataset.megaCloseResetBound = "true";
+				const resetMegaClosing = () => {
+					dropdown.classList.remove("is-closing");
+				};
+				dropdown.addEventListener("mouseenter", resetMegaClosing);
+				dropdown.addEventListener("focusin", resetMegaClosing);
+			}
+		});
+	}
+
 	const megaCards = document.querySelectorAll(".mega-card");
 	if (megaCards.length) {
 		megaCards.forEach((card) => {
@@ -131,16 +174,35 @@
 						return;
 					}
 
+					if (document.body && document.body.dataset.megaNavLock === "true") {
+						event.preventDefault();
+						event.stopPropagation();
+						return;
+					}
+
 					event.preventDefault();
+					event.stopPropagation();
+					if (typeof event.stopImmediatePropagation === "function") {
+						event.stopImmediatePropagation();
+					}
+					if (document.body) {
+						document.body.dataset.megaNavLock = "true";
+					}
+
 					const dropdown = card.closest(".has-dropdown");
 					if (dropdown) {
 						dropdown.classList.add("is-closing");
 					}
 
 					window.setTimeout(() => {
-						window.location.href = href;
-					}, 220);
-				});
+						navigateWithTransition(href);
+					}, 520);
+					window.setTimeout(() => {
+						if (document.body && document.body.dataset.megaNavLock === "true") {
+							delete document.body.dataset.megaNavLock;
+						}
+					}, 1800);
+				}, true);
 			}
 		});
 	}

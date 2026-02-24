@@ -171,7 +171,7 @@
   visibility: hidden;
   pointer-events: none;
   transform: translateX(-43%) translateY(16px);
-  transition: opacity .22s ease, transform .22s ease, visibility 0s linear .22s;
+  transition: opacity .22s ease .3s, transform .22s ease .3s, visibility 0s linear .52s;
 }
 
 .mega-menu-inner ul li a {
