@@ -293,7 +293,7 @@
   width: min(1080px, 100vw);
 }
 .mega-featured {
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(6, minmax(0, 1fr));
 }
 }
 @media(min-width:1400px) {
@@ -301,7 +301,7 @@
   width: min(1460px, 100vw);
 }
 .mega-featured {
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(6, minmax(0, 1fr));
 }
 }
 

@@ -1,6 +1,6 @@
 .transition-fade {
   opacity: 1;
-  transform: translateY(0px);
+  transform: none;
   transition: 0.2s ease-in-out;
 }
 

@@ -4373,7 +4373,7 @@ a {
 
 .transition-fade {
   opacity: 1;
-  transform: translateY(0px);
+  transform: none;
   transition: 0.2s ease-in-out;
 }
 
@@ -5127,7 +5127,7 @@ html.lenis, html.lenis body {
     width: min(1080px, 100vw);
   }
   .mega-featured {
-    grid-template-columns: repeat(5, minmax(0, 1fr));
+    grid-template-columns: repeat(6, minmax(0, 1fr));
   }
 }
 @media (min-width: 1400px) {
@@ -5135,7 +5135,7 @@ html.lenis, html.lenis body {
     width: min(1460px, 100vw);
   }
   .mega-featured {
-    grid-template-columns: repeat(5, minmax(0, 1fr));
+    grid-template-columns: repeat(6, minmax(0, 1fr));
   }
 }
 .menu-toggle {
@@ -7618,3 +7618,4 @@ pre > code.diff-highlight .token.token.inserted:not(.prefix) {
 .command-line .command-line-prompt > span:before {
   color: rgba(141, 161, 185, 0.8549019608);
 }
+
