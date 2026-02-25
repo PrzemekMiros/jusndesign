@@ -2,7 +2,7 @@
 lang: en
 layout: "layouts/product-en.njk"
 permalink: /products/rear-trunk-cargo-rack-toyota-tundra-hilux-tacoma/
-title: Rear Trunk Cargo Luggage Rack for Toyota Tundra, Hilux & Tacoma – Bed Storage System on Tonneau Cover
+title: Bed Rack JD2 Toyota Tundra, Hilux & Tacoma 
 description: Lightweight JUSN rear cargo rack for pickup trucks. Aluminum construction, dual storage boxes and top luggage platform, designed for mounting on a tonneau cover.
 productImage: /content/products/img/tylny-bagaznik-cargo.jpg
 galleryImages:

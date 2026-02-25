@@ -1,57 +1,56 @@
 ---
-lang: en
 layout: "layouts/product-en.njk"
-permalink: /products/toyota-tundra-bed-organizer-2/
-title: Truck Bed Cargo Toolbox for Toyota Tundra – Pickup Organizer & Storage Luggage Rack System
-description: Professional JUSN cargo system for Toyota Tundra. Aluminum construction, integrated luggage rack, and modular storage boxes designed for maximum truck bed organization.
+permalink: /products/organizer-skrzyni-ladunkowej-toyota-tundra/
+title: Toyota Tundra Truck Bed Organizer – Cargo System & Storage Boxes
+description: Professional JUSN cargo system for the Toyota Tundra. Aluminum construction, upper rack, and modular storage boxes ensure maximum organization of your truck bed space.
 productImage: /content/products/img/system-przech-1.webp
 categories:
-  - Pick up Truck Bed Organizer
+  - Pick up Truck Bed Organizer 2
 price: 3499
-order: 1
+order: 6
 
 # Technical data for template
 brand: JUSN
-material: Aluminum Alloy (6061), Carbon Steel (Q235)
-process: CNC Engraving, Anodizing and Spraying Coating
+material: Aluminum alloy (6061), carbon steel (Q235)
+process: CNC machining, anodizing and spray coating
 weight: 106
-shippingInfo: The lead time is 15 days, and the sea shipping plus land shipping time is about 40 days.
+shippingInfo: Lead time is 15 days, and combined sea and land shipping takes approximately 40 days.
 installation:
   difficulty: 4
   professional_required: true
-  method: OE Matching Data – Install and Play
+  method: OEM data – Plug & Play installation
 ---
 
-**Important:** Please contact us with your car VIN and a photo of the installation position to confirm compatibility with your Toyota Tundra.
+**Important:** Before placing your order, please contact us and provide your vehicle’s VIN number along with a photo of the installation area to confirm compatibility with the Toyota Tundra.
 
-Satisfy all your imaginations about pickup truck trunk storage.  
-The JUSN truck bed cargo toolbox system is a professional-grade solution designed specifically for Toyota Tundra owners who need reliable, organized, and durable storage for work and travel.
+Turn your vision of a perfectly organized pickup truck bed into reality.  
+The JUSN system is a professional solution designed for Toyota Tundra owners who demand durability, functionality, and flawless organization of their cargo space.
 
-Unlock Your Truck Bed Organization Dreams with JUSN!
+Discover a new level of truck bed organization with JUSN!
 
-### Technical Details
-* **Material:** Aluminum Alloy (6061), Carbon Steel (Q235)
-* **Manufacturing Process:** CNC Engraving, Anodizing and Spraying Coating
+### Technical Specifications
+* **Material:** Aluminum alloy (6061), carbon steel (Q235)
+* **Manufacturing process:** CNC machining, anodizing and spray coating
 
-### Features
-* **Distinctive Style:** Integral stamping and CNC processing give your pickup a bold, eye-catching appearance that stands out on the road.
-* **Weather Resistant:** Anodized and powder-coated surfaces protect against UV rays, acid rain, and rust, ensuring long-term durability.
-* **Convenient Side Access:** Top hydraulic rods allow the rack to open sideways, making loading and unloading fast and comfortable.
-* **Organized Storage Solutions:** Each side features four spacious 25-liter storage boxes for clean and efficient cargo organization.
-* **Practical Design:** Hollowed exterior panels provide hanging points for small tools and accessories.
-* **Safety First:** External lighting can be connected to brake lights, side lights, and daytime running lights for improved nighttime visibility.
-* **Multifunction Storage Options:** The top luggage rack is ideal for large items such as camping tents, suitcases, and expedition gear.
-* **Extra Storage Solutions:** Internal expansion boards accommodate additional small devices and accessories.
+### Product Features
+* **Distinctive design:** Integrated stamping and precision CNC machining give your pickup a modern, off-road look.
+* **Weather resistance:** Anodized and powder-coated surfaces protect against UV radiation, acid rain, and corrosion.
+* **Convenient side access:** Upper hydraulic struts allow the system to open sideways, significantly simplifying loading and unloading.
+* **Organized storage space:** Each side features four spacious 25-liter storage boxes, ideal for sorting and organizing your gear.
+* **Practical construction:** The perforated box surface allows for easy attachment of smaller accessories.
+* **Enhanced safety:** Option to connect additional lighting to brake lights, position lights, and daytime running lights for improved visibility after dark.
+* **Multifunctional rack:** The upper frame is perfect for carrying rooftop tents, luggage, and large expedition equipment.
+* **Additional storage options:** Internal extension panels allow installation of small devices and accessories.
 
 ### Installation
-* **Mounting Method:** OE Matching Data – Install and Play
-* **Difficulty Level:** 4 / 5
-* **Professional Installation Required:** Yes
+* **Installation method:** OEM data – Plug & Play
+* **Difficulty level:** 4 / 5
+* **Professional installation required:** Yes
 
 ### Package Contents
-* Truck Bed Storage Rack System – 1 Set
+* Truck bed organization system – 1 set
 
 ### Shipping Information
 Package weight: **106 kg**  
-Production lead time is **15 days**.  
-Estimated sea and land shipping time is approximately **40 days**.
+Production time: **15 days**  
+Estimated sea and land shipping time: **approximately 40 days**

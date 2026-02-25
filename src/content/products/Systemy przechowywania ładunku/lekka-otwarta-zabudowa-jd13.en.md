@@ -1,51 +1,38 @@
 ---
 lang: en
 layout: "layouts/product-en.njk"
-permalink: /products/jeep-gladiator-jt-heavy-duty-storage-system/
-title: Truck Bed Organizer Rack W/Light for Jeep Wrangler Gladiator JT Storage Box Bin Carrier Cargo System
-description: Professional heavy-duty cargo system for Jeep Gladiator JT. Features 8 storage boxes, dust-proof locks, integrated safety lighting, and CNC aluminum construction.
+permalink: /products/jd13-bed-rack-system/
+title: JD13 Bed Rack System
+description: The system offers multiple configurations, including side storage compartments, internal slide-out MOLLE panels, slide-out platforms, compartment organizers, and other optional solutions. The setup does not require removal of your pickup’s roller shutter.
 productImage: /content/products/img/organizer-paki-toyota-tundra.jpg
 categories:
   - Pick up Truck Bed Organizer
 price: 3899
 order: 1
 
-# Dane techniczne dla szablonu
+# Technical data for template
 brand: JUSN
-material: Aluminum Alloy (6061), Carbon Steel (Q235)
-process: CNC Engraving, Anodizing and Spraying Coating
+material: Aluminum alloy (6061), carbon steel (Q235)
+process: CNC machining, anodizing and spray coating
 weight: 106
-shippingInfo: The lead time is 15 days, and the Sea shipping plus land shipping time is about 40 days.
-installation:
+shippingInfo: Lead time is 15 days. Sea and land shipping takes approximately 40 days.
+Installation:
   difficulty: 4
   professional_required: true
-  method: OE Matching Data - Install and Play
+  method: OEM Fit – Install and Play
 ---
 
-**Important:** Please contact us with your car VIN and a photo of installation position for compatible check for your Jeep Gladiator JT.
+Make your dream of a perfectly organized cargo space a reality. The JUSN Heavy Duty system for the Jeep Gladiator is designed for the most demanding off-road and overland enthusiasts.
 
-Satisfy all your imaginations about pickup truck trunk storage. The JUSN system is a robust heavy-duty solution designed to maximize the utility of your Jeep's load space.
+Unlock the full potential of your Jeep with JUSN equipment!
 
-Unlock Your Pick up Truck Bed Organization Dreams with JUSN!
+### Key Advantages:
 
-### Technical Details:
-* **MATERIAL:** Aluminum Alloy (6061), Carbon Steel (Q235).
-* **PROCESS:** CNC Engraving, Anodizing and Spraying Coating.
-
-### Features:
-* **Distinctive Style:** Integral Stamping and CNC Processing Give Your Jeep a Unique Look That Stands out on the Road.
-* **Weather Resistant:** Special Anodized and Powder Coated Finish Against UV Rays, Acid Rain, and Rust, Ensuring Longevity.
-* **Robust Heavy Duty Design:** Engineered to withstand the rigors of off-road travel while organizing belongings into distinct categories.
-* **Dust Proof Design:** Our Dust Proof Buckle Design ensures that dirt won’t block your locks, keeping everything clean and functional.
-* **Secure and Safe:** Built-in locks protect belongings from theft, giving you peace of mind wherever you go.
-* **Organized Storage Solutions:** On each side, you'll find 4 spacious storage boxes (8 total), perfect for neat categorization.
-* **Safety First:** Enhance visibility at night by connecting external lights to the truck brake, side, and daytime running lights.
-* **Multifunction Storage Options:** The top luggage rack is perfect for large items like camping tents and suitcases.
-
-### Installation:
-* **Matching:** OE Matching Data – Install and Play.
-* **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
-* **Professional Installation Needed?** YES.
-
-### Package:
-* Storage Rack System - 1 Set.
+* **Weather Resistance:** A specialized anodized coating and powder coating protect against UV radiation, acid rain, and corrosion, ensuring long-lasting durability of the system.
+* **Solid, Reinforced Construction:** Engineered to withstand the toughest journeys. The system maximizes cargo space while allowing convenient organization into separate zones for easy access during expeditions.
+* **Practical Solutions:** The outer panels of the storage boxes feature thoughtfully designed openings that allow you to hang smaller items, keeping essentials always within reach.
+* **Dust-Resistant Design:** Special dustproof seals prevent dirt from blocking the locks, keeping the system clean and fully functional.
+* **Security and Protection:** Built-in locks secure your belongings against theft, giving you peace of mind on every trip.
+* **Organized Space:** Each side features four spacious storage compartments, making it easy to sort and quickly access your gear.
+* **Safety First:** Option to connect additional lighting to the vehicle’s brake lights, position lights, and daytime running lights to improve visibility after dark.
+* **Multifunctional Cargo Area:** The upper rack is ideal for transporting larger items such as rooftop tents or travel cases – a perfect solution for expeditions and long-distance travel.
