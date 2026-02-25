@@ -1,53 +1,62 @@
 ---
 lang: en
 layout: "layouts/product-en.njk"
-permalink: /products/chevy-colorado-truck-aluminum-canopy-cap/
-title: Chevy Colorado Truck Aluminum Canopy Cap with DIY AUX Control Switch
-description: Professional aluminum magnesium alloy canopy for Chevy Colorado. Features 3-sided opening, DIY AUX control switch for accessories, and integrated safety lighting.
-productImage: /content/products/img/zabudowa-chevy.png
+permalink: /products/truck-bed-canopy-jd10-chevrolet-colorado-2023/
+title: Truck Bed Canopy JD10 Chevrolet Colorado 2023+ 
+description: A lightweight yet extremely durable canopy distinguished by exceptional precision craftsmanship, attention to detail, and highly practical solutions that ensure comfortable everyday use. Its cohesive design perfectly complements pickup vehicles, creating a unique and refined look. This product meets the expectations of even the most demanding users, both in daily use and during expeditions to the ends of the earth.
+productImage: /content/products/img/zabudowa-eu.png
+galleryImages:
+  - /content/products/img/zabudowa-chevrolet-color-1.jpg
+  - /content/products/img/zabudowa-chevrolet-color-2.jpg
+  - /content/products/img/zabudowa-chevrolet-color-3.jpg
+  - /content/products/img/zabudowa-chevrolet-color-4.jpg
+  - /content/products/img/zabudowa-chevrolet-color-5.jpeg
 categories:
   - Pick up Canopy
 price: 4999
 order: 11
 
-# Dane techniczne dla szablonu
+# Technical data for template
 brand: JUSN
-material: Aluminum Magnesium Alloy
+material: Aluminum and magnesium alloy
 capacityStatic: 500 kg
 capacityDynamic: 300 kg
-process: CNC, Anodizing and Spraying Coating
+process: CNC Machining, Anodizing, and Powder Coating
 weight: 62 kg
-shippingInfo: The lead time is 15 days, and the Sea shipping plus land shipping time is about 40 days.
-installation:
+shippingInfo: Lead time is 15 days. Sea and land shipping takes approximately 40 days.
+Installation:
   difficulty: 4
   professional_required: true
-  method: OE Matching Data - Install and Play
+  method: OEM Fit – Install and Play
 ---
 
-**Note:** Designed for Chevy Colorado (Short Bed). Features a ventilation window for airflow.
+## Standard Canopy Equipment:
 
-Unlock your pickup bed organization dreams with JUSN! This professional canopy cap for Chevy Colorado combines a sleek, distinctive style with advanced electrical expansion options for off-roaders.
+- The canopy features opening rear and side doors; one of the side doors includes a storage compartment.  
+- Door locks are equipped with rubber seals to prevent moisture, dirt ingress, and freezing.
+- Two roof crossbars for mounting a rooftop tent or other equipment.
+- Storage compartment in the side door. 
+- Interior lighting. 
+- Third brake light. 
 
-### Technical Details:
-* **MATERIAL:** Aluminum Magnesium Alloy.
-* **PROCESS:** CNC, Anodizing and Spraying Coating.
+Lifting brackets that allow the canopy to be raised are especially useful if you plan frequent removal and want to install it using a lifting system, for example mounted to a garage ceiling. 
 
-### Features:
-* **DIY AUX Control Switch:** Comes with a built-in AUX expansion switch, allowing you to easily connect and control devices like air pumps or extra spotlights.
-* **3-Sided Opening Design:** Smart access from three sides ensures that loading and unloading your gear is fast and effortless.
-* **Weather Resistant:** Special anodized and powder-coated finish protects against UV rays and rust for long-lasting durability.
-* **Safety & Visibility:** Integrated external lights connect to brake, side, and daytime running lights. Maintains clear visibility through the rearview mirror.
-* **Independent Lighting:** Separate lighting switches inside the canopy for independent use in dark environments.
-* **Dust-Proof Locks:** Dust-proof buckle design ensures dirt won't block your locks during dusty trail drives.
-* **Exterior Expansion:** Includes a pair of exterior expansion panels for additional equipment mounting.
-* **Integrated Footrests:** Includes 2 built-in footrests for easy access to the roof area.
-* **Sturdy Construction:** High-strength mounting brackets minimize movement and noise, ensuring a silent and smooth ride.
+- Fold-out steps that allow access to the roof of the canopy. 
+- Electrical system.
+- Ventilation window.
+- Molle panel. 
 
-### Installation:
-* **Matching:** OE Matching Data – Install and Play.
-* **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
-* **Professional Installation Needed?** YES.
 
-### Package Content:
-* Canopy Body - 1 Set
-* Exterior Expansion Panels - 1 Pair
+## Optional Equipment: 
+
+- Storage compartment installed on the opposite side of the canopy.
+- Storage compartment installed on the front panel.
+- Flag mount – useful when driving in desert conditions.
+- Camping table mounted under the canopy roof.
+- Organizers tailored to the side storage compartments.
+
+We also offer high-quality slide-out platforms mounted to the truck bed floor – no drilling required.
+
+The canopy is delivered in three boxes for self-assembly. If you are not interested in assembling and installing it yourself, schedule an appointment with our service team – we will take care of everything for you. 
+
+If you do not have time to visit our service center, a tow truck can collect your vehicle from your home and return it to the same location after installation. Nothing is impossible – just get in touch with our advisors.

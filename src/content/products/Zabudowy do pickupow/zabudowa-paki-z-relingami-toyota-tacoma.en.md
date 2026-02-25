@@ -2,7 +2,7 @@
 lang: en
 layout: "layouts/product-en.njk"
 permalink: /products/toyota-tacoma-truck-topper-canopy-cap/
-title: Toyota Tacoma Truck Topper Caps Canopy with Top Horizontal Bars
+title: Truck Bed Canopy JD10 Toyota Tacoma with Top Horizontal Bars
 description: Professional JUSN aluminum magnesium alloy canopy for Toyota Tacoma. Features 3-sided opening, top horizontal bars for tents, and integrated safety lighting.
 productImage: /content/products/img/zabudowa-paki-z-relingami-toyota-tacoma.png
 categories:

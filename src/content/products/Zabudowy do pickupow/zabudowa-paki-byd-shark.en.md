@@ -1,10 +1,16 @@
 ---
 lang: en
 layout: "layouts/product-en.njk"
-permalink: /products/byd-shark-truck-bed-canopy/
-title: BYD Shark 6 Canopy Truck Bed with Top Horizontal Bar Aluminium Cap
+permalink: /products/truck-bed-canopy-jd10-byd-shark-/
+title: Truck Bed Canopy JD10 BYD Shark 6 with Top Horizontal Bar
 description: Aluminum magnesium alloy truck bed canopy for BYD Shark 6. Features 3-sided opening, integrated lighting, and AUX switch panel.
-productImage: /content/products/img/zabudowa2.png
+productImage: /content/products/img/zabudowa-eu.png
+galleryImages:
+  - /content/products/img/zabudowa-jd-10-byd-shark-1.jpg
+  - /content/products/img/zabudowa-jd-10-byd-shark-2.jpg
+  - /content/products/img/zabudowa-jd-10-byd-shark-3.jpg
+  - /content/products/img/zabudowa-jd-10-byd-shark-4.jpg
+  - /content/products/img/zabudowa-jd-10-byd-shark-5.jpg
 categories:
   - Pick up Canopy
 price: 8900

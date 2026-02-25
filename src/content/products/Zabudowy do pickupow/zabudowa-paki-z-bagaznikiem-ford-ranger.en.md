@@ -1,55 +1,61 @@
 ---
 lang: en
 layout: "layouts/product-en.njk"
-permalink: /products/ford-ranger-truck-bed-canopy-hardtop/
-title: Ford Ranger BEST Canopy Truck Bed with Top Bar Hard Cap Topper
-description: Professional JUSN aluminum magnesium alloy canopy for Ford Ranger. Features 3-sided opening, integrated lighting, and exterior expansion panels.
-productImage: /content/products/img/zabudowa-paki-z-relingami-ford-f50.png
+permalink: /products/truck-bed-canopy-jd10-ford-ranger-t9-2022/
+title: Truck Bed Canopy JD10 Ford Ranger T9 2022+
+description: A lightweight yet extremely durable canopy distinguished by exceptional precision craftsmanship, attention to detail, and highly practical solutions that ensure comfortable everyday use. Its cohesive design perfectly complements pickup vehicles, making the canopy truly unique. This product meets the expectations of even the most demanding users, both in daily operation and during expeditions to the ends of the earth.
+productImage: /content/products/img/zabudowa-eu.png
+galleryImages:
+  - /content/products/img/zabudowa-ford-ranger-jd10-1.jpg
+  - /content/products/img/zabudowa-ford-ranger-jd10-2.jpg
+  - /content/products/img/zabudowa-ford-ranger-jd10-3.jpg
+  - /content/products/img/zabudowa-ford-ranger-jd10-4.jpg
 categories:
   - Pick up Canopy
-price: 5499
+price: 5499 
 order: 6
 
-# Dane techniczne dla szablonu
+# Technical data for template
 brand: JUSN
-material: Aluminum Magnesium Alloy
+material: Aluminum and magnesium alloy
 capacityStatic: 500 kg
 capacityDynamic: 300 kg
-process: CNC, Anodizing and Spraying Coating
+process: CNC Machining, Anodizing and Powder Coating
 weight: 62 kg
-shippingInfo: The lead time is 15 days, and the Sea shipping plus land shipping time is about 40 days.
-installation:
+shippingInfo: Lead time is 15 days. Sea and land shipping takes approximately 40 days.
+Installation:
   difficulty: 4
   professional_required: true
-  method: OE Matching Data - Install and Play
+  method: OEM Fit – Install and Play
 ---
 
-**Note:** Designed for Ford Ranger (Short Bed). Features a ventilation window.
+## Standard Canopy Equipment:
 
-Unlock your pickup bed organization dreams with JUSN! This professional canopy system provides a unique and eye-catching look while offering unmatched functionality for travel and work.
+- The canopy features opening rear and side doors; one of the side doors includes a storage compartment.  
+- Door locks are equipped with rubber seals to prevent moisture, dirt ingress, and freezing.
+- Two roof crossbars for mounting a rooftop tent or other equipment.
+- Storage compartment in the side door. 
+- Interior lighting. 
+- Third brake light. 
 
-### Technical Details:
-* **MATERIAL:** Aluminum Magnesium Alloy.
-* **PROCESS:** CNC, Anodizing and Spraying Coating.
+Lifting brackets that allow the canopy to be raised are especially useful if you plan frequent removal and want to install it using a lifting system, for example mounted to a garage ceiling. 
 
-### Features:
-* **3-Sided Opening Design:** Smart access from three sides makes loading and unloading a breeze.
-* **Weather Resistant:** Special anodized and powder-coated finish protects against UV rays, acid rain, and rust.
-* **Safety First:** Integrated external lights connect to brake, side, and daytime running lights for maximum visibility.
-* **Independent Lighting:** Internal canopy lighting with separate switches for night-time convenience.
-* **Power Expansion:** AUX expansion switch to connect spotlights, air pumps, and other small devices.
-* **Multifunction Storage:** Top luggage rack is reinforced with horizontal bars, perfect for camping tents and heavy suitcases.
-* **Exterior Expansion:** Includes exterior panels for mounting additional recovery gear or tools.
-* **Dust-Proof & Secure:** Dust-proof buckle design keeps locks functional in dirty conditions, while built-in locks protect against theft.
-* **Convenient Access:** Features 2 integrated footrests for easy access to the roof rack.
-* **Clear Visibility:** Design ensures an unobstructed view through the rearview mirror.
+- Fold-out steps that allow access to the roof of the canopy. 
+- Electrical system.
+- Ventilation window.
+- Molle panel. 
 
-### Installation:
-* **Matching:** OE Matching Data – Install and Play.
-* **Difficulty Level:** 4 Stars.
-* **Professional Installation Needed?** YES.
 
-### Package Content:
-* Canopy Body - 1 Set
-* Top Horizontal Bar - 1 Pair
-* Exterior Expansion Panels - 1 Pair
+## Optional Equipment: 
+
+- Storage compartment installed on the opposite side of the canopy.
+- Storage compartment installed on the front panel.
+- Flag mount – useful when driving in desert conditions.
+- Camping table mounted under the canopy roof.
+- Organizers tailored to the side storage compartments.
+
+We also offer high-quality slide-out platforms mounted to the truck bed floor – no drilling required.
+
+The canopy is delivered in three boxes for self-assembly. If you are not interested in assembling and installing it yourself, schedule an appointment with our service team – we will take care of everything for you. 
+
+If you do not have time to visit our service center, a tow truck can collect your vehicle from your home and return it to the same location after installation. Nothing is impossible – just get in touch with our advisors.

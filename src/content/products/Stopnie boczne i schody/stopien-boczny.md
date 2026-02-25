@@ -4,6 +4,12 @@ permalink: /produkty/progi-boczne-stopnie-ford-bronco-2021-2025/
 title: Progi boczne (Stopnie) do Ford Bronco 2021-2025 
 description: Solidne progi boczne JUSN do Forda Bronco. Konstrukcja z aluminium i stali Q235, antypoślizgowa powierzchnia CNC i udźwig ponad 220 kg.
 productImage: /content/products/img/stopien-boczny.jpg
+galleryImages:
+  - /content/products/img/progi-boczne-ford-bronco-1.png
+  - /content/products/img/progi-boczne-ford-bronco-2.png
+  - /content/products/img/progi-boczne-ford-bronco-3.png
+  - /content/products/img/progi-boczne-ford-bronco-4.png
+
 categories:
   - Progi boczne i stopnie
 price: 1999

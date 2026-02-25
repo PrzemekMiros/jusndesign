@@ -1,55 +1,62 @@
 ---
 lang: en
 layout: "layouts/product-en.njk"
-permalink: /products/toyota-hilux-truck-bed-canopy-hardtop/
-title: Toyota Hilux Canopy Truck Bed with Top Bar Aluminium Cap Topper
-description: Premium JUSN aluminum magnesium alloy canopy for Toyota Hilux. 3-sided opening, integrated lighting, and exterior expansion panels for off-road gear.
-productImage: /content/products/img/zabudowa-toyota-hilux.png
+permalink: /products/truck-bed-canopy-jd10-toyota-hilux-2026/
+title: Truck Bed Canopy JD10 Toyota Hilux 2026+
+description: A lightweight yet extremely durable canopy distinguished by exceptional precision craftsmanship, attention to detail, and highly practical solutions that ensure comfortable everyday use. Its cohesive design perfectly complements pickup vehicles, making the canopy truly unique. This product meets the expectations of even the most demanding users, both in daily operation and during expeditions to the ends of the earth.
+vinNotice: Please contact us before purchase to select the correct product and verify compatibility.
+productImage: /content/products/img/zabudowa-eu.png
+galleryImages:
+  - /content/products/img/zabudowa-hilux-2026-1.jpg
+  - /content/products/img/zabudowa-hilux-2026-2.jpg
+  - /content/products/img/zabudowa-hilux-2026-3.jpg
+  - /content/products/img/zabudowa-hilux-2026-4.jpg
 categories:
   - Pick up Canopy
 price: 5499
 order: 1
 
-# Dane techniczne dla szablonu
+# Technical data for template
 brand: JUSN
-material: Aluminum Magnesium Alloy
+material: Aluminum and magnesium alloy
 capacityStatic: 500 kg
 capacityDynamic: 300 kg
-process: CNC, Anodizing and Spraying Coating
+process: CNC Machining, Anodizing and Powder Coating
 weight: 62 kg
-shippingInfo: The lead time is 15 days, and the Sea shipping plus land shipping time is about 40 days.
-installation:
+shippingInfo:
+Installation:
   difficulty: 4
   professional_required: true
-  method: OE Matching Data - Install and Play
+  method: OEM Fit – Install and Play
 ---
 
-**Note:** Specifically designed for Toyota Hilux (Short Bed). Includes a ventilation window for airflow.
+## Standard Canopy Equipment:
 
-Unlock your pickup bed organization dreams with JUSN! This professional canopy system is the ultimate solution for Toyota Hilux owners who demand style, safety, and functionality.
+- The canopy features opening rear and side doors; one of the side doors includes a storage compartment.  
+- Door locks are equipped with rubber seals to prevent moisture, dirt ingress, and freezing.
+- Two roof crossbars for mounting a rooftop tent or other equipment.
+- Storage compartment in the side door. 
+- Interior lighting. 
+- Third brake light. 
 
-### Technical Details:
-* **MATERIAL:** Aluminum Magnesium Alloy.
-* **PROCESS:** CNC, Anodizing and Spraying Coating.
+Lifting brackets that allow the canopy to be raised are especially useful if you plan frequent removal and want to install it using a lifting system, for example mounted to a garage ceiling. 
 
-### Features:
-* **3-Sided Opening Design:** Smart access from three sides ensures that loading and unloading your luggage is efficient and easy.
-* **Weather Resistant:** Special anodized and powder-coated finish protects against UV rays, acid rain, and rust.
-* **Safety First:** Integrated external lights connect to brake, side, and daytime running lights for enhanced visibility.
-* **Independent Lighting:** Internal lighting with separate switches for convenience in dark environments.
-* **Power Expansion:** AUX expansion switch allows for easy connection of devices like spotlights and air pumps.
-* **Multifunction Storage:** Reinforced top luggage rack (with horizontal bars) is ideal for heavy loads like camping tents.
-* **Exterior Expansion:** Comes with a pair of exterior expansion panels for mounting extra gear.
-* **Dust-Proof & Secure:** Dust-proof buckle design keeps locks functional, while built-in locks protect against theft.
-* **Sturdy and Silent:** High-strength mounting brackets minimize movement and noise during driving.
-* **Clear Visibility:** Strategic design maintains a clear view through the rearview mirror.
+- Fold-out steps that allow access to the roof of the canopy. 
+- Electrical system.
+- Ventilation window.
+- Molle panel. 
 
-### Installation:
-* **Matching:** OE Matching Data – Install and Play.
-* **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
-* **Professional Installation Needed?** YES.
 
-### Package Content:
-* Canopy Body - 1 Set
-* Top Horizontal Bar - 1 Pair
-* Exterior Expansion Panels - 1 Pair
+## Optional Equipment: 
+
+- Storage compartment installed on the opposite side of the canopy.
+- Storage compartment installed on the front panel.
+- Flag mount – useful when driving in desert conditions.
+- Camping table mounted under the canopy roof.
+- Organizers tailored to the side storage compartments.
+
+We also offer high-quality slide-out platforms mounted to the truck bed floor – no drilling required.
+
+The canopy is delivered in three boxes for self-assembly. If you are not interested in assembling and installing it yourself, schedule an appointment with our service team – we will take care of everything for you. 
+
+If you do not have time to visit our service center, a tow truck can collect your vehicle from your home and return it to the same location after installation. Nothing is impossible – just get in touch with our advisors.

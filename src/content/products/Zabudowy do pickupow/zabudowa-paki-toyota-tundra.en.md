@@ -1,56 +1,61 @@
 ---
 lang: en
 layout: "layouts/product-en.njk"
-permalink: /products/toyota-tundra-long-bed-canopy-storage-system/
-title: Toyota Tundra Truck Bed Canopy Hard Top W/ Light with Storage Platform Box
-description: Comprehensive JUSN canopy system for Toyota Tundra Long Bed. Includes internal storage platform, inside box, interior cross bars, and 3-sided opening.
-productImage: /content/products/img/zabudowa-toyota-tundra.jpg
+permalink: /products/truck-bed-canopy-jd10-toyota-tundra-2021/
+title: Truck Bed Canopy JD10 Toyota Tundra 2021+
+description: A lightweight yet extremely durable canopy distinguished by exceptional precision craftsmanship, attention to detail, and highly practical solutions that ensure comfortable everyday use. Its cohesive design perfectly complements pickup vehicles, making the canopy truly unique. This product meets the expectations of even the most demanding users, both in daily operation and during expeditions to the ends of the earth.
+productImage: /content/products/img/zabudowa-us.jpg
+galleryImages:
+  - /content/products/img/zabudowa-toyota-tundra-jd10-1.jpg
+  - /content/products/img/zabudowa-toyota-tundra-jd10-2.jpg
+  - /content/products/img/zabudowa-toyota-tundra-jd10-3.jpg
+  - /content/products/img/zabudowa-toyota-tundra-jd10-4.jpg
 categories:
   - Pick up Canopy
 price: 5999
 order: 7
 
-# Dane techniczne dla szablonu
+# Technical data for template
 brand: JUSN
-material: Aluminum Magnesium Alloy
+material: Aluminum and magnesium alloy
 capacityStatic: 500 kg
 capacityDynamic: 300 kg
-process: CNC, Anodizing and Spraying Coating
+process: CNC Machining, Anodizing and Powder Coating
 weight: 62 kg
-shippingInfo: The lead time is 15 days, and the Sea shipping plus land shipping time is about 40 days.
-installation:
+shippingInfo: Lead time is 15 days. Sea and land shipping takes approximately 40 days.
+Installation:
   difficulty: 4
   professional_required: true
-  method: OE Matching Data - Install and Play
+  method: OEM Fit – Install and Play
 ---
 
-**Note:** Specialized for Toyota Tundra (Long Bed). This premium bundle includes extensive interior organization tools.
+## Standard Canopy Equipment:
 
-Unlock your pickup bed organization dreams with JUSN! This isn't just a canopy; it's a complete storage ecosystem for your Tundra, featuring internal platforms and cross bars for maximum utility.
+- The canopy features opening rear and side doors; one of the side doors includes a storage compartment.  
+- Door locks are equipped with rubber seals to prevent moisture, dirt ingress, and freezing.
+- Two roof crossbars for mounting a rooftop tent or other equipment.
+- Storage compartment in the side door. 
+- Interior lighting. 
+- Third brake light. 
 
-### Technical Details:
-* **MATERIAL:** Aluminum Magnesium Alloy.
-* **PROCESS:** CNC, Anodizing and Spraying Coating.
+Lifting brackets that allow the canopy to be raised are especially useful if you plan frequent removal and want to install it using a lifting system, for example mounted to a garage ceiling. 
 
-### Features:
-* **Comprehensive Interior Storage:** Includes an internal storage platform and an inside storage box to keep your gear perfectly organized.
-* **Interior Cross Bars:** Equipped with internal bars for additional mounting points or hanging gear inside the canopy.
-* **3-Sided Opening Design:** Large side and rear panels provide easy access to the entire length of the long bed.
-* **Safety & Visibility:** External light system integrates with your truck's signals. Rearview mirror visibility is preserved.
-* **Power Expansion:** Built-in AUX expansion switch for connecting 12V devices like fridges or pumps.
-* **Weather & Dust Proof:** Specialized finishes and dust-proof buckle designs protect your cargo and the locking mechanisms.
-* **Top Luggage Capacity:** Reinforced with top horizontal bars, ready for heavy rooftop tents or oversized cargo.
-* **Convenient Access:** Includes 2 integrated footrests for easy reaching of the roof rack system.
+- Fold-out steps that allow access to the roof of the canopy. 
+- Electrical system.
+- Ventilation window.
+- Molle panel. 
 
-### Installation:
-* **Matching:** OE Matching Data – Install and Play.
-* **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
-* **Professional Installation Needed?** YES.
 
-### Package Content:
-* Canopy Body - 1 Set
-* Top Horizontal Bars - 2 PCs (1 Pair)
-* Exterior Expansion Panels - 1 Pair
-* Internal Storage Platform - 1 PCs
-* Inside Storage Box - 1 PCs
-* Interior Cross Bar - 1 Pair
+## Optional Equipment: 
+
+- Storage compartment installed on the opposite side of the canopy.
+- Storage compartment installed on the front panel.
+- Flag mount – useful when driving in desert conditions.
+- Camping table mounted under the canopy roof.
+- Organizers tailored to the side storage compartments.
+
+We also offer high-quality slide-out platforms mounted to the truck bed floor – no drilling required.
+
+The canopy is delivered in three boxes for self-assembly. If you are not interested in assembling and installing it yourself, schedule an appointment with our service team – we will take care of everything for you. 
+
+If you do not have time to visit our service center, a tow truck can collect your vehicle from your home and return it to the same location after installation. Nothing is impossible – just get in touch with our advisors.

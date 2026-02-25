@@ -1,10 +1,17 @@
 ---
 lang: en
 layout: "layouts/product-en.njk"
-permalink: /products/ford-f150-raptor-canopy-cap-storage-system/
-title: Ford F150 Raptor Pickup Bed Hard Topper Cap with Storage Platform Box
-description: Heavy-duty JUSN aluminum magnesium alloy canopy for Ford F-150 Raptor. Includes internal storage platform, toolbox, and 3-sided opening.
-productImage: /content/products/img/zabudowa-paki-z-relingami-ford-f50.png
+permalink: /products/truck-bed-canopy-jd10-ford-f150-2020/
+title: Truck Bed Canopy JD10 Ford F150 2020+
+description: A lightweight yet extremely durable canopy distinguished by exceptional precision craftsmanship, attention to detail, and highly practical solutions that ensure comfortable everyday use. Its cohesive design perfectly complements pickup vehicles, making the canopy truly unique. This product meets the expectations of even the most demanding users, both in daily operation and during expeditions to the ends of the earth.
+productImage: /content/products/img/zabudowa-us.jpg
+galleryImages:
+  - /content/products/img/zabudowa-jd10-ford-raptor-1.jpg
+  - /content/products/img/zabudowa-jd10-ford-raptor-2.jpg
+  - /content/products/img/zabudowa-jd10-ford-raptor-3.jpg
+  - /content/products/img/zabudowa-jd10-ford-raptor-4.jpg
+  - /content/products/img/zabudowa-jd10-ford-raptor-5.jpg
+
 categories:
   - Pick up Canopy
 price: 5999
@@ -12,44 +19,45 @@ order: 2
 
 # Technical data for template
 brand: JUSN
-material: Aluminum Magnesium Alloy
+material: Aluminum and magnesium alloy
 capacityStatic: 500 kg
 capacityDynamic: 300 kg
-process: CNC, Anodizing and Spraying Coating
+process: CNC Machining, Anodizing and Powder Coating
 weight: 62 kg
-shippingInfo: The lead time is 15 days, and the Sea shipping plus land shipping time is about 40 days.
-installation:
+shippingInfo: Lead time is 15 days. Sea and land shipping takes approximately 40 days.
+Installation:
   difficulty: 4
   professional_required: true
-  method: OE Matching Data - Install and Play
+  method: OEM Fit – Install and Play
 ---
 
-**Note:** Designed specifically for Ford F-150 Raptor (Long Bed). Features a built-in ventilation window.
+## Standard Canopy Equipment:
 
-Unlock your pickup bed organization dreams with JUSN! This premium canopy system for the F-150 Raptor is more than just a cover; it’s a complete expedition ecosystem with integrated storage platforms.
+- The canopy features opening rear and side doors; one of the side doors includes a storage compartment.  
+- Door locks are equipped with rubber seals to prevent moisture, dirt ingress, and freezing.
+- Two roof crossbars for mounting a rooftop tent or other equipment.
+- Storage compartment in the side door. 
+- Interior lighting. 
+- Third brake light. 
 
-### Technical Details:
-* **MATERIAL:** Aluminum Magnesium Alloy.
-* **PROCESS:** CNC, Anodizing and Spraying Coating.
+Lifting brackets that allow the canopy to be raised are especially useful if you plan frequent removal and want to install it using a lifting system, for example mounted to a garage ceiling. 
 
-### Features:
-* **Internal Storage Ecosystem:** Features an internal storage platform and an inside storage box to maximize vertical space.
-* **3-Sided Opening Design:** Smart access via 3 doors makes loading and unloading effortless during expeditions.
-* **Safety & Visibility:** Integrated external lights connect to brake and side lights. Rearview visibility remains unobstructed.
-* **Power Expansion:** Built-in AUX expansion switch for connecting air pumps, fridges, or spotlights.
-* **Weather & Dust Resistant:** Specialized anodized finish protects against UV and rust; dust-proof buckles keep locks functional.
-* **Heavy Duty Roof:** Reinforced horizontal bars support heavy loads like rooftop tents.
-* **Independent Lighting:** Internal canopy lights with separate switches for night-time utility.
-* **Built-in Footrests:** Includes 2 integrated footrests for easy roof access.
+- Fold-out steps that allow access to the roof of the canopy. 
+- Electrical system.
+- Ventilation window.
+- Molle panel. 
 
-### Installation:
-* **Matching:** OE Matching Data – Install and Play.
-* **Difficulty Level:** 4 Stars (Highest Rating: 5 Stars).
-* **Professional Installation Needed?** YES.
 
-### Package Content:
-* Canopy Body - 1 Set
-* Top Horizontal Bar - 2 PCs (1 Pair)
-* Exterior Expansion Panels - 1 Pair
-* Internal Storage Platform - 1 PCs
-* Inside Storage Box - 1 PCs
+## Optional Equipment: 
+
+- Storage compartment installed on the opposite side of the canopy.
+- Storage compartment installed on the front panel.
+- Flag mount – useful when driving in desert conditions.
+- Camping table mounted under the canopy roof.
+- Organizers tailored to the side storage compartments.
+
+We also offer high-quality slide-out platforms mounted to the truck bed floor – no drilling required.
+
+The canopy is delivered in three boxes for self-assembly. If you are not interested in assembling and installing it yourself, schedule an appointment with our service team – we will take care of everything for you. 
+
+If you do not have time to visit our service center, a tow truck can collect your vehicle from your home and return it to the same location after installation. Nothing is impossible – just get in touch with our advisors.

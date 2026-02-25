@@ -6,7 +6,7 @@ title: 2021 - 2025 Ford Bronco Side Steps, Truck Step Running Boards Sliders - 4
 description: Professional aluminum/steel side steps for Ford Bronco (2021-2025). No drilling required, anti-slip CNC surface, and 350 lbs capacity. Set of 4.
 productImage: /content/products/img/stopienboczny.jpg
 categories:
-  - Side Steps & Running Boards
+  - Side Steps & Running Boards 2
 price: 899
 order: 1
 
