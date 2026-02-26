@@ -208,11 +208,12 @@
     {% set dropdownTsStorage = "Organizery bocznych schowków" %}
     {% set dropdownSlidingPlatform = "Platformy wysuwane JD12" %}
     {% set shopCtaText = "Przejdź do sklepu" %}
+    {% set shopCtaUrl = "https://ore4x4.pl/pl/brand/35-jusn-design" %}
     {% set menuToggleLabel = "Otwórz menu" %}
     {% if isEn %}
       {% set navOffer = "Offer" %}
       {% set navGallery = "Gallery" %}
-      {% set navContact = "Catalog" %}
+      {% set navCatalog = "Catalog" %}
       {% set navContact = "Contact" %}
       {% set megaTitleCategories = "Categories" %}
       {% set megaTitleFeatured = "Featured" %}
@@ -245,6 +246,7 @@
       {% set dropdownOther = "Other offroad accessories" %}
       {% set dropdownTsStorage = "Truck side storage organizers" %}
       {% set shopCtaText = "Visit shop" %}
+      {% set shopCtaUrl = "https://ore4x4.pl/en/brand/35-jusn-design" %}
       {% set menuToggleLabel = "Open menu" %}
     {% endif %}
 
@@ -438,7 +440,7 @@
                 </div>
 
                   
-                <a href="https://ore4x4.pl/pl/103-hardtopy-zabudowy" target="_blank" title="{{ shopCtaText }}" class="button-anim btn-write d-none d-lg-flex">
+                <a href="{{ shopCtaUrl }}" target="_blank" title="{{ shopCtaText }}" class="button-anim btn-write d-none d-lg-flex">
                   <div class="button-anim-text">
                     <span>{{ shopCtaText }}</span>
                     <span>{{ shopCtaText }}</span>
