@@ -8,7 +8,7 @@ productImage: /content/products/img/platforma-wysuwana.png
 galleryImages:
   - /content/products/img/platforma-wysuwana2.png
 categories:
-  - Pick up Truck Bed Organizer
+  - Sliding Platforms JD12
 price: 0
 order: 4
 

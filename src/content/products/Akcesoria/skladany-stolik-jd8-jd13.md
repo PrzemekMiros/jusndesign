@@ -3,7 +3,7 @@ lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/stolik-turystyczny-do-zabudowy-jd10-jd13/
 title: Stolik turystyczny do zabudowy JD10 i JD13
-description: Składany stolik przeznaczony do platform JD-10 oraz JD-13. Praktyczny, kompaktowy i łatwy do przechowywania.
+description: Składany stolik przeznaczony do platform JD-10 oraz JD-13. Praktyczny, kompaktowy i łatwy do przechowywania. Stolik jest montowany pod dachem zabudowy, można go wygodnie wyjmować i wkładać przy w pełni załadowanej zabudowie.
 productImage: /content/products/img/skladany-stolik.jpg
 categories:
   - Inne akcesoria

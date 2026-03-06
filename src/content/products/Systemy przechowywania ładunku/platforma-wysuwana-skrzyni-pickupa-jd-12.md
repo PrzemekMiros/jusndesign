@@ -8,7 +8,7 @@ productImage: /content/products/img/platforma-wysuwana.png
 galleryImages:
   - /content/products/img/platforma-wysuwana2.png
 categories:
-  - Systemy przechowywania ładunku
+  - Platformy wysuwane JD12
 price: 0
 order: 4
 
