@@ -6,7 +6,12 @@ title: JD12 Slide-Out Platform
 description: JD-12 is a heavy-duty slide-out platform for pickup truck beds. Designed for vehicles of all sizes, featuring non-invasive installation and multiple size variants.
 productImage: /content/products/img/platforma-wysuwana.png
 galleryImages:
-  - /content/products/img/platforma-wysuwana2.png
+  - /content/products/img/platforma-wysuwana-jd12-1.png
+  - /content/products/img/platforma-wysuwana-jd12-2.png
+  - /content/products/img/platforma-wysuwana-jd12-3.png
+  - /content/products/img/platforma-wysuwana-jd12-4.png
+  - /content/products/img/platforma-wysuwana-jd12-5.png
+  - /content/products/img/platforma-wysuwana-jd12-6.png
 categories:
   - Sliding Platforms JD12
 price: 0
