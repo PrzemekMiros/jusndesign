@@ -26,7 +26,7 @@
                 data-image-alt="{{ title }}"
                 aria-label="Pokaż zdjęcie 1"
               >
-                <img src="{{ productImage }}" alt="{{ title }} - 1" class="thumb-image rounded-md">
+                {% productThumb productImage, title + " - 1" %}
               </button>
               {% for image in galleryImages %}
                 <button
@@ -37,7 +37,7 @@
                   data-image-alt="{{ title }} - {{ loop.index + 1 }}"
                   aria-label="Pokaż zdjęcie {{ loop.index + 1 }}"
                 >
-                  <img src="{{ image }}" alt="{{ title }} - {{ loop.index + 1 }}" class="thumb-image rounded-md">
+                  {% productThumb image, title + " - " + (loop.index + 1) %}
                 </button>
               {% endfor %}
             </div>
