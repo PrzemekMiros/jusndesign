@@ -12,6 +12,7 @@
 .contact-list li a {
   display: flex;
   align-items: center;
+  line-break: anywhere;
 }
 
 .contact-list svg {

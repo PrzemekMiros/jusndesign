@@ -1,11 +1,11 @@
 {% include "partials/header.njk" %}
 
-<article class="product-page pt-xlarge">
+<article class="product-page pt-large pt-md-xlarge">
   <div class="container">
     <div class="bg-light-1 rounded-md p-3 p-md-5">
       <div class="p-md-3">
 
-      <div class="product-main row">
+      <div class="product-main row g-md-5">
         <div class="col-md-6 product-gallery" data-product-gallery>
           <a
             href="{{ productImage | url }}"
@@ -80,20 +80,6 @@
                 </svg>
               </div>
             </a>
-            <a href="mailto:contact@jusndesigneurope.com?subject=Zapytanie o produkt: {{ title }}" title="Ask about the product" class="button-anim btn-write magnetic mt-2 fade-in" data-strength="40">
-              <div class="button-anim-text">
-<span>Ask about the product</span>
-<span>Ask about the product</span>
-              </div>
-              <div class="button-anim-icon">
-                <svg height="18" viewBox="0 0 100 100" width="18" xmlns="http://www.w3.org/2000/svg" class="icon-link" style="enable-background:new 0 0 100 100" version="1.1" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
-                  <g>
-                    <path d="M83.3,79.7c0,2-1.6,3.6-3.6,3.6H20.3c-2,0-3.6-1.6-3.6-3.6V20.3c0-2,1.6-3.6,3.6-3.6h23.4V9.5H20.3   c-6,0-10.8,4.8-10.8,10.8v59.4c0,6,4.8,10.8,10.8,10.8h59.4c6,0,10.8-4.8,10.8-10.8V56.3h-7.2V79.7z" fill="var(--color-accent-1)"></path>
-                    <polygon fill="var(--color-accent-1)" points="56.3,9.5 56.3,16.7 78.2,16.7 49.9,45 55,50.1 83.3,21.8 83.3,43.7 90.5,43.7 90.5,9.5  "></polygon>
-                  </g>
-                </svg>
-              </div>
-            </a>
 
           </div>
 
@@ -103,11 +89,11 @@
         </div>
       </div>
 
-      <div class="product-details rounded-md bg-light-2  py-3 px-3 px-md-5 mt-5">
+      <div class="product-details rounded-md bg-md-light-2 px-3 px-md-5 mt-5">
         <section class="details-tab">
           <h2 class="section-title">Product details</h2>
           
-          <div class="specs-grid bg-light-1 p-4">
+          <div class="specs-grid bg-light-1 p-md-4">
             <div class="spec-item small">
               <strong>Material:</strong> {{ material }}
             </div>
@@ -123,7 +109,7 @@
             </div>
           </div>
 
-          <div class="description-content">
+          <div class="description-content mt-5">
             {{ content | safe }}
           </div>
         </section>

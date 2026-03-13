@@ -5624,6 +5624,7 @@ html.lenis, html.lenis body {
 .contact-list li a {
   display: flex;
   align-items: center;
+  line-break: anywhere;
 }
 
 .contact-list svg {
@@ -5877,7 +5878,6 @@ form .page .invalid-input {
 }
 
 .reveal {
-  visibility: hidden;
   position: relative;
   width: 100%;
   height: 100%;
@@ -5895,6 +5895,11 @@ form .page .invalid-input {
   object-fit: cover;
 }
 
+@media (max-width: 768px) {
+  .reveal {
+    visibility: hidden;
+  }
+}
 /* Typografia i Tekst */
 .product-short-description {
   margin-bottom: 20px;
@@ -5913,14 +5918,15 @@ form .page .invalid-input {
 
 .gallery-thumbs {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(82px, 1fr));
-  gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(52px, 1fr));
+  gap: 5px;
   margin-top: 12px;
+  margin-bottom: 12px;
 }
 
 .gallery-thumb {
   border: 1px solid rgba(153, 153, 153, 0.1333333333);
-  border-radius: 15px;
+  border-radius: 8px;
   background: transparent;
   padding: 0;
   overflow: hidden;
@@ -5944,7 +5950,7 @@ form .page .invalid-input {
 
 .thumb-image {
   width: 100%;
-  height: 82px;
+  height: 52px;
   object-fit: cover;
   border-radius: 0;
   display: block;
@@ -6254,6 +6260,16 @@ form .page .invalid-input {
   }
 }
 @media (min-width: 767px) {
+  .gallery-thumbs {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(82px, 1fr));
+    gap: 10px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+  .thumb-image {
+    height: 82px;
+  }
   .products-category .products-grid h3 {
     min-height: 54px;
   }
@@ -7348,6 +7364,7 @@ hr,
 
 .policy-list {
   padding-left: 0;
+  margin: 0;
 }
 
 .policy-list li {

@@ -109,8 +109,6 @@ After installation, do a short functional test before the first real recovery.
 
 ---
 
-## Summary
-
 Choosing the right winch fairlead is straightforward when you focus on the basics: rope type, mounting dimensions and material quality.
 
 For most setups:

@@ -127,10 +127,4 @@ Najczęściej stosowane materiały to:
 
 W pojazdach terenowych popularne są prowadnice z **anodowanego aluminium**, które dobrze znoszą warunki atmosferyczne.
 
----
 
-## Rozstaw śrub montażowych
-
-Przy wyborze prowadnicy należy sprawdzić **rozstaw otworów montażowych**.
-
-Najczęściej stosowany standard to:
