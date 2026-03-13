@@ -421,6 +421,54 @@
 	});
 };
 
+	if (document.querySelector('.swiper-related')) {
+		document.querySelectorAll('.swiper-related').forEach(function(slider) {
+			if (slider.dataset.swiperBound === "true") {
+				return;
+			}
+
+			var section = slider.closest('.related-products');
+			var nextButton = section ? section.querySelector('.related-products-next') : null;
+			var prevButton = section ? section.querySelector('.related-products-prev') : null;
+			var scrollbar = section ? section.querySelector('.related-products-scrollbar') : null;
+			var slidesCount = slider.querySelectorAll('.swiper-slide').length;
+
+			new Swiper(slider, {
+				grabCursor: true,
+				slidesPerView: 1,
+				spaceBetween: 15,
+				centeredSlides: false,
+				loop: slidesCount > 1,
+				watchOverflow: true,
+				scrollbar: scrollbar ? {
+					el: scrollbar,
+					draggable: true
+				} : undefined,
+				navigation: (nextButton && prevButton) ? {
+					nextEl: nextButton,
+					prevEl: prevButton
+				} : undefined,
+				keyboard: {
+					enabled: true
+				},
+				mousewheel: false,
+				breakpoints: {
+					0: {
+						slidesPerView: 1
+					},
+					768: {
+						slidesPerView: 2
+					},
+					1200: {
+						slidesPerView: 4
+					}
+				}
+			});
+
+			slider.dataset.swiperBound = "true";
+		});
+	}
+
 
 	// Acordion
 	if (document.querySelector(".accordion")) {

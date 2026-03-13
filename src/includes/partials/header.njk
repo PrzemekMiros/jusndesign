@@ -174,11 +174,13 @@
     {% set navGallery = "Galeria" %}
     {% set navContact = "Kontakt" %}
     {% set navCatalog = "Katalog" %}
+    {% set navGuide = "Poradnik" %}
     {% set megaTitleCategories = "Kategorie" %}
     {% set megaTitleFeatured = "Polecane" %}
     {% set urlOffer = "/oferta/" %}
     {% set urlGallery = "/galeria/" %}
     {% set urlCatalog = "/katalog/" %}
+    {% set urlGuide = "/poradnik/" %}
     {% set urlContact = "/kontakt/" %}
     {% set dropdownBedOrganizers = "Zabudowy Bed Rack" %}
     {% set dropdownSideSteps = "Progi boczne i stopnie" %}
@@ -214,12 +216,14 @@
       {% set navOffer = "Offer" %}
       {% set navGallery = "Gallery" %}
       {% set navCatalog = "Catalog" %}
+      {% set navGuide = "Guide" %}
       {% set navContact = "Contact" %}
       {% set megaTitleCategories = "Categories" %}
       {% set megaTitleFeatured = "Featured" %}
       {% set urlOffer = "/offer/" %}
       {% set urlGallery = "/gallery/" %}
       {% set urlCatalog = "/catalog/" %}
+      {% set urlGuide = "/guide/" %}
       {% set urlContact = "/contact/" %}
       {% set dropdownBedOrganizers = "Pick up Truck Bed organizers" %}
       {% set dropdownSideSteps = "Side steps and running boards" %}
@@ -413,6 +417,9 @@
                       <a href="{{ langPrefix }}{{ urlCatalog }}" class="link-hover" title="{{ navCatalog }}"> {{ navCatalog }} </a>
                     </li>
                     <li>
+                      <a href="{{ langPrefix }}{{ urlGuide }}" class="link-hover" title="{{ navGuide }}"> {{ navGuide }} </a>
+                    </li>
+                    <li>
                       <a href="{{ langPrefix }}{{ urlContact }}" class="link-hover" title="{{ navContact }}"> {{ navContact }} </a>
                     </li>
                   </ul>
@@ -481,6 +488,10 @@
                   <div class="line-xh"></div>
                   <li>
                     <a href="{{ langPrefix }}{{ urlGallery }}" title="{{ navGallery }}">{{ navGallery }}</a>
+                  </li>
+                  <div class="line-xh"></div>
+                  <li>
+                    <a href="{{ langPrefix }}{{ urlGuide }}" title="{{ navGuide }}">{{ navGuide }}</a>
                   </li>
                   <div class="line-xh"></div>
                   <li>

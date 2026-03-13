@@ -98,9 +98,11 @@
     opacity: .7;
 }
 
+hr,
 .line-x {
     width: 100%;;
     height: 1px;
+    border: none;
     background: var(--color-dark-1);
     opacity: .13;
 }

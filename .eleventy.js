@@ -24,6 +24,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/assets/fonts");
     eleventyConfig.addPassthroughCopy("src/contactForm.php");
     eleventyConfig.addPassthroughCopy("src/content/posts/img"); 
+    eleventyConfig.addPassthroughCopy("src/content/articles/img"); 
     eleventyConfig.addPassthroughCopy("src/content/works/img"); 
     eleventyConfig.addPassthroughCopy("src/content/clients/img"); 
     eleventyConfig.addPassthroughCopy("src/content/reviews/img"); 
@@ -153,6 +154,10 @@ eleventyConfig.addCollection("productCategories", (collection) => {
         // Collection blog
         eleventyConfig.addCollection('posts', function(collectionApi) {
           return collectionApi.getFilteredByGlob('src/content/posts/**/*.md').reverse();
+          });
+
+        eleventyConfig.addCollection('articles', function(collectionApi) {
+          return collectionApi.getFilteredByGlob('src/content/articles/**/*.md').reverse();
           });
 
         // Collection reviews

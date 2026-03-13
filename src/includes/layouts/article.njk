@@ -1,0 +1,109 @@
+{% include "partials/header.njk" %}
+
+{% set articleHome = "Strona główna" %}
+{% set articleGuide = "Poradnik" %}
+{% set articleGuideUrl = "/poradnik/" %}
+{% set articleCategory = "Kategoria" %}
+{% set articlePublished = "Opublikowano" %}
+{% set articleAuthor = "Autor" %}
+{% set articleAuthorValue = "Ernest" %}
+{% set articlePrevious = "Poprzedni wpis" %}
+{% set articleNext = "Kolejny wpis" %}
+{% if lang == "en" %}
+  {% set articleHome = "Home" %}
+  {% set articleGuide = "Guide" %}
+  {% set articleGuideUrl = "/en/guide/" %}
+  {% set articleCategory = "Category" %}
+  {% set articlePublished = "Published" %}
+  {% set articleAuthor = "Author" %}
+  {% set articleAuthorValue = "Ernest" %}
+  {% set articlePrevious = "Previous article" %}
+  {% set articleNext = "Next article" %}
+{% endif %}
+
+<article class="article-page pt-xlarge" data-scroll-section>
+  <div class="container">
+    <div class="bg-light-1 rounded-md p-3 p-md-5">
+      <div class="p-md-3">
+        <div class="article-image-wrap article-image-wrap-wide">
+          <img src="{{ thumbnail | url }}" alt="{{ title }}" class="article-main-image">
+        </div>
+
+        <div class="article-main row mt-4 mt-md-5">
+          <div class="col-12 article-info">
+            <div class="article-info-inner">
+              <nav class="breadcrumbs uppercase small color-accent-1">
+                <a href="{{ langPrefix }}/">{{ articleHome }}</a>
+                <span>|</span>
+                <a href="{{ articleGuideUrl }}">{{ articleGuide }}</a>
+                <span>|</span>
+                <span>{{ title }}</span>
+              </nav>
+
+              <h1 class="h1 article-title">{{ title }}</h1>
+
+              <div class="article-status">
+                <div class="product-short-description">
+                  {{ description }}
+                </div>
+              </div>
+
+              <div class="article-meta-grid bg-light-2 p-4 px-md-5 rounded-md">
+                {% if tags and tags.length %}
+                  <div class="spec-item small">
+                    <strong>{{ articleCategory }}</strong>
+                    {{ tags | join(", ") }}
+                  </div>
+                {% endif %}
+                <div class="spec-item small">
+                  <strong>{{ articlePublished }}</strong>
+                  {{ date | dateDisplay }}
+                </div>
+                <div class="spec-item small">
+                  <strong>{{ articleAuthor }}</strong>
+                  {{ articleAuthorValue }}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="article-details rounded-md bg-light-2 py-3 px-3 py-md-3 px-md-5 mt-5">
+          <section class="details-tab description-content">
+            {{ content | safe }}
+          </section>
+
+          {%- if collections.articles %}
+            {%- set previousArticle = collections.articles | getPreviousCollectionItem(page) %}
+            {%- set nextArticle = collections.articles | getNextCollectionItem(page) %}
+            {%- if nextArticle or previousArticle %}
+              <section class="article-navigation my-5">
+                <div class="line-x lx-op mb-4"></div>
+                <div class="row g-3">
+                  {%- if previousArticle %}
+                    <div class="col-md-6">
+                      <a href="{{ previousArticle.url | url }}" class="article-nav-card bg-light-1 rounded-md p-4">
+                        <p class="small uppercase color-accent-1 mb-2">{{ articlePrevious }}</p>
+                        <h3 class="h4 mt-0 mb-0">{{ previousArticle.data.title }}</h3>
+                      </a>
+                    </div>
+                  {% endif %}
+                  {%- if nextArticle %}
+                    <div class="col-md-6">
+                      <a href="{{ nextArticle.url | url }}" class="article-nav-card bg-light-1 rounded-md p-4">
+                        <p class="small uppercase color-accent-1 mb-2">{{ articleNext }}</p>
+                        <h3 class="h4 mt-0 mb-0">{{ nextArticle.data.title }}</h3>
+                      </a>
+                    </div>
+                  {% endif %}
+                </div>
+              </section>
+            {%- endif %}
+          {%- endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+
+{% include "partials/footer.njk" %}

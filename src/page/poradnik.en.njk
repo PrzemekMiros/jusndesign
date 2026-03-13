@@ -1,0 +1,52 @@
+---
+lang: en
+layout: layouts/base.njk
+title: Guide
+description: Articles and practical guides from JUSN Design Europe about installation, fitment and everyday use of accessories.
+permalink: /guide/
+---
+
+<section class="pt-xlarge pb-large" data-scroll-section>
+  <div class="container">
+    <nav class="breadcrumbs uppercase small color-accent-1">
+      <a href="/en/">Home</a>
+      <span>|</span>
+      <span>{{ title }}</span>
+    </nav>
+    <h1 class="xl split-lines color-light-1 mt-3 mb-5">{{ title }}</h1>
+
+    {% set articles = collections.articles | byLang(lang) %}
+    {% if articles and articles.length %}
+      <div class="row g-4">
+        {% for article in articles %}
+          <div class="col-md-6 col-lg-4">
+            <a href="{{ article.url | url }}" class="guide-card-link">
+              <article class="guide-card rounded-md">
+                <div class="guide-card-media">
+                  <img
+                    src="{{ (article.data.thumbnail or article.data.articleImage or '/assets/img/opengraph.png') | url }}"
+                    alt="{{ article.data.title or ('Article ' + article.page.fileSlug) }}"
+                  >
+                </div>
+                <div class="guide-card-content bg-light-1 p-4">
+                  <p class="small uppercase color-accent-1 mb-2">
+                    {{ (article.data.tags | join(', ')) if article.data.tags and article.data.tags.length else 'Guide' }}
+                  </p>
+                  <h2 class="h3 mt-0 mb-3">{{ article.data.title or ('Article ' + article.page.fileSlug) }}</h2>
+                  <p class="mb-3 line-clamp-3">
+                    {{ article.data.description or 'Read the article with practical tips and technical guidance.' }}
+                  </p>
+                  <span class="color-accent-1 small">Read article &rarr;</span>
+                </div>
+              </article>
+            </a>
+          </div>
+        {% endfor %}
+      </div>
+    {% else %}
+      <div class="bg-light-1 p-4 rounded-md">
+        <p class="mb-0">No articles available.</p>
+      </div>
+    {% endif %}
+  </div>
+</section>

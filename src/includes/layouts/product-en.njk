@@ -129,6 +129,65 @@
         </section>
       </div>
 
+      {% if categories and categories.length and collections.productCategories and collections.productCategories[lang] and collections.productCategories[lang][categories[0]] %}
+        {% set relatedProducts = collections.productCategories[lang][categories[0]] | sortByOrder %}
+        {% set hasRelatedProducts = false %}
+        {% for relatedProduct in relatedProducts if relatedProduct.url != page.url %}
+          {% if loop.index <= 4 %}
+            {% set hasRelatedProducts = true %}
+          {% endif %}
+        {% endfor %}
+
+        {% if hasRelatedProducts %}
+          <section class="related-products mt-5">
+            <div class="related-products-header">
+              <div>
+                <p class="small uppercase color-accent-1 mb-0">Offer</p>
+                <h2 class="section-title mb-0">Related products</h2>
+              </div>
+              <div class="related-products-nav">
+                <button type="button" class="magnetic swiper-button-prev related-products-prev" data-strength="40" aria-label="Previous product">
+                  <svg viewBox="0 0 61 61" xmlns="http://www.w3.org/2000/svg" width="61" height="61" fill="none">
+                    <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
+                    <path d="M34.5 24L27 31.5L34.5 39" stroke-width="2" stroke="var(--color-dark-2)"></path>
+                  </svg>
+                </button>
+                <button type="button" class="magnetic swiper-button-next related-products-next" data-strength="40" aria-label="Next product">
+                  <svg viewBox="0 0 61 61" xmlns="http://www.w3.org/2000/svg" width="61" height="61" fill="none">
+                    <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
+                    <path d="M28 24L35.5 31.5L28 39" stroke-width="2" stroke="var(--color-dark-2)"></path>
+                  </svg>
+                </button>
+              </div>
+            </div>
+
+            <div class="swiper swiper-related">
+              <div class="swiper-wrapper">
+                {% for relatedProduct in relatedProducts if relatedProduct.url != page.url %}
+                  {% if loop.index <= 4 %}
+                    <div class="swiper-slide">
+                      <a href="{{ relatedProduct.url | url }}" class="related-product-link">
+                        <article class="product-card rounded-md">
+                          {% productImage relatedProduct.data.productImage, relatedProduct.data.title %}
+                          <div class="product-card-content p-4 bg-light-1">
+                            <h3 class="h4 mt-0 line-clamp-3">{{ relatedProduct.data.title }}</h3>
+                            <span class="color-accent-1 small">See more &rarr;</span>
+                          </div>
+                        </article>
+                      </a>
+                    </div>
+                  {% endif %}
+                {% endfor %}
+              </div>
+            </div>
+
+            <div class="related-products-scrollbar-wrap">
+              <div class="swiper-scrollbar related-products-scrollbar"></div>
+            </div>
+          </section>
+        {% endif %}
+      {% endif %}
+
       </div>
     </div>
   </div>
