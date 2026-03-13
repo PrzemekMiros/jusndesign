@@ -150,3 +150,7 @@ a {
 .toolbar {
   background: #111 !important;
 }
+
+.overflow-hidden {
+  overflow: hidden;
+}

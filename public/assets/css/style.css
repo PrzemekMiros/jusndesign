@@ -4371,6 +4371,10 @@ a {
   background: #111 !important;
 }
 
+.overflow-hidden {
+  overflow: hidden;
+}
+
 .transition-fade {
   opacity: 1;
   transform: none;
