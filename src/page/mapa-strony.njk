@@ -5,6 +5,9 @@ title: Mapa strony
 description: Mapa witryny
 ---
 
+{% set productPrefix = "/produkty/" %}
+{% set ignoreUrls = ["/sitemap.xml", "/robots.txt"] %}
+
 <section class="pt-xlarge pb-xlarge" data-scroll-section>
   <div class="container">
     <div class="col-md-6 mx-auto">
@@ -12,19 +15,45 @@ description: Mapa witryny
         <h2 class="split-text-lines">Strony</h2>
         <div class="line-x"></div>
         <ul class="pt-xsmall">
+            {% for item in collections.all | sort(attribute="url") %}
+              {% set url = item.url %}
+              {% if item.data.lang == lang
+                    and url
+                    and url.startsWith("/")
+                    and not url.startsWith(productPrefix)
+                    and item.data.permalink != false
+                    and item.data.title
+                    and item.data.robots != "noindex"
+                    and ignoreUrls.indexOf(url) == -1 %}
+                <div class="line-x lx-op"></div>
+                <li class="fadeIn my-4">
+                  <a href="{{ url }}" title="{{ item.data.title }}">{{ item.data.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
             <div class="line-x lx-op"></div>
-            <div class="line-x lx-op"></div>
-            <li class="fadeIn my-4">
-                <a href="{{ langPrefix }}/oferta/" title="Oferta">Oferta</a>
-            </li>
-            <div class="line-x lx-op"></div>
-            <li class="fadeIn my-4">
-                <a href="{{ langPrefix }}/kontakt/" title="Kontakt">Kontakt</a>
-            </li>
+        </ul>
+
+        <h2 class="split-text-lines mt-4">Kategorie produktów</h2>
+        <div class="line-x"></div>
+        <ul class="pt-xsmall">
+            {% for item in collections.all | sort(attribute="url") %}
+              {% set url = item.url %}
+              {% if item.data.lang == lang
+                    and url
+                    and url.startsWith(productPrefix)
+                    and item.data.permalink != false
+                    and item.data.title
+                    and item.data.robots != "noindex" %}
+                <div class="line-x lx-op"></div>
+                <li class="fadeIn my-4">
+                  <a href="{{ url }}" title="{{ item.data.title }}">{{ item.data.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
             <div class="line-x lx-op"></div>
         </ul>
 
     </div>
   </div>
 </section>
-

@@ -1,4 +1,5 @@
 ---
+lang: pl
 layout: "layouts/product.njk"
 permalink: /produkty/organizer-skrzyni-ladunkowej-toyota-tundra/
 title: Organizer skrzyni ładunkowej do Toyota Tundra – system bagażowy i skrzynie cargo

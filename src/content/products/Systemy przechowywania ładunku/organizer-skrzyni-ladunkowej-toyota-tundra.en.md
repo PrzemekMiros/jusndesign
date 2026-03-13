@@ -1,6 +1,6 @@
 ---
 layout: "layouts/product-en.njk"
-permalink: /products/organizer-skrzyni-ladunkowej-toyota-tundra/
+permalink: /products/bed-rack-system-toyota-tundra/
 title: Toyota Tundra Truck Bed Organizer – Cargo System & Storage Boxes
 description: Professional JUSN cargo system for the Toyota Tundra. Aluminum construction, upper rack, and modular storage boxes ensure maximum organization of your truck bed space.
 productImage: /content/products/img/system-przech-1.webp
