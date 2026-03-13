@@ -11,17 +11,17 @@
 
 .site-header-wrap {
   position: relative;
-  padding: 0.75em 1em;
+  padding: 0 1em 0;
 }
 
 .site-header-wrap::before {
   position: absolute;
   content: ""; 
   left: 0; 
-  top: 0;
   right: 0;
-  bottom: 0;
-  border-radius: 15px;
+  top: -0.75em;
+  bottom: -0.75em;
+  border-radius: 12px;
   background-color: var(--color-dark-1);
   box-shadow: 0 5px 15px #1111;
   transition: all .6s ease-in-out .3s;
@@ -92,7 +92,7 @@
 }
 
 .desktop-nav ul li:not(.mega-menu ul li) {
-  padding: 1em 1.5em;
+  padding: 1.75em 1.5em;
   font-weight: 500;
   font-size: 85%;
   color: #fff;
@@ -103,10 +103,6 @@
 .desktop-nav ul li a.link-active,
 .desktop-nav ul li a:hover {
   color: var(--color-accent-1)
-}
-
-.has-dropdown {
-  position: relative;
 }
 
 .has-dropdown .dropdown {
@@ -143,25 +139,25 @@
 .mega-menu {
   position: absolute;
   top: 100%;
-  left: 100%;
-  width: min(780px, 100vw);
+  left: 0%;
+  width: 99%;
   background-color: var(--color-dark-1);
   box-shadow: 0 12px 30px #1116;
-  border-radius: 16px;
+  border-radius: 12px;
   padding: 22px;
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
-  transform: translateX(-43%) translateY(40px);
+  transform: translateY(-20px);
   transition: opacity .25s ease, transform .25s ease, visibility 0s linear .25s;
   z-index: 1000;
 }
 
 .has-dropdown:hover .mega-menu {
   opacity: 0.98;
-  visibility: visible;
+  visibility: visible; 
   pointer-events: auto;
-  transform: translateX(-43%) translateY(0px);
+  transform: translateY(0px);
   transition-delay: 0s;
 }
 
@@ -170,7 +166,7 @@
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
-  transform: translateX(-43%) translateY(16px);
+  transform: translateY(-20px);
   transition: opacity .22s ease .3s, transform .22s ease .3s, visibility 0s linear .52s;
 }
 
@@ -269,37 +265,22 @@
   margin-top: -10px;
 }
 
-
-
-
 @media(min-width:767px) {
-  .mega-menu {
-  width: min(600px, 100vw);
-}
 .mega-featured {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 }
 @media(min-width:1024px) {
-  .mega-menu {
-  width: min(900px, 100vw);
-}
 .mega-featured {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 }
 @media(min-width:1200px) {
-  .mega-menu {
-  width: min(1080px, 100vw);
-}
 .mega-featured {
   grid-template-columns: repeat(6, minmax(0, 1fr));
 }
 }
 @media(min-width:1400px) {
-  .mega-menu {
-  width: min(1460px, 100vw);
-}
 .mega-featured {
   grid-template-columns: repeat(6, minmax(0, 1fr));
 }
