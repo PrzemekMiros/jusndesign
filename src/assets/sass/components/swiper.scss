@@ -621,6 +621,12 @@
     margin-bottom: 2em;
   }
 
+  @media(min-width:767px) {
+      .swiper-works {
+    overflow: inherit;
+  }
+  }
+
   .swiper-horizontal > .swiper-scrollbar,
   .swiper-scrollbar.swiper-scrollbar-horizontal {
     height: 4px;

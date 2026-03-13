@@ -2,7 +2,7 @@
 lang: en
 title: The Best Ways to Organize Tools in a Pickup
 description: A pickup can work as a mobile workshop, but only if the cargo area is organized properly. This guide covers drawers, toolboxes, slide-out platforms and practical storage zones.
-articleImage: /content/articles/img/modulowy-bagznik.png
+articleImage: /content/articles/img/skrzynka-montowana-na-klape-5.png
 tags:
   - Use
 ---
