@@ -57,3 +57,8 @@ Unlock Your Pickup Truck Bed Organization Dreams with JUSN!
 Package weight: **30 kg**  
 Production lead time: **15 days**  
 Estimated sea and land shipping time: **approximately 40 days**
+
+
+<video controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/bedrackjd2.mp4" type="video/mp4" />
+</video>

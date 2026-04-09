@@ -7403,6 +7403,8 @@ hr,
   aspect-ratio: 16/10;
   object-fit: cover;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .guide-card-content {

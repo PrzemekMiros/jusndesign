@@ -13,6 +13,7 @@ const blogImage = require('./src/shortcodes/blogImage.js');
 const workImage = require('./src/shortcodes/workImage.js');
 const productImage = require('./src/shortcodes/productImage.js');
 const productThumb = require('./src/shortcodes/productThumb.js');
+const guideCardImage = require('./src/shortcodes/guideCardImage.js');
 
 module.exports = function(eleventyConfig) {
 
@@ -43,6 +44,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addNunjucksAsyncShortcode("workImage", workImage);
     eleventyConfig.addNunjucksAsyncShortcode("productImage", productImage);
     eleventyConfig.addNunjucksAsyncShortcode("productThumb", productThumb);
+    eleventyConfig.addNunjucksAsyncShortcode("guideCardImage", guideCardImage);
 
     eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
     
