@@ -50,3 +50,8 @@ No More Aging or Breaking like Plastic. Lightweight Compared to Heavy Stainless 
 
 ### Package:
 * Side Steps - 4 PCs (Set).
+
+
+<video poster="/content/products/video/poster/progi-boczne.png" controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/progi-boczne.mp4" type="video/mp4" />
+</video>

@@ -6,7 +6,7 @@ title: Progi Boczne i Stopnie do Ford Bronco (2021-2025) - Slidery 4 szt.
 description: Profesjonalne stopnie boczne JUSN do Forda Bronco. Montaz bez wiercenia, antyposlizgowa powierzchnia CNC, udzwig 160kg. Komplet 4 sztuk.
 productImage: /content/products/img/stopienboczny.jpg
 categories:
-  - Progi boczne i stopnie 2
+  - Progi boczne i stopnie
 price: 899
 order: 1
 
@@ -55,3 +55,8 @@ Konstrukcja mechaniczna (bez elektryki) gwarantuje większą niezawodność w po
 ### Zastosowanie
 
 - Ford Bronco 2021–2025
+
+
+<video poster="/content/products/video/poster/progi-boczne.png" controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/progi-boczne.mp4" type="video/mp4" />
+</video>

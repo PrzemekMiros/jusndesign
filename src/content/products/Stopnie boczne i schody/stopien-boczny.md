@@ -58,7 +58,9 @@ Installation:
 **Uwaga dotycząca kompatybilności:**
 Progi są dostosowane do modeli Ford Bronco (2021-2025). Prosimy o informację, czy auto posiada fabryczne rock railsy, abyśmy mogli dobrać odpowiedni zestaw montażowy.
 
-
+<video poster="/content/products/video/poster/progi-boczne.png" controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/progi-boczne.mp4" type="video/mp4" />
+</video>
 
 
 
