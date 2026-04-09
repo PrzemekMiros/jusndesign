@@ -4,26 +4,24 @@ title: Zabudowy JD10
 description: Zabudowy do pickupów - wytrzymałe i funkcjonalne systemy zwiększające przestrzeń ładunkową oraz możliwości Twojego pojazdu.
 category: Zabudowy do pickupów
 ---
-
 <section class="pt-xlarge products-category">
-<div class="container">
-  {% set breadcrumbHome = "Strona główna" %}
-  {% set breadcrumbOffer = "Oferta" %}
-  {% set breadcrumbOfferUrl = "/oferta/" %}
-  {% if lang == "en" %}
-  {% set breadcrumbHome = "Home" %}
-  {% set breadcrumbOffer = "Offer" %}
-  {% set breadcrumbOfferUrl = "/offer/" %}
-  {% endif %}
-  <nav class="breadcrumbs uppercase small color-accent-1">
-    <a href="{{ langPrefix }}/">{{ breadcrumbHome }}</a>
-    <span>|</span>
-    <a href="{{ langPrefix }}{{ breadcrumbOfferUrl }}">{{ breadcrumbOffer }}</a>
-    <span>|</span>
-    <span>{{ title }}</span>
-  </nav>
-  <h1 class="xl split-lines color-light-1 mb-5 mt-3">{{ title }}</h1>
-
+  <div class="container"> 
+    {% set breadcrumbHome = "Strona główna" %} 
+    {% set breadcrumbOffer = "Oferta" %} 
+    {% set breadcrumbOfferUrl = "/oferta/" %} 
+    {% if lang == "en" %} 
+    {% set breadcrumbHome = "Home" %} 
+    {% set breadcrumbOffer = "Offer" %} 
+    {% set breadcrumbOfferUrl = "/offer/" %} 
+    {% endif %} 
+    <nav class="breadcrumbs uppercase small color-accent-1">
+      <a href="{{ langPrefix }}/">{{ breadcrumbHome }}</a>
+      <span>|</span>
+      <a href="{{ langPrefix }}{{ breadcrumbOfferUrl }}">{{ breadcrumbOffer }}</a>
+      <span>|</span>
+      <span>{{ title }}</span>
+    </nav>
+    <h1 class="xl split-lines color-light-1 mb-5 mt-3">{{ title }}</h1>
     <div class="cat-desc-content bg-light-1 p-3 p-md-5 mb-5 rounded-md">
       <div class="row g-1 g-md-5">
         <div class="col-md-4">
@@ -32,39 +30,26 @@ category: Zabudowy do pickupów
           </div>
         </div>
         <div class="col-md-8">
-<p class="mb-2">Zabudowy skrzyni ładunkowej do pickupów są montowane przede wszystkim w celu zwiększenia funkcjonalności przestrzeni ładunkowej oraz ochrony jej przed warunkami atmosferycznymi.
- </p>
-<p>Dobrze zorganizowana przestrzeń ładunkowa to klucz do komfortowego i wygodnego użytkowania pickupa.
-</p>
-             <a href="#opis" class="small color-accent-1">Czytaj więcej &rarr; </a>
-
+          <p class="mb-2">Zabudowy skrzyni ładunkowej do pickupów są montowane przede wszystkim w celu zwiększenia funkcjonalności przestrzeni ładunkowej oraz ochrony jej przed warunkami atmosferycznymi. </p>
+          <p>Dobrze zorganizowana przestrzeń ładunkowa to klucz do komfortowego i wygodnego użytkowania pickupa. </p>
+          <a href="#opis" class="small color-accent-1">Czytaj więcej &rarr; </a>
         </div>
       </div>
-    </div>
-
-  {% set products = collections.productCategories[lang][category] | sortByOrder %}
-
-  {% if products and products.length %}
-    <div class="products-grid row g-4">
-      {% for product in products %}
-         <div class="col-md-4 col-lg-3">
+    </div> 
+      {% set products = collections.productCategories[lang][category] | sortByOrder %} 
+      {% if products and products.length %} 
+      <div class="products-grid row g-4"> {% for product in products %} 
+        <div class="col-md-4 col-lg-3">
         <a href="{{ product.url | url }}">
-        <article class="product-card rounded-md">
-          {% productImage product.data.productImage, product.data.title %}
-          <div class="product-card-content p-4 bg-light-1">
-          <h3 class="h4 mt-0 line-clamp-3">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej &rarr;</a>
-          </div>
-        </article>
+          <article class="product-card rounded-md"> {% productImage product.data.productImage, product.data.title %} <div class="product-card-content p-4 bg-light-1">
+              <h3 class="h4 mt-0 line-clamp-3">{{ product.data.title }}</h3>
+              <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej &rarr;</a>
+            </div>
+          </article>
         </a>
-      </div>
-      {% endfor %}
+      </div> {% endfor %} 
+      </div> {% else %} <p>Brak produktów w tej kategorii.</p> {% endif %}
     </div>
-  {% else %}
-
-    <p>Brak produktów w tej kategorii.</p>
-  {% endif %}
-  </div>
 </section>
 <section class="cat-description pt-medium pb-large" id="opis">
   <div class="container">
@@ -72,7 +57,6 @@ category: Zabudowy do pickupów
       <div class="row g-5">
         <div class="col-md-7">
           <div class="description-content">
-
             <h3>Lepsza funkcjonalność i organizacja przestrzeni</h3>
             <p> Zabudowy wyposażone są w dodatkowe schowki w drzwiach bocznych, umożliwiające przechowywanie mniejszych, często używanych przedmiotów, które muszą być zawsze pod ręką. </p>
             <p> Opcjonalnie dostępne są dedykowane organizery do schowków bocznych. Wykonane z trwałego materiału, zamykane na suwak i wyjmowane na zewnątrz, znacznie ułatwiają dostęp oraz utrzymanie porządku. </p>
@@ -119,40 +103,40 @@ category: Zabudowy do pickupów
           </div>
         </div>
         <div class="col-md-5">
-         <div class="sticky">
-          <div class="swiper swiper-category">
-            <div class="swiper-wrapper"> {% for post in collections.works | byLang(lang) %} <div class="swiper-slide">
-                <div class="work-card bg-light-1 rounded-md">
-                  <a href="{{ post.data.thumbnail | url }}" class="glightbox work-image-wrap rounded-md" data-gallery="portfolio" data-no-swup>
-                    <svg class="img-wrapper-icon" width="34" height="34" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
-                      <polyline points="8.25 2.75,2.75 2.75,2.75 13.25,13.25 13.25" />
-                      <path d="m13.25 2.75-5.5 5.5m3-6.5h3.5v3.5" />
-                    </svg> {% workImage "src/" + post.data.thumbnail, post.data.title %} </a>
-                </div>
-              </div> {% endfor %} </div>
+          <div class="sticky">
+            <div class="swiper swiper-category">
+              <div class="swiper-wrapper"> {% for post in collections.works | byLang(lang) %} <div class="swiper-slide">
+                  <div class="work-card bg-light-1 rounded-md">
+                    <a href="{{ post.data.thumbnail | url }}" class="glightbox work-image-wrap rounded-md" data-gallery="portfolio" data-no-swup>
+                      <svg class="img-wrapper-icon" width="34" height="34" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                        <polyline points="8.25 2.75,2.75 2.75,2.75 13.25,13.25 13.25" />
+                        <path d="m13.25 2.75-5.5 5.5m3-6.5h3.5v3.5" />
+                      </svg> {% workImage "src/" + post.data.thumbnail, post.data.title %} </a>
+                  </div>
+                </div> {% endfor %} </div>
+            </div>
+            <button class="magnetic swiper-gal swiper-button-prev fade-in" data-strength="60" tabindex="0" aria-label="Previous slide">
+              <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
+                <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
+                <path d="M34.5 24L27 31.5L34.5 39" stroke-width="2" stroke="var(--color-dark-2)"></path>
+              </svg>
+            </button>
+            <button class="magnetic swiper-gal swiper-button-next fade-in" data-strength="60" tabindex="0" aria-label="Next slide">
+              <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
+                <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
+                <path d="M28 24L35.5 31.5L28 39" stroke-width="2" stroke="var(--color-dark-2)"></path>
+              </svg>
+            </button>
+            <div class="fade-in">
+              <div class="swiper-scrollbar bg-light-2"></div>
+            </div>
           </div>
-          <button class="magnetic swiper-gal swiper-button-prev fade-in" data-strength="60" tabindex="0" aria-label="Previous slide">
-            <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
-              <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
-              <path d="M34.5 24L27 31.5L34.5 39" stroke-width="2" stroke="var(--color-dark-2)"></path>
-            </svg>
-          </button>
-          <button class="magnetic swiper-gal swiper-button-next fade-in" data-strength="60" tabindex="0" aria-label="Next slide">
-            <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
-              <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
-              <path d="M28 24L35.5 31.5L28 39" stroke-width="2" stroke="var(--color-dark-2)"></path>
-            </svg>
-          </button>
-          <div class="fade-in">
-            <div class="swiper-scrollbar bg-light-2"></div>
-          </div>
-         </div>
         </div>
       </div>
+      <video controls autoplay loop muted playsinline class="mt-5 rounded-md">
+        <source src="/content/products/video/ZabudowyJD-13.mp4" type="video/mp4" />
+      </video>
+
     </div>
   </div>
 </section>
-
-
-
-

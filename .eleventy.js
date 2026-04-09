@@ -29,6 +29,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/content/clients/img"); 
     eleventyConfig.addPassthroughCopy("src/content/reviews/img"); 
     eleventyConfig.addPassthroughCopy("src/content/products/img"); 
+    eleventyConfig.addPassthroughCopy("src/content/products/video"); 
     eleventyConfig.addPassthroughCopy("src/static");
     eleventyConfig.addPassthroughCopy("src/admin");
     eleventyConfig.addPassthroughCopy("tasks.json");
