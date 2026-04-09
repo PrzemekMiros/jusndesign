@@ -57,6 +57,6 @@ Konstrukcja mechaniczna (bez elektryki) gwarantuje większą niezawodność w po
 - Ford Bronco 2021–2025
 
 
-<video poster="/content/products/video/poster/progi-boczne.png" controls autoplay loop muted playsinline class="mt-5 rounded-md">
-  <source src="/content/products/video/progi-boczne.mp4" type="video/mp4" />
+<video controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/Stopnie-boczne.mp4" type="video/mp4" />
 </video>

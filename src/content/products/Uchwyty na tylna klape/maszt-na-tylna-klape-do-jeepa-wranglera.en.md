@@ -51,3 +51,6 @@ Have you ever been challenged by the storage and installation of essential off-r
 ### Package Content:
 * 3-in-1 Tailgate Bracket - 1 Set
 
+<video controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/maszt-boczny.mp4" type="video/mp4" />
+</video>

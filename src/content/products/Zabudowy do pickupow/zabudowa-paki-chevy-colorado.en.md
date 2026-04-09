@@ -60,3 +60,7 @@ We also offer high-quality slide-out platforms mounted to the truck bed floor �
 The canopy is delivered in three boxes for self-assembly. If you are not interested in assembling and installing it yourself, schedule an appointment with our service team – we will take care of everything for you. 
 
 If you do not have time to visit our service center, a tow truck can collect your vehicle from your home and return it to the same location after installation. Nothing is impossible – just get in touch with our advisors.
+
+<video controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/zabudowy-jusn.mp4" type="video/mp4" />
+</video>

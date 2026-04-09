@@ -49,3 +49,8 @@ Cold drinks on hot days, hot drinks on cold days – you can always find the mos
 
 ### Package Content:
 * Water Cup Holder - 1 Set
+
+
+<video controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/uchwyty-na-kubki.mp4" type="video/mp4" />
+</video>

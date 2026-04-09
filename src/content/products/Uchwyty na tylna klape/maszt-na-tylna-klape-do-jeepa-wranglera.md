@@ -65,3 +65,8 @@ Jednoczesny montaż trzech akcesoriów w jednym miejscu pozwala lepiej zorganizo
 ### Zawartość zestawu
 
 - Wielofunkcyjny uchwyt 3w1 na klapę – 1 komplet  
+
+
+<video controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/maszt-boczny.mp4" type="video/mp4" />
+</video>
