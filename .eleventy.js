@@ -21,6 +21,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/assets/js");
     eleventyConfig.addPassthroughCopy("src/assets/img"); 
     eleventyConfig.addPassthroughCopy("src/assets/pdf"); 
+    eleventyConfig.addPassthroughCopy("src/assets/downloads"); 
     eleventyConfig.addPassthroughCopy("src/assets/video"); 
     eleventyConfig.addPassthroughCopy("src/assets/fonts");
     eleventyConfig.addPassthroughCopy("src/contactForm.php");

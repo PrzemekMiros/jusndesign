@@ -5257,7 +5257,7 @@ html.lenis, html.lenis body {
 
 @media (min-width: 1200px) {
   .desktop-nav ul li:not(.mega-menu ul li) {
-    padding: 1em 2.2em;
+    padding: 1em 1.6em;
   }
 }
 .button-anim {

@@ -58,3 +58,8 @@ The JD-12 platform is compatible with many pickup models, including:
 * **Professional installation required:** No
 
 JD-12 is the solution for those who want **real access to their cargo**, not just a good-looking truck bed that’s impossible to reach without acrobatics.
+
+<a href="/assets/downloads/Instrukcja_montazu-Platforma_wysuwana_do_pickupa_JD12_EN.pdf" class="magnetic btn-write button-anim fade-in mt-2" title="Instrukcja montażu" target="_blank" data-strength="40" style="transform: rotate(0.005deg); opacity: 1; visibility: inherit;">
+<div class="button-anim-text"><span>Assembly instructions</span> <span>Assembly instructions</span></div><div class="button-anim-icon"><svg height="18" viewBox="0 0 100 100" width="18" xmlns="http://www.w3.org/2000/svg" class="icon-link" style="enable-background:new 0 0 100 100" version="1.1" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M83.3,79.7c0,2-1.6,3.6-3.6,3.6H20.3c-2,0-3.6-1.6-3.6-3.6V20.3c0-2,1.6-3.6,3.6-3.6h23.4V9.5H20.3   c-6,0-10.8,4.8-10.8,10.8v59.4c0,6,4.8,10.8,10.8,10.8h59.4c6,0,10.8-4.8,10.8-10.8V56.3h-7.2V79.7z" fill="var(--color-accent-1)"></path><polygon fill="var(--color-accent-1)" points="56.3,9.5 56.3,16.7 78.2,16.7 49.9,45 55,50.1 83.3,21.8 83.3,43.7 90.5,43.7 90.5,9.5  "></polygon></g></svg>
+</div>
+</a>
