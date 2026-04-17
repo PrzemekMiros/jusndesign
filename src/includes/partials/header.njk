@@ -32,7 +32,8 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=1.0.3' | url }}">
+    {% set mainCssPath = '/assets/css/style.css' %}
+    <link rel="stylesheet" href="{{ (mainCssPath ~ '?v=' ~ (mainCssPath | assetVersion)) | url }}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
     <link rel="stylesheet" href="/static/cookieconsent.css" media="print" onload="this.media='all'">
     <style>
