@@ -93,14 +93,19 @@
         <section class="details-tab pb-small">
           <h2 class="section-title">Szczegóły produktu</h2>
           
+          {% if material or process or capacityStatic or capacityDynamic or weight %}
           <div class="specs-grid bg-light-1 p-md-4">
+            {% if material %}
             <div class="spec-item small">
               <strong>Materiał</strong> {{ material }}
             </div>
+            {% endif %}
 
-             <div class="spec-item small">
+            {% if process %}
+            <div class="spec-item small">
               <strong>Proces produkcji</strong> {{ process }}
             </div>
+            {% endif %}
 
             {% if capacityStatic %}
             <div class="spec-item small">
@@ -122,6 +127,7 @@
             </div>
             {% endif %}
           </div>
+          {% endif %}
 
           <div class="description-content mt-5">
             {{ content | safe }}

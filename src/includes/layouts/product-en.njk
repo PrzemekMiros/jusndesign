@@ -93,21 +93,34 @@
         <section class="details-tab pb-small">
           <h2 class="section-title">Product details</h2>
           
+          {% if material or process or installation or weight %}
           <div class="specs-grid bg-light-1 p-md-4">
+            {% if material %}
             <div class="spec-item small">
               <strong>Material:</strong> {{ material }}
             </div>
+            {% endif %}
+
+            {% if process %}
             <div class="spec-item small">
               <strong>Production process</strong> {{ process }}
             </div>
+            {% endif %}
+
+            {% if installation %}
             <div class="spec-item small">
                 <strong>Installation:</strong>
                 Difficulty {{ installation.difficulty }}/5 | Professional required: {{ "Yes" if installation.professional_required else "No" }}
             </div>
+            {% endif %}
+
+            {% if weight %}
             <div class="spec-item small">
               <strong>Weight:</strong> {{ weight }}
             </div>
+            {% endif %}
           </div>
+          {% endif %}
 
           <div class="description-content mt-5">
             {{ content | safe }}
