@@ -52,3 +52,8 @@ Unlock your pickup bed organization dreams with JUSN! This professional canopy s
 * Canopy Body - 1 Set
 * Top Horizontal Bar - 1 Pair
 * Exterior Expansion Panels - 1 Pair
+
+
+<video controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/zabudowy-jusn.mp4" type="video/mp4" />
+</video>

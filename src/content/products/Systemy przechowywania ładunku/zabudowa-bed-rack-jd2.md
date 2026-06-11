@@ -35,10 +35,13 @@ Zabudowa nie wymaga demontażu rolety twojego pick upa.
 * **Elastyczna przestrzeń użytkowa:** Konstrukcja pozwala na wygodne umieszczenie kanistrów z olejem lub wodą pod stelażem, podczas gdy bagaż może być bezpiecznie przewożony na górze – z łatwym dostępem.
 
 
-
 ### Zawartość zestawu
 * System zabudowy – 1 komplet
 
 ### Informacje o wysyłce
 Waga zestawu: **30 kg**  
 
+
+<video controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/bedrackjd2.mp4" type="video/mp4" />
+</video>

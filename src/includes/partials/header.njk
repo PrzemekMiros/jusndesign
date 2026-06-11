@@ -32,7 +32,8 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=1.0.3' | url }}">
+    {% set mainCssPath = '/assets/css/style.css' %}
+    <link rel="stylesheet" href="{{ (mainCssPath ~ '?v=' ~ (mainCssPath | assetVersion)) | url }}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
     <link rel="stylesheet" href="/static/cookieconsent.css" media="print" onload="this.media='all'">
     <style>
@@ -174,6 +175,7 @@
     {% set navGallery = "Galeria" %}
     {% set navContact = "Kontakt" %}
     {% set navCatalog = "Katalog" %}
+    {% set navDownloads = "Do pobrania" %}
     {% set navGuide = "Poradnik" %}
     {% set megaTitleCategories = "Kategorie" %}
     {% set megaTitleFeatured = "Polecane" %}
@@ -181,6 +183,7 @@
     {% set urlGallery = "/galeria/" %}
     {% set urlCatalog = "/katalog/" %}
     {% set urlGuide = "/poradnik/" %}
+    {% set urlDownloads = "/do-pobrania/" %}
     {% set urlContact = "/kontakt/" %}
     {% set dropdownBedOrganizers = "Zabudowy Bed Rack" %}
     {% set dropdownSideSteps = "Progi boczne i stopnie" %}
@@ -218,6 +221,7 @@
       {% set navCatalog = "Catalog" %}
       {% set navGuide = "Guide" %}
       {% set navContact = "Contact" %}
+      {% set navDownloads = "Downloads" %}
       {% set megaTitleCategories = "Categories" %}
       {% set megaTitleFeatured = "Featured" %}
       {% set urlOffer = "/offer/" %}
@@ -225,6 +229,7 @@
       {% set urlCatalog = "/catalog/" %}
       {% set urlGuide = "/guide/" %}
       {% set urlContact = "/contact/" %}
+      {% set urlDownloads = "/downloads/" %}
       {% set dropdownBedOrganizers = "Pick up Truck Bed organizers" %}
       {% set dropdownSideSteps = "Side steps and running boards" %}
       {% set dropdownSlidingPlatform = "Sliding Platforms JD12" %}
@@ -417,6 +422,9 @@
                       <a href="{{ langPrefix }}{{ urlCatalog }}" class="link-hover" title="{{ navCatalog }}"> {{ navCatalog }} </a>
                     </li>
                     <li>
+                      <a href="{{ langPrefix }}{{ urlDownloads }}" class="link-hover" title="{{ navDownloads }}"> {{ navDownloads }} </a>
+                    </li>
+                    <li>
                       <a href="{{ langPrefix }}{{ urlGuide }}" class="link-hover" title="{{ navGuide }}"> {{ navGuide }} </a>
                     </li>
                     <li>
@@ -492,6 +500,10 @@
                   <div class="line-xh"></div>
                   <li>
                     <a href="{{ langPrefix }}{{ urlGuide }}" title="{{ navGuide }}">{{ navGuide }}</a>
+                  </li>
+                  <div class="line-xh"></div>
+                  <li>
+                    <a href="{{ langPrefix }}{{ urlDownloads }}" title="{{ navDownloads }}">{{ navDownloads }}</a>
                   </li>
                   <div class="line-xh"></div>
                   <li>

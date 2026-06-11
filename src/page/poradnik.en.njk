@@ -23,10 +23,10 @@ permalink: /guide/
             <a href="{{ article.url | url }}" class="guide-card-link">
               <article class="guide-card rounded-md">
                 <div class="guide-card-media">
-                  <img
-                    src="{{ (article.data.thumbnail or article.data.articleImage or '/assets/img/opengraph.png') | url }}"
-                    alt="{{ article.data.title or ('Article ' + article.page.fileSlug) }}"
-                  >
+                  {% guideCardImage
+                    article.data.thumbnail or article.data.articleImage or '/assets/img/opengraph.png',
+                    article.data.title or ('Article ' + article.page.fileSlug)
+                  %}
                 </div>
                 <div class="guide-card-content bg-light-1 p-4">
                   <p class="small uppercase color-accent-1 mb-2">

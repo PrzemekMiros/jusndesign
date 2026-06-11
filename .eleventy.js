@@ -5,6 +5,9 @@ const { parse } = require('node-html-parser');
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const slugify = require("slugify"); 
+const fs = require("fs");
+const path = require("path");
+const crypto = require("crypto");
 
 const banner = require('./src/shortcodes/banner.js');
 const lineStatic = require('./src/shortcodes/lineStatic.js');
@@ -13,13 +16,27 @@ const blogImage = require('./src/shortcodes/blogImage.js');
 const workImage = require('./src/shortcodes/workImage.js');
 const productImage = require('./src/shortcodes/productImage.js');
 const productThumb = require('./src/shortcodes/productThumb.js');
+const guideCardImage = require('./src/shortcodes/guideCardImage.js');
 
 module.exports = function(eleventyConfig) {
+
+    eleventyConfig.addFilter("assetVersion", function(assetPath) {
+      const normalizedAssetPath = assetPath.replace(/^\//, "");
+      const fullAssetPath = path.join(__dirname, "src", normalizedAssetPath);
+
+      try {
+        const fileBuffer = fs.readFileSync(fullAssetPath);
+        return crypto.createHash("md5").update(fileBuffer).digest("hex").slice(0, 10);
+      } catch (error) {
+        return "1";
+      }
+    });
 
     eleventyConfig.addPassthroughCopy("src/assets/css");
     eleventyConfig.addPassthroughCopy("src/assets/js");
     eleventyConfig.addPassthroughCopy("src/assets/img"); 
     eleventyConfig.addPassthroughCopy("src/assets/pdf"); 
+    eleventyConfig.addPassthroughCopy("src/assets/downloads"); 
     eleventyConfig.addPassthroughCopy("src/assets/video"); 
     eleventyConfig.addPassthroughCopy("src/assets/fonts");
     eleventyConfig.addPassthroughCopy("src/contactForm.php");
@@ -43,6 +60,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addNunjucksAsyncShortcode("workImage", workImage);
     eleventyConfig.addNunjucksAsyncShortcode("productImage", productImage);
     eleventyConfig.addNunjucksAsyncShortcode("productThumb", productThumb);
+    eleventyConfig.addNunjucksAsyncShortcode("guideCardImage", guideCardImage);
 
     eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
     

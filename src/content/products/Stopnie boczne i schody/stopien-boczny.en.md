@@ -55,3 +55,7 @@ Make entering your vehicle easier and protect the sides of your Bronco with dura
 
 **Compatibility Note:**
 These side steps are designed for Ford Bronco models (2021-2025). Please let us know if your car has factory rock rails so we can provide the correct mounting kit.
+
+<video poster="/content/products/video/poster/progi-boczne.png" controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/progi-boczne.mp4" type="video/mp4" />
+</video>

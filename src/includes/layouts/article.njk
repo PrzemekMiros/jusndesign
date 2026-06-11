@@ -74,8 +74,21 @@
           </section>
 
           {%- if collections.articles %}
-            {%- set previousArticle = collections.articles | getPreviousCollectionItem(page) %}
-            {%- set nextArticle = collections.articles | getNextCollectionItem(page) %}
+            {%- set articles = collections.articles | byLang(lang) %}
+            {%- set currentIndex = -1 %}
+            {%- for item in articles %}
+              {%- if item.url == page.url %}
+                {%- set currentIndex = loop.index0 %}
+              {%- endif %}
+            {%- endfor %}
+            {%- set previousArticle = null %}
+            {%- set nextArticle = null %}
+            {%- if currentIndex > 0 %}
+              {%- set previousArticle = articles[currentIndex - 1] %}
+            {%- endif %}
+            {%- if currentIndex + 1 < articles.length %}
+              {%- set nextArticle = articles[currentIndex + 1] %}
+            {%- endif %}
             {%- if nextArticle or previousArticle %}
               <section class="article-navigation my-5">
                 <div class="line-x lx-op mb-4"></div>

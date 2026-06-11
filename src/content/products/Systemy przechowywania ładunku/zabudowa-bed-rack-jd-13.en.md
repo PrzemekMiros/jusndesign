@@ -28,3 +28,7 @@ installation:
 * **Organized storage space:** Each side includes four spacious compartments, allowing convenient sorting and quick access to necessary items.
 * **Safety first:** The option to connect additional lighting to the vehicle’s brake lights, position lights, and daytime running lights improves visibility after dark.
 * **Multifunctional cargo area:** The upper rack is ideal for transporting larger items such as rooftop tents or travel cases – a perfect solution for expeditions and long-distance journeys.
+
+<video controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/ZabudowyJD-13.mp4" type="video/mp4" />
+</video>

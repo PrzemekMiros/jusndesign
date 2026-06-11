@@ -56,7 +56,9 @@ Zimne napoje w upalne dni, gorąca kawa w mroźne poranki – dzięki temu uchwy
 * Uchwyt na kubek - 1 zestaw
 
 
-
+<video controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/uchwyty-na-kubki.mp4" type="video/mp4" />
+</video>
 
 
 

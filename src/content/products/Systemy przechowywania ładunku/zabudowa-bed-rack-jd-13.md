@@ -28,3 +28,8 @@ installation:
 * **Uporządkowana przestrzeń:** Po każdej stronie znajdują się 4 pojemne schowki, które umożliwiają wygodne segregowanie i szybkie odnajdywanie potrzebnych przedmiotów.
 * **Bezpieczeństwo przede wszystkim:** Możliwość podłączenia dodatkowego oświetlenia do świateł STOP, pozycyjnych i dziennych pojazdu zwiększa widoczność na drodze po zmroku.
 * **Wielofunkcyjna przestrzeń ładunkowa:** Górny bagażnik idealnie nadaje się do przewozu większych przedmiotów, takich jak namioty campingowe czy walizki – doskonałe rozwiązanie na wyprawy i podróże.
+
+
+<video controls autoplay loop muted playsinline class="mt-5 rounded-md">
+  <source src="/content/products/video/ZabudowyJD-13.mp4" type="video/mp4" />
+</video>
