@@ -26,6 +26,11 @@
     <meta name="twitter:title" content="{{ title }}">
     <meta name="twitter:description" content="{{ description }}">
     <meta name="twitter:image" content="https://jusndesigneurope.com/assets/img/opengraph.png">
+    {% if structuredData %}
+    <script type="application/ld+json">
+{{ structuredData | jsonify | safe }}
+    </script>
+    {% endif %}
     <link rel="icon" type="image/png" sizes="32x32" href="https://jusndesigneurope.com/assets/img/favicon/favicon.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://jusndesigneurope.com/assets/img/favicon/favicon.png">
     <link rel="mask-icon" href="https://jusndesigneurope.com/assets/img/favicon/favicon.png" color="#5bbad5">

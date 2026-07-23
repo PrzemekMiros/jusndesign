@@ -32,6 +32,10 @@ module.exports = function(eleventyConfig) {
       }
     });
 
+    eleventyConfig.addFilter("jsonify", function(value) {
+      return JSON.stringify(value, null, 2).replace(/</g, "\\u003c");
+    });
+
     eleventyConfig.addPassthroughCopy("src/assets/css");
     eleventyConfig.addPassthroughCopy("src/assets/js");
     eleventyConfig.addPassthroughCopy("src/assets/img"); 

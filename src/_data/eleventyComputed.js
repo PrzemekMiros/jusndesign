@@ -5,6 +5,234 @@ const normalizeStem = (stem) => {
   return stem.replace(/(\.en|\.pl)$/, "");
 };
 
+const SITE_URL = "https://jusndesigneurope.com";
+const SITE_NAME = "JUSN Design Europe";
+const ORGANIZATION_ID = `${SITE_URL}/#organization`;
+
+const cleanText = (value) => {
+  if (value === undefined || value === null) {
+    return undefined;
+  }
+  return value.toString().replace(/\s+/g, " ").trim() || undefined;
+};
+
+const absoluteUrl = (url) => {
+  if (!url) {
+    return undefined;
+  }
+  if (/^https?:\/\//.test(url)) {
+    return url;
+  }
+  return `${SITE_URL}${url.startsWith("/") ? "" : "/"}${url}`;
+};
+
+const compact = (value) => {
+  if (Array.isArray(value)) {
+    const items = value.map(compact).filter((item) => item !== undefined);
+    return items.length ? items : undefined;
+  }
+
+  if (value && typeof value === "object") {
+    const entries = Object.entries(value)
+      .map(([key, item]) => [key, compact(item)])
+      .filter(([, item]) => item !== undefined);
+    return entries.length ? Object.fromEntries(entries) : undefined;
+  }
+
+  if (value === "" || value === undefined || value === null) {
+    return undefined;
+  }
+
+  return value;
+};
+
+const getCanonicalUrl = (data) => absoluteUrl((data.page && data.page.url) || "/");
+
+const getIsoDate = (date) => {
+  if (!date) {
+    return undefined;
+  }
+  const parsed = new Date(date);
+  return Number.isNaN(parsed.getTime()) ? undefined : parsed.toISOString();
+};
+
+const getBreadcrumbSchema = (items) => ({
+  "@type": "BreadcrumbList",
+  itemListElement: items.map((item, index) => ({
+    "@type": "ListItem",
+    position: index + 1,
+    name: item.name,
+    item: absoluteUrl(item.url),
+  })),
+});
+
+const getOrganizationSchema = () => ({
+  "@type": "Organization",
+  "@id": ORGANIZATION_ID,
+  name: SITE_NAME,
+  url: SITE_URL,
+  logo: absoluteUrl("/assets/img/logo/logo.png"),
+  email: "contact@jusndesigneurope.com",
+  telephone: "+48 606 234 775",
+  address: {
+    "@type": "PostalAddress",
+    addressLocality: "Warka",
+    postalCode: "05-660",
+    addressCountry: "PL",
+  },
+});
+
+const getWebsiteSchema = () => ({
+  "@type": "WebSite",
+  "@id": `${SITE_URL}/#website`,
+  name: SITE_NAME,
+  url: SITE_URL,
+  publisher: {
+    "@id": ORGANIZATION_ID,
+  },
+});
+
+const getWebPageSchema = (data) => ({
+  "@type": "WebPage",
+  "@id": `${getCanonicalUrl(data)}#webpage`,
+  url: getCanonicalUrl(data),
+  name: cleanText(data.title),
+  description: cleanText(data.description),
+  inLanguage: data.lang || "pl",
+  isPartOf: {
+    "@id": `${SITE_URL}/#website`,
+  },
+});
+
+const getProductSchema = (data) => {
+  const images = [data.productImage, ...(data.galleryImages || [])]
+    .map(absoluteUrl)
+    .filter(Boolean);
+  const installation = data.installation || data.Installation;
+  const additionalProperty = [
+    data.material && {
+      "@type": "PropertyValue",
+      name: data.lang === "en" ? "Material" : "Material",
+      value: cleanText(data.material),
+    },
+    data.process && {
+      "@type": "PropertyValue",
+      name: data.lang === "en" ? "Production process" : "Proces produkcji",
+      value: cleanText(data.process),
+    },
+    data.capacityStatic && {
+      "@type": "PropertyValue",
+      name: data.lang === "en" ? "Static load capacity" : "Nosnosc statyczna",
+      value: cleanText(data.capacityStatic),
+    },
+    data.capacityDynamic && {
+      "@type": "PropertyValue",
+      name: data.lang === "en" ? "Dynamic load capacity" : "Nosnosc dynamiczna",
+      value: cleanText(data.capacityDynamic),
+    },
+    data.weight && {
+      "@type": "PropertyValue",
+      name: data.lang === "en" ? "Weight" : "Waga",
+      value: cleanText(data.weight),
+    },
+    installation && installation.method && {
+      "@type": "PropertyValue",
+      name: data.lang === "en" ? "Installation" : "Montaz",
+      value: cleanText(installation.method),
+    },
+  ].filter(Boolean);
+
+  return {
+    "@type": "Product",
+    "@id": `${getCanonicalUrl(data)}#product`,
+    name: cleanText(data.title),
+    description: cleanText(data.description),
+    image: images,
+    sku: data.page && data.page.fileSlug,
+    brand: {
+      "@type": "Brand",
+      name: cleanText(data.brand) || "JUSN",
+    },
+    manufacturer: {
+      "@id": ORGANIZATION_ID,
+    },
+    category: data.categories && data.categories.length ? data.categories.join(", ") : undefined,
+    additionalProperty,
+    offers: data.price
+      ? {
+          "@type": "Offer",
+          url: getCanonicalUrl(data),
+          priceCurrency: "PLN",
+          price: data.price.toString(),
+          availability: "https://schema.org/InStock",
+          seller: {
+            "@id": ORGANIZATION_ID,
+          },
+        }
+      : undefined,
+  };
+};
+
+const getArticleSchema = (data) => {
+  const published = getIsoDate(data.date);
+
+  return {
+    "@type": "Article",
+    "@id": `${getCanonicalUrl(data)}#article`,
+    mainEntityOfPage: {
+      "@id": `${getCanonicalUrl(data)}#webpage`,
+    },
+    headline: cleanText(data.title),
+    description: cleanText(data.description),
+    image: absoluteUrl(data.thumbnail || data.articleImage || "/assets/img/opengraph.png"),
+    datePublished: published,
+    dateModified: published,
+    inLanguage: data.lang || "pl",
+    author: {
+      "@type": "Person",
+      name: "Ernest",
+    },
+    publisher: {
+      "@id": ORGANIZATION_ID,
+    },
+  };
+};
+
+const buildStructuredData = (data) => {
+  const layout = data.layout || "";
+  const lang = data.lang || "pl";
+  const isProduct = layout.includes("product");
+  const isArticle = layout.includes("article");
+  const graph = [
+    getOrganizationSchema(),
+    getWebsiteSchema(),
+    getWebPageSchema(data),
+  ];
+
+  if (isProduct) {
+    graph.push(getBreadcrumbSchema([
+      { name: lang === "en" ? "Home" : "Strona glowna", url: lang === "en" ? "/en/" : "/" },
+      { name: lang === "en" ? "Offer" : "Oferta", url: lang === "en" ? "/en/offer/" : "/oferta/" },
+      { name: cleanText(data.title), url: (data.page && data.page.url) || "/" },
+    ]));
+    graph.push(getProductSchema(data));
+  }
+
+  if (isArticle) {
+    graph.push(getBreadcrumbSchema([
+      { name: lang === "en" ? "Home" : "Strona glowna", url: lang === "en" ? "/en/" : "/" },
+      { name: lang === "en" ? "Guide" : "Poradnik", url: lang === "en" ? "/en/guide/" : "/poradnik/" },
+      { name: cleanText(data.title), url: (data.page && data.page.url) || "/" },
+    ]));
+    graph.push(getArticleSchema(data));
+  }
+
+  return compact({
+    "@context": "https://schema.org",
+    "@graph": graph,
+  });
+};
+
 const resolveLang = (data) => {
   if (data.lang) {
     return data.lang;
@@ -73,6 +301,7 @@ module.exports = {
       pl: plUrl,
     };
   },
+  structuredData: (data) => buildStructuredData(data),
   permalink: (data) => {
     if (data.permalink === false) {
       return false;
