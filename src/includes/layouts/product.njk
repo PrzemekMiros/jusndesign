@@ -132,6 +132,36 @@
           <div class="description-content mt-5">
             {{ content | safe }}
           </div>
+
+          {% if aggregateRating or (productReviews and productReviews.length) %}
+          <section class="product-reviews mt-5">
+            <h2 class="section-title">Opinie</h2>
+            {% if aggregateRating and aggregateRating.ratingValue %}
+              <p class="small">
+                <strong>Ocena produktu:</strong>
+                {{ aggregateRating.ratingValue }}/{{ aggregateRating.bestRating | default(5) }}
+                {% if aggregateRating.reviewCount %}
+                  na podstawie {{ aggregateRating.reviewCount }} opinii
+                {% endif %}
+              </p>
+            {% endif %}
+            {% if productReviews and productReviews.length %}
+              <div class="specs-grid bg-light-1 p-md-4">
+                {% for review in productReviews %}
+                  <article class="spec-item small">
+                    <strong>{{ review.author }}</strong>
+                    {% if review.ratingValue or review.rating %}
+                      <span>{{ review.ratingValue | default(review.rating) }}/{{ review.bestRating | default(5) }}</span>
+                    {% endif %}
+                    {% if review.reviewBody or review.body or review.text or review.review %}
+                      <p>{{ review.reviewBody | default(review.body) | default(review.text) | default(review.review) }}</p>
+                    {% endif %}
+                  </article>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </section>
+          {% endif %}
         </section>
 
       </div>

@@ -56,6 +56,74 @@ const getIsoDate = (date) => {
   return Number.isNaN(parsed.getTime()) ? undefined : parsed.toISOString();
 };
 
+const toNumber = (value) => {
+  const number = typeof value === "number" ? value : Number(value);
+  return Number.isFinite(number) ? number : undefined;
+};
+
+const getRatingValue = (review) => (
+  toNumber(review && (review.ratingValue || review.rating || review.ocena))
+);
+
+const getAggregateRatingSchema = (aggregateRating, productReviews) => {
+  if (aggregateRating) {
+    const ratingValue = toNumber(aggregateRating.ratingValue || aggregateRating.rating);
+    const reviewCount = toNumber(aggregateRating.reviewCount || aggregateRating.ratingCount);
+
+    if (ratingValue && reviewCount) {
+      return {
+        "@type": "AggregateRating",
+        ratingValue,
+        reviewCount,
+        bestRating: toNumber(aggregateRating.bestRating) || 5,
+        worstRating: toNumber(aggregateRating.worstRating) || 1,
+      };
+    }
+  }
+
+  const ratings = (productReviews || [])
+    .map(getRatingValue)
+    .filter((rating) => rating !== undefined);
+
+  if (!ratings.length) {
+    return undefined;
+  }
+
+  const ratingValue = ratings.reduce((sum, rating) => sum + rating, 0) / ratings.length;
+
+  return {
+    "@type": "AggregateRating",
+    ratingValue: Number(ratingValue.toFixed(1)),
+    reviewCount: ratings.length,
+    bestRating: 5,
+    worstRating: 1,
+  };
+};
+
+const getReviewSchema = (review) => {
+  const ratingValue = getRatingValue(review);
+
+  if (!review || !ratingValue || !review.author) {
+    return undefined;
+  }
+
+  return {
+    "@type": "Review",
+    author: {
+      "@type": "Person",
+      name: cleanText(review.author),
+    },
+    datePublished: getIsoDate(review.datePublished || review.date),
+    reviewBody: cleanText(review.reviewBody || review.body || review.text || review.review),
+    reviewRating: {
+      "@type": "Rating",
+      ratingValue,
+      bestRating: toNumber(review.bestRating) || 5,
+      worstRating: toNumber(review.worstRating) || 1,
+    },
+  };
+};
+
 const getBreadcrumbSchema = (items) => ({
   "@type": "BreadcrumbList",
   itemListElement: items.map((item, index) => ({
@@ -109,6 +177,9 @@ const getProductSchema = (data) => {
     .map(absoluteUrl)
     .filter(Boolean);
   const installation = data.installation || data.Installation;
+  const productReviews = Array.isArray(data.productReviews) ? data.productReviews : [];
+  const review = productReviews.map(getReviewSchema).filter(Boolean);
+  const aggregateRating = getAggregateRatingSchema(data.aggregateRating, productReviews);
   const additionalProperty = [
     data.material && {
       "@type": "PropertyValue",
@@ -158,6 +229,8 @@ const getProductSchema = (data) => {
     },
     category: data.categories && data.categories.length ? data.categories.join(", ") : undefined,
     additionalProperty,
+    aggregateRating,
+    review,
     offers: data.price
       ? {
           "@type": "Offer",
