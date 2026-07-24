@@ -119,7 +119,7 @@ To rozwiązanie jest szczególnie popularne wśród firm budowlanych i serwisowy
 
 Jeśli pickup posiada zabudowę (canopy), warto wykorzystać boczne przestrzenie.
 
-Organizery boczne pozwalają przechowywać:
+[Organizery boczne](https://jusndesigneurope.com/produkty/organizery-bocznych-schowkow-zabudow/ "Organizery boczne") pozwalają przechowywać:
 
 - małe narzędzia
 - rękawice

@@ -38,6 +38,7 @@ collections:
     fields:
       - {label: "Klient", name: "client", widget: "string"}
       - {label: "Tytuł", name: "title", widget: "string"}
+      - {label: "Alt obrazka", name: "alt", widget: "string", required: false}
       - {label: "Opis", name: "description", widget: "text"}
       - {label: "Autor", name: "author", widget: "string"}
       - {label: "Data", name: "date", widget: "datetime"}

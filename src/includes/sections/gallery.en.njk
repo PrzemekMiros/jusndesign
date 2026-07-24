@@ -30,7 +30,7 @@
                 <path d="m13.25 2.75-5.5 5.5m3-6.5h3.5v3.5"/>
               </svg>
 
-              {% workImage "src/" + post.data.thumbnail, post.data.title %}
+              {% workImage "src/" + post.data.thumbnail, post.data.alt | default(post.data.title) %}
 
             </a>
 

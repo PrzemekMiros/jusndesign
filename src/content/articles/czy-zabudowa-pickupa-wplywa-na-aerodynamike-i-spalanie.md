@@ -9,7 +9,7 @@ tags:
 
 ---
 
-Zabudowa pickupa (tzw. *canopy*, *hardtop* lub *bed cap*) jest jednym z najczęściej montowanych akcesoriów. Chroni ładunek przed warunkami atmosferycznymi, zwiększa bezpieczeństwo transportu i pozwala lepiej zorganizować przestrzeń paki.
+[Zabudowa pickupa](https://jusndesigneurope.com/produkty/prowadnice-lin-wyciagarek/ "Zabudowa pickupa") jest jednym z najczęściej montowanych akcesoriów. Chroni ładunek przed warunkami atmosferycznymi, zwiększa bezpieczeństwo transportu i pozwala lepiej zorganizować przestrzeń paki.
 
 Wielu użytkowników pickupów zastanawia się jednak, czy montaż zabudowy wpływa na **spalanie paliwa oraz aerodynamikę pojazdu**.
 

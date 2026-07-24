@@ -154,3 +154,7 @@ a {
 .overflow-hidden {
   overflow: hidden;
 }
+
+.article-page a {
+  color: var(--color-accent-1);
+}

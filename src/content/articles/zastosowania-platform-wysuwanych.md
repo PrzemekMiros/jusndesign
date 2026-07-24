@@ -9,7 +9,7 @@ tags:
 
 ---
 
-Platformy wysuwane (ang. *pickup bed slide* lub *cargo slide*) to jedno z najbardziej praktycznych akcesoriów do organizacji przestrzeni ładunkowej pickupa. Dzięki nim można wysunąć cały ładunek z paki na zewnątrz pojazdu, co znacząco ułatwia dostęp do sprzętu i poprawia ergonomię pracy.
+[Platformy wysuwane](https://jusndesigneurope.com/produkty/platformy-wysuwane-jd12/ "Platformy wysuwane") (ang. *pickup bed slide* lub *cargo slide*) to jedno z najbardziej praktycznych akcesoriów do organizacji przestrzeni ładunkowej pickupa. Dzięki nim można wysunąć cały ładunek z paki na zewnątrz pojazdu, co znacząco ułatwia dostęp do sprzętu i poprawia ergonomię pracy.
 
 Platformy tego typu są coraz częściej stosowane zarówno w pojazdach roboczych, jak i w pickupach wykorzystywanych do wypraw, turystyki czy transportu sprzętu specjalistycznego.
 

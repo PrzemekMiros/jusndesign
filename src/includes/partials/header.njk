@@ -217,6 +217,18 @@
     {% set dropdownBasr = "Zabudowy BASR" %}
     {% set dropdownTsStorage = "Organizery bocznych schowków" %}
     {% set dropdownSlidingPlatform = "Platformy wysuwane JD12" %}
+    {% set titlePickupBuilds = "Zabudowy do pickupów JD10" %}
+    {% set titleBedOrganizers = "Zabudowy Bed Rack" %}
+    {% set titleSlidingPlatform = "Platformy wysuwane JD12" %}
+    {% set titleTsStorage = "Organizery bocznych schowków zabudów" %}
+    {% set titleToolboxes = "Skrzynki montowane na tylną klapę" %}
+    {% set titleCupHolders = "Uchwyty na kubki" %}
+    {% set titleSideSteps = "Progi boczne i stopnie" %}
+    {% set titleTailgateHandles = "Uchwyty na tylną klapę" %}
+    {% set titleWinchGuides = "Prowadnice lin wyciągarek" %}
+    {% set titleOther = "Inne akcesoria" %}
+    {% set titleRoofHandles = "Uchwyty na dach" %}
+    {% set titleBasr = "Zabudowy BASR" %}
     {% set shopCtaText = "Przejdź do sklepu" %}
     {% set shopCtaUrl = "https://ore4x4.pl/pl/brand/35-jusn-design" %}
     {% set menuToggleLabel = "Otwórz menu" %}
@@ -259,6 +271,18 @@
       {% set dropdownBasr = "BASR canopy" %}
       {% set dropdownOther = "Other offroad accessories" %}
       {% set dropdownTsStorage = "Truck side storage organizers" %}
+      {% set titlePickupBuilds = "Pick up Canopy JD10" %}
+      {% set titleBedOrganizers = "Pick up Truck Bed Organizer" %}
+      {% set titleSlidingPlatform = "Sliding Platforms JD12" %}
+      {% set titleTsStorage = "Truck side storage organizers" %}
+      {% set titleToolboxes = "Tailgate Toolbox" %}
+      {% set titleCupHolders = "Cup Holder (Air Vent)" %}
+      {% set titleSideSteps = "Side Steps & Running Boards" %}
+      {% set titleTailgateHandles = "Tailgate Bracket" %}
+      {% set titleWinchGuides = "Winch Hawse Fairlead" %}
+      {% set titleOther = "Other Off Road Accessories" %}
+      {% set titleRoofHandles = "Grab Handles" %}
+      {% set titleBasr = "BASR Canopys" %}
       {% set shopCtaText = "Visit shop" %}
       {% set shopCtaUrl = "https://ore4x4.pl/en/brand/35-jusn-design" %}
       {% set menuToggleLabel = "Open menu" %}
@@ -307,7 +331,7 @@
                           <div class="mega-col">
                             <p class="mega-title">{{ megaTitleCategories }}</p>
                             <div class="mega-featured">
-                              <a href="{{ langPrefix }}{{ urlPickupBuilds }}" class="mega-card">
+                              <a href="{{ langPrefix }}{{ urlPickupBuilds }}" class="mega-card" title="{{ titlePickupBuilds }}">
                                 <img src="/assets/img/mega/zabudowy.png" alt="{{ dropdownPickupBuilds }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
@@ -316,7 +340,7 @@
                                 </div>
                                 <span>{{ dropdownPickupBuilds }}</span>
                               </a>
-                              <a href="{{ langPrefix }}{{ urlBedOrganizers }}" class="mega-card">
+                              <a href="{{ langPrefix }}{{ urlBedOrganizers }}" class="mega-card" title="{{ titleBedOrganizers }}">
                                 <img src="/assets/img/mega/organizery.png" alt="{{ dropdownBedOrganizers }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
@@ -325,7 +349,7 @@
                                 </div>
                                 <span>{{ dropdownBedOrganizers }}</span>
                               </a>
-                              <a href="{{ langPrefix }}{{ urlSlidingPlatform }}" class="mega-card">
+                              <a href="{{ langPrefix }}{{ urlSlidingPlatform }}" class="mega-card" title="{{ titleSlidingPlatform }}">
                                 <img src="/assets/img/mega/platformy.png" alt="{{ dropdownSlidingPlatform }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
@@ -334,7 +358,7 @@
                                 </div>
                                 <span>{{ dropdownSlidingPlatform }}</span>
                               </a>
-                              <a href="{{ langPrefix }}{{ urlTsStorage }}" class="mega-card">
+                              <a href="{{ langPrefix }}{{ urlTsStorage }}" class="mega-card" title="{{ titleTsStorage }}">
                                 <img src="/assets/img/mega/organizery-boczne.png" alt="{{ dropdownTsStorage }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
@@ -343,7 +367,7 @@
                                 </div>
                                 <span>{{ dropdownTsStorage }}</span>
                               </a>
-                              <a href="{{ langPrefix }}{{ urlToolboxes }}" class="mega-card">
+                              <a href="{{ langPrefix }}{{ urlToolboxes }}" class="mega-card" title="{{ titleToolboxes }}">
                                 <img src="/assets/img/mega/skrzynki-narzedziowe.png" alt="{{ dropdownToolboxes }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
@@ -352,7 +376,7 @@
                                 </div>
                                 <span>{{ dropdownToolboxes }}</span>
                               </a>
-                              <a href="{{ langPrefix }}{{ urlCupHolders }}" class="mega-card">
+                              <a href="{{ langPrefix }}{{ urlCupHolders }}" class="mega-card" title="{{ titleCupHolders }}">
                                 <img src="/assets/img/mega/uchwyty-na-kubki.png" alt="{{ dropdownCupHolders }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
@@ -361,7 +385,7 @@
                                 </div>
                                 <span>{{ dropdownCupHolders }}</span>
                               </a>
-                              <a href="{{ langPrefix }}{{ urlSideSteps }}" class="mega-card">
+                              <a href="{{ langPrefix }}{{ urlSideSteps }}" class="mega-card" title="{{ titleSideSteps }}">
                                 <img src="/assets/img/mega/schody.png" alt="{{ dropdownSideSteps }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
@@ -370,7 +394,7 @@
                                 </div>
                                 <span>{{ dropdownSideSteps }}</span>
                               </a>
-                              <a href="{{ langPrefix }}{{ urlTailgateHandles }}" class="mega-card">
+                              <a href="{{ langPrefix }}{{ urlTailgateHandles }}" class="mega-card" title="{{ titleTailgateHandles }}">
                                 <img src="/assets/img/mega/uchwyty-na-klape.png" alt="{{ dropdownTailgateHandles }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
@@ -379,7 +403,7 @@
                                 </div>
                                 <span>{{ dropdownTailgateHandles }}</span>
                               </a>
-                              <a href="{{ langPrefix }}{{ urlWinchGuides }}" class="mega-card">
+                              <a href="{{ langPrefix }}{{ urlWinchGuides }}" class="mega-card" title="{{ titleWinchGuides }}">
                                 <img src="/assets/img/mega/prowanice-lin.png" alt="{{ dropdownWinchGuides }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
@@ -388,7 +412,7 @@
                                 </div>
                                 <span>{{ dropdownWinchGuides }}</span>
                               </a>
-                              <a href="{{ langPrefix }}{{ urlOther }}" class="mega-card">
+                              <a href="{{ langPrefix }}{{ urlOther }}" class="mega-card" title="{{ titleOther }}">
                                 <img src="/assets/img/mega/akcesoria.png" alt="{{ dropdownOther }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
@@ -397,7 +421,7 @@
                                 </div>
                                 <span>{{ dropdownOther }}</span>
                               </a>
-                              <a href="{{ langPrefix }}{{ urlRoofHandles }}" class="mega-card">
+                              <a href="{{ langPrefix }}{{ urlRoofHandles }}" class="mega-card" title="{{ titleRoofHandles }}">
                                 <img src="/assets/img/mega/uchwyty-na-dach.png" alt="{{ dropdownRoofHandles }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
@@ -406,7 +430,7 @@
                                 </div>
                                 <span>{{ dropdownRoofHandles }}</span>
                               </a>
-                              <a href="{{ langPrefix }}{{ urlBasr }}" class="mega-card">
+                              <a href="{{ langPrefix }}{{ urlBasr }}" class="mega-card" title="{{ titleBasr }}">
                                 <img src="/assets/img/mega/zabudowy-basr.png" alt="{{ dropdownBasr }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">

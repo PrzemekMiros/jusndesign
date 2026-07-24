@@ -9,13 +9,7 @@ tags:
 
 ---
 
-Prowadnica wyciągarki (ang. *fairlead*) to jeden z najważniejszych elementów systemu wyciągarki montowanej w samochodach terenowych, pickupach i pojazdach użytkowych. Choć często traktowana jest jako drobny element wyposażenia, jej właściwy dobór ma ogromny wpływ na bezpieczeństwo, trwałość liny oraz efektywność pracy wyciągarki.
-
-W tym poradniku wyjaśniamy:
-- czym jest prowadnica wyciągarki
-- jakie są jej rodzaje
-- jak dobrać odpowiedni model do swojej wyciągarki
-- na co zwrócić uwagę podczas montażu
+[Prowadnica wyciągarki](https://jusndesigneurope.com/produkty/prowadnice-lin-wyciagarek/ "Prowadnica wyciągarki") to jeden z najważniejszych elementów systemu wyciągarki montowanej w samochodach terenowych, pickupach i pojazdach użytkowych. Choć często traktowana jest jako drobny element wyposażenia, jej właściwy dobór ma ogromny wpływ na bezpieczeństwo, trwałość liny oraz efektywność pracy wyciągarki.
 
 ---
 
