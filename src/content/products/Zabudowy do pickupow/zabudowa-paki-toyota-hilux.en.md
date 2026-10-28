@@ -34,21 +34,19 @@ Installation:
 
 - The canopy features opening rear and side doors; one of the side doors includes a storage compartment.  
 - Door locks are equipped with rubber seals to prevent moisture, dirt ingress, and freezing.
-- Two roof crossbars for mounting a rooftop tent or other equipment.
-- Storage compartment in the side door. 
 - Interior lighting. 
 - Third brake light. 
-
-Lifting brackets that allow the canopy to be raised are especially useful if you plan frequent removal and want to install it using a lifting system, for example mounted to a garage ceiling. 
-
 - Fold-out steps that allow access to the roof of the canopy. 
 - Electrical system.
 - Ventilation window.
 - Molle panel. 
 
+Lifting brackets that allow the canopy to be raised are especially useful if you plan frequent removal and want to install it using a lifting system, for example mounted to a garage ceiling.
 
 ## Optional Equipment: 
 
+- Two roof crossbars for mounting a rooftop tent or other equipment.
+- Storage compartment in the side door. 
 - Storage compartment installed on the opposite side of the canopy.
 - Storage compartment installed on the front panel.
 - Flag mount – useful when driving in desert conditions.

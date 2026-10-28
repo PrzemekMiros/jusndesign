@@ -31,26 +31,23 @@ Installation:
   method: Dopasowanie OE - Install and Play
 ---
 
-
 ## Standardowe wyposażenie zabudowy:
 
 - Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
 - Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
-- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
-- Schowek w drzwiach bocznych, 
 - Oświetlenie wewnętrzne, 
 - Światło stop, 
-
-Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
-
 - Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
 - Instalacje elektryczną
 - Okno wentylacyjne
 - Panel molle 
 
+Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu.
 
 ## Opcjonalne wyposażenie: 
 
+- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
+- Schowek w drzwiach bocznych, 
 - Schowek umieszczony w drugim boku zabudowy
 - Schowek umieszczony na przednim panelu
 - Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
