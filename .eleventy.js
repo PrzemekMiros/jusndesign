@@ -56,6 +56,8 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("tasks.json");
     eleventyConfig.addWatchTarget("src/assets/sass");
     eleventyConfig.ignores.add("src/admin/**");
+    // Unpublished product drafts must never enter pages, collections or the sitemap.
+    eleventyConfig.ignores.add("src/content/products/drafts/**");
 
     eleventyConfig.addShortcode("bannerStatic", banner);
     eleventyConfig.addShortcode("lineStatic", lineStatic);
