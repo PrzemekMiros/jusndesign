@@ -10,8 +10,10 @@ brand: "JUSN"
 price: null
 sourceUrl: "https://jusndesign.com/pages/jd13-modular-bed-rack-instruction-guide"
 sourceCheckedAt: "2026-11-16"
-productImage: "/content/products/img/zderzak-przedni-jd21-placeholder-en.png"
-imagePending: true
+productImage: "/content/products/img/zderzak-przedni-jd21-1.jpg"
+galleryImages:
+  - "/content/products/img/zderzak-przedni-jd21-2.jpg"
+imageSourceUrl: "https://jusndesign.com/"
 inquiryOnly: true
 ---
 

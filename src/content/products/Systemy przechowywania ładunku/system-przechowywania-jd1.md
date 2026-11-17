@@ -3,19 +3,18 @@ lang: "pl"
 draft: false
 layout: "layouts/product.njk"
 permalink: "/produkty/system-przechowywania-jd1/"
-title: "System przechowywania paki JUSN JD1"
-description: "Rodzina systemów przechowywania JUSN JD1 do paki pickupa. Pomożemy dobrać konfigurację do pojazdu i sposobu użytkowania."
+title: "System przechowywania paki JUSN JD1 Jeep Wrangler / Gladiator JT"
+description: "System przechowywania paki JUSN JD1 do Jeep Wrangler / Gladiator JT. Zapytaj o dopasowanie i dostępność."
 categories: ["Systemy przechowywania ładunku"]
 brand: "JUSN"
 price: null
-sourceUrl: "https://jusndesign.com/collections/jd1"
+sourceUrl: "https://jusndesign.com/collections/jd1/products/jeep-wrangler-bed-organizer_02cf262d"
 sourceCheckedAt: "2026-11-16"
-productImage: "/content/products/img/system-przechowywania-jd1-placeholder.png"
-imagePending: true
+productImage: "/content/products/img/system-jd1-jeep-gladiator.jpg"
 inquiryOnly: true
 ---
 
-Rodzina systemów przechowywania JUSN JD1 do paki pickupa. Pomożemy dobrać konfigurację do pojazdu i sposobu użytkowania.
+System przechowywania paki JUSN JD1 do Jeep Wrangler / Gladiator JT. Zapytaj o dopasowanie i dostępność.
 
 ## Dostępność i dopasowanie
 

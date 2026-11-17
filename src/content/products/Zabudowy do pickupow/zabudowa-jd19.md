@@ -3,19 +3,18 @@ lang: "pl"
 draft: false
 layout: "layouts/product.njk"
 permalink: "/produkty/zabudowa-jd19/"
-title: "Zabudowa paki JUSN JD19"
-description: "Zabudowa paki JUSN JD19 do pickupa. Skontaktuj się z nami, aby dobrać wariant do swojego samochodu."
-categories: ["Zabudowy do pickupów"]
+title: "System użytkowy paki JUSN JD19 Ford F-150"
+description: "Zintegrowany system użytkowy paki JUSN JD19 do Forda F-150. Zapytaj o dopasowanie i dostępność."
+categories: ["Systemy przechowywania ładunku"]
 brand: "JUSN"
 price: null
-sourceUrl: "https://jusndesign.com/"
+sourceUrl: "https://jusndesign.com/products/jd19-rear-integratedutility-system-for-f150"
 sourceCheckedAt: "2026-11-16"
-productImage: "/content/products/img/zabudowa-jd19-placeholder.png"
-imagePending: true
+productImage: "/content/products/img/system-uzytkowy-jd19-f150.jpg"
 inquiryOnly: true
 ---
 
-Zabudowa paki JUSN JD19 do pickupa. Skontaktuj się z nami, aby dobrać wariant do swojego samochodu.
+Zintegrowany system użytkowy paki JUSN JD19 do Forda F-150. Zapytaj o dopasowanie i dostępność.
 
 ## Dostępność i dopasowanie
 

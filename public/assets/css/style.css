@@ -4938,7 +4938,7 @@ html.lenis, html.lenis body {
 .desktop-nav ul li:not(.mega-menu ul li) {
   padding: 1.75em 1.5em;
   font-weight: 500;
-  font-size: 85%;
+  font-size: 80%;
   color: #fff;
   letter-spacing: 1px;
   transition: 0.2s ease-in-out;

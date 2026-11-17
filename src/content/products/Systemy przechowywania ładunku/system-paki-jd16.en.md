@@ -3,19 +3,18 @@ lang: "en"
 draft: false
 layout: "layouts/product-en.njk"
 permalink: "/products/system-paki-jd16/"
-title: "JUSN JD16 Truck Bed System"
-description: "JUSN JD16 truck bed equipment. Ask about available configurations and fitment for your pickup."
+title: "JUSN JD16 Pickup Truck Spare Tire Carrier"
+description: "JUSN JD16 pickup truck spare tire carrier. Ask us about fitment and availability."
 categories: ["Pick up Truck Bed Organizer"]
 brand: "JUSN"
 price: null
-sourceUrl: "https://jusndesign.com/"
+sourceUrl: "https://jusndesign.com/products/jd-16-pickup-truck-spare-tire-carrier"
 sourceCheckedAt: "2026-11-16"
-productImage: "/content/products/img/system-paki-jd16-placeholder-en.png"
-imagePending: true
+productImage: "/content/products/img/uchwyt-kola-zapasowego-jd16.jpg"
 inquiryOnly: true
 ---
 
-JUSN JD16 truck bed equipment. Ask about available configurations and fitment for your pickup.
+JUSN JD16 pickup truck spare tire carrier. Ask us about fitment and availability.
 
 ## Availability and fitment
 

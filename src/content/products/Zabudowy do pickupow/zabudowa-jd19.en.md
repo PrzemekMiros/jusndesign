@@ -3,19 +3,18 @@ lang: "en"
 draft: false
 layout: "layouts/product-en.njk"
 permalink: "/products/zabudowa-jd19/"
-title: "JUSN JD19 Truck Canopy"
-description: "JUSN JD19 pickup canopy. Contact us to select a configuration for your vehicle."
-categories: ["Pick up Canopy"]
+title: "JUSN JD19 Rear Integrated Utility System for Ford F-150"
+description: "JUSN JD19 rear integrated utility system for Ford F-150. Ask us about fitment and availability."
+categories: ["Pick up Truck Bed Organizer"]
 brand: "JUSN"
 price: null
-sourceUrl: "https://jusndesign.com/"
+sourceUrl: "https://jusndesign.com/products/jd19-rear-integratedutility-system-for-f150"
 sourceCheckedAt: "2026-11-16"
-productImage: "/content/products/img/zabudowa-jd19-placeholder-en.png"
-imagePending: true
+productImage: "/content/products/img/system-uzytkowy-jd19-f150.jpg"
 inquiryOnly: true
 ---
 
-JUSN JD19 pickup canopy. Contact us to select a configuration for your vehicle.
+JUSN JD19 rear integrated utility system for Ford F-150. Ask us about fitment and availability.
 
 ## Availability and fitment
 

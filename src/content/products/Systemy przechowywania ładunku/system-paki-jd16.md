@@ -3,19 +3,18 @@ lang: "pl"
 draft: false
 layout: "layouts/product.njk"
 permalink: "/produkty/system-paki-jd16/"
-title: "System paki JUSN JD16"
-description: "Wyposażenie paki JUSN JD16. Zapytaj o dostępne konfiguracje i dopasowanie do swojego pickupa."
+title: "Uchwyt koła zapasowego JUSN JD16 do pickupa"
+description: "Uchwyt koła zapasowego JUSN JD16 do pickupa. Zapytaj o dopasowanie i dostępność."
 categories: ["Systemy przechowywania ładunku"]
 brand: "JUSN"
 price: null
-sourceUrl: "https://jusndesign.com/"
+sourceUrl: "https://jusndesign.com/products/jd-16-pickup-truck-spare-tire-carrier"
 sourceCheckedAt: "2026-11-16"
-productImage: "/content/products/img/system-paki-jd16-placeholder.png"
-imagePending: true
+productImage: "/content/products/img/uchwyt-kola-zapasowego-jd16.jpg"
 inquiryOnly: true
 ---
 
-Wyposażenie paki JUSN JD16. Zapytaj o dostępne konfiguracje i dopasowanie do swojego pickupa.
+Uchwyt koła zapasowego JUSN JD16 do pickupa. Zapytaj o dopasowanie i dostępność.
 
 ## Dostępność i dopasowanie
 

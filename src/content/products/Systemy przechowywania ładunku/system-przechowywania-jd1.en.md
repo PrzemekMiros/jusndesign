@@ -3,19 +3,18 @@ lang: "en"
 draft: false
 layout: "layouts/product-en.njk"
 permalink: "/products/system-przechowywania-jd1/"
-title: "JUSN JD1 Truck Bed Storage System"
-description: "JUSN JD1 pickup bed storage system range. Contact us to select a configuration for your vehicle and intended use."
+title: "JUSN JD1 Truck Bed Storage System for Jeep Wrangler / Gladiator JT"
+description: "JUSN JD1 truck bed storage system for Jeep Wrangler / Gladiator JT. Ask us about fitment and availability."
 categories: ["Pick up Truck Bed Organizer"]
 brand: "JUSN"
 price: null
-sourceUrl: "https://jusndesign.com/collections/jd1"
+sourceUrl: "https://jusndesign.com/collections/jd1/products/jeep-wrangler-bed-organizer_02cf262d"
 sourceCheckedAt: "2026-11-16"
-productImage: "/content/products/img/system-przechowywania-jd1-placeholder-en.png"
-imagePending: true
+productImage: "/content/products/img/system-jd1-jeep-gladiator.jpg"
 inquiryOnly: true
 ---
 
-JUSN JD1 pickup bed storage system range. Contact us to select a configuration for your vehicle and intended use.
+JUSN JD1 truck bed storage system for Jeep Wrangler / Gladiator JT. Ask us about fitment and availability.
 
 ## Availability and fitment
 

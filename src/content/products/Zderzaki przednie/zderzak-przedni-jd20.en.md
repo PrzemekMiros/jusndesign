@@ -8,10 +8,9 @@ description: "JUSN JD20 stamped front bumper for pickup trucks. Fitment and equi
 categories: ["Other Off Road Accessories"]
 brand: "JUSN"
 price: null
-sourceUrl: "https://jusndesign.com/"
+sourceUrl: "https://jusndesign.com/products/jd-20-stamped-bumper"
 sourceCheckedAt: "2026-11-16"
-productImage: "/content/products/img/zderzak-przedni-jd20-placeholder-en.png"
-imagePending: true
+productImage: "/content/products/img/zderzak-przedni-jd20.jpg"
 inquiryOnly: true
 ---
 
