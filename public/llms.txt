@@ -1,0 +1,15 @@
+# JUSN Design Europe
+
+> Zabudowy i akcesoria do pickupów / Pickup canopies and accessories.
+
+## Website
+- [Polski](https://jusndesigneurope.com/index.md): Polish homepage in Markdown.
+- [English](https://jusndesigneurope.com/en/index.md): English homepage in Markdown.
+- [Oferta](https://jusndesigneurope.com/oferta/): Products and accessories.
+- [Poradnik](https://jusndesigneurope.com/poradnik/): Guides.
+- [Do pobrania](https://jusndesigneurope.com/do-pobrania/): Downloads and installation instructions.
+- [Kontakt](https://jusndesigneurope.com/kontakt/): Contact the distributor to confirm compatibility and availability.
+- [Sitemap](https://jusndesigneurope.com/sitemap.xml): Public page index.
+
+## Access
+Public content can be read without authentication. This website does not expose a public OAuth API, MCP server or A2A agent. Use the contact page for enquiries.

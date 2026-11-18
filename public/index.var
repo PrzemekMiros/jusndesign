@@ -1,0 +1,5 @@
+URI: index.html
+Content-Type: text/html; charset=UTF-8; qs=1.0
+
+URI: index.md
+Content-Type: text/markdown; charset=UTF-8; qs=0.9

@@ -44,6 +44,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/assets/video"); 
     eleventyConfig.addPassthroughCopy("src/assets/fonts");
     eleventyConfig.addPassthroughCopy("src/contactForm.php");
+    eleventyConfig.addPassthroughCopy("src/.htaccess");
     eleventyConfig.addPassthroughCopy("src/content/posts/img"); 
     eleventyConfig.addPassthroughCopy("src/content/articles/img"); 
     eleventyConfig.addPassthroughCopy("src/content/works/img"); 
@@ -69,6 +70,9 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addNunjucksAsyncShortcode("guideCardImage", guideCardImage);
 
     eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
+    eleventyConfig.on("eleventy.after", async () => {
+      require("./scripts/build-discovery.cjs").buildDiscovery("public");
+    });
     
     eleventyConfig.addFilter("extractHeaders", function(content) {
       const root = parse(content);

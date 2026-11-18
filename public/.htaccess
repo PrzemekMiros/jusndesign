@@ -1,0 +1,27 @@
+# Root configuration: published to public_html/.htaccess by Eleventy/FTP.
+# Requires Apache 2.4 (or compatible hosting), AllowOverride FileInfo,
+# mod_headers, mod_mime, mod_rewrite and mod_negotiation.
+<IfModule mod_headers.c>
+  Header always add Link "</llms.txt>; rel=\"describedby\"; type=\"text/plain\", </sitemap.xml>; rel=\"sitemap\"; type=\"application/xml\""
+  <If "%{REQUEST_URI} =~ m#^/(en/)?(index\.(html|md|var))?$#">
+    Header always merge Vary Accept
+    Header always add Link "<index.md>; rel=\"alternate\"; type=\"text/markdown\""
+  </If>
+</IfModule>
+
+<IfModule mod_mime.c>
+  AddType application/xml .xml
+  AddType text/markdown .md
+  AddCharset UTF-8 .md .txt
+  <IfModule mod_negotiation.c>
+    AddHandler type-map .var
+    <IfModule mod_rewrite.c>
+      RewriteEngine On
+      # Only homepages have generated variants. Native negotiation handles q=0
+      # and relative HTML/Markdown preferences; ordinary browsers stay static.
+      RewriteCond %{REQUEST_METHOD} ^(?:GET|HEAD)$
+      RewriteCond %{HTTP:Accept} text/markdown [NC]
+      RewriteRule ^(en/)?$ $1index.var [END]
+    </IfModule>
+  </IfModule>
+</IfModule>

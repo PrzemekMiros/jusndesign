@@ -26,6 +26,9 @@ jobs:
       - name: 🏗️ Build Eleventy site
         run: npm run build
 
+      - name: Verify AEO discovery artifacts
+        run: node scripts/check-discovery.cjs
+
       - name: 🚀 Deploy to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
